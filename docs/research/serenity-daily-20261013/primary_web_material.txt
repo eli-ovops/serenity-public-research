@@ -1,0 +1,231 @@
+Internal Error ()
+citeturn386view0 [wordlim: 200] Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1039399/000103939926000037/form-20261006.htm","lineno":null}); Total lines: 1
+L0: URL https://www.sec.gov/Archives/edgar/data/1039399/000103939926000037/form-20261006.htm is not accessible via this tool.
+--------------------------------------------------------------------------------
+News Archive | NVIDIA Newsroom (https://nvidianews.nvidia.com/news)
+citeturn386view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn385view0","lineno":85}); Total lines: 209
+L0: PLATFORMS
+L1: 
+L2: other links
+L3: 
+L4:   * cite0†Developers†developer.nvidia.com L5:   * cite1†Industries†www.nvidia.com L6:   * cite2†Shop†www.nvidia.com L7:   * cite3†Drivers†www.nvidia.com L8:   * cite4†Support†www.nvidia.com L9:   * cite5†About NVIDIA†www.nvidia.com L10: 
+L11:   * cite6†View All Products†www.nvidia.com L12:   * cite7†GPU TECHNOLOGY CONFERENCE†www.nvidia.com L13:   * cite8†NVIDIA Blog†blogs.nvidia.com L14:   * cite9†Community†www.nvidia.com L15:   * cite10†Careers†www.nvidia.com L16:   * cite11†TECHNOLOGIES†www.nvidia.com L17: 
+L18: cite12†Newsroom L19: 
+L20: cite13†NVIDIA in Brief L21: 
+L22: cite14†Exec Bios L23: cite8†NVIDIA Blog†blogs.nvidia.com L24: 
+L25: cite15†Podcast†blogs.nvidia.com L26: 
+L27: cite16†Media Assets L28: 
+L29: cite17†In the News L30: 
+L31: cite18†Press Contacts L32: 
+L33: cite19†Online Press Kits L34: 
+L35:   * cite13†NVIDIA in Brief L36:   * cite14†Exec Bios L37:   * cite8†NVIDIA Blog†blogs.nvidia.com L38:   * cite15†Podcast†blogs.nvidia.com L39:   * cite16†Media Assets L40:   * cite17†In the News L41:   * cite18†Press Contacts L42:   * cite19†Online Press Kits L43: # News Archive
+L44: 
+L45: [Input: Search News]
+L46: 
+L47: Sort By:
+L48: 
+L49: [Input]Press releases
+L50: 
+L51: [Input]Blog
+L52: 
+L53: Year: [Select]
+L54: 
+L55: cite20†Image†iprsoftwaremedia.com L56: 
+L57: October 13, 2026
+L58: ### cite21†All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark†blogs.nvidia.com L59: 
+L60: NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX ...
+L61: 
+L62: cite21†Read Blog†blogs.nvidia.com L63: 
+L64: cite22†Image†iprsoftwaremedia.com L65: 
+L66: October 12, 2026
+L67: ### cite23†NVIDIA Lands in Europe for GTC Berlin†blogs.nvidia.com L68: 
+L69: NVIDIA is in Europe, showcasing the future of technology together with the region’s developers, researchers and industry leaders.
+L70: 
+L71: cite23†Read Blog†blogs.nvidia.com L72: 
+L73: cite24†Image†iprsoftwaremedia.com L74: 
+L75: October 12, 2026
+L76: ### cite25†From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA†blogs.nvidia.com L77: 
+L78: Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress ...
+L79: 
+L80: cite25†Read Blog†blogs.nvidia.com L81: 
+L82: cite26†Image†iprsoftwaremedia.com L83: 
+L84: October 12, 2026
+L85: ### cite27†OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide†blogs.nvidia.com L86: 
+L87: As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global ...
+L88: 
+L89: cite27†Read Blog†blogs.nvidia.com L90: 
+L91: cite28†Image†iprsoftwaremedia.com L92: 
+L93: October 12, 2026
+L94: ### cite29†NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories L95: 
+L96: NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable ...
+L97: 
+L98: cite29†Read Press Release L99: 
+L100: cite30†Image†iprsoftwaremedia.com L101: 
+L102: October 08, 2026
+L103: ### cite31†Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents†blogs.nvidia.com L104: 
+L105: Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help ...
+L106: 
+L107: cite31†Read Blog†blogs.nvidia.com L108: 
+L109: cite32†Image†iprsoftwaremedia.com L110: 
+L111: October 08, 2026
+L112: ### cite33†NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years L113: 
+L114: NVIDIA today announced commitments valued at $1 billion to build out the United States’ capacity for super intelligence research and development in fields critical for U.S. leadership, including quantum computing, healthcare and energy security.
+L115: 
+L116: cite33†Read Press Release L117: 
+L118: cite34†Image†iprsoftwaremedia.com L119: 
+L120: October 08, 2026
+L121: ### cite35†Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW†blogs.nvidia.com L122: 
+L123: Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the action is also coming: Fire TV ...
+L124: 
+L125: cite35†Read Blog†blogs.nvidia.com L126: 
+L127: cite36†Image†iprsoftwaremedia.com L128: 
+L129: October 07, 2026
+L130: ### cite37†NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents†blogs.nvidia.com L131: 
+L132: At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now ...
+L133: 
+L134: cite37†Read Blog†blogs.nvidia.com L135: 
+L136: cite38†Image†iprsoftwaremedia.com L137: 
+L138: October 06, 2026
+L139: ### cite39†Why Telecom Operators Are Building Their AI Strategy on Open Models†blogs.nvidia.com L140: 
+L141: Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous ...
+L142: 
+L143: cite39†Read Blog†blogs.nvidia.com L144: 
+L145:   * cite40†1 L146:   * cite41†2 L147:   * cite42†3 L148:   * cite43†4 L149:   * cite44†5 L150:   * cite45†6 L151:   * ... cite46†509 L152:   * cite41†Next L153:   * cite46†Last L154: ## Media Contacts
+L155: 
+L156: Global contacts for media inquiries.
+L157: 
+L158: cite18†All Contacts L159: ## Stay Informed
+L160: 
+L161: Newsroom updates delivered to your inbox.
+L162: 
+L163: cite47†Subscribe L164: 
+L165: Corporate Information
+L166: 
+L167:   * cite5†About NVIDIA†www.nvidia.com L168:   * cite48†Corporate Overview†www.nvidia.com L169:   * cite11†Technologies†www.nvidia.com L170:   * cite49†NVIDIA Research†www.nvidia.com L171:   * cite50†Investors†investor.nvidia.com L172:   * cite51†Social Responsibility†www.nvidia.com L173:   * cite52†NVIDIA Foundation†www.nvidia.com L174: 
+L175: Get Involved
+L176:   * cite53†Forums†www.nvidia.com L177:   * cite10†Careers†www.nvidia.com L178:   * cite0†Developer Home†developer.nvidia.com L179:   * cite54†Join the Developer Program†developer.nvidia.com L180:   * cite55†NVIDIA Partner Network†www.nvidia.com L181:   * cite56†NVIDIA Inception†www.nvidia.com L182:   * cite57†Resources for Venture Capitalists†www.nvidia.com L183:   * cite58†Venture Capital (NVentures)†www.nventures.ai L184:   * cite59†Technical Training†www.nvidia.com L185:   * cite60†Training for IT Professionals†academy.nvidia.com L186:   * cite61†Professional Services for Data Science†www.nvidia.com L187: News & Events
+L188: 
+L189:   * cite12†Newsroom L190:   * cite8†NVIDIA Blog†blogs.nvidia.com L191:   * cite62†NVIDIA Technical Blog†developer.nvidia.com L192:   * cite63†Webinars†www.nvidia.com L193:   * cite64†Stay Informed†www.nvidia.com L194:   * cite65†Events Calendar†www.nvidia.com L195:   * cite7†NVIDIA GTC†www.nvidia.com L196:   * cite66†NVIDIA On-Demand†www.nvidia.com L197: 
+L198: cite67†USA - United States†www.nvidia.com L199:   * cite68†Privacy Policy†www.nvidia.com L200:   * cite69†Your Privacy Choices†www.nvidia.com L201:   * [Button: Manage Cookie Settings]
+L202:   * cite70†Terms of Service†www.nvidia.com L203:   * cite71†Accessibility†www.nvidia.com L204:   * cite72†Corporate Policies†www.nvidia.com L205:   * cite73†Product Security†www.nvidia.com L206:   * cite74†Contact†www.nvidia.com L207: 
+L208: Copyright © 2026 NVIDIA Corporation
+--------------------------------------------------------------------------------
+Press Releases | FormFactor, Inc. (https://investors.formfactor.com/press-releases)
+citeturn386view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn384view6","lineno":8}); Total lines: 77
+L0: cite0†Image†www.visionary-operation365.com L1: 
+L2: [Input]
+L3: 
+L4: cite1†Products†www.formfactor.com cite2†Applications†www.formfactor.com cite3†Industries†www.formfactor.com cite4†Sales & Service†www.formfactor.com cite5†Company†www.formfactor.com L5: 
+L6: cite1†Products†www.formfactor.com cite2†Applications†www.formfactor.com cite3†Industries†www.formfactor.com cite4†Sales & Service†www.formfactor.com cite5†Company†www.formfactor.com L7: # Press Releases
+L8: 
+L9: [Input: Keyword(s)]
+L10: 
+L11: [Input]
+L12: 
+L13: Year [Select]
+L14: 
+L15: [Input] [Input] [Input] [Input]
+L16: 
+L17: Oct 12, 2026
+L18: 
+L19: cite6†FormFactor and Teradyne Announce Strategic Collaboration to Accelerate Next-Generation Semiconductor Testing L20: Companies to combine leadership in probe, interface, and test technologies to accelerate AI and high-performance compute deployments LIVERMORE, Calif., Oct. 12, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM), a leading provider of semiconductor test and measurement technologies, and
+L21: 
+L22: Oct 07, 2026
+L23: 
+L24: cite7†FormFactor to Announce Third Quarter 2026 Financial Results on October 28th L25: LIVERMORE, Calif., Oct. 07, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM) will report financial results for its 2026 fiscal third quarter on Wednesday, October 28 th, 2026, at 1:25 p.m. Pacific Time. The public is invited to listen to a live webcast of FormFactor's conference call on the
+L26: 
+L27: Sep 30, 2026
+L28: 
+L29: cite8†FormFactor Announces Participation in 18th Annual CEO Investor Summit 2026 L30: LIVERMORE, Calif., Sept. 30, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (NASDAQ: FORM), today announced management’s participation in the 18th Annual CEO Investor Summit 2026, being held Tuesday, October 13th at the St. Regis Hotel in San Francisco, California.
+L31: 
+L32: Aug 12, 2026
+L33: 
+L34: cite9†FormFactor Announces Participation at Upcoming Conferences L35: LIVERMORE, Calif., Aug. 12, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM) is pleased to announce its participation in the following investor conferences: 2026 Jefferies Semiconductor, IT Hardware & Communications Technology Conference Location: Four Seasons Hotel Chicago Date: August 25,
+L36: 
+L37: Jul 29, 2026
+L38: 
+L39: cite10†FormFactor, Inc. Reports 2026 Second Quarter Results L40: Delivers Record Revenue, Gross Profit and Earnings Per Share; Sees Strong Demand in DRAM, Foundry & Logic and Systems LIVERMORE, Calif., July 29, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM) today announced its financial results for the second quarter of fiscal 2026 ended June 27, 2026.
+L41: 
+L42: Jul 28, 2026
+L43: 
+L44: cite11†FormFactor and Keystone Microtech Announce Strategic Partnership Supporting Next-Generation Semiconductor Technologies L45: Partnership expands semiconductor probe card manufacturing and test capabilities to support advanced semiconductor applications LIVERMORE, Calif. and ZHUBEI, Taiwan, July 28, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM), a leading provider of semiconductor test and measurement
+L46: 
+L47: Jul 08, 2026
+L48: 
+L49: cite12†FormFactor to Announce Second Quarter 2026 Financial Results on July 29th L50: LIVERMORE, Calif., July 08, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM) will report financial results for its 2026 fiscal second quarter on Wednesday, July 29 th, 2026, at 1:25 p.m. Pacific Time. The public is invited to listen to a live webcast of FormFactor's conference call on the
+L51: 
+L52: Jun 24, 2026
+L53: 
+L54: cite13†FormFactor, Inc. Added to Membership of US Large-Cap Russell US 1000® Index L55: LIVERMORE, Calif., June 24, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM) announced today that it was added as a member of the US large-cap Russell 1000 ® Index, effective when the US market opens on June 29 th, as part of the 2026 Russell indexes reconstitution.
+L56: 
+L57: May 14, 2026
+L58: 
+L59: cite14†FormFactor Announces Participation at Upcoming Conferences L60: LIVERMORE, Calif., May 14, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM) is pleased to announce its participation in the following investor conferences: B. Riley 26 th Annual Institutional Investor Conference Location: Ritz-Carlton, Marina Del Rey Date: May 20 th, 2026 Format: 1:1’s Only
+L61: 
+L62: May 13, 2026
+L63: 
+L64: cite15†FormFactor Sets the Global Standard as #1 in Test Subsystems and Focused Chip Making Equipment L65: Marks 13 Consecutive Years of Customer Recognition in Test Subsystems LIVERMORE, Calif., May 13, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (NASDAQ: FORM), a leading semiconductor test and measurement supplier, announced that it was ranked the global #1 supplier in both Test Subsystems and Focused
+L66: ### Stock Quote
+L67: 
+L68:  |
+L69: 
+L70: Day High:
+L71: Day Low:
+L72: Volume:
+L73: 
+L74: 10/07/26 4:03 PM EDT
+L75: 
+L76: Minimum 15 minutes delayed. Source: LSEG
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media)
+citeturn386view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn384view8","lineno":15}); Total lines: 89
+L0: News & Media
+L1: 
+L2: # Stay Updated with the Latest News & Media Coverage
+L3: ## Press Releases
+L4: 
+L5: POET Technologies to Exhibit at CIOE 2026, Present High-Power Laser Light Sources for AI Interconnects at IFOC To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL]) cite0†POET Technologies to Exhibit at CIOE 2026, Present High-Power Laser Light Sources for AI Interconnects at IFOC September 4, 2026 Read Article L6: POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])cite1†POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth August 13, 2026 Read Article L7: POET Technologies Appoints Dr. Bardia Pezeshki and Jean F. Rankin to Board of Directors as Long-serving Director, Jean-Louis Malinge Resigns To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])cite2†POET Technologies Appoints Dr. Bardia Pezeshki and Jean F. Rankin to Board of Directors as Long-serving Director, Jean-Louis Malinge Resigns August 3, 2026 Read Article L8: POET Technologies Recaps Highlights of CEO’s Update on Commercial Activities and Provides Results of 2026 AGM To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])cite3†POET Technologies Recaps Highlights of CEO’s Update on Commercial Activities and Provides Results of 2026 AGM June 30, 2026 Read Article L9: POET Technologies Announces Closing of US$400 Million Investment To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])cite4†POET Technologies Announces Closing of US$400 Million Investment May 18, 2026 Read Article L10: POET Technologies Secures Financing of US$400 Million in a Registered Direct Offering of Common Shares and Warrant To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])cite5†POET Technologies Secures Financing of US$400 Million in a Registered Direct Offering of Common Shares and Warrant May 15, 2026 Read Article L11: POET Technologies and Lumilens Advance Wafer-Level Photonic Integration for Next-Generation AI Optical Networks To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])cite6†POET Technologies and Lumilens Advance Wafer-Level Photonic Integration for Next-Generation AI Optical Networks May 15, 2026 Read Article L12: POET Technologies Reports First Quarter 2026 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])cite7†POET Technologies Reports First Quarter 2026 Financial Results May 14, 2026 Read Article L13: ## The POET Blog
+L14: 
+L15: cite8†Why Optical Interconnects Are the Next Big Thing in AI Chips October 6, 2026 Read Post L16: 
+L17: cite9†Why POET's Optical Interposer Is Built for the AI Cluster Era: From 800G to 3.2T on a Single Platform July 29, 2026 Read Post L18: 
+L19: cite10†FAQ: Production Orders, Cash Position, and the Path to Greater Revenue July 14, 2026 Read Post L20: 
+L21: cite11†Why Advanced Packaging Designs are Crucial for AI Manufacturers April 21, 2026 Read Post L22: cite12†The Laser Problem in AI Hardware and How POET Can Solve It April 1, 2026 Read Post L23: 
+L24: cite13†AI Data Center Photonics: Why Light Is Replacing Copper March 4, 2026 Read Post L25: 
+L26: cite14†POET Technologies Redefines Optical Integration with Its Hybrid-Integrated 1.6T 2xFR4 Transmitter PIC December 8, 2025 Read Post L27: 
+L28: cite15†Letter to Shareholders from Dr. Suresh Venkatesan February 11, 2025 Read Post L29: ## POET In The News
+L30: 
+L31: cite16†StockTwits CFO Thomas Mika Discusses POET's Market Opportunities April 22, 2026 Learn More L32: 
+L33: cite17†Forbes Is POET Technologies Stock An Under The Radar AI Play?October 20, 2025 Learn More L34: 
+L35: cite18†Sherwood News Dr. Suresh Venkatesan on the “sweet spot” for the optical communications company in the AI boom October 16, 2025 Learn More L36: 
+L37: cite19†Semiconductor Digest 2025 AI Trends to Watch — featuring POET January 10, 2025 Learn More L38: cite20†Yahoo! Finance POET Driving the AI Revolution with Cutting-Edge Optical Solutions and Strategic Partnerships December 4, 2024 Learn More L39: 
+L40: cite21†Silicon Semiconductor Interview with Dr. Suresh Venkatesan of POET September 6, 2024 Learn More L41: 
+L42: cite22†Lightwave Online POET, and Luxshare Tech jointly target AI opportunities August 15, 2024 Learn More L43: 
+L44: cite23†The Wall Street Transcript Interview with the Chairman and CEO: POET Technologies Inc. (NASDAQ:POET)May 23, 2024 Learn More L45: Stay informed, join our mailing list.
+L46: 
+L47: Subscribe to our newsletter for the latest updates
+L48: 
+L49: cite24†Newsletter†link.financialgambits.com L50: 
+L51: Company
+L52: 
+L53: cite25†Home cite26†About Us cite27†Our Products cite28†Our Technology L54: 
+L55: News & Updates
+L56: 
+L57: cite29†News cite30†Blog cite30†Media cite31†Contact Us L58: 
+L59: Links
+L60: 
+L61: cite32†LinkedIn†www.linkedin.com cite33†YouTube†www.youtube.com cite34†Twitter/X†twitter.com L62: 
+L63: cite35†SEDAR†www.sedarplus.ca L64: 
+L65: cite36†EDGAR†www.sec.gov L66: 
+L67: Products
+L68: 
+L69: cite37†1.6T 2xFR4 and DR8 Tx and Rx Optical Engines L70: 
+L71: cite38†800G 2xFR4 Rx OE L72: cite39†400G FR4 Rx OE L73: 
+L74: cite40†POET Legacy L75: 
+L76: cite41†POET ONE L77: 
+L78: cite42†POET Infinity L79: 
+L80: cite43†POET LightBar L81: 
+L82: cite44†POET Starlight L83: 
+L84: cite45†POET Wavelight L85: 
+L86: cite25†POET Technologies L87: 
+L88: ©{dynamic-year} POET Technologies Inc. | All Rights Reserved
+

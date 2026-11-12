@@ -1,0 +1,3555 @@
+ 
+~1~ 
+ 
+ 
+ 
+ELITE SEMICONDUCTOR 
+MICROELECTRONICS TECHNOLOGY INC. 
+PARENT COMPANY ONLY FINANCIAL 
+STATEMENTS AND INDEPENDENT AUDITORS’ 
+REPORT 
+DECEMBER 31, 2025 AND 2024 
+------------------------------------------------------------------------------------------------------------------------------------ 
+For the convenience of readers and for information purpose only, the auditors’ report and the accompanying 
+financial statements have been translated into English from the original Chinese version prepared and used in 
+the Republic of China. In the event of any discrepancy between the English version and the original Chinese 
+version or any differences in the interpretation of the two versions, the Chinese -language auditors’ report and 
+financial statements shall prevail. 
+ 
+ 
+~2~ 
+ 
+INDEPENDENT AUDITORS’ REPORT TRANSLATED FROM CHINESE 
+ 
+To the Board of Directors and Shareholders of Elite Semiconductor Microelectronics  
+Technology Inc.  
+ 
+Opinion 
+We have audited the accompanying parent company only balance sheets of Elite 
+Semiconductor Microelectronics Technology Inc. (the "Company") as at December 31,  
+2025 and 2024, and the related parent company only statements of comprehensive income, 
+of changes in equity and of  cash flows for the years then ended, and notes to the parent 
+company only financial statements, including a summary of material accounting policies. 
+In our opinion, the accompanying parent company only financial statements present 
+fairly, in all material respects, the parent company only financial position of the Company 
+as at December 31,  2025 and 2024, and its financial performance and its cash flows for 
+the years then ended in  accordance with the Regulations Governing the Preparation of 
+Financial Reports by Securities Issuers. 
+ 
+Basis for opinion 
+We conducted our audits in accordance with the Regulations Governing Financial 
+Statement Audit and  Attestation Engagements of Certified Public Accountants and 
+Standards on Auditing of the Republic of China. Our responsibilities under those standards 
+are further described in the Auditor’s responsibilities for the audit of the parent company 
+only financial statements section of our report.  We are independent of the Company in 
+accordance with the Norm of Professional Ethics for Certified Public Accountants of the 
+Republic of China, and we have fulfilled our other ethical responsibilities in accordance 
+with these requirements. We believe that the audit evidence we have obtained is sufficient 
+and appropriate to provide a basis for our opinion. 
+  
+ 
+~3~ 
+Key audit matters 
+Key audit matters are those matters that, in our professional judgment, were of most 
+significance in our audit of the Company’s 2025 parent company only financial statements. 
+These matters were addressed in the context of our audit of the parent company only 
+financial statements as a whole and, in forming our opinion thereon, we do not provide a 
+separate opinion on these matters.  
+Key audit matters for the Company’s 2025 parent company only financial statements are 
+stated as follows:  
+ 
+Allowance for inventory valuation losses 
+Description 
+Refer to Note 4(13) for accounting policies on inventory valuation, Note 5(2) for 
+uncertainty of accounting estimates and assumptions in relation to inventory valuation, 
+and Note 6(5) for details of inventories. As at December 31, 202 5, the Company’s 
+inventories and allowance for inventory valuation losses amounted to NT$ 7,128,684 
+thousand and NT$48,154 thousand, respectively. 
+The Company  is primarily engaged in researching, developing, manufacturing , and 
+selling integrated circuits. The Company recognises inventories at the lower of cost and 
+net realisable value. An allowance for inventory valuation losses is provided for those 
+inventories aged over a certain period and those individually identified as obsolete or 
+damaged. As the estimation of ne t realisable value for individually obsolete or damaged 
+inventories is subject to management ’s judgment, we considered the allowance fo r 
+inventory valuation losses a key audit matter. 
+  
+ 
+~4~ 
+How our audit addressed the matter 
+We have performed primary audit procedures for the above matter, including assessing 
+the reasonability of the policies and procedures adopted to provide for inventory losses 
+based on our understanding of the Company ’s operations and industry , validating the 
+appropriateness of relevant information in the inventory aging report utilised by the 
+Company, and evaluating and testing the reasonability of estimation of net realisable value. 
+We then evaluated the reasonableness  of the allowance for inventory valuation losses  
+provided by the Company. 
+ 
+Responsibilities of management and those charged with governance for the 
+parent company only financial statements 
+Management is responsible for the preparation and fair presentation of the parent 
+company only financial statements in accordance with the Regulations Governing the 
+Preparation of Financial Reports by Securities Issuers, and for such internal control as 
+management determines is necessary to enable the preparation of parent company only 
+financial statements that are free from material misstatement, whether due to fraud or error. 
+In preparing the parent company only financial statements, management is responsible 
+for assessing the Company ’s ability to continue as a going concern, disclosing, as 
+applicable, matters related to going concern and using the going concern basis of 
+accounting unless management either intends to liquidate the Company  or to cease 
+operations, or has no realistic alternative but to do so. 
+Those charged with governance, including the audit committee, are responsible for 
+overseeing the Company’s financial reporting process. 
+  
+ 
+~5~ 
+Auditor’s responsibilities for the audit of the parent company only financial 
+statements 
+Our objectives are to obtain reasonable assurance about whether the parent company 
+only financial statements as a whole are free from material misstatement, whether due to 
+fraud or error, and to issue an auditor ’s report that includes our opinion. Reasonable 
+assurance is a high level of assurance, but is not a guarantee that an audit conducted in 
+accordance with the Standards on Auditing of the Republic of China will always detect a 
+material misstatement when it exists. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be expected 
+to influence the economic decisions of users taken on the basis of these parent company 
+only financial statements. 
+As part of an audit in accordance with the Standards on Auditing of the Republic of 
+China, we exercise professional judgment and professional skepticism throughout the 
+audit. We also: 
+A. Identify and assess the risks of material misstatement of the parent company only 
+financial statements, whether due to fraud or error, design and perform audit procedures 
+responsive to those risks, and obtain audit evidence that is sufficient and appropriate to 
+provide a basis for our opinion. The risk of not detecting a material misstatement 
+resulting from fraud is higher than for one resulting from error, as fraud may involve 
+collusion, forgery, intentional omissions, misrepresentations, or the override of internal 
+control. 
+B. Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of 
+expressing an opinion on the effectiveness of the Company’s internal control. 
+C. Evaluate the appropriateness of accounting policies used and the reasonableness of 
+accounting estimates and related disclosures made by management. 
+  
+ 
+~6~ 
+D. Conclude on the appropriateness of management ’s use of the going concern basis of 
+accounting and, based on the audit evidence obtained, whether a material uncertainty 
+exists related to events or conditions that may cast significant doubt on the Company’s 
+ability to continue as a going concern. If we conclude that a material uncertainty exists, 
+we are required to draw attention in our auditor ’s report to the related disclosures in 
+the parent company only financial statements or, if such disclosures are inadequate, to 
+modify our opinion. Our conclusions are based on the audit evidence obtained up to 
+the date of our auditor ’s report. However, future events or conditions may cause the 
+Company to cease to continue as a going concern. 
+E. Evaluate the overall presentation, structure and content of the parent company only 
+financial statements, including the disclosures, and whether the parent company only 
+financial statements represent the underlying transactions and events in a manner that 
+achieves fair presentation. 
+F. Obtain sufficient appropriate audit evidence regarding the financial information of the 
+entities or business activities within the Company to express an opinion on the parent 
+company only financial statements. We are responsible for the direction, supervision 
+and performance of parent company only audit. We remain solely responsible for our 
+audit opinion. 
+ 
+We communicate with those charged with governance regarding, among other matters, 
+the planned scope and timing of the audit and significant audit findings, including any 
+significant deficiencies in internal control that we identify during our audit. 
+ 
+We also provide those charged with governance with a statement that we have 
+complied with relevant ethical requirements regarding independence, and to communicate 
+with them all relationships and other matters that may reasonably be thought to bear on 
+our independence, and where applicable, related safeguards. 
+  
+ 
+~7~ 
+From the matters communicated with those charged with governance, we determine 
+those matters that were of most significance in the audit of the parent company only 
+financial statements of the current period and are therefore the key audit matters. We 
+describe these matters  in our auditor ’s report unless law or regulation precludes public 
+disclosure about the matter or  when, in extremely rare circumstances, we determine that 
+a matter should not be communicated  in our report because the adverse consequences o f 
+doing so would reasonably be expected to  outweigh the public interest benefits of such 
+communication. 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+Shu-Chien Pai  Liu, Chien-Yu 
+For and on behalf of PricewaterhouseCoopers, Taiwan 
+February 26, 2026 
+ 
+------------------------------------------------------------------------------------------------------------------------------- 
+The accompanying parent company only  financial statements are not intended to present the financial 
+position and results of operations and cash flows in accordance with accounting principles generally 
+accepted in countries and jurisdictions other than the Republic of China. The standards, pro cedures and 
+practices in the Republic of China governing the audit of such financial statements may differ from those 
+generally accepted in countries and jurisdictions other than the Republic of China.  Accordingly, the 
+accompanying parent company only financial statements and independent auditors’ report are not intended 
+for use by those who are not informed about the accounting principles or auditing standards generally 
+accepted in the Republic of China, and their applications in practice. 
+As the financial statements are the responsibility of the management, PricewaterhouseCoopers cannot 
+accept any liability for the use of, or reliance on, the English translation or for any errors or 
+misunderstandings that may derive from the translation.  
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+PARENT COMPANY ONLY BALANCE SHEETS 
+DECEMBER 31, 2025 AND 2024 
+(EXPRESSED IN THOUSANDS OF NEW TAIWAN DOLLARS) 
+ 
+~8~ 
+      December 31, 2025   December 31, 2024  
+ Assets  Notes  AMOUNT   %   AMOUNT   %  
+ Current assets                 
+1100 Cash and cash equivalents  6(1)  $ 4,118,604   24   $ 4,057,284   23  
+1110 Financial assets at fair value through 
+profit or loss - current 
+ 6(2) 
+  2,700   -    100   -  
+1150 Notes receivable, net     -   -    127   -  
+1170 Accounts receivable, net  6(4)   2,123,043   13    1,381,723   8  
+1200 Other receivables     93,612   1    96,007   -  
+1210 Other receivables-related parties  7(2)   20,067   -    19,622   -  
+1220 Current income tax assets     19,286   -    23,402   -  
+130X Inventories  6(5)   7,080,530   42    7,932,463   45  
+1410 Prepayments     344,627   2    897,441   5  
+1470 Other current assets     348   -    263   -  
+11XX Total current assets     13,802,817   82    14,408,432   81  
+ Non-current assets                 
+1517 Financial assets at fair value through 
+other comprehensive income - non-
+current 
+ 6(3) 
+  -   -    9,590   -  
+1550 Investments accounted for using 
+equity method 
+ 6(6) 
+  790,517   5    822,440   5  
+1600 Property, plant and equipment  6(7) and 8   1,804,955   11    1,773,849   10  
+1755 Right-of-use assets  6(8)   97,690   1    91,463   -  
+1760 Investment property, net  6(9)   12,852   -    13,822   -  
+1780 Intangible assets  6(10)   57,904   -    162,049   1  
+1840 Deferred income tax assets  6(27)   94,755   -    123,032   1  
+1900 Other non-current assets  6(11) and 8   191,070   1    332,745   2  
+15XX Total non-current assets     3,049,743   18    3,328,990   19  
+1XXX Total assets    $ 16,852,560   100   $ 17,737,422   100  
+ 
+(Continued)
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+PARENT COMPANY ONLY BALANCE SHEETS 
+DECEMBER 31, 2025 AND 2024 
+(EXPRESSED IN THOUSANDS OF NEW TAIWAN DOLLARS) 
+ 
+The accompanying notes are an integral part of these parent company only financial statements. 
+ 
+~9~ 
+     December 31, 2025   December 31, 2024  
+ Liabilities and Equity  Notes  AMOUNT   %   AMOUNT   %  
+ Current liabilities                 
+2100 Short-term borrowings  6(12)  $ 1,270,000   8   $ 1,600,000   9  
+2130 Contract liabilities - current  6(20)   21,323   -    16,354   -  
+2150 Notes payable     2,529   -    -   -  
+2170 Accounts payable     2,230,747   13    2,073,109   12  
+2180 Accounts payable - related parties  7(2)   17,622   -    265,413   1  
+2200 Other payables  6(14) and 7(2)   642,337   4    808,171   5  
+2280 Lease liabilities - current     17,014   -    13,882   -  
+2320 Long-term liabilities, current portion  6(13)(15)   1,267,795   8    231,200   1  
+2399 Other current liabilities, others     8,624   -    8,226   -  
+21XX Total current liabilities     5,477,991   33    5,016,355   28  
+ Non-current liabilities                 
+2530 Bonds payable  6(13)   -   -    962,721   5  
+2540 Long-term borrowings  6(15)   764,883   5    1,049,700   6  
+2550 Provisions for liabilities -non-current     29,095   -    21,781   -  
+2570 Deferred income tax liabilities  6(27)   21,981   -    28,022   -  
+2580 Lease liabilities - non-current     82,130   -    79,490   1  
+2600 Other non-current liabilities     189,418   1    193,272   1  
+25XX Total non-current liabilities     1,087,507   6    2,334,986   13  
+2XXX Total Liabilities     6,565,498   39    7,351,341   41  
+ Equity                 
+ Share capital  6(17)               
+3110 Common stock     2,861,722   17    2,861,722   16  
+ Capital surplus  6(18)               
+3200 Capital surplus     510,673   3    503,985   3  
+ Retained earnings  6(19)               
+3310 Legal reserve     2,169,006   13    2,118,375   12  
+3320 Special reserve     27,777   -    36,380   -  
+3350 Unappropriated retained earnings     4,950,226   29    5,033,456   29  
+ Other equity interest                 
+3400 Other equity interest   (  69,220 )  -  (  27,776 )  -  
+3500 Treasury shares  6(17) (  163,122 ) ( 1 ) (  140,061 ) ( 1 ) 
+3XXX Total equity     10,287,062   61    10,386,081   59  
+ Significant contingent liabilities and 
+unrecognised contract commitments 
+ 9 
+              
+ Significant events after the balance 
+sheet date 
+ 11 
+              
+3X2X Total liabilities and equity    $ 16,852,560   100   $ 17,737,422   100   
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC.  
+PARENT COMPANY ONLY STATEMENTS OF COMPREHENSIVE INCOME 
+YEARS ENDED DECEMBER 31, 2025 AND 2024  
+(EXPRESSED IN THOUSANDS OF NEW TAIW AN DOLLARS, EXCEPT FOR EARNINGS (LOSSES) PER SHARE) 
+ 
+The accompanying notes are an integral part of these parent company only financial statements.  
+ 
+~10~ 
+      Year ended December 31  
+     2025   2024  
+Items  Notes  AMOUNT   %   AMOUNT   %  
+4000 Operating revenue  6(20)  $ 14,575,272   100   $ 13,485,168   100  
+5000 Operating costs  6(5)(25)(26) and 7(2) (  12,157,820 ) ( 84 ) (  11,925,360 ) ( 88 ) 
+5950 Gross profit     2,417,452   16    1,559,808   12  
+ Operating expenses  6(25)(26) and 7(2)               
+6100 Selling expenses   (  324,783 ) ( 2 ) (  305,088 ) ( 2 ) 
+6200 General and administrative expenses    (  279,928 ) ( 2 ) (  277,922 ) ( 2 ) 
+6300 Research and development expenses    (  1,542,638 ) ( 11 ) (  1,451,487 ) ( 11 ) 
+6000 Total operating expenses   (  2,147,349 ) ( 15 ) (  2,034,497 ) ( 15 ) 
+6900 Operating profit (loss)     270,103   1  (  474,689 ) ( 3 ) 
+ Non-operating income and expenses                 
+7100 Interest income  6(21)   84,172   1    108,717   1  
+7010 Other income  6(22) and 7(2)   82,475   1    83,160   1  
+7020 Other gains and losses  6(23) (  108,898 ) ( 1 )   883,456   6  
+7050 Finance costs  6(24) (  82,672 ) ( 1 ) (  71,109 ) ( 1 ) 
+7070 Share of profit of associates and joint 
+ventures accounted for using equity 
+method 
+ 6(6) 
+  22,660   -  (  1,210 )  -  
+7000 Total non-operating income and 
+expenses 
+  
+(  2,263 )  -    1,003,014   7  
+7900 Profit before income tax     267,840   1    528,325   4  
+7950 Income tax expense  6(27) (  22,715 )  -  (  23,210 )  -  
+8200 Profit for the year    $ 245,125   1   $ 505,115   4  
+ Components of other comprehensive 
+income (loss)-net 
+  
+              
+ Other comprehensive income (loss) 
+components that will not be reclassified to 
+profit or loss 
+  
+              
+8311 Remeasurement of defined benefit plans   6(16) ( $ 155 )  -   $ 1,198   -  
+8316 Unrealised (losses) gains from 
+investments in equity instruments 
+measured at fair value through other 
+comprehensive income 
+ 6(3) 
+(  9,590 )  -  (  1,870 )  -  
+8330 Share of other comprehensive income of 
+associates and joint ventures accounted 
+for using equity method, components of 
+other comprehensive income that will not 
+be reclassified to profit or loss 
+  
+(  29,982 )  -  (  1,870 )  -  
+ Other comprehensive income (loss) 
+components that will be reclassified to 
+profit or loss 
+  
+              
+8361 Financial statements translation 
+differences of foreign operations 
+  
+(  2,217 )  -    8,818   -  
+8380 Share of other comprehensive income of 
+associates and joint ventures accounted 
+for using equity method, components of 
+other comprehensive income that will be 
+reclassified to profit or loss 
+  
+  345   -    3,526   -  
+8300 Other comprehensive (loss) income for 
+the year-net 
+  
+( $ 41,599 )  -   $ 9,802   -  
+8500 Total comprehensive income for the year    $ 203,526   1   $ 514,917   4  
+            
+ Earnings per share (in dollars)   6(28)         
+9750 Basic earnings per share    $ 0.87   $ 1.80  
+9850 Diluted earnings per share    $ 0.87   $ 1.79   
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+PARENT COMPANY ONLY STATEMENTS OF CHANGES IN EQUITY 
+YEARS ENDED DECEMBER 31, 2025 AND 2024 
+(EXPRESSED IN THOUSANDS OF NEW TAIWAN DOLLARS) 
+ 
+       Retained earnings  Other equity interest     
+ 
+Notes 
+ 
+Common stock 
+ 
+Capital surplus 
+ 
+Legal reserve 
+ 
+Special reserve 
+ 
+Unappropriated 
+retained earnings 
+ 
+Financial 
+statements 
+translation 
+differences of 
+foreign operations 
+ Unrealised gains 
+(losses) from 
+financial assets 
+measured at fair 
+value through 
+other 
+comprehensive 
+income 
+ 
+Treasury shares 
+ 
+Total equity 
+ 
+  
+The accompanying notes are an integral part of these parent company only financial statements.   ~11~ 
+2024                                      
+Balance at January 1, 2024    $ 2,861,711    $ 487,274    $ 2,118,375    $ 46,310    $ 4,688,916    $ -   ( $ 36,380 )  ( $ 144,468 )   $ 10,021,738  
+  Profit for the year    -    -    -    -    505,115    -    -    -    505,115  
+  Other comprehensive income (loss) for the year    -    -    -    -    1,198    12,344   ( 3,740 )   -    9,802  
+Total comprehensive income (loss) for the year    -    -    -    -    506,313    12,344   ( 3,740 )   -    514,917  
+Distribution of 2023 earnings: 6(19)                                     
+  Cash dividends of ordinary shares    -    -    -    -   ( 171,703 )   -    -    -   ( 171,703 ) 
+  Reversal of special reserve    -    -    -   ( 9,930 )   9,930    -    -    -    -  
+Disposal of parent company's share by a subsidiary recognised as treasury share 6(18)   -    11,544    -    -    -    -    -    4,407    15,951  
+Recognition of changes in ownership interests in subsidiaries - cash dividends 
+distributed by subsidiaries 
+6(18)   -    1,601    -    -    -    -    -    -    1,601  
+Adjustments of capital surplus for Company's cash dividends received by 
+subsidiaries 
+6(18)   -    3,265    -    -    -    -    -    -    3,265  
+Change in equity of associates and joint ventures accounted for using equity 
+method 
+6(18)   -    139    -    -    -    -    -    -    139  
+Expired cash dividends transferred to capital surplus 6(18)   -    79    -    -    -    -    -    -    79  
+Conversion of convertible bonds 6(13)(17)(18)   11    83    -    -    -    -    -    -    94  
+Balance at December 31, 2024    $ 2,861,722    $ 503,985    $ 2,118,375    $ 36,380    $ 5,033,456    $ 12,344   ( $ 40,120 )  ( $ 140,061 )   $ 10,386,081  
+2025                                      
+  Balance at January 1, 2025    $ 2,861,722    $ 503,985    $ 2,118,375    $ 36,380    $ 5,033,456    $ 12,344   ( $ 40,120 )  ( $ 140,061 )   $ 10,386,081  
+    Profit for the year    -    -    -    -    245,125    -    -    -    245,125  
+    Other comprehensive loss for the year    -    -    -    -   ( 155 )  ( 1,872 )  ( 39,572 )   -   ( 41,599 ) 
+  Total comprehensive income (loss) for the year    -    -    -    -    244,970   ( 1,872 )  ( 39,572 )   -    203,526  
+Distribution of 2024 earnings: 6(19)                                     
+  Legal reserve appropriated    -    -    50,631    -   ( 50,631 )   -    -    -    -  
+  Cash dividends of ordinary shares    -    -    -    -   ( 286,172 )   -    -    -   ( 286,172 ) 
+  Reversal of special reserve    -    -    -   ( 8,603 )   8,603    -    -    -    -  
+Acquisition of parent company's share by subsidiary recognised as treasury 
+shares    -    -    -    -    -    -    -   ( 23,061 )  ( 23,061 ) 
+Adjustments of capital surplus for Company's cash dividends received by 
+subsidiaries 
+6(18)   -    5,672    -    -    -    -    -    -    5,672  
+Change in equity of associates and joint ventures accounted for using equity 
+method 
+6(18)   -    975    -    -    -    -    -    -    975  
+Expired cash dividends transferred to capital surplus 6(18)   -    41    -    -    -    -    -    -    41  
+Balance at December 31, 2025    $ 2,861,722    $ 510,673    $ 2,169,006    $ 27,777    $ 4,950,226    $ 10,472   ( $ 79,692 )  ( $ 163,122 )   $ 10,287,062    
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+PARENT COMPANY ONLY STATEMENTS OF CASH FLOWS 
+YEARS ENDED DECEMBER 31, 2025 AND 2024 
+(EXPRESSED IN THOUSANDS OF NEW TAIWAN DOLLARS) 
+ 
+    Year ended December 31  
+  Notes  2025    2024  
+             
+~12~ 
+CASH FLOWS FROM OPERA TING ACTIVITIES            
+Profit before tax    $ 267,840    $ 528,325  
+Adjustments            
+Adjustments to reconcile profit (loss)            
+Depreciation  6(7)(8)(9)(25)   366,190     444,084  
+Amortisation  6(10)(25)   169,844     153,445  
+Net gain on financial assets at fair value through 
+profit or loss 
+ 6(2)(23) 
+(  2,600 )  (  473 ) 
+Interest expense  6(24)   82,672     71,109  
+Interest income  6(21) (  84,172 )  (  108,717 ) 
+Share of profit of associates and joint ventures  
+accounted for using equity method 
+ 6(6) 
+(  22,660 )    1,210  
+Gains on disposals of property, plant and 
+equipment 
+ 6(23) 
+  -   (  56 ) 
+Gain on reversal of onerous contracts  6(23)   -   (  530,888 ) 
+Gains on lease modifications  6(23) (  907 )  (  24 ) 
+Changes in operating assets and liabilities            
+Changes in operating assets            
+Financial assets at fair value through profit or 
+loss 
+  
+  -     63,813  
+Notes receivable     127   (  127 ) 
+Accounts receivable   (  741,320 )  (  249,679 ) 
+Other receivables     4,040   (  3,189 ) 
+Other receivables - related parties   (  445 )    5,578  
+Inventories     851,933   (  1,056,186 ) 
+Prepayments     551,554   (  502,988 ) 
+Other current assets   (  85 )    2,599  
+Other non-current assets     147,283     840,046  
+Changes in operating liabilities            
+Contract liabilities     4,969     11,689  
+Notes payable     2,529   (  2,178 ) 
+Accounts payable     157,638   (  114,479 ) 
+Accounts payable-related parties   (  247,791 )    225,432  
+Other payables   (  61,076 )    26,996  
+Provisions for liabilities     -   (  2,611 ) 
+Other current liabilities     398     331  
+Other non-current liabilities   (  5,052 )  (  150,197 ) 
+Cash inflow (outflow) generated from 
+operations 
+  
+  1,440,909   (  347,135 ) 
+Interest received     82,527     118,751  
+Interest paid   (  59,870 )  (  50,627 ) 
+Income taxes refunded     3,637     292,467  
+Net cash flows from operating activities     1,467,203     13,456  
+ 
+(Continued)
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+PARENT COMPANY ONLY STATEMENTS OF CASH FLOWS 
+YEARS ENDED DECEMBER 31, 2025 AND 2024 
+(EXPRESSED IN THOUSANDS OF NEW TAIWAN DOLLARS) 
+ 
+    Year ended December 31  
+  Notes  2025    2024  
+             
+The accompanying notes are an integral part of these parent company only financial statements. 
+ 
+~13~ 
+CASH FLOWS FROM INVESTING ACTIVITIES            
+Acquisition of financial assets at amortised cost    $ -   ( $ 33,886 ) 
+Proceeds from disposal of financial assets at 
+amortised cost 
+  
+  -     65,677  
+Return of capital from investee accounted for 
+under the equity method 
+ 6(6) 
+  -     435,201  
+Acquisition of property, plant and equipment  6(29) (  395,520 )  (  400,642 ) 
+Proceeds from disposal of property, plant and 
+equipment 
+  
+  -     400  
+Dividends received     6,315     21,113  
+Acquisition of intangible assets  6(10)(29) (  152,907 )  (  110,727 ) 
+(Increase) decrease in refundable deposits   (  886 )    920,926  
+Net cash flows (used in) from investing 
+activities 
+  
+(  542,998 )    898,062  
+CASH FLOWS FROM FINANCING ACTIVITIES            
+Decrease in short-term borrowings  6(29) (  330,000 )  (  1,020,000 ) 
+Proceeds from long-term borrowings  6(29)   -     680,000  
+Repayments of long-term borrowings  6(29) (  231,200 )  (  42,500 ) 
+Repayment of lease liabilities  6(29) (  16,597 )  (  13,201 ) 
+Increase (decrease) in guarantee deposit 
+received 
+ 6(29) 
+  1,043   (  113 ) 
+Cash dividends paid  6(19) (  286,172 )  (  171,703 ) 
+Expired cash dividends  6(18)   41     79  
+Net cash flows used in financing activities   (  862,885 )  (  567,438 ) 
+Net increase in cash and cash equivalents     61,320     344,080  
+Cash and cash equivalents at beginning of year  6(1)   4,057,284     3,713,204  
+Cash and cash equivalents at end of year  6(1)  $ 4,118,604    $ 4,057,284    
+ 
+~14~ 
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+NOTES TO THE PARENT COMPANY ONLY FINANCIAL STATEMENTS 
+YEARS ENDED DECEMBER 31, 2025 AND 2024 
+(EXPRESSED IN THOUSANDS OF NEW TAIW AN DOLLARS,  
+EXCEPT AS OTHERWISE INDICATED) 
+ 
+1.  HISTORY AND ORGANISATION 
+Elite Semiconductor Microelectronics Technology Inc. (the “Company”) was incorporated in May 1998 
+and commenced operations in December 1998. The Company is engaged in the research, development, 
+production, manufacturing, and sales of dynamic and static random access memory, flash memory, 
+analog integrated circuits, analog and digital mixed integrated circuits. The Company is also engaged in 
+the related design and technical R&D services for the above products.  
+The Company merged with Ji Xin Technology Co., Ltd. on December 5, 2005, and merged with Eon 
+Silicon Solution Inc. on June 8, 2016, with the Company as the surviving company. 
+2. THE DATE OF AUTHORISATION FOR ISSUANCE OF THE PARENT COMPANY ONLY 
+FINANCIAL STATEMENTS AND PROCEDURES FOR AUTHORISATION 
+These parent company only financial statements were authorised for issuance by the Board of Directors 
+on February 26, 2026. 
+3. APPLICATION OF NEW STANDARDS,  AMENDMENTS AND INTERPRETATIONS  
+(1) Effect of the adoption of new issuances of or amendments to International Financial Reporting  
+Standards (“IFRS”) Accounting Standards that came into effect as endorsed by the Financial  
+Supervisory Commission (“FSC”)  
+New standards, interpretations and amendments endorsed by  the FSC effective from 20 25 are as 
+follows: 
+ 
+The above standards and interpretations have no significant impact to the Company’s financial 
+condition and financial performance based on the Company’s assessment. 
+ New Standards, Interpretations and Amendments
+ Effective date by
+International Accounting
+Standards Board
+("IASB")
+Specific provisions of Amendments to IFRS 9 and IFRS 7, ‘Amendments
+to the classification and measurement of financial instruments’ regarding
+the application guidance for Section 4.1 of IFRS 9 and the related
+disclosure requirements of IFRS 7
+January 1, 2026
+Amendments to IAS 21, ‘Lack of exchangeability’ January 1, 2025
+ 
+~15~ 
+(2) Effect of new issuances of or amendments to IFRS Accounting Standards as endorsed by the  
+FSC but not yet adopted by the  Company 
+New standards, interpretations and amendments endorsed by the FSC effective from 202 6 are as 
+follows: 
+ 
+The above standards and interpretations have no significant impact to the Company’s financial   
+condition and financial performance based on the Company’s assessment. 
+(3) Effect of IFRS Accounting Standards issued by IASB but not yet endorsed by the FSC  
+New standards, interpretations and amendments issued by IASB but not yet included in the IFRS 
+Accounting Standards as endorsed by the FSC are as follows: 
+ 
+Note：The FSC has announced in a press release on September 25, 2025 that public companies will 
+apply IFRS 18 starting from the fiscal year 2028. Additionally, entities can choose to adopt 
+IFRS 18 earlier based on their requirements after the FSC endorses IFRS 18. 
+Except for the following , the above standards and interpretations have no significant impact to the 
+Company’s financial condition and financial performance based on the Company’s assessment. 
+ New Standards, Interpretations and Amendments
+ Effective date by
+IASB
+Specific provisions of Amendments to IFRS 9 and IFRS 7, ‘Amendments
+to the classification and measurement of financial instruments’ regarding
+the application guidance for Section 3.1 and 3.3 of IFRS 9 and the related
+disclosure requirements of IFRS 7
+January 1, 2026
+Amendments to IFRS 9 and IFRS 7, ‘Contracts referencing nature-
+dependent electricity’
+January 1, 2026
+IFRS 17, ‘Insurance contracts’ January 1, 2023
+Amendments to IFRS 17, ‘Insurance contracts’ January 1, 2023
+Amendment to IFRS 17, ‘Initial application of IFRS 17 and IFRS 9 –
+comparative information’
+January 1, 2023
+Annual Improvements to IFRS Accounting Standards—Volume 11 January 1, 2026
+ New Standards, Interpretations and Amendments
+ Effective date by
+IASB
+Amendments to IFRS 10 and IAS 28, ‘Sale or contribution of assets
+between an investor and its associate or joint venture’
+To be determined by
+IASB
+IFRS 18, ‘Presentation and disclosure in financial statements’ January 1, 2027(Note)
+IFRS 19, ‘Subsidiaries without public accountability: disclosures’ January 1, 2027
+Amendments to IAS 21, ‘Translation to a Hyperinflationary
+Presentation Currency’
+January 1, 2027
+ 
+~16~ 
+A. IFRS 18, ‘Presentation and disclosure in financial statements’  
+IFRS 18, ‘Presentation and disclosure in financial statements’ replaces IAS 1. The standard 
+introduces a defined structure of the statement of profit or loss, disclosure requirements related 
+to management -defined performance measures, and enhanced principl es on aggregation and 
+disaggregation which apply to the primary financial statements and notes. 
+4. SUMMARY OF MATERIAL ACCOUNTING POLICIES  
+The principal accounting policies applied in the preparation of these parent company only  financial 
+statements are set out below. These policies have been consistently applied to all the periods presented, 
+unless otherwise stated. 
+(1) Compliance statement 
+The parent company only financial statements of the Company have been prepared in accordance 
+with the “Regulations Governing the Preparation of Financial Reports by Securities Issuers”. 
+(2) Basis of preparation 
+A. Except for the following items, the parent company only financial statements have been prepared 
+under the historical cost convention: 
+(a) Financial assets (including derivative instruments) at fair value through profit or loss. 
+(b) Financial assets at fair value through other comprehensive income. 
+(c) Defined benefit liabilities recognised based on the net amount of pension fund assets less 
+present value of defined benefit obligation. 
+B. The preparation of financial statements in conformity with the “Regulations Governing the 
+Preparation of Financial Reports by Securities Issuers”, International Financial Reporting 
+Standards, International Accounting Standards, IFRIC Interpretations, and SIC Interpretations that 
+came into effect as endorsed by the FSC (collectively referred herein as the “IFRSs”), requires the 
+use of certain critical accounting estimates. It also requires management to exercise its judgment 
+in the process of applying the Company’s accounting policies. The areas involving a higher degree 
+of judgment or complexity, or areas where assumptions and estimates are significant to the parent 
+company only financial statements are disclosed in Note 5. 
+(3) Foreign currency translation  
+Items included in the financial statements  of each of the Group ’s entities are measured using the 
+currency of the primary economic environment in which the entity operates  (the “functional 
+currency”). The parent company only financial  statements are presented in New Taiwan dollars, 
+which is the Company’s  functional currency.  
+A. Foreign currency transactions and balances 
+(a) Foreign currency transactions are translated into the functional currency using the exchange 
+rates prevailing at the dates of the transactions or valuation where items are remeasured.  
+Foreign exchange gains and losses resulting from the settlement of such  transactions are 
+recognised in profit or loss in the period in which they arise. 
+  
+ 
+~17~ 
+(b) Monetary assets and liabilities denominated in foreign currencies at the period end are re -
+translated at the exchange rates prevailing at the balance sheet date.  Exchange differences 
+arising upon re-translation at the balance sheet date are recognised in profit or loss. 
+(c) Non-monetary assets and liabilities denominated in foreign currencies held at fair value 
+through profit or loss are re -translated at the exchange rates prevailing at the balance sheet 
+date; their translation differences are recognised in profit or loss. No n-monetary assets and 
+liabilities denominated in foreign currencies held at fair value through other comprehensive 
+income are re -translated at the exchange rates prevailing at the balance sheet date; their 
+translation differences are recognised in othe r comprehensive income.  However, non -
+monetary assets and liabilities denominated in foreign currencies that are not measured at fair 
+value are translated using the historical exchange rates at the dates of the initial transactions. 
+(d) All other foreign exchange gains and losses based on the nature o f those transactions are 
+presented in the statement of comprehensive income within ‘other gains and losses’. 
+B. Translation of foreign operations 
+The operating results and financial position of all the group entities, associates and joint 
+arrangements that have a functional currency different from the presentation currency are 
+translated into the presentation currency as follows: 
+(a) Assets and liabilities for each balance sheet presented are translated at the closing exchange 
+rate at the date of that balance sheet; 
+(b) Income and expenses for each statement of comprehensive income are translated at average 
+exchange rates of that period; and 
+(c) All resulting exchange differences are recognised in other comprehensive income. 
+(4) Classification of current and non-current items 
+A. Assets that meet one of the following criteria are classified as current assets; otherwise they are 
+classified as non-current assets: 
+(a) Assets that are expected to be realised, or are intended to be sold or consumed in the normal 
+operating cycle; 
+(b) Assets that are held primarily for the purpose of trading; 
+(c) Assets that are expected to be realised within twelve months after the reporting period; 
+(d) Cash and cash equivalents, excluding restricted cash and cash equivalents and those that are to 
+be exchanged or used to settle liabilities for at least twelve months after the reporting period. 
+B. Liabilities that meet one of the following criteria are classified as current liabilities; otherwise they 
+are classified as non-current liabilities: 
+(a) Liabilities that are expected to be settled within the normal operating cycle; 
+(b) Liabilities that are held primarily for the purpose of trading; 
+(c) Liabilities that are due to be settled within twelve months after the reporting period; 
+(d) It does not have the right at the end of the reporting period to defer settlement of the liability 
+at least twelve months after the reporting period. 
+ 
+~18~ 
+(5) Cash equivalents 
+Cash equivalents refer to short-term, highly liquid investments that are readily convertible to known 
+amounts of cash and which are subject to an insignificant risk of changes in value. Time deposits that 
+meet the definition above and are held for the purpose of meeting short -term cash commitments in 
+operations are classified as cash equivalents. 
+(6) Financial assets at fair value through profit or loss 
+A. Financial assets at fair value through profit or loss are financial assets that are not measured at 
+amortised cost or fair value through other comprehensive income. 
+B. On a regular way purchase or sale basis, financial assets at fair value through profit or loss are 
+recognised and derecognised using trade date accounting. 
+C. At initial recognition, the Company measures the financial assets at fair value and recogni ses the 
+transaction costs in profit or loss. The Company subsequently measures the financial assets at fair 
+value, and recognises the gain or loss in profit or loss. 
+D. The Company recognises the dividend income when the right to receive payment is established, 
+future economic benefits associated with the dividend will flow to the Company and the amount 
+of the dividend can be measured reliably. 
+(7) Financial assets at fair value through other comprehensive income 
+A. Financial assets at fair value through other comprehensive income comprise equity securities 
+which are not held for trading, and for which the Company has made an irrevocable election at 
+initial recognition to recogni se changes in fair value in other comprehensive income and debt 
+instruments which meet all of the following criteria: 
+(a) The objective of the Company’s business model is achieved both by collecting contractual cash 
+flows and selling financial assets; and 
+(b) The assets’ contractual cash flows represent solely payments of principal and interest. 
+B. On a regular way purchase or sale basis, financial assets at fair value through other comprehensive 
+income are recognised and derecognised using trade date accounting. 
+C. At initial recognition, the Company measures the financial assets at fair value plus transaction 
+costs. The Company subsequently measures the financial assets at fair value:  
+The changes in fair value of equity investments that were recognised in other comprehensive 
+income are reclassified to retained earnings and are not reclassified to profit or loss following the 
+derecognition of the investment.  
+Dividends are recognised as revenue when the right to receive payment is established, future 
+economic benefits associated with the dividend will flow to the Company and the amount of the 
+dividend can be measured reliably.  
+(8) Financial assets at amortised cost 
+A. Financial assets at amortised cost are those that meet all of the following criteria: 
+(a) The objective of the Company’s business model is achieved by collecting contractual cash  
+flows. 
+ 
+~19~ 
+(b) The assets’ contractual cash flows represent solely payments of principal and interest. 
+B. On a regular way purchase or sale basis, financial assets at amortised cost are recognised and 
+derecognised using trade date accounting. 
+C. At initial recognition, the Company measures the financial assets at fair value plus transaction 
+costs. Interest income from these financial assets is included in finance income using the effective 
+interest method. A gain or loss is recognised in profit or loss when the asset is de recognised or 
+impaired. 
+D. The Company’s time deposits which do not fall under cash equivalents are those with a short 
+maturity period and are measured at initial investment amount as the effect of discounting is 
+immaterial. 
+(9) Accounts and notes receivable 
+A. Accounts and notes receivable entitle the Company a legal right to receive consideration in 
+exchange for transferred goods or rendered services. 
+B. The short-term accounts and notes receivable without bearing interest are subsequently measured 
+at initial invoice amount as the effect of discounting is immaterial.  
+(10) Impairment of financial assets 
+For financial assets at amortised cost, at each reporting date, the Company recognises the 
+impairment provision for 12-month expected credit losses if there has not been a significant increase 
+in credit risk since initial recognition or recogni ses the impairment provi sion for the lifetime 
+expected credit losses (ECLs) if such credit risk has increased since initial recognition after taking 
+into consideration all reasonable and verifiable information that includes forecasts. On the other 
+hand, for accounts receivable or contract assets that do not contain a significant financing component, 
+the Company recognises the impairment provision for lifetime ECLs. 
+(11) Derecognition of financial assets 
+The Company derecognises a financial asset when the contractual rights to receive the cash flows 
+from the financial asset expire. 
+(12) Operating leases (lessor) 
+Rental income from an operating lease (net of any incentives given to the lessee) is recognised in 
+profit or loss on a straight-line basis over the lease term. 
+(13) Inventories 
+Inventories are stated at the lower of cost and net realisable value. Cost is determined using the 
+weighted-average method. The cost of finished goods and work in progress comprises raw materials, 
+direct labour, other direct costs and related production overheads. It excludes borrowing costs. The 
+lower of cost and net realisable value  is determined on an item-by-item basis. Net realisable value 
+is the estimated selling price in the ordinary course of business, less the estimated costs of 
+completion and the estimated costs necessary to make the sale. 
+  
+ 
+~20~ 
+(14) Investments accounted for using equity method / subsidiaries and associates 
+A. Subsidiaries are entities controlled by the Company (including structured entities). The Company 
+controls the entity when the Company is exposed, or has rights, to variable returns from its 
+involvement with the entity and has the ability to affect those returns through its power over the 
+entity. 
+B. All unrealised profit or loss resulting from transactions between the Company and its subsidiaries 
+have been eliminated in full. Accounting policies of subsidiaries have been adjusted when 
+necessary in order to be consistent with those of the Company. 
+C. The Company’s share of profit or loss in subsidiaries after acquisition is recognised in profit or 
+loss, whereas its share of other comprehensive income in subsidiaries after acquisition is 
+recognised in other comprehensive income. If the Company’s share of loss in a subsidiary 
+exceeds its share of equity in such a subsidiary, the Company continues to recognise losses in its 
+shareholding percentage. 
+D. If a change in shareholding in a subsidiary does not result in a loss of control (i.e. transactions 
+with non-controlling interests), such a change is accounted for as an equity transaction, that is, a 
+transaction with owners in their capacity as owners. Any difference between the amount by which 
+the non-controlling interests are adjusted and the fair value of the consideration paid or received 
+is recognised directly in equity. 
+E. Associates are all entities over which the Company has significant influence but not control. In 
+general, it is presumed that the investor has significant influence, if an investor holds, directly or 
+indirectly 20 percent or more of the voting power of the  investee. Investments in associates are 
+accounted for using the equity method and are initially recognised at cost. 
+F. The Company’s share of its associates’ post-acquisition profits or losses is recognised in profit or 
+loss, and its share of post -acquisition movements in other comprehensive income is recognised 
+in other comprehensive income. When the Company’s share of losses in an associate equals or 
+exceeds its interest in the associate, including any other unsecured receivables, the Company 
+does not recognise further losses, unless it has incurred legal or constructive obligations or made 
+payments on behalf of the associate. 
+G. When changes in an associate’s equity do not arise from profit or loss or other comprehensive 
+income of the associate and such changes do not affect the Company’s ownership percentage of 
+the associate, the Company recognises the Company’s share of change in equity of the associate 
+in ‘capital surplus’ in proportion to its ownership. 
+H. Unrealised gains on transactions between the Company and its associates are eliminated to the 
+extent of the Company’s interest in the associates. Un realised losses are also eliminated unless 
+the transaction provides evidence of an impairment of the asset transferred. Accounting policies 
+of associates have been adjusted where necessary to ensure consistency with the policies adopted 
+by the Company. 
+  
+ 
+~21~ 
+I. In the case that an associate issues new shares and the Company does not subscribe or acquire 
+new shares proportionately, which results in a change in the Company’s ownership percentage 
+of the associate but maintains significant influence on the associat e, then ‘capital surplus’ and 
+‘investments accounted for under the equity method’ shall be adjusted for the increase or 
+decrease of its share of equity interest. If the above condition causes a decrease in the Company’s 
+ownership percentage of the associa te, in addition to the above adjustment, the amounts 
+previously recognised in other comprehensive income in relation to the associate are reclassified 
+to profit or loss proportionately on the same basis as would be required if the relevant assets or 
+liabilities were disposed of. 
+J. Upon loss of significant influence over an associate, the Company remeasures any investment 
+retained in the former associate at its fair value. Any difference between fair value and carrying 
+amount is recognised in profit or loss. 
+K. When the Company disposes its investment in an associate and loses significant influence over 
+this associate, the amounts previously recognised in other comprehensive income in relation to 
+the associate, are reclassified to profit or loss, on the same basis as would be required if the 
+relevant assets or liabilities were disposed of. If it retains significant influence over this associate, 
+the amounts previously recognised in other comprehensive income in relation to the associate 
+are reclassified to profit or loss proportionately in accordance with the aforementioned approach. 
+L. Pursuant to the “Regulations Governing the Preparation of Financial Reports by Securities 
+Issuers,” profit (loss) of the current period and other comprehensive income in the parent 
+company only financial statements shall equal to the amount attributable to owners of the parent 
+in the consolidated financial statements. Owners’ equity in the parent company only financial 
+statements shall equal to equity attributable to owners of the parent in the consolidated financial 
+statements. 
+(15) Property, plant and equipment 
+A. Property, plant and equipment are initially recorded at cost. Borrowing costs incurred during the 
+construction period are capitalised. 
+B. Subsequent costs are included in the asset’s carrying amount or recognised as a separate asset, as 
+appropriate, only when it is probable that future economic benefits associated with the item will 
+flow to the Company and the cost of the item can be measured reliably. The carrying amount of 
+the replaced part is derecognised. All other repairs and maintenance are charged to profit or loss 
+during the financial period in which they are incurred. 
+C. Land is not depreciated. Other property, plant and equipment apply cost model and are 
+depreciated using the straight-line method to allocate their cost over their estimated useful lives. 
+Each part of an item of property, plant, and equipment with a cost th at is significant in relation 
+to the total cost of the item must be depreciated separately. 
+  
+ 
+~22~ 
+D. The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted if 
+appropriate, at each financial year-end. If expectations for the assets’ residual values and useful 
+lives differ from previous estimates or the patterns of consumption of the assets’ future economic 
+benefits embodied in the assets have changed significantly, any change is accounted for as a 
+change in estimate under IAS 8, ‘Accounting Policies, Changes in Accounting Estimates and 
+Errors’, from the date of the change. The estimated useful lives of property, plant and equipment 
+are as follows: 
+Buildings and structures                         3~50 years 
+Machinery and equipment                        3~ 9 years 
+Testing equipment                              3~8 years  
+Others                                       2~15 years 
+(16) Leasing arrangements (lessee)－right-of-use assets/ lease liabilities 
+A. Leases are recognised as a right -of-use asset and a corresponding lease liability at the date at 
+which the leased asset is available for use by the Company. For short -term leases or leases of 
+low-value assets, lease payments are recognised as an expense on a straight -line basis over the 
+lease term. 
+B. Lease liabilities include the net present value of the remaining lease payments at the 
+commencement date, discounted using the incremental borrowing interest rate. Lease payments 
+are comprised of  fixed payments, less any lease incentives receivable . The Company 
+subsequently measures the lease liability at amortised cost using the interest method and 
+recognises interest expense over the lease term.  
+Starting from the lease date, the Company assesses whether it can reasonably determine its option 
+to extend the lease or purchase the underlying asset, or not to terminate the lease. The Company 
+considers all relevant facts and circumstances that will generate economic incentives to exercise 
+or not exercise the options. Such circumstances include all expected changes in facts and 
+situations from the start of the lease to the day when the option i s exercised. Main factors to 
+consider include contractual terms and conditions within the period of options and the importance 
+of the underlying asset to the lessee’s operations, etc. The lease term will be reassessed if a 
+significant change or a major change in circumstances occurs within the Company's control range. 
+The lease liability is remeasured and the amount of remeasurement is recognised as an adjustment 
+to the right -of-use asset when there are changes in the lease term or lease payments and such 
+changes do not arise from contract modifications. 
+C. At the commencement date, the right-of-use asset is stated at cost. The cost is the amount of the 
+initial measurement of lease liability. The right-of-use asset is measured subsequently using the 
+cost model and is depreciated from the commencement date to the earlier of the end of the asset’s 
+useful life or the end of the lease term. When the lease liability is remeasured, the amount of 
+remeasurement is recognised as an adjustment to the right-of-use asset. 
+  
+ 
+~23~ 
+D. For lease modifications that decrease the scope of the lease, the lessee shall decrease the carrying 
+amount of the right -of-use asset and remeasure the lease liability to reflect the partial or full 
+termination of the lease, and recognise the difference  in profit or loss.  For all other lease 
+modifications, the lessee shall remeasure the lease liability and adjust the right -of-use asset, 
+correspondingly. 
+(17) Investment property 
+An investment property is stated initially at its cost and measured subsequently using the cost model.  
+Investment property is depreciated on a straight-line basis over its estimated useful life of 20 years. 
+(18) Intangible assets 
+A. Patents, know-how, and customer relationship 
+Separately acquired patent is stated at historical cost. Patents , know-how, and  customer 
+relationship acquired in a business combination are recognised at fair value at the acquisition 
+date, and amortised on a straight-line basis over their estimated useful lives of 3 years. 
+B. Goodwill 
+Goodwill arises in a business combination accounted for by applying the acquisition method. 
+C. Other intangible assets, mainly computer software, are stated at cost and amortised on a straight-
+line basis over their estimated useful lives of 1 ~ 3 years. 
+(19) Impairment of non-financial assets 
+A. The Company assesses at each balance sheet date the recoverable amounts of those assets where 
+there is an indication that they are impaired. An impairment loss is recognised for the amount by 
+which the asset’s carrying amount exceeds its recoverable amount. The recove rable amount is 
+the higher of an asset’s fair value less costs to sell or value in use. Except for goodwill, when the 
+circumstances or reasons for recognising impairment loss for an asset in prior years no longer 
+exist or diminish, the impairment loss is reversed. The increased carrying amount due to reversal 
+should not be more than what the depreciated or amortised historical cost would have been if the 
+impairment had not been recognised. 
+B. The recoverable amount of goodwill is evaluated periodically. An impairment loss is recognised 
+for the amount by which the asset’s carrying amount exceeds its recoverable amount. Impairment 
+loss of goodwill previously recognised in profit or loss shall not be reversed in the following 
+years. 
+C. For the purpose of impairment testing, goodwill acquired in a business combination is allocated 
+to each of the cash -generating units, or groups of cash-generating units, that is/are expected to 
+benefit from the synergies of the business combination. Each unit or group of units to which the 
+goodwill is allocated represents the lowest level within the entity at which the goodwill is 
+monitored for internal management purposes. Goodwill is monitored at the operating segment 
+level. 
+  
+ 
+~24~ 
+(20) Borrowings 
+Borrowings comprise long -term and  short-term bank borrowings. Borrowings are recognised 
+initially at fair value, net of transaction costs incurred. Borrowings are subsequently stated at 
+amortised cost; any difference between the proceeds (net of transaction costs) and the redemption 
+value is recognised in profit or loss over the period of the borrowings using the effective interest 
+method. 
+(21) Notes and accounts payable 
+Notes and accounts payable are obligations to pay for goods or services that  have been acquired 
+in the ordinary course of business from suppliers. They  are recognised  initially at fair value and 
+subsequently measured at amortised cost using the effective interest method. However, for short -
+term accounts  payable without bearing interest, as the effect of discounting is insignificant,  they 
+are measured subsequently at original invoice amount.  
+(22) Convertible bonds payable 
+Convertible bonds issued by the Company contain conversion options (that is, the bondholders have 
+the right to convert the bonds into the Company’s ordinary shares by exchanging a fixed amount of 
+cash for a fixed number of ordinary shares) and call options. The Company classifies the bonds 
+payable upon issuance as a financial asset, a financial liability or an equity instrument in accordance 
+with the contract terms. They are accounted for as follows: 
+A. The embedded call options are recognised initially at net fair value as ‘financial assets or financial 
+liabilities at fair value through profit or loss’. They are subsequently remeasured and stated at 
+fair value on each balance sheet date; the gain or loss is recognised as ‘gain or loss on valuation 
+of financial assets or financial liabilities at fair value through profit or loss’. 
+B. The host liability contracts of bonds are initially recognised at fair value. Any difference between 
+the initial recognition and the redemption value is accounted for as the premium or discount on 
+bonds payable and subsequently is amortised in profit or loss as an adjustment to ‘finance costs’ 
+over the period of circulation using the effective interest method. 
+C. The embedded conversion options which meet the definition of an equity instrument are initially 
+recognised in ‘capital surplus—share options’ at the residual amount of total issue price less the 
+amount of financial assets or financial liabilities at fair v alue through profit or loss and bonds 
+payable as stated above. Conversion options are not subsequently remeasured. 
+D. Any transaction costs directly attributable to the issuance are allocated to each liability or equity 
+component in proportion to the initial carrying amount of each abovementioned item. 
+E. When bondholders exercise conversion options, the liability component of the bonds (including 
+bonds payable and ‘financial assets or financial liabilities at fair value  through profit or loss ’) 
+shall be remeasured on the conversion date. The issuance cost of converted ordinary shares is the 
+total book value of the abovementioned liability component and ‘capital surplus—share options’. 
+  
+ 
+~25~ 
+(23) Derecognition of financial liabilities 
+A financial liability is derecognised when the obligation specified in the contract is either discharged 
+or cancelled or expires. 
+(24) Provisions 
+Provisions (including provision for decommissioning liabilities) are recognised when the Company 
+has a present legal or constructive obligation as a result of past events, and it is probable that an 
+outflow of economic resources will be required to settle the obligation and th e amount of the 
+obligation can be reliably estimated. Provisions are measured at the present value of the expenditures 
+expected to be required to settle the obligation on the balance sheet date, which is discounted using 
+a pre-tax discount rate that reflects the current market assessments of the time value of money and 
+the risks specific to the obligation. When discounting is used, the increase in the provision due to 
+passage of time is recognised as interest expense. Provisions are not recognised for future operating 
+losses. 
+(25) Employee benefits 
+A. Short-term employee benefits 
+Short-term employee benefits are measured at the undiscounted amount of the benefits expected 
+to be paid in respect of service rendered by employees in a period and should be recognised as 
+expense in that period when the employees render service. 
+B. Pensions 
+(a) Defined contribution plans 
+For defined contribution plans, the contributions are recognised as pension expense when 
+they are due on an accrual basis. Prepaid contributions are recognised as an asset to the extent 
+of a cash refund or a reduction in the future payments. 
+(b) Defined benefit plans 
+I. Net obligation under a defined benefit plan is defined as the present value of an amount of 
+pension benefits that employees will receive on retirement for their services with the 
+Company in current period or prior periods. The liability recognised in the balance sheet in 
+respect of defined benefit pension plans is the present value of the defined benefit 
+obligation at the balance sheet date less the fair value of plan assets. The net defined benefit 
+obligation is calculated annually by independent actuaries using the projected unit credit 
+method. The rate used to discount is determined by using interest rates of government 
+bonds at the balance sheet date of a currency and term consistent w ith the currency and 
+term of the employment benefit obligations. 
+II. Remeasurements arising on defined benefit plans are recognised in other comprehensive 
+income in the period in which they arise and are recorded as other equity. 
+III. Past service costs are recognised immediately in profit or loss. 
+  
+ 
+~26~ 
+C. Employees’ compensation and directors’ remuneration 
+Employees’ compensation and directors’ remuneration are recognised as expense and liability, 
+provided that such recognition is required under legal or constructive obligation and those 
+amounts can be reliably estimated.  Any difference between the resolved amounts and the 
+subsequently actual distributed amounts is accounted for as changes in estimates. If employee 
+compensation is paid by shares, the Company calculates the number of shares  based on the 
+closing price at the previous day of the board meeting resolution. 
+(26) Income tax 
+A. The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or 
+loss, except to the extent that it relates to items recognised in other comprehensive income or 
+items recognised directly in equity, in which cases the tax is recognised in other comprehensive 
+income or equity. 
+B. The current income tax expense is calculated on the basis of the tax laws enacted or substantively 
+enacted at the balance sheet date in the countries where the Company operate s and generates 
+taxable income. Management periodically evaluates positions taken in tax returns with respect 
+to situations in accordance with applicable tax regulations. It establishes provisions where 
+appropriate based on the amounts expected to be paid to the tax authorities. An additional tax is 
+levied on the unappropriated retained earnings and is recorded as income tax expense in the year 
+the stockholders resolve to retain the earnings. 
+C. Deferred tax is recognised, using the balance sheet liability method, on temporary differences 
+arising between the tax bases of assets and liabilities and their carrying amounts in the balance 
+sheet. However, the deferred tax is not accounted for if it arises from initial recogniti on of 
+goodwill or of an asset or liability in a transaction other than a business combination that at the 
+time of the transaction affects neither accounting nor taxable profit or loss and does not give rise 
+to equal taxable and deductible temporary differe nces. Deferred tax is provided on temporary 
+differences arising on investments in subsidiaries, except where the timing of the reversal of the 
+temporary difference is controlled by the Company and it is probable that the temporary 
+difference will not reverse in the foreseeable future. Deferred tax is determined using tax rates 
+and laws  that have been enacted or substantially enacted by the balance sheet date and are 
+expected to apply when the related deferred tax asset is realised or the deferred tax liabil ity is 
+settled. 
+D. Deferred tax assets are recognised only to the extent that it is probable that future taxable profit 
+will be available against which the temporary differences can be utili sed. At each balance sheet 
+date, unrecognised and recognised deferred tax assets are reassessed. 
+E. A deferred tax asset shall be recognised for the carryforward of unused tax credits resulting from 
+acquisitions of equipment or technology, research and development expenditures to the extent 
+that it is possible that future taxable profit will be available against which the unused tax credits 
+can be utilised. 
+ 
+~27~ 
+(27) Share capital 
+A. Ordinary shares are classified as equity. Incremental costs directly attributable to the issue of new 
+shares or stock options are shown in equity as a deduction, net of tax, from the proceeds. 
+B. Where the Company repurchases the Company’s equity share capital that has been issued, the 
+consideration paid, including any directly attributable incremental costs (net of income taxes) is 
+deducted from equity attributable to the Company’s equity holders.  Where such shares are 
+subsequently reissued, the difference between their  book value and any consideration received, 
+net of any directly attributable incremental transaction costs and the related income tax effects, 
+is included in equity attributable to the Company’s equity holders. 
+(28) Dividends 
+Dividends are recorded in the Company’s financial statements in the period in which they are 
+resolved by the Company’s shareholders. Cash dividends are recorded as liabilities; stock dividends 
+are recorded as stock dividends to be distributed and are reclassified to ordinary shares on the 
+effective date of new shares issuance. 
+(29) Revenue recognition 
+A. The Company manufactures and sells integrated c ircuits. Sales are recognised when control of 
+the products has transferred, being when the products are delivered to the customers, the 
+customers have full discretion over the channel and price to sell the products, and there is no 
+unfulfilled obligation that could affect the customers’ acceptance of the products. Delivery occurs 
+when the products have been shipped to the specific location, the risks of obsolescence and loss 
+have been transferred to the customers, and either the customer s have accepted the products in 
+accordance with the sales contract, or the Company has objective evidence that all criteria for 
+acceptance have been satisfied. 
+B. The Company accepts sales orders from customers. Sales revenue is recognised according to the 
+contract price, and the Company transfers the promised goods or services to customers. Since 
+the customer's payment period does not exceed one year, the Company has not adjusted the time 
+value of money of the transaction price. 
+C. A receivable is recognised when the goods are delivered as this is the point in time that the 
+consideration is unconditional because only the passage of time is required before the payment 
+is due.  
+5. CRITICAL ACCOUNTING JUDGEMENTS, ESTIMATES AND KEY SOURCES OF 
+ASSUMPTION UNCERTAINTY  
+The preparation of these parent company only financial statements requires management to make critical 
+judgements in applying the Company’s accounting policies and make critical assumptions and estimates 
+concerning future events. Assumptions and estimates may differ from the actual results and are 
+continually evaluated and adjusted based on historical experience and other factors. Such assu mptions 
+and estimates have a significant risk of causing a material adjustment to the carrying amounts of assets 
+and liabilities within the next financial year; and the related information is addressed below: 
+ 
+~28~ 
+1.Critical judgements in applying the Company’s accounting policies 
+None. 
+2. Critical accounting estimates and assumptions 
+Evaluation of inventories 
+As inventories are stated at the lower of cost and net realisable value, the Company must determine  
+the net realisable value of inventories on balance sheet date using judgements and estimates. Due to  
+the rapid technology innovation, changes in the external economic environment and sales conditions  
+may result in changes in the value of inventories, which may affect the evaluation of inventories. 
+As at December 31, 2025, the carrying amount of inventories was $7,080,530. 
+6. DETAILS OF SIGNIFICANT ACCOUNTS  
+(1) Cash and cash equivalents 
+ 
+The Company transacts with a variety of financial institutions with high credit quality to disperse 
+credit risk, so it expects that the probability of counterparty default is remote.  
+(2) Financial assets at fair value through profit or loss  
+ 
+A. Amounts recognised in profit or loss in relation to financial assets at fair value through profit  or 
+loss are listed below: 
+ 
+B. The Company has no financial assets at fair value through profit or loss pledged to others. 
+  
+December 31, 2025 December 31, 2024
+Cash on hand and revolving funds 90$                           115$                         
+Checking accounts and demand deposits 1,192,881                  2,366,831                  
+Time deposits 2,925,633                  1,690,338                  
+4,118,604$                4,057,284$                
+Items December 31, 2025 December 31, 2024
+Current items: 
+   Financial assets mandatorily measured at fair
+     value through profit or loss
+     Call options of convertible bonds 1,300$                      1,300$                      
+Valuation adjustment 1,400                        1,200)(                        
+Total 2,700$                      100$                         
+2025 2024
+Financial assets mandatorily measured at fair
+  value through profit or loss
+  Call options of convertible bonds 2,600$                       2,000)($                         
+  Equity instruments -                                1,085)(                           
+  Beneficiary certificates -                                3,558                           
+Total 2,600$                       473$                            
+Years ended December 31,
+ 
+~29~ 
+C. Information relating to credit risk of financial assets at fair value through profit or loss is provided 
+in Note 12(2)C(b). 
+(3) Financial assets at fair value through other comprehensive income 
+ 
+A. The Company has elected to classify equity investments that are considered to be  strategic 
+investments as financial assets at fair value through other comprehensive income. The fair value 
+of such investments amounted to $0 and $9,590 as at December 31, 2025 and 2024, respectively. 
+B. The amounts of fair value changes recognised in other comprehensive income for the equity 
+instruments measured at fair value through other comprehensive income amounted to ($9,590) 
+and ($1,870) as at December 31, 2025 and 2024, respectively. 
+(4) Accounts receivable 
+ 
+A. The aging analysis of accounts receivable is as follows: 
+ 
+The above aging analysis is based on past due date. 
+B. As at December 31, 2025 and 2024, without taking into account any collateral held or other credit 
+enhancements, the maximum exposure to credit risk in respect of the amount that best represents 
+the Company’s accounts receivable was $2,123,043 and $1,381,723, respectively. 
+C. Information relating to credit risk of accounts receivable is provided in Note 12(2). 
+D. As at December 31, 2025 and 2024, accounts receivable were all from contracts with customers. 
+As at January 1, 202 4, the balance of receivables from contracts with customers amounted to 
+$1,132,044. 
+E. The Company has no accounts receivable pledged to others. 
+Items December 31, 2025 December 31, 2024
+Non-current items:  
+ Equity instruments
+    Unlisted stocks 29,650$                     29,650$                     
+    Valuation adjustment 29,650)(                      20,060)(                      
+-$                              9,590$                      
+December 31, 2025 December 31, 2024
+Accounts receivable - general customers 2,123,043$                1,381,723$                
+Less: Loss allowance -                                -                                
+2,123,043$                1,381,723$                
+December 31, 2025 December 31, 2024
+Not past due 2,120,898$                1,381,723$                
+Up to 30 days 2,145                        -                                
+2,123,043$                1,381,723$                
+ 
+~30~ 
+(5) Inventories 
+ 
+The cost of inventories recognised as expense for the periods: 
+ 
+Due to the market recovery and the disposal of inventories previously written down, the Company 
+recognised gains on reversal of  inventory valuation losses for the years ended December 31, 202 5 
+and 2024. 
+(6) Investments  accounted for using equity method  
+ 
+A. Information about the subsidiaries is provided in Note 4(3) in the 2025 consolidated  financial 
+statements. 
+ Allowance for
+Cost valuation loss Book value
+Raw materials 738,445$                   2,600)($                      735,845$                   
+Work in process 5,426,741                  4,653)(                        5,422,088                  
+Finished goods 945,154                     40,901)(                      904,253                     
+Inventory in transit 18,344                      -                                18,344                      
+7,128,684$                48,154)($                     7,080,530$                
+ Allowance for
+Cost valuation loss Book value
+Raw materials 515,156$                   1,680)($                      513,476$                   
+Work in process 6,044,838                  91,369)(                      5,953,469                  
+Finished goods 1,582,448                  126,794)(                     1,455,654                  
+Inventory in transit 9,864                        -                                9,864                        
+8,152,306$                219,843)($                   7,932,463$                
+December 31, 2025
+December 31, 2024
+2025 2024
+Cost of goods sold 12,329,509$              12,171,705$              
+Gain on reversal of inventory write-down 171,689)(                     246,345)(                     
+12,157,820$              11,925,360$              
+Years ended December 31,
+December 31, 2025 December 31, 2024
+572,862$                   583,818$                   
+141,969                     163,007                     
+57,036                      55,831                      
+Elite Semiconductor Memory Technology Inc. 19,956                      21,267                      
+Eon Silicon Solution Inc. USA 1,306)(                        1,483)(                        
+790,517$                   822,440$                   
+Subsidiaries:
+Elite Investment Services Ltd.
+Jie Yong Investment Ltd.
+Charng Feng Investment Ltd.
+ 
+~31~ 
+B. The Company’s subsidiary, Elite Investment Services Ltd., reduced its capital and returned 
+cash in February 202 5. As a result, the number of shares held by the Company decreased by 
+14 shares, and the Company received the proceeds from the capital reduction amounting to 
+$435,201. 
+(7) Property, plant and equipment 
+ 
+ 
+ Buildings Machinery
+Land and structures equipment Test equipment Others Total
+At January 1, 2025
+Cost 562,898$    1,008,019$   458,916$       399,020$         881,547$    3,310,400$   
+Accumulated
+  depreciation and
+  impairment -                  495,207)(        239,606)(         177,583)(           624,155)(      1,536,551)(     
+562,898$    512,812$      219,310$       221,437$         257,392$    1,773,849$   
+2025
+At January 1 562,898$    512,812$      219,310$       221,437$         257,392$    1,773,849$   
+Additions -                  17,672          38,410           17,077            270,989      344,148       
+Transfers (Note) -                  9,333            -                    7,829              17,967        35,129         
+Depreciation charge -                  33,214)(          53,410)(           50,716)(            210,831)(      348,171)(       
+At December 31 562,898$    506,603$      204,310$       195,627$         335,517$    1,804,955$   
+At December 31, 2025
+Cost 562,898$    1,035,024$   497,066$       422,580$         1,165,440$  3,683,008$   
+Accumulated
+   depreciation and
+   impairment -                  528,421)(        292,756)(         226,953)(           829,923)(      1,878,053)(     
+562,898$    506,603$      204,310$       195,627$         335,517$    1,804,955$   
+ Buildings Machinery
+Land and structures equipment Test equipment Others Total
+At January 1, 2024
+Cost 562,898$    1,023,474$   498,819$       529,459$         2,557,158$        5,171,808$  
+Accumulated
+  depreciation and
+  impairment -                  512,594)(        246,236)(         269,536)(           2,249,052)(          3,277,418)(   
+562,898$    510,880$      252,583$       259,923$         308,106$           1,894,390$  
+2024
+At January 1 562,898$    510,880$      252,583$       259,923$         308,106$           1,894,390$  
+Additions -                  12,280          16,405           6,279              224,559             259,523      
+Transfers (Note) -                  27,800          5,474             6,945              8,714                48,933        
+Disposals -                  -                   -                    -                      344)(                   344)(             
+Depreciation charge -                  38,148)(          55,152)(           51,710)(            283,643)(             428,653)(      
+At December 31 562,898$    512,812$      219,310$       221,437$         257,392$           1,773,849$  
+At December 31, 2024
+Cost 562,898$    1,008,019$   458,916$       399,020$         881,547$           3,310,400$  
+Accumulated
+   depreciation and
+   impairment -                  495,207)(        239,606)(         177,583)(           624,155)(             1,536,551)(   
+562,898$    512,812$      219,310$       221,437$         257,392$           1,773,849$  
+ 
+~32~ 
+Note: Transferred from prepayments for equipment (shown as “Other non-current assets”). 
+A. For the years ended December 31, 2025 and 2024, there was no capitalisation of borrowing costs 
+attributable to the property, plant and equipment. 
+B. Information about property, plant and equipment pledged to others as collateral is provided in  
+Note 8. 
+(8) Leasing arrangements－lessee 
+A. The Company leases various assets including land, buildings and structures, business vehicles, and 
+printers. Rental contracts are typically made for periods of 2 to 20 years.  Lease terms are 
+negotiated on an individual basis and contain a wide range of different terms and conditions. Short-
+term leases with a lease term of 12 months or less comprise business vehicles.  
+B. The carrying amount of right-of-use assets and the depreciation charge are as follows: 
+ 
+ 
+C. For the years ended December 31, 2025 and 2024, the additions to right-of-use assets were $25,834 
+and $45,187, respectively. 
+D. The information on profit or loss accounts relating to lease contracts is as follows: 
+ 
+  
+December 31, 2025 December 31, 2024
+Land 44,807$                     50,763$                     
+Buildings and structures 48,534                      38,826                      
+Business vehicles 2,575                        356                           
+Printers 1,774                        1,518                        
+97,690$                     91,463$                     
+Carrying amount
+2025 2024
+Land 3,399$                      3,575$                      
+Buildings and structures 10,392                      6,499                        
+Business vehicles 2,297                        3,641                        
+Printers 961                           747                           
+17,049$                     14,462$                     
+Years ended December 31,
+Depreciation charge
+2025 2024
+Items affecting profit or loss
+Interest expense on lease liabilities 1,568$                      1,139$                      
+Expense relating to short-term leases 1,210$                      1,099$                      Gain or loss on sale and leaseback transactions
+Gains on lease modifications 907$                         24$                           
+Years ended December 31,
+ 
+~33~ 
+E. For the years ended December 31 , 2025 and 2024, the Company’s total cash outflows for leases 
+were $19,375 and $15,439, respectively. 
+(9) Investment property-Buildings 
+ 
+A. Rental income from investment property and direct operating expenses arising from investment 
+property are shown below: 
+ 
+B. The fair value of the investment property held by the Company as at December 31, 2025 and 
+2024 was $ 9,833 and $ 11,991, respectively, which was valued by income approach. Key 
+assumptions are as follows:  
+Note: Calculated based on th e weighted average cost of capital (WACC) . 
+C. For the years ended December 31, 202 5 and 202 4, there w as no capitalisation of borrowing  
+costs attributable to the investment property.  
+D. The Company has no investment property pledged to others.  
+At January 1
+Cost 20,369$                        20,369$                        
+Accumulated depreciation and impairment 6,547)(                            5,578)(                            
+13,822$                        14,791$                        
+At January 1 13,822$                        14,791$                        
+Depreciation charge 970)(                               969)(                               
+At December 31 12,852$                        13,822$                        
+At December 31
+Cost 20,369$                        20,369$                        
+Accumulated depreciation and impairment 7,517)(                            6,547)(                            
+12,852$                        13,822$                        
+ 2025  2024
+ Years ended December 31,
+2025 2024
+Rental income from investment property 2,690$                         2,594$                         
+ Direct operating expenses arising from the
+    investment property that generated rental
+    income during the period 970$                            969$                            
+Years ended December 31,
+December 31, 2025 December 31, 2024
+Discount rate (Note) 13.34% 9.87%
+ 
+~34~ 
+(10) Intangible assets 
+ 
+ 
+Note: Transferred from prepayments for equipment (shown as “ Other non-current assets”).  
+  
+Computer
+software
+At January 1, 2025
+Cost 849,791$        
+Accumulated amortisation
+   and impairment 687,742)(          
+162,049$        
+2025
+At January 1 162,049$        
+Additions 65,699            
+Amortisation charge 169,844)(          
+At December 31 57,904$          
+At December 31, 2025
+Cost 829,806$        
+Accumulated amortisation
+   and impairment 771,902)(          
+57,904$          
+Patents and
+professional Customer Computer
+ technology relationship Goodwill software Total
+At January 1, 2024
+Cost 34,478$          11,000$          80,758$          871,164$        997,400$        
+Accumulated amortisation
+   and impairment 34,478)(            11,000)(            80,758)(            753,909)(          880,145)(          
+-$                   -$                   -$                   117,255$        117,255$        
+2024
+At January 1 -$                   -$                   -$                   117,255$        117,255$        
+Additions -                     -                     -                     197,935          197,935          
+Transfer (Note) -                     -                     -                     304                 304                 
+Amortisation charge -                     -                     -                     153,445)(          153,445)(          
+At December 31 -$                   -$                   -$                   162,049$        162,049$        
+At December 31, 2024
+Cost -$                   -$                   -$                   849,791$        849,791$        
+Accumulated amortisation
+   and impairment -                     -                     -                     687,742)(          687,742)(          
+-$                   -$                   -$                   162,049$        162,049$        
+ 
+~35~ 
+A. Details of amorti sation on intangible assets are as follow s: 
+ 
+B. For the years ended December 31, 2025 and 2024, there was no capitalisation of borrowing 
+costs attributable to the intangible assets. 
+C. The Company has no intangible assets pledged to others.  
+(11) Other non-current assets 
+ 
+(12) Short-term borrowings  
+ 
+(13) Bonds payable 
+ 
+  
+2025 2024
+Operating costs 32$                           32$                           
+Selling expenses -                                90                             
+General and administrative expenses 4,845                        3,776                        
+Research and development expenses 164,967                     149,547                     
+169,844$                   153,445$                   
+Years ended December 31,
+December 31, 2025 December 31, 2024
+Prepayments for equipment
+  and construction costs
+180,346$                   175,624$                   
+Refundable deposits 6,755                        5,869                        
+Pledged time deposits 3,969                        3,969                        
+Prepayments for purchases -                                147,283                     
+191,070$                   332,745$                   
+Type of borrowings December 31, 2025 Interest rate range Collateral
+Bank borrowings
+   Unsecured borrowings 1,270,000$                1.80%~1.90% None
+Type of borrowings December 31, 2024 Interest rate range Collateral
+Bank borrowings
+   Unsecured borrowings 1,600,000$                1.8951%~1.95% None
+December 31, 2025 December 31, 2024
+Convertible bonds payable 1,000,000$               1,000,000$               
+Less: Bonds payable converted 100)(                           100)(                           
+Less: Discount on bonds payable 16,922)(                      37,179)(                      
+982,978                    962,721                    
+Less: Current portion 982,978)(                    -                               
+-$                             962,721$                  
+ 
+~36~ 
+A. The issuance of domestic convertible bonds by the Company: 
+(a) The terms of the first domestic unsecured convertible bonds issued by the Company are as  
+follows: 
+i. The regulatory authority has approved the first domestic unsecured convertible bonds 
+issued by the Company. The total issuance amount is $1,000,000 at 115.42% of the bond’s 
+face value with coupon rate of 0%, with a term of 3 years and a listing period from October 
+27, 2023 to October 27, 2026. The convertible bonds will be settled by cash with principal 
+value at maturity. The bonds were listed on the Taipei Exchange on October 27, 2023. 
+ii. The bondholders have the right to ask for conversion of the bonds into ordinary shares of 
+the Company during the  period from three months after the bonds issuance date to the 
+maturity date,  except for the suspended transfer period as specified in the terms of the 
+bonds or the regulations. The rights and obligations of the new shares converted from  the 
+bonds are the same as the issued and outstanding ordinary shares. 
+iii. The conversion price of convertible bonds was set at NT$85.6 (in NT$ dollars) per share. 
+However, the conversion price is adjusted according to the formula set out in the indenture 
+if the following events occurs after the issuance of the Company’s convertible bonds: 
+(i) Increase in outstanding (or private placement) ordinary shares. 
+(ii) The conversion price should be reduced on the effective date of ex -dividend for 
+distributing cash dividends of ordinary shares. 
+(iii) Reissuance (or private placement) of various securities with conversion options or 
+stock options to ordinary shares at a conversion or an exercise price low er than the 
+market price per share. 
+(iv) Reduction in ordinary share capital that is not caused by the retirement of treasury 
+shares. 
+iv. The Company may repurchase all the bonds outstanding in cash at the bonds’ face value at 
+any time during the period from the  date after three months of the bonds issue to 40 days 
+before t he maturity date if the following events occur: (i) the closing price of the 
+Company’s ordinary shares is above the conversion price by 30% (including 30%) for 30 
+consecutive trading days, or (ii) the outstanding balance of the bonds is less than 10% of 
+total initial issue amount. 
+v. Under the terms of the bonds, all bonds redeemed (including bonds repurchased from the 
+Taipei Exchange), matured and converted are retired and not to be sold or re -issued; the 
+conversion options attached to the bonds are also extinguished. 
+ (b) As at December 31, 2025, the Company’s first domestic unsecured convertible bonds with  
+a face value of $100 were converted into  1,168 ordinary shares. The Company’s Board of 
+Director resolved on June 24, 2025 that in accordance with Article 11 of the Regulations  
+Governing the Issuance and Conversion of the First Domestic Unsecured Convertible Bonds, 
+the conversion price was adjusted from NT$85.1 to NT$83.6 starting from ex-dividend date 
+ 
+~37~ 
+(July 15, 2025). 
+B. Regarding the issuance of convertible bonds, the equity conversion options amounting to 
+$210,801 were separated from the liability component and were recognised in ‘capital 
+surplus-share options’ in accordance with IAS 32. The call options embedded in bonds 
+payable were separated from their host contracts and were recognised in ‘financial assets or 
+liabilities at fair value through profit or loss’ in net amount in accordance with IFRS 9 because 
+the economic characteristics and risks of the embedded deriv atives were not closely related 
+to those of the host liability contracts. 
+(14) Other payables  
+ 
+(15) Long-term borrowing s 
+ 
+Note 1: Borrowing period is from October 2022 to October 2037, interest is repayable monthly , 
+and starting from January 2026, the same amount of principal is repayable every three 
+months. 
+December 31, 2025 December 31, 2024
+Accrued salaries and bonuses 462,226$                   513,542$                   
+Payables for equipment 33,058                      138,399                     
+Accrued employees' compensation
+  and directors' remuneration 5,466                        10,782                      
+Others 141,587                     145,448                     
+642,337$                   808,171$                   
+Type of borrowings
+Borrowing period and
+ repayment term Interest rate range Collateral December 31, 2025
+Long-term bank borrowings
+   Secured borrowings Note 1 1.80%~ 1.90% Land, buildings
+and structures 643,400$             
+   Credit borrowings Notes 2 and 3 2.036%~2.038% None 406,300               
+1,049,700            
+Less:Current portion 284,817)(               
+764,883$             
+Type of borrowings
+Borrowing period and
+ repayment term Interest rate range Collateral December 31, 2024
+Long-term bank borrowings
+   Secured borrowings Note 1 1.675%~ 1.80% Land, buildings
+and structures 643,400$             
+   Credit borrowings Notes 2 and 3 2.008%~2.036% None 637,500               
+1,280,900            
+Less:Current portion 231,200)(               
+1,049,700$          
+ 
+~38~ 
+Note 2: Borrowing period is from September 2024 to August 2027, interest is repayable monthly , 
+and starting from December 2024, the same amount of principal is repayable every three 
+months. 
+Note 3: According to the unsecured borrowing contract, the Company is required to comply  with 
+certain financial ratios, such as current ratio and liability ratio, during the contract  periods. 
+As at December 31, 202 5, the Company had not violated any of the required  financial 
+ratios. 
+(16) Pension 
+A. (a) The Company has a defined benefit pension plan in accordance with the Labor Standards Act, 
+covering all regular employees’ service years prior to the enforcement of the Labor Pension 
+Act on July 1, 2005 and service years thereafter of employees who chose to continue to be 
+subject to the pension mechanism under the Labor Standards Act. Under the defined benefit 
+pension plan, two units are accrued for each year of service for the first 15 years and one unit 
+for each additional year thereafter, subject to a maximum of 45 units. Pension benefits are 
+based on the number of units accrued and the average monthly salaries and wages of the 
+last 6 months prior to retirement. The Company contributes monthly an amount equal to 
+2% of the employees’ monthly salaries and wages to the retirement fund deposited with 
+Bank of Taiwan, the trustee, under the name of the independent retirement fund committee. 
+Also, the Company would assess the balance in the aforementioned labor pensio n reserve 
+account by  December 31, every year. If the account balance is insufficient to pay the 
+pension calculate d by the aforementioned method  to the employees expected to  qualify 
+for retirement in the following year, the Company  will make contributions for the deficit 
+by next March.  
+(b) The amounts recognised  in the balance sheet are as follows:  
+ 
+  
+December 31, 2025 December 31, 2024
+Present value of defined benefit
+ obligations 8,985$                     8,394$                     
+Fair value of plan assets 7,634)(                       2,146)(                       
+Net defined benefit liability 1,351$                     6,248$                     
+ 
+~39~ 
+(c) Movements in net defined benefit liabilities are as follows:  
+ 
+ 
+(d) The Bank of Taiwan was commissioned to manage the Fund of the Company’s defined benefit 
+pension plan in accordance with the Fund ’s annual investment and utilization plan and the 
+“Regulations for Revenues, Expenditures, Safeguard and Utilization of the Labor Retirement 
+ Present value of
+defined benefit
+obligations
+ Fair value of plan
+assets
+ Net defined benefit
+ liability
+2025
+At January 1 8,394$              2,146)($               6,248$                  
+Current service cost 181                  -                        181                      
+Interest (expense) income 134                  34)(                      100                      
+8,709                2,180)(                 6,529                    
+Remeasurements:
+Return on plan assets
+  (excluding amounts included
+  in interest income or expense) -                       121)(                    121)(                      
+Change in financial
+  assumptions 188                  -                        188                      
+Experience adjustments 88                    -                        88                        
+276                  121)(                    155                      
+Pension fund contribution -                       5,333)(                 5,333)(                    
+At December 31 8,985$              7,634)($               1,351$                  
+ Present value of
+defined benefit
+obligations
+ Fair value of plan
+assets
+ Net defined benefit
+ liability
+2024
+At January 1 9,235$              812)($                  8,423$                  
+Current service cost 182                  -                        182                      
+Interest (expense) income 111                  10)(                      101                      
+9,528                822)(                    8,706                    
+Remeasurements:
+Return on plan assets
+  (excluding amounts included
+  in interest income or expense) -                       64)(                      64)(                        
+Change in financial
+  assumptions 263)(                  -                        263)(                      
+Experience adjustments 871)(                  -                        871)(                      
+1,134)(                64)(                      1,198)(                    
+Pension fund contribution -                       1,260)(                 1,260)(                    
+At December 31 8,394$              2,146)($               6,248$                  
+ 
+~40~ 
+Fund” (Article 6: The scope of utilization for the Fund includes deposit in domestic or foreign 
+financial institutions, investment in domestic or foreign listed, over -the-counter, or private 
+placement equity securities, investment in domestic or foreign re al estate securitization 
+products, etc.). With regard to the utilization of the Fund, its minimum earnings in the annual 
+distributions on the final financial statements shall be no less than the earnings attainable 
+from the amounts accrued from two-year time deposits with the interest rates offered by local 
+banks. If the earnings is less than aforementioned rates, government shall make payment for 
+the deficit after being authorised by the Regulator. The Company has no right to participate 
+in managing and operating that fund and hence the Company are unable to disclose the 
+classification of plan assets fair value in accordance with IAS 19 paragraph 142. The 
+composition of fair value of plan assets as at December 31, 202 5 and 2024 is given in the 
+Annual Labor Retirement Fund Utilization Report announced by the government. 
+(e) The principal actuarial assumptions used were as follows:  
+ 
+Assumptions regarding future mortality experience are set based on the  sixth life 
+experience table in Taiwan for the years ended  December 31,  2025 and 2024. 
+Because the main actuarial assumption changed, the present value of defined benefit 
+obligation is affected. The analysis was as follows: 
+ 
+The sensitivity analysis above is based on one assumption which  changed while the other 
+conditions remain unchanged. In practice,  more than one assumption may change all at 
+once. The method of  analysing sensitivity and the method of calculating net pension 
+liability in the balance sheet are the same.  
+The method ology and  assumptions used in preparing the sensitivity  analysis are same as 
+prior year. 
+  
+ 2025  2024
+Discount rate 1.3% 1.6%
+Future salary increase 3.0% 3.0%
+ Years ended December 31,
+ Increase 0.25%  Decrease 0.25%  Increase 0.25%  Decrease 0.25%
+December 31, 2025
+Effect on present
+  value of defined
+  benefit obligation 157)($                 161$                 135$                 133)($                 
+December 31, 2024
+Effect on present
+  value of defined
+  benefit obligation 159)($                 163$                 140$                 137)($                 
+ Discount rate  Future salary increases
+ 
+~41~ 
+(f) Expected contributions to the defined benefit pension plans of the Company for the year 
+ending December 31, 202 6 amount to $ 212. 
+(g) As at December 31, 2025, the weighted average duration of the  retirement plan is 7 years. 
+The analysis of timing of the future pension  payment was as follows:  
+ 
+B. (a) Effective July 1, 2005, the Company  has established a defined contribution pension plan 
+(the “New Plan”) under the Labor Pension Act (the “Act”), covering all regular employees 
+with R.O.C. nationality. Under the New Plan, the Company contribute s monthly an 
+amount based on 6% of the employees’ monthly salaries and wages to the employees’ 
+individual pension accounts at the Bureau of Labor Insurance. The benefits accrued are 
+paid monthly or in lump sum upon termination of employment.  
+(b) The pension costs under the above pension plans of the Company for the years ended 
+December 31, 2025 and 2024 were $44,610 and $43,676, respectively. 
+(17) Share capital 
+A. As at December 31, 202 5, the C ompany’s authorised capital was $3,500,000, consisti ng of 
+350,000 thousand shares of ordinary share (including 20,000 thousand shares reserved for 
+employee stock options), and the paid -in capital was $ 2,861,722 with a par value of $10 ( in 
+NT$ dollars) per share.  
+Movements in  the number of the Company 's ordinary shares outstanding are as follow s: 
+ 
+  
+Within 1 year 207$                  
+1-2 years 205                    
+2-5 years 4,002                 
+Over 5 years 5,450                 
+9,864$               
+Unit：Thousands of shares
+2025 2024
+Outstanding ordinary shares at January 1 273,172                272,762                
+Acquisition of parent company's shares by a
+  subsidiary recognised as treasury shares 1,000)(                    -                            
+Disposal of parent company's share by a
+  subsidiary recognised as treasury shares -                            409                       
+Conversion of convertible bonds -                            1                           
+Outstanding ordinary shares at December 31 272,172                273,172                
+Treasury shares at the end of the year 14,000                  13,000                  
+Issued ordinary shares at December 31 286,172                286,172                
+ 
+~42~ 
+B. Treasury shares 
+Due to the Company’s business strategy, t he number of the Company’s shares  held by the 
+Company’s subsidiary, Jie Yong I nvestment Ltd., as at December 31, 202 5 and 202 4, were 
+14,000 thousand shares and 13,000 thousand shares with carrying amounts of $ 389,683 and 
+$334,596, respectively; the average carry amount per share were NT$27.83, and NT$25.74, and 
+the fair values per share were NT$118 and NT$62, respectively.  
+(18) Capital surplus 
+Pursuant to the R.O.C. Company Act, capital surplus arising from paid -in capital in excess of par 
+value on issuance of ordinary shares  and donations can be used to cover accumulated deficit or 
+to issue new stocks or cash to shareholders in proportion to their share ownership, provided that 
+the Company has no accumulated deficit. Further, the R.O.C. Securities and Exchange Act 
+requires th at the amount of capital surplus to be capitalised mentioned above should not exceed 
+10% of the paid -in capital each year.  Capital surplus should not be u sed to cover accumulated 
+deficit unless the legal rese rve is insufficient. 
+ 
+ Share
+premium
+ Treasury
+share
+transactions
+ Changes in
+ownership interests
+in subsidiaries
+and associates
+ 
+Stock
+options Others Total
+At January 1 23,574$ 61,834$    203,575$             210,801$   4,201$ 503,985$ 
+Adjustment of capital
+   surplus for company's cash
+   dividends received by
+   subsidiaries -            -               5,672                   -                -          5,672       
+Change in equity of
+  associates and joint
+  ventures accounted
+  for using equity method -            -               975                      -                -          975          
+Unclaimed cash dividends
+  transferred to capital
+  surplus -            -               -                          -                41        41            
+At December 31 23,574$ 61,834$    210,222$             210,801$   4,242$ 510,673$ 
+2025
+ 
+~43~ 
+ 
+(19) Retained earnings 
+A. Under the Company’s Articles of Incorporation, the current year’s earnings, if any, shall be 
+appropriated in the following order:  
+(a) Payment of all taxes and dues.  
+(b) Offset previous years’ operating losses, if any. 
+(c) Setting aside 10% of remaining amount as legal reserve, unless the accumulated amount of 
+the legal reserve has reached the total authorised capital of the Company. 
+(d) Setting aside or reversing a special reserve according to relevant regulations. 
+(e) The remainder from this year and prior year s may be appropriated as dividends according 
+to a resolution in the shareholders’ meeting . 
+The Company is in the growth phase. To meet future operation requirements, long-term financial 
+plan and the requirement of cash dividends distributing to the shareholders, the distributable 
+earnings for current year can be entirely distributed to the shareholders, which shall be proposed 
+ Share
+premium
+ Treasury
+share
+transactions
+ Changes in
+ownership interests
+in subsidiaries
+and associates
+ 
+Stock
+options Others Total
+At January 1 23,470$ 50,290$    198,570$             210,822$   4,122$ 487,274$ 
+Disposal of company's
+   shares by a subsidiary
+   recognised as
+   treasury share -            11,544      -                          -                -          11,544     
+Recognition of  changes in
+  ownership interests in
+  subsidiaries - cash
+  dividends distributed
+  by subsidiaries -            -               1,601                   -                -          1,601       
+Adjustment of capital
+   surplus for company's cash
+   dividends received by
+   subsidiaries -            -               3,265                   -                -          3,265       
+Change in equity of
+   associates and joint
+   ventures accounted
+   for using equity method -            -               139                      -                -          139          
+Unclaimed cash dividends
+   transferred to capital
+   surplus -            -               -                          -                79        79            
+Conversion of convertible
+   bonds 104        -               -                          21)(              -          83            
+At December 31 23,574$ 61,834$    203,575$             210,801$   4,201$ 503,985$ 
+2024
+ 
+~44~ 
+by the Board of Directors and resolved in the shareholders’ meeting every year. Dividends to the 
+shareholders can be distributed in the form of cash or s hares, and cash dividends shall account 
+for at least 50% of the total dividends distributed. 
+In accordance with Article 240 of the Company Act, the Board of Directors is authorized by the 
+Company to approve the distribution of dividends and bonuses or legal reserve and capital 
+reserve, in whole or in part, in accordance with Article 241 of the Com pany Act in the form of 
+cash by a resolution adopted by the majority vote at its meeting attended by two -thirds of the 
+total number of directors, and then reported to the shareholders. 
+B. Except for covering accumulated deficit or issuing new stocks or cash to shareholders in 
+proportion to their share ownership, the legal reserve shall not be used for any other purpose. 
+The use of legal reserve for the issuance of stocks or cash to shareholders i n proportion to their 
+share ownership is permitted, provided that the distribution of the reserve is limited to the portion 
+in excess of 25% of the Company’s paid-in capital. 
+C. In accordance with the regulations, the Company shall appropriate a special reserve from 
+earnings before distribution if there is a debit balance under other equity items as of the balance 
+sheet date. If such debit balance is subsequently reversed, the reversed amount may be  
+reclassified to distributable earnings.  
+D. The Company’s appropriation of earnings and cash dividends per share as resolved by the Board of 
+Directors, is as follows: 
+ 
+The Company's earnings distribution of 2024  and 2023 had been resolved at the shareholders’ 
+meeting on June 10, 2025 and May 30, 2024, respectively. 
+(20) Operating revenue 
+ 
+  
+2025 2024 2023
+As approved by the
+  Board of Directors February 26, 2026 February 26, 2025 February 27, 2024
+Provision for legal reserve 24,497$             50,631$             -$                       
+Provision for (Reversal of)
+ special reserve 41,444$             8,603)($               9,930)($               
+Cash dividends 292,469$           286,172$           171,703$           
+Cash dividend per share
+  (in NT$ dollars) 1.0$                   1.0$                   0.6$                   
+ Years ended December 31,
+2025 2024
+Revenue from contracts with customers 14,575,272$              13,485,168$              
+Years ended December 31,
+ 
+~45~ 
+A. Disaggregation of revenue from contracts with customers 
+The Company derives revenue from the transfer of goods at a point in time in the following major 
+geographical regions: 
+ 
+B. Contract liabilities 
+The Company has recognised the following revenue-related contract liabilities: 
+ 
+Revenue recognised that was included in the contract liability balance at the beginning of the 
+period: 
+ 
+(21) Interest income 
+ 
+(22) Other income 
+ 
+Year ended December 31,
+2025 Domestic area Asia Others Total
+Integrated circuits 5,762,523$        8,716,779$    95,970$         14,575,272$    
+Year ended December 31,
+2024 Domestic area Asia Others Total
+Integrated circuits 5,190,827$        8,209,282$    85,059$         13,485,168$    
+December 31, 2025 December 31, 2024 January 1, 2024
+Contract  liabilities-
+   advance sales receipts 21,323$                   16,354$                   4,665$                     
+2025 2024
+Contract liabilities – advance sales receipts  16,286$                       4,862$                         
+Years ended December 31,
+2025 2024
+Interest income from bank deposits 84,086$                       108,071$                     
+Interest income from financial assets at
+  amortised cost -                                  588                              
+Other interest income 86                               58                               
+84,172$                       108,717$                     
+Years ended December 31,
+2025 2024
+Rent income 6,317$                         5,658$                         
+Other income, others 76,158                         77,502                         
+82,475$                       83,160$                       
+Years ended December 31,
+ 
+~46~ 
+(23) Other gains and losses 
+ 
+Note: A portion of refundable deposits of the Company is a capacity reservation agreement with the 
+supplier. According to the agreement, the Company promises to purchase wafer production 
+capacity within the agreed period and quantities after the Company has paid the guarantee 
+deposits in advance, the supplier will then provide the agreed production capacity to the 
+Company. If the Company’s actual purchased quantities does not meet the agreed requirements, 
+the prepaid guarantee deposits will be forfeited bas ed on the agreement, and the agreement 
+cannot be terminated. In response to the fluctuations in the overall market economic 
+environment affecting market demand at that time, the Company made provision for onerous 
+contracts liabilities (shown as “provisions for liabilities”) for the year ended December 31, 
+2023. As at December 31, 2024, the Company’s actual purchased quantities met  the agreed 
+requirements, and the prepaid deposits were fully recovered. 
+(24) Finance costs 
+ 
+2025 2024
+Gains arising from lease modifications 907$                            24$                              
+Net foreign exchange (losses) gains 111,435)(                       352,985                       
+Gains  on financial assets at fair value
+  through profit or loss 2,600                           473                              
+Gains on disposals of property,
+  plant and equipment -                                  56                               
+Gain on reversal of onerous contracts (Note) -                                  530,888                       
+Other expenses 970)(                              970)(                              
+108,898)($                     883,456$                     
+Years ended December 31,
+2025 2024
+Interest expense:
+  Bank borrowings 60,136$                       49,344$                       
+  Provisions for liabilities-
+    amortisation of discount 702                              726                              
+  Lease liabilities 1,568                           1,139                           
+  Amortisation of discount
+   on bonds payable 20,257                         19,892                         
+Total interest expense 82,663                         71,101                         
+Others 9                                 8                                 
+82,672$                       71,109$                       
+Years ended December 31,
+ 
+~47~ 
+(25) Expenses by nature 
+ 
+(26) Employee benefit expenses 
+ 
+A. According to the Company’s Articles of Incorporation, the Company shall distribute no less than 
+1% of its current year’s profit as employees’ compensation, of which no less than 50% shall be 
+distributed to entry-level employees; and no more than 1% as remuneration for directors. 
+B. For the year s ended December 31, 202 5 and 2024, employees’ compensation of the Company 
+was accrued at $ 2,733 and $5,391, respectively; directors’ remuneration of the Company was 
+accrued at $ 2,733 and $5,391, respectively. The aforementioned amounts were recognised in 
+wages and salaries.  
+C. The employees’ compensation and directors’ remuneration for 2024 amounting to $5,391 and 
+$5,391, respectively, as resolved at the meeting of the Board of Directors were in agreement 
+with those amounts recognised in the 2024 financial statements.   
+D. Information about employees’ compensation and directors’ remuneration of the Company as  
+resolved by the Board of Directors will be posted in the “Market Observation Post System” at  
+the website of the Taiwan Stock Exchange. 
+  
+2025 2024
+Employee benefit expenses 1,409,263$                  1,388,323$                  
+Depreciation charges on
+ property, plant and equipment 348,171$                     428,653$                     
+Depreciation charges on right-of-use assets 17,049$                       14,462$                       
+Depreciation charges on investment property 970$                            969$                            
+Amortisation charges on intangible assets 169,844$                     153,445$                     
+Years ended December 31,
+2025 2024
+Wages and salaries 1,253,450$                  1,232,522$                  
+Labor and health insurance expenses 78,090                         78,328                         
+Pension costs 44,891                         43,959                         
+Directors' remuneration 7,195                           11,023                         
+Other personnel expenses 25,637                         22,491                         
+1,409,263$                  1,388,323$                  
+Years ended December 31,
+ 
+~48~ 
+(27) Income tax 
+A. Income tax expense 
+(a) Components of income tax  expense (benefit): 
+ 
+(b) The income tax charge relating to components of other comprehensive income: None. 
+(c) The income tax charged to equity during the period: None. 
+B. Reconciliation between income tax expense and accounting profit: 
+ 
+  
+2025 2024
+Current tax:
+Current tax on profit for the year -$                            -$                            
+Under (over) provision of prior year's
+   income tax 479                          83,195)(                     
+Total current tax 479                          83,195)(                     
+Deferred tax:
+Origination and reversal of temporary
+  differences 22,236                     106,405                   
+Income tax expense 22,715$                   23,210$                   
+Years ended December 31,
+2025 2024
+Tax calculated based on profit before
+   tax and statutory tax rate 53,568$                     105,665$                   
+Effects from items adjusted in
+  accordance with tax regulation 5,340)(                         615)(                            
+Under (over) provision of prior year's
+   income tax 479                            83,195)(                       
+Effect from temporary differences 3,214                         -                                
+Assessment of realisation of
+  deferred tax assets -                                65,587                       
+Assessment of realisation of
+  investment tax credits 11,353                       -                                
+Effects from loss carryforward 40,559)(                       64,232)(                       
+Income tax expense 22,715$                     23,210$                     
+Years ended December 31, 
+ 
+~49~ 
+C. Amounts of deferred tax assets or liabilities as a result of temporary  differences, tax losses and 
+investment tax credits are as follows: 
+ 
+ January 1
+ Recognised in
+  profit or loss
+ Recognised in other
+  comprehensive
+income  December 31
+Deferred tax assets:
+- Temporary differences:
+   Provision for inventory
+     obsolescence and
+     write-down 17,588$          13,736)($          -$                            3,852$            
+   Others 3,519              392                 -                              3,911              
+- Loss carryforward 45,053            3,580)(              -                              41,473            
+- Investment tax credits 56,872            11,353)(            -                              45,519            
+Subtotal 123,032          28,277)(            -                              94,755            
+Deferred tax liabilities: 
+- Temporary differences:
+   Unrealised exchange gains 27,927)(            6,226              -                              21,701)(            
+   Gain on valuation of
+   financial assets 95)(                   185)(                 -                              280)(                 
+Subtotal 28,022)(            6,041              -                              21,981)(            
+Total 95,010$          22,236)($          -$                            72,774$          
+2025
+ 
+~50~ 
+ 
+D. Details of the amount the Company is entitled as investment tax credit and unrecognised deferred 
+tax assets are as follows: 
+ 
+ 
+  
+ January 1
+ Recognised in
+  profit or loss
+ Recognised in other
+  comprehensive
+income  December 31
+Deferred tax assets:
+- Temporary differences:
+   Unrealised exchange losses 1,068$            1,068)($            -$                            -$                   
+   Provision for inventory
+     obsolescence and
+     write-down 55,943            38,355)(            -                              17,588            
+   Others 3,250              269                 -                              3,519              
+- Loss carryforward 97,733            52,680)(            -                              45,053            
+- Investment tax credits 98,082            41,210)(            -                              56,872            
+Subtotal 256,076          133,044)(          -                              123,032          
+Deferred tax liabilities: 
+- Temporary differences:
+   Unrealised exchange gains 51,627)(            23,700            -                              27,927)(            
+   Gain on valuation of
+   financial assets 3,034)(              2,939              -                              95)(                   
+Subtotal 54,661)(            26,639            -                              28,022)(            
+Total 201,415$        106,405)($        -$                            95,010$          
+2024
+ Qualifying items
+ Unused tax
+credits
+ Unrecognised
+deferred tax
+assets tax
+amount  Expiry year
+Expenditure of research and development 182,075$         136,556$         2027
+ December 31, 2025
+ Qualifying items
+ Unused tax
+credits
+ Unrecognised
+deferred tax
+assets tax
+amount  Expiry year
+Expenditure of research and development 226,085$         169,213$         2026
+ December 31, 2024
+ 
+~51~ 
+E. Expiration dates of unused tax losses and amounts of unrecognised deferred tax assets are as  
+follows: 
+ 
+ 
+F. The amounts of deductible temporary difference that are not recognised as deferred tax assets 
+are as follows: 
+ 
+G. The Company’s income tax returns through 2023 have been assessed and approved by the Tax 
+Authority. 
+(28) Earnings per share 
+ Year incurred
+ Assessed
+amount  Unused amount
+ Unrecognised
+deferred tax
+assets amount  Expiry year
+2023 1,302,338$         829,450$          622,088$            2033
+ December 31, 2025
+ Year incurred
+ Assessed
+amount  Unused amount
+ Unrecognised
+deferred tax
+assets amount  Expiry year
+2023 1,302,338$         1,050,152$       824,884$            2033
+ December 31, 2024
+December 31, 2025 December 31, 2024
+Deductible temporary differences 400,437$                 469,264$                 
+ Amount
+after
+tax
+ Weighted average number
+of ordinary shares
+outstanding (shares in
+thousands)
+ Earnings
+per share (in
+NT$
+dollars)
+Basic earnings per share
+Profit attributable to ordinary
+  shareholders of the parent company 245,125$     280,541                           0.87$        
+Diluted earnings per share
+Effect of dilutive potential ordinary shares
+   Employee's compensation -               23                                   
+Profit attributable to ordinary
+  shareholders of the parent company
+  plus assumed  conversion of all dilutive
+  potential ordinary shares 245,125$     280,564                           0.87$        
+Year ended December 31, 2025
+ 
+~52~ 
+ 
+Note: As the convertible bonds payable has anti-dilutive effect for the year ended December 31, 
+2025, it is not included in the calculation of diluted earnings per share. 
+(29) Supplemental cash flow information 
+A. Investing activities with partial cash payments: 
+ 
+ 
+  
+ Amount
+after
+tax
+ Weighted average number
+of ordinary shares
+outstanding (shares in
+thousands)
+ Earnings
+per share (in
+NT$
+dollars)
+Basic earnings per share
+Profit attributable to ordinary
+  shareholders of the parent company 505,115$     280,704                           1.80$        
+Diluted earnings per share
+Effect of dilutive potential ordinary shares
+    Employees' compensation -               87                                   
+    Convertible bonds 17,514         11,750                             
+Profit attributable to ordinary
+  shareholders of the parent company
+  plus assumed  conversion of all dilutive
+  potential ordinary shares 522,629$     292,541                           1.79$        
+Year ended December 31, 2024
+2025 2024
+Purchase of property, plant and equipment 379,277$                 308,456$                 
+  (including transferred amount)
+Add: Ending balance of prepayment for equipment 180,346                   175,624                   
+Less: Opening balance of prepayment for equipment 175,624)(                   45,969)(                     
+Add: Opening balance of payable for equipment 51,191                     13,722                     
+Less: Ending balance of payable for equipment 33,058)(                     51,191)(                     
+Less:  Additions of decommissioning costs 6,612)(                       -                              
+Cash paid during the year 395,520$                 400,642$                 
+Years ended December 31,
+2025 2024
+Purchase of intangible assets 65,699$                   198,239$                 
+  (including transferred amount)
+Add: Opening balance of payable for equipment 87,208                     -                              
+Less: Opening balance of prepayment for equipment
+          being transferred to intangible assets -                              304)(                          
+Less: Ending balance of payable for intangible assets -                              87,208)(                     
+Cash paid during the year 152,907$                 110,727$                 
+Years ended December 31,
+ 
+~53~ 
+B. Changes in liabilities from financing activities: 
+ 
+ 
+Bonds Long-term Liabilities
+payable borrowings  from
+(including (including Guarantee financing
+Short-term current current Lease  deposits activities-
+  borrowings    portion)    portion)  liabilities  received gross
+At January 1, 2025 1,600,000$    962,721$     1,280,900$    93,372$      6,139$         3,943,132$   
+Changes in  cash flow
+ from financing
+ activities 330,000)(        -                  231,200)(         16,597)(        1,043           576,754)(        
+Interest paid -                    -                  -                    1,568)(          -                   1,568)(            
+Interest expense -                    20,257         -                    1,568          -                   21,825          
+Changes in other
+ non-cash items -                    -                  -                    22,369        -                   22,369          
+At December 31, 2025 1,270,000$    982,978$     1,049,700$    99,144$      7,182$         3,409,004$   
+Long-term Liabilities
+borrowings  from
+(including Guarantee financing
+Short-term Bonds current Lease  deposits activities-
+ borrowings payable    portion) liabilities received gross
+At January 1, 2024 2,620,000$    942,923$       643,400$      63,228$      6,252$         4,275,803$   
+Changes in cash flow
+ from financing
+ activities 1,020,000)(      -                    637,500        13,201)(        113)(              395,814)(        
+Interest paid -                    -                    -                   1,139)(          -                   1,139)(            
+Interest expense -                    19,892           -                   1,139          -                   21,031          
+Changes in other
+ non-cash items -                    94)(                 -                   43,345        -                   43,251          
+At December 31, 2024 1,600,000$    962,721$       1,280,900$   93,372$      6,139$         3,943,132$   
+ 
+~54~ 
+7. RELATED PARTY TRANSACTIONS  
+A. Names of related parties and relationship  
+ 
+B. Significant transactions and balances with related parties  
+A. Purchases 
+ 
+Goods are purchased from subsidiaries on normal commercial terms and conditions. 
+B. Receivables from related parties : 
+ 
+C. Payables to related parties : 
+ 
+  
+ Names of related parties  Relationship with the Company
+Elite Semiconductor Memory Technology Inc. Subsidiary
+Charng Feng Investment Ltd. "
+Jie Yong Investment Ltd. "
+Eon Silicon Solutions Inc. USA "
+Elite Memory Technology Inc. "
+Elite Innovation Japan Ltd. "
+Elite Semiconductor Microelectronics
+ Technology (shenzhen) Inc. "
+Elite Semiconductor Microelectronics
+ (Shanghai) Technology Inc. "
+CHI Microelectronics Limited "
+Canyon Semiconductor Inc. Associate
+ESMT Educational Foundation Substantive related party
+2025 2024
+Purchases of goods:
+  Subsidiaries 797,136$                1,076,138$             
+Years ended December 31,
+December 31, 2025 December 31, 2024
+Other receivable-supporting services:
+  Subsidiaries 20,067$                 19,622$                 
+December 31, 2025 December 31, 2024
+Accounts  payable:
+  CHI Microelectronics Limited 17,622$                 265,413$               
+Other payables-supporting services:
+  Subsidiaries 47,692$                 41,555$                 
+ 
+~55~ 
+D. Others: 
+ 
+C. Key management  compensation  
+ 
+8. PLEDGED ASSETS  
+The Company ’s assets pledged as collateral are as follows: 
+ 
+9. SIGNIFICANT  CONTINGENT LIABILITIES AND UNRECOGNISED  CONTRACT 
+COMMITMENTS 
+None. 
+10. SIGNIFICANT DISASTER LOSS  
+None. 
+11. SIGNIFICANT EVENTS AFTER THE BALANCE SHEET DATE  
+A. The appropriations of 2025 earnings had been approved by the Board of Directors on February 26, 
+2026. Please refer to Note 6(19). 
+B. On February 12, 2026 , the Company exercised its right to redeem bonds pursuant to Article 18, 
+Paragraph 1 of the Rules Governing the Issuance and Conversion of the Company’s First Domestic 
+2025 2024
+Other income-supporting services:
+  Subsidiaries 62,741$                 68,033$                 
+  Associates -$                          229$                      
+Research and development expenses:
+  Subsidiaries 52,083$                 53,971$                 
+Selling expenses:
+  Subsidiaries 97,615$                 91,875$                 
+Donation expense:
+  Substantive related party 1,000$                   1,000$                   
+Years ended December 31,
+2025 2024
+Salaries and other short-term
+  employee benefits 37,330$                               45,821$                               
+Post-employment benefits 645                                     587                                     
+37,975$                               46,408$                               
+Years ended December 31,
+Assets item December 31, 2025 December 31, 2024 Purposes
+Land, buildings and structures 724,249$                   731,151$                   Long-term
+  borrowings
+Time deposits (shown as
+"other non-current assets") 3,969                        3,969                        
+Guarantee deposits
+  for land leasing
+728,218$                   735,120$                   
+Book value
+ 
+~56~ 
+Unsecured Convertible Bonds. The redemption period shall commence on March 9, 2026 and 
+expire on April 8, 2026. Additionally, April 9, 2026 has been designated as the date on which trading 
+of the convertible bonds on the Taipei Exchange will be terminated. 
+12. OTHERS 
+(1) Capital management 
+Considering the characteristics of the current operating industry, the Company’s future development, 
+and changes in the external environment, the Company plans for future requirements of  working 
+capital, research and development expenditures, and dividend payments to shareholders  in order to 
+safeguard the Company’s ability to continue as a going concern, to provide returns to shareholders, 
+to balance the interests of other stakeholders, and to maintain an optimal capital  structure so as to 
+enhance shareholders’ value in the long term. 
+In order to maintain or adjust the capital structure, the Company may adjust the amount of dividends 
+paid to shareholders, issue new shares, return cash to shareholders, or repurchase its own shares. 
+A. Financial instruments by category 
+December 31, 2025 December 31, 2024
+Financial assets
+  Financial assets at fair value through
+    profit or loss
+  Financial assets mandatorily measured at
+     fair value through profit or loss 2,700$                      100$                         
+  Financial assets at fair value through
+    other comprehensive income
+    Designation of equity instrument -$                              9,590$                      
+  Financial assets at amortised cost
+    Cash and cash equivalents 4,118,604$                4,057,284$                
+    Notes receivable -                                127                           
+    Accounts receivable 2,123,043                  1,381,723                  
+    Other receivables 93,612                      96,007                      
+    Other receivables - related parties 20,067                      19,622                      
+    Time deposits (shown as
+      "Other non-current assets") 3,969                        3,969                        
+    Refundable deposits (shown as
+       "Other non-current assets") 6,755                        5,869                        
+6,366,050$                5,564,601$                
+ 
+~57~ 
+ 
+ 
+B. Financial risk management policies 
+(a) The Company adopts a comprehensive system of risk management and  control to identify, 
+assess, and control all types of risks, including market risk, credit risk, liquidity risk, and cash 
+flow risk, enabling management to effectively control and assess such risks. 
+(b) To effectively manage various market risks, the Company takes into consideration the 
+economic environment, competitive conditions, and the impact of market value risk, in order 
+to maintain an optimal risk position, preserve an appropriate liquidity position, and centrally 
+manage all market risks. 
+C. Significant financial risks and degrees of financial risks  
+(a) Market risk 
+Foreign exchange risk 
+1. The Company operates internationally and is exposed to foreign exchange risk arising from 
+the various currency, primarily with respect to the USD and RMB. Foreign exchange risk 
+arises from future commercial transactions and recognised assets and liabilities  and net 
+investments of foreign operations. 
+2. The Company’s foreign exchange risk management strategy involves regularly reviewing 
+the net positions of assets and liabilities in various currencies and managing the associated 
+risks accordingly. In addition to achieving natural hedges where possible, the Company 
+may also adopt appropriate hedging instruments after considering factors such as hedging 
+costs and the duration of the hedge, thereby effectively mitigating the impact of exchange 
+rate fluctuations on the Company’s overall financial position. 
+ 
+ 
+December 31, 2025 December 31, 2024
+Financial liabilities
+  Financial liabilities at amortised cost
+    Short-term borrowings 1,270,000$                1,600,000$                
+    Notes payable 2,529                        -                                
+    Accounts payable 2,230,747                  2,073,109                  
+    Accounts payable - related parties 17,622                      265,413                     
+    Other payables 642,337                     808,171                     
+    Bonds payable (including current portion) 982,978                     962,721                     
+    Long-term borrowings (including
+       current portion) 1,049,700                  1,280,900                  
+    Guarantee deposits received (shown as
+       "Other non-current liabilities") 7,182                        6,139                        
+6,203,095$                6,996,453$                
+    Lease liabilities 99,144$                     93,372$                     
+ 
+~58~ 
+3. The Company’s operations involves certain non-functional currency operations ( the 
+functional currency of the Company  is NTD ). The following sets out information on  
+foreign currency -denominated assets and liabilities that are significantly affected by  
+exchange rate fluctuations:  
+ 
+  
+ Foreign currency
+amount
+(In thousands) Exchange rate
+ Book value
+(NTD)
+(Foreign currency: functional
+currency)
+Financial assets
+  Monetary items
+    USD:NTD 105,408$           31.430              3,312,973$       
+    RMB:NTD 104,146             4.496                468,240            
+  Non-monetary items
+    USD:NTD 1,773$               31.430              55,730$            
+Financial liabilities
+  Monetary items
+    USD:NTD 44,335$             31.430              1,393,449$       
+    RMB:NTD 10,667               4.496                47,959              
+ Foreign currency
+amount
+(In thousands) Exchange rate
+ Book value
+(NTD)
+(Foreign currency: functional
+currency)
+Financial assets
+  Monetary items
+    USD:NTD 139,692$           32.785              4,579,802$       
+    RMB:NTD 121,246             4.478                542,940            
+  Non-monetary items
+    USD:NTD 1,657                 32.785              54,348$            
+Financial liabilities
+  Monetary items
+    USD:NTD 49,735$             32.785              1,630,562$       
+    RMB:NTD 9,280                 4.478                41,556              
+December 31, 2025
+December 31, 2024
+ 
+~59~ 
+4. The total exchange  (losses) gains, including realised and un realised, arising from 
+significant foreign  exchange variation on the monetary items held by the Company for 
+the years ended December 31, 2025 and 202 4, amounted to ($111,435) and $352,985, 
+respectively. 
+5. Analysis of foreign currency market risk arising from significant foreign exchange 
+variation: 
+ 
+ 
+Effect on
+ Effect on other
+comprehensive
+Degree of variation profit or loss income
+(Foreign currency:
+functional currency)
+Financial assets
+   Monetary items
+       USD:NTD 1% 33,130$          -$                     
+       RMB:NTD 1% 4,682              -                       
+   Non-monetary items
+       USD:NTD 1% -$                   557$                 
+Financial liabilities
+   Monetary items
+       USD:NTD 1% 13,934)($          -$                     
+       RMB:NTD 1% 480)(                 -                       
+Year ended December 31, 2025
+Sensitivity analysis
+Effect on
+ Effect on other
+comprehensive
+Degree of variation profit or loss income
+(Foreign currency:
+functional currency)
+Financial assets
+   Monetary items
+       USD:NTD 1% 45,798$          -$                     
+       RMB:NTD 1% 5,429              -                       
+   Non-monetary items
+       USD:NTD 1% -$                   543$                 
+Financial liabilities
+   Monetary items
+       USD:NTD 1% 16,306)($          -$                     
+       RMB:NTD 1% 416)(                 -                       
+Year ended December 31, 2024
+Sensitivity analysis
+ 
+~60~ 
+Price risk 
+i. The Company’s equity securities, which are exposed to price risk, are the financial assets 
+at fair value through profit or loss and financial assets at fair value through other 
+comprehensive income. To manage price risk arising from investments in equity securities, 
+the Company diversifies its portfolio. Diversification of the portfolio is done in accordance 
+with the limits set by the Company. 
+ii. The Company mainly invests in equity instruments issued by domestic and foreign 
+companies. The prices of these equity instruments are affected by the uncertainty regarding 
+the future value of the underlying investments.  Had the prices of these equity instruments 
+increased or decreased by 10% while all other variables were held constant, for the years 
+ended December 31, 2025 and 2024, other comprehensive income would have increased 
+or decreased by $0 and $959, respectively , from the account of gains or losses on equity 
+investments designated at fair value through other comprehensive income. 
+Cash flow and fair value interest rate risk  
+i. The Company’s cash flow interest rate risk arises from long -term borrowings and short -
+term borrowings issued at floating interest rate. During the years ended December 31, 2025 
+and 2024, the Company’s borrowings at variable rate were denominated in the NTD. 
+ii. If the interest rate on borrowings had increased or decreased by 0.2%, with all other  
+variables held constant, profit after tax for the years ended December 31, 2025 and 2024  
+would have decreased or increased by $4,160 and $4,915, respectively. This is mainly  
+attributable to changes in interest expense resulting from the floating-rate borrowings. 
+(b) Credit risk 
+i. Credit risk is the risk of financial loss to the Company arising from a client or counterparty 
+of a financial instrument failing to discharge its contractual obligations. The principal  
+exposure arises from counterparties’ inability to settle accounts receivable in accordance 
+with the agreed terms, as well as from the contractual cash flows of financial assets  
+measured at amortised cost. 
+ii. The Company manages its credit risk on a company-wide basis. For banks and financial  
+institutions, only those with strong credit ratings are accepted as counterparties. In  
+accordance with the Company’s credit policy, each operating entity within the Company is 
+required to manage and assess the credit risk of each new customer prior to setting standard 
+payment and delivery terms. Internal risk control procedures evaluate the credit quality of 
+customers by considering their financial position, past experience, and other  relevant 
+factors. Individual credit limits are established by Board of Directors based on  internal or 
+external credit ratings, and the utilisation of credit limits is monitored on a regular basis. 
+iii. The Company applies the presumption under IFRS 9 that default occurs when contractual 
+payments are more than 90 days past due. 
+  
+ 
+~61~ 
+iv. The Company also applies the presumption under IFRS 9 that there has been a significant 
+increase in credit risk since initial recognition when contractual payments are more than  
+30 days past due. 
+v. The following objective evidence is used to determine whether the credit impairment of 
+debt instruments has occurred: 
+(i)Significant financial difficulty of the issuer and a high probability of entering bankruptcy 
+or other financial reorganization; 
+(ii) The disappearance of an active market for the financial asset due to the issuer’s financial 
+difficulties; 
+(iii)Default or delinquency in interest or principal repayments by the issuer; 
+(iv)Adverse changes in national or regional economic conditions that are expected to result 
+in the issuer’s default. 
+vi. The Company writes off a financial asset when there is no reasonable expectation of 
+recovering it, after initiating recourse procedures. Nevertheless, the Company continues 
+to pursue legal recourse to preserve its rights. 
+vii. Financial assets measured at amortised cost comprise time deposits and restricted time 
+deposits with banks that possess strong credit ratings and no history of default. 
+Considering also that there have been no significant changes in the overall economic 
+environment, the risk of credit loss is assessed to be very low and the impact on the 
+financial statements is considered immaterial. 
+viii. Information on the aging analysis of the Company’s accounts receivable from customers 
+is disclosed in Note 6(4). In assessing credit risk, the Company takes into account the 
+counterparties’ financial position, historical transaction experience, current economic 
+conditions, and the Company’s internal credit rating standards. Based on these risk 
+factors, the Company may require prepayments, collateral, or other forms of guarantees. 
+Accounts receivable are grouped according to risk characteristics, and the Company 
+applies the simplified approach using the loss rate method to estimate expected credit 
+losses. On the balance sheet date, the Company reviews the recoverable amount of 
+accounts receivable on an individual basis to ensure that appropriate impairment losses 
+have been recognised for uncollectible amounts. Based on this assessment, the expected 
+credit loss (ECL) allowance by the Company as at December 31, 2025 and 2024 was 
+considered immaterial. 
+(c) Liquidity risk 
+i. The Company manages liquidity risk through forecasting and continuous monitoring of 
+working capital requirements, ensuring that it maintains adequate levels of cash and cash 
+equivalents to support operational needs and to reduce the impact of cash flow fluctuations 
+on business operations. 
+ 
+ 
+~62~ 
+ii. Surplus cash held by the operating entities in excess of what is required for working capital 
+purposes, is invested in  interest-bearing current accounts, time deposits and marketable 
+securities. The investment instruments are selected based on appropriate maturities or 
+sufficient liquidity, as determined by the aforementioned forecasts, to ensure an adequate 
+level of financial flexibility. 
+iii. The table below analyses the Company’s non-derivative financial liabilities and net-settled 
+or gross-settled derivative financial liabilities into relevant maturity groupings based on the 
+remaining period at the balance sheet date to the contractual maturity date for  non-
+derivative financial liabilities and to the expected maturity date  for derivative financial 
+liabilities. The amounts disclosed in the table are the contractual undiscounted cash flows. 
+ 
+  
+Non-derivative financial liabilities: Less than 1 Between 1
+December 31, 2025 year and 5 years Over 5 years
+  Short-term borrowings 1,273,870$   -$               -$                  
+  Notes payable 2,529            -                 -                    
+  Accounts payable 2,230,747     -                 -                    
+  Accounts payable - related parties 17,622          -                 -                    
+  Other payables 642,337        -                 -                    
+  Lease liabilities 18,636          47,844       37,770          
+  Bonds payable (including  current
+   portion) 999,900        -                 -                    
+  Long-term borrowings (including  current
+   portion) 302,918        427,584      399,384        
+  Guarantee deposits received -                   -                 7,182            
+Derivative financial liabilities: None.
+Non-derivative financial liabilities: Less than 1 Between 1
+December 31, 2024 year and 5 years Over 5 years
+  Short-term borrowings 1,603,522$   -$               -$                  
+  Accounts payable 2,073,109     -                 -                    
+  Accounts payable - related parties 265,413        -                 -                    
+  Other payables 808,171        -                 -                    
+  Lease liabilities 15,204          48,043       36,011          
+  Bonds payable -                   999,900      -                    
+  Long-term borrowings (including  current
+   portion) 253,955        669,364      460,514        
+  Guarantee deposits received -                   -                 6,139            
+Derivative financial liabilities: None.
+ 
+~63~ 
+(2) Fair value information 
+A. The different levels that the inputs to valuation techniques are used to measure fair value of 
+financial and non-financial instruments have been defined as follows: 
+Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities that the 
+entity can access at the measurement date. A market is regarded as active where a market 
+in which transactions for the assets or liabilities take place with sufficient frequency and 
+volume to provide pricing information on an ongoing basis. The fair value of the 
+Company’s investment in listed stocks and emerging stocks, beneficiary certificates and 
+debt securities are included in Level 1. 
+Level 2: Inputs other than quoted prices included within Level 1 that are observable for the assets 
+or liabilities, either directly or indirectly. 
+Level 3:  Unobservable inputs for the assets or liabilities . The fair value of the Company’s 
+investment in equity investment without active market is included in Level 3. 
+B. Fair value information of investment property at cost is provided in Note 6(9). 
+C. Except for those listed in the table below, the carrying amounts of cash and cash equivalents, 
+financial assets at amortised cost, notes receivable, accounts receivable, other receivables, 
+refundable deposits, short -term and long -term borrowings, notes payable, accounts payable, 
+other payables, lease liabilities and gua rantee deposits received are approximate to their fair 
+values. 
+ 
+ 
+D. The related information of financial and non -financial instruments measured at fair value by 
+level on the basis of the nature, characteristics and risks of the assets and liabilities is as follows: 
+(a) The related infor mation of nature  of the assets and liabilities is as follows : 
+ Book value  Level 1  Level 2  Level 3 
+Financial liabilities:
+  Bonds payable (including
+    current portion) 982,978$      -$                985,701$     -$                
+December 31, 2025
+ Book value  Level 1  Level 2  Level 3 
+Financial liabilities:
+  Bonds payable 962,721$      -$                962,004$     -$                
+December 31, 2024
+December 31, 2025 Level 1 Level 2 Level 3 Total
+Financial assets
+Financial assets at fair value
+  through profit or loss
+   Call options of convertible bonds -$                -$                2,700$        2,700$        
+ 
+~64~ 
+ 
+(b) The methods and assumptions  that the Company used to measure fair value are as follows : 
+Except for financial instruments with active markets, the fair value of other financial 
+instruments is measured by using valuation techniques or by reference to counterparty 
+quotes. The fair value of financial instruments measured by using valuation techni ques can 
+be referred to current fair value of instruments with similar terms and characteristics in 
+substance, discounted cash flow method or other valuation methods, including calculated 
+by applying model using market information available at the  parent company only  balance 
+sheet date. 
+E. For the years ended December 31, 2025 and 2024, there was no transfer between Level 1 and 
+Level 2. 
+F. The following table is the movement of Level 3 for the years ended December 31, 2025 and 
+2024: 
+ 
+G. The valuation procedures for fair value measurements are  categorised within Level 3, which 
+is to verify independent fair value of financial instruments. Such assessment is to ensure the 
+valuation results are reasonable by applying independent information to make results close to 
+current market conditions, confirming the resource of information is independent, reliable and 
+in line with other resources and represented as the exercisable price, and frequently calibrating 
+valuation model, performing back -testing, updating inputs used to the valuation model and 
+making any other necessary adjustments to the fair value.  
+December 31, 2024 Level 1 Level 2 Level 3 Total
+Financial assets
+Financial assets at fair value
+  through profit or loss
+   Call options of convertible bonds -$                -$                100$           100$           
+Financial assets at fair value
+   through other comprehensive
+   income
+   Equity securities -                  -                  9,590          9,590          
+Total -$                -$                9,690$        9,690$        
+Financial liabilities: None.
+ Equity
+instrument
+ Call options
+of convertible
+bonds
+ Equity
+instrument
+ Call options
+of convertible
+bonds
+At January 1 9,590$             100$                11,460$           2,100$             
+Valuation adjustment 9,590)(               2,600               1,870)(               2,000)(               
+At December 31 -$                    2,700$             9,590$             100$                
+2025 2024
+ 
+~65~ 
+H. The following  table is the qualitative information of significant unobservable inputs and 
+sensitivity analysis of changes in significant unobservable inputs to valuation mod el for Level 
+3 fair value measurement:  
+ 
+  
+ Fair value at
+December 31,
+2025
+ Valuation
+technique
+ Significant
+unobservable
+input
+ Range
+(weighted
+average)
+ Relationship of
+inputs to fair
+value
+Non-derivative
+   equity instrument:
+Unlisted shares -$                 Market -
+comparable
+companies
+Discount for
+ lack of
+marketability
+45% The higher the
+ discount of lack
+ of marketability,
+ the lower the fair
+ value
+Financial assets at
+ fair value through
+ profit or loss -
+ call options of
+ convertible bonds
+2,700           Binomial tree
+ pricing model
+ for convertible
+ bonds
+Stock price
+ volatility
+54.78% The higher the
+ volatility, the
+ lower the fair
+ value
+ Fair value at
+December 31,
+2024
+ Valuation
+technique
+ Significant
+unobservable
+input
+ Range
+(weighted
+average)
+ Relationship of
+inputs to fair
+value
+Non-derivative
+   equity instrument:
+Unlisted shares 9,590$         Market -
+comparable
+companies
+Discount for
+ lack of
+ marketability
+45.00% The higher the
+ discount of lack
+ of marketability,
+ the lower the fair
+ value
+Financial assets at
+ fair value through
+ profit or loss -
+ call options of
+ convertible bonds
+100              Binomial tree
+ pricing model
+ for convertible
+ bonds
+Stock price
+ volatility
+35.72% The higher the
+ volatility, the
+ lower the fair
+ value
+ 
+~66~ 
+I. The Company has carefully assessed the valuation models and assumptions used to measure fair 
+value. However, use of different valuation models or assumptions may result in different fair 
+value measurement. The following table sets out the potential impact on profit or loss and other 
+comprehensive income from financial assets classified as Level 3, arising from reasonably  
+possible changes in significant unobservable inputs used in the valuation models: 
+ 
+ 
+13. SUPPLEMENTARY DISCLOSURES  
+(1) Significant transactions information 
+A. Loans to others: None. 
+B. Provision of endo rsements and guarantees to others: None. 
+C. Holding of marketable securities at the end of the period (not including subsidiaries, 
+associates and joint ventures): Please refer to table  1. 
+D. Purchases or sales of goods from o r to related parties reaching $100 million or 20% of paid -
+in capital or more: Please refer to table 2. 
+E. Receivables from related parties reaching $100 million or 20% of paid -in capital or more: 
+None. 
+ Input
+ 
+Change
+ 
+Favourable
+change
+ Unfavourable
+change
+ 
+Favourable
+change
+ Unfavourable
+change
+Financial assets
+Financial assets at
+ fair value through
+ profit or loss -
+ call options of
+ convertible bonds Volatility ± 2% 400$        -$                 -$            -$                 
+ December 31, 2025
+ Recognised in profit or
+loss
+ Recognised in other
+comprehensive income
+ Input
+ 
+Change
+ 
+Favourable
+change
+ Unfavourable
+change
+ 
+Favourable
+change
+ Unfavourable
+change
+Financial assets
+Equity
+instrument
+Discount for
+lack of
+marketabilit
+± 10% -$            -$                 785$        785)($            
+Financial assets at
+ fair value through
+ profit or loss -
+ call options of
+ convertible bonds Volatility ± 1% -$            -$                 -$            -$                 
+ December 31, 2024
+ Recognised in profit or
+loss
+ Recognised in other
+comprehensive income
+ 
+~67~ 
+F. Significant inter -company transactions during the reporting period: Please refer to table 3. 
+(2) Information on investees  
+Names, locations, and other information of investee companies (not including investees in 
+Mainland China): Please refer to table 4. 
+(3) Information on investments in Mainland China 
+A. Basic information: Please refer to table 5. 
+B. Significant transactions, either directly or indirectly through a third area, with investee 
+companies in the Mainland Area:  None. 
+  
+Number of shares
+Book value
+(Note 1) Ownership (%)
+Fair value
+(Note 1) Footnote
+Elite Semiconductor
+ Microelectronics Technology
+ Inc.
+Turning Point Lasers Ltd, preferred stock None Financial assets at fair value through
+ other comprehensive income
+                1,000,000                             - 6.29                             -
+Charng Feng Investment Ltd. M2 Communication Inc. stock None Financial assets at fair value through
+  profit or loss
+                   100,542                           724 0.66                          724
+Charng Feng Investment Ltd. Powership Semiconductor Manufacturing
+  Corporation
+None Financial assets at fair value through
+  profit or loss
+                   100,426                        3,972 0.00                       3,972
+Charng Feng Investment Ltd. Turning Point Lasers Ltd, preferred stock None Financial assets at fair value through
+ other comprehensive income
+                1,000,000                             - 6.29                             -
+Charng Feng Investment Ltd. StorArt Technology Co. Ltd, common stock None Financial assets at fair value through
+ other comprehensive income
+                1,000,000                      28,170 1.95                     28,170
+Jie Yong Investment Ltd. Elite Semiconductor Microelectronics
+  Technology Inc. stock
+Parent Company Financial assets at fair value through
+ other comprehensive income
+              14,000,000                 1,652,000 4.89                1,652,000
+(Except as otherwise indicated)
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. AND SUBSIDIARIES
+Holding of marketable securities at the end of the period
+December 31, 2025
+Table 1 Expressed in thousands of NTD
+Note 1: Valuation adjustments of financial assets included.
+Securities held by
+Name and category of
+marketable securities
+Relationship with the
+securities issuer
+Financial Statement
+Account
+As at December 31, 2025
+Table 1
+Purchase
+(sales) Amount 
+Percentage of
+total purchase
+(sales) Credit term Unit price Credit term Balance
+Percentage of total
+notes/accounts
+receivable (payable)
+CHI Microelectronics Limited Elite Semiconductor
+  Microelectronics Technology
+  Inc.
+Ultimate parent company Sales 797,136$             5.47% Net 30 days from
+month-end
+-$                   - 17,622$             0.80%
+FootnotePurchase/seller Counterparty
+Relationship with the
+counterparty
+Transaction
+Differences in transaction terms
+compared to third party
+transactions Notes/accounts receivable(payable)
+(Except as otherwise indicated)
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. AND SUBSIDIARIES 
+Purchases or sales of goods from or to related parties reaching NT$100 million or 20% of paid-in capital or more
+Table 2 Expressed in thousands of NTD
+For the year ended December 31, 2025
+Table 2
+General ledger account Amount Transaction terms
+Percentage of
+consolidated total
+operating revenues or
+total assets (Note 3)
+1 CHI Microelectronics Limited Elite Semiconductor Microelectronics Technology Inc. (2) Sales 797,136$                    Note 4 5.47%
+ Note 1: The numbers filled in for the transaction company in respect of inter-company transactions are as follows: 
+           (1) Parent company is ‘0’.
+           (2) The subsidiaries are numbered in order starting from ‘1’.
+Note 2: Relationship between transaction company and counterparty is classified into the following three categories:
+           (1) Parent company to subsidiary. 
+           (2) Subsidiary to parent company. 
+           (3) Subsidiary to subsidiary.
+Note 3: Regarding percentage of transaction amount to consolidated total operating revenues or total assets, it is computed based on period-end balance of transaction to consolidated total assets for balance sheet 
+              accounts and based on accumulated transaction amount for the period to consolidated total operating revenues for income statement accounts.
+Note 4: The transaction terms are decided by the mutual party through negotiation.
+Note 5: The disclosure requirement for the above disclosed amount is 1% of the consolidated total assets for balance sheet accounts and  1% of the consolidated total revenue for income statement accounts.
+Note 6: The transaction between parent company to subsidiary and subsidiaries were eliminated when preparing consolidated financial statements.
+Transaction
+(Except as otherwise indicated)
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. AND SUBSIDIARIES
+Significant inter-company transactions during the reporting period
+For the year ended December 31, 2025
+Table 3 Expressed in thousands of NTD
+Number
+(Note 1) Company name Counterparty 
+Relationship
+(Note 2)
+Table 3
+Balance as at
+December 31,
+2025
+Balance as at
+December 31,
+2024 Number of shares Ownership (%) Book value
+Elite Semiconductor
+  Microelectronics Technology Inc.
+Elite Semiconductor Memory
+  Technology Inc.
+Taiwan Research and development,
+  production, sales
+  and related consulting services of
+  integrated circuits
+ $                       272  $                       272 100,000 100  $                     19,956 1,911$                         1,911$                        
+Elite Semiconductor
+  Microelectronics Technology Inc.
+Charng Feng Investment Ltd. Taiwan Investment activities                    500,000                    500,000 50,000,000 100                       572,862 17,708                         17,708                        
+Elite Semiconductor
+  Microelectronics Technology Inc.
+Elite Investment Services Ltd. British Virgin Islands Investment activities                      31,430                      31,430 1 100                         57,036 3,484                           3,484                          
+Elite Semiconductor
+  Microelectronics Technology Inc.
+Jie Yong Investment Ltd. Taiwan Investment activities                    270,000                    270,000 3,600,000 41.86                       141,969 12,217                         557)(                             
+Elite Semiconductor
+  Microelectronics Technology Inc.
+Eon Silicon Solutions, Inc. USA U.S.A. Product design, development and
+  testing
+                     13,304                      13,304 200,000 100 1,306)(                         114                              114                             
+Charng Feng Investment Ltd. Elite Memory Technology Inc. Taiwan Product design, wholesale and retail
+   of electronic materials,
+   manufacturing of electronic
+   components, information
+   software services and
+   international trade
+                   180,174                    180,174 10,000,000 100                         26,955 2,262                           2,262                          
+Charng Feng Investment Ltd. Canyon Semiconductor Inc. Taiwan International trade, manufacturing
+  of electronic components,
+  product design and
+  information software
+  services
+                   128,287                    128,287 8,350,000 36.69                       145,522 14,154                         5,193                          
+Charng Feng Investment Ltd. Elite Innovation Japan Ltd. Japan Product design, wholesale and retail
+  of electronic materials,
+  manufacturing of electronic
+  components, information software
+  services and international trade
+                       2,330                        2,330 200 100                           2,522 53                                53                               
+Charng Feng Investment Ltd. CHI Microelectronics Limited Hong Kong General trading                           808                           808 20,000 100                           3,936 2,974                           2,974                          
+Note : The foreign investment amount was translated at the exchange rate as at December 31, 2025.
+Information on investees (exclude investees in Mainland China)
+For the year ended December 31, 2025
+Table 4 Expressed in thousands of NTD
+(Except as otherwise indicated) 
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. AND SUBSIDIARIES
+FootnoteInvestor Investee Location
+Main business
+activities
+Initial investment amount (Note) Shares held as at December 31, 2025
+Net profit (loss)
+of the investee for the
+year ended December
+31, 2025
+Share of profit (loss) of
+investees for the year
+ended December 31,
+2025
+Table 4
+Remitted to
+Mainland
+China
+Remitted
+back to
+Taiwan
+Elite Semiconductor
+  Microelectronics
+  Technology
+  (shenzhen) Inc.
+Trading of goods, provision
+of technical services,
+development and sale of
+networking, storage, and
+peripheral products,
+integrated circuit consulting
+services, and after-sales
+services
+95,531$                    (1) 95,531$                              -$                -$                95,531$            514$                100% 514$                                 95,381$            -$                                       Note 5
+Elite Semiconductor
+  Microelectronics
+  Technology
+  (Shanghai) Inc.
+Product design, wholesale
+   and retail of electronic
+   materials, information
+   software services and
+   international trade
+6,286                        (1) 6,286                                  -                  -                  6,286                849                  100% 849                                   11,406              -                                         Note 6
+Elite Semiconductor
+ Microelectronics Technology
+ (Xian) Inc.
+Product design, wholesale
+   and retail of electronic
+   materials, information
+   software services and
+   international trade
+2,248                        (3) -                                          -                  -                  -                        184                  100% 184                                   1,703                -                                         
+Company name
+Accumulated amount
+of remittance from Taiwan
+to Mainland
+China as at
+December 31, 2025
+Investment amount
+approved by the
+Investment
+Commission of the
+Ministry of
+Economic Affairs
+(MOEA)(Note 6)
+Ceiling of
+investments in
+Mainland China
+imposed by the
+Investment
+Commission of
+MOEA
+Charng Feng Investment Ltd. 101,817$                            101,817$                   $           343,717
+Note 1: Investment methods are classified into the following three categories; fill in the number of category each case belongs to: 
+            (1) Directly invest in a company in Mainland China.
+            (2) Through investing in an existing company in the third area, which then invested in the investee in Mainland China. 
+            (3) Others.
+Note 2: Investment income (loss) was recognised based on financial statements prepared by each company which were audited by independent auditors.
+Note 3: The amount of the statement should show as New Taiwan dollars.
+Note 4: Paid-in capital and investment amount translated at the exchange rate as at December 31, 2025.
+Note 5: The Company's subsidiary, Charng Feng Investment Ltd., obtained the revised investment amount of USD 39,485.42, USD 2,500,000, and USD 500,000 approved by the Investment Commission, MOEA on February 6, 2020, July 10, 2020 and November 30, 2021, respectively.
+Ownership held
+by the Company
+(direct or
+indirect)
+Share of profit (loss) of
+investees for the year
+ended December 31, 2025
+(Note 2)
+Book value of
+investment in
+Mainland China
+as at December
+31, 2025
+Accumulated amount of
+investment income
+remitted back to Taiwan as
+at December 31, 2025
+Amount remitted from
+Taiwan to Mainland
+China/Amount remitted
+back to Taiwan for the year
+ended December 31, 2025
+Note 6: The Company's subsidiary, Charng Feng Investment Ltd., obtained the investment amount of USD 200,000 approved by the Investment Commission of MOEA on May 20, 2020.
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. AND SUBSIDIARIES
+Information on investments in Mainland China
+For the year ended December 31, 2025
+Table 5 Expressed in thousands of NTD
+(Except as otherwise indicated) 
+Footnote
+Accumulated
+amount of
+remittance from
+Taiwan to
+Mainland China
+as at December
+31, 2025
+Net income
+(loss) of
+investee for the
+year ended
+December 31,
+2025Investee in Mainland China Main business activities
+Paid-in Capital
+ (Note 4)
+Investment
+method
+(Note1)
+Accumulated amount of
+remittance from Taiwan to
+Mainland China as at
+January 1, 2025
+Table 5
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF CASH AND CASH EQUIV ALENTS 
+DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 1 
+Statement 1, Page1 
+ 
+Item Description Amount
+Petty cash 90$                   
+Bank deposits
+    Demand deposits -New Taiwan Dollar 456,466             
+                               -Foreign currency USD  23,418 thousand exchange
+rate 31.43
+736,018             
+EUR  0.3 thousand exchange rate 36.9 10                     
+RMB 86 thousand exchange rate 4.496 387                   
+Time deposits - New Taiwan Dollar Expiration date is from January 2, 2026
+to March 2, 2026 at interest rate
+1.56%~1.68%
+2,340,000          
+USD 4,557 thousand, exchange rate
+31.43
+Expiration date is January 2, 2026 at
+interest rate 3.7%
+143,227             
+CNY 98,400 thousand, exchange rate
+4.496
+Expiration date is between January 5,
+2026 to February 9, 2026  at interest
+rate 1.25%~ 1.7% 442,406             
+Total 4,118,604$        
+Time deposits - Foreign currency
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF TRADE RECEIV ABLES 
+DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 2 
+Statement 2, Page1 
+  
+Customer Name Description Amount Note
+General customer
+   Customer A 372,228$                      
+   Customer C 212,954                        
+   Customer B 198,314                        
+   Customer E 136,801                        
+   Customer F 124,072                        
+   Customer G 112,499                        
+   Customer H 110,842                        
+The balance of each customer has 
+   Others 855,333                        
+not exceeded 5% of the accounts
+receivable.
+2,123,043                     
+The accounts receivable past due
+over one year amounted
+to $0.
+-                                   
+2,123,043$                   
+Less:Allowance for uncollectible
+accounts
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF INVENTORIES 
+DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 3 
+Statement 3, Page1 
+  
+Cost Net realisable value
+Raw materials 738,445$      787,085$                
+The net realisable value
+is net market value.
+Work in progress 5,426,741     6,418,988               "
+Finished goods 945,154        1,215,109               "
+Inventory in transit 18,344          18,344                    
+The replacement cost is
+net market value.
+7,128,684$    8,439,526$             
+48,154)(          
+7,080,530$    
+Item Description
+Amount
+Note
+Less: Allowance on market value decline
+         and obsolete and slow-moving
+         inventories
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF CHANGES IN INVESTMENTS ACCOUNTED FOR USING THE EQUITY METHOD 
+FOR THE YEAR ENDED DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 4 
+Statement 4, Page1 
+  
+Shares Amount Shares Amount Shares Amount Shares Ownership Amount Unit Price Total Amount
+Charng Feng
+  Investment Ltd.
+50,000,000      583,818$             -           -                    -           10,956)($              50,000,000 100% 572,862$            11$                    572,862$            Equity
+method
+None
+Jie Yong Investment
+  Ltd.
+3,600,000        163,007               -           -                    -           21,038)(                   3,600,000 41.86% 141,969              39                      141,969             " "
+Elite Investment
+  Services Ltd.
+1                       55,831                 -           1,205            -           -                                            1 100% 57,036                57,035,697        57,036               " "
+Elite Semiconductor
+  Memory Technology
+  Inc.
+100,000           21,267                 -           -                    -           1,311)(                        100,000 100% 19,956                200                    19,956               " "
+Eon Silicon Solutions
+  Inc. USA 200,000           1,483)(                   -           177               -           -                                 200,000
+100%
+1,306)(                  7)(                        1,306)(                 " "
+822,440$             1,382$          33,305)($       790,517$            790,517$           
+Note 1: The increased and decreased amounts in the period include investment gains and losses, cumulative translation adjustments, valuation adjustment on financial assets and subsidiary owns the Company’s share.
+Collateral
+or pledge NoteName
+Beginning Balance Increase (note 1) Decrease (note 1) Ending Balance Market Value or Net Equity Value Basis of
+valuation
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF CHANGES IN COST AND ACCUMULATED DEPRECIA TION OF PROPERTY , PLANT AND EQUIPMENT 
+FOR THE YEAR ENDED DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 5 
+Statement 5, Page1 
+  
+Please refer to Note 6(7).
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF TRADE PAYABLES 
+DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 6 
+Statement 6, Page1 
+  
+Customer Name Description Amount Note
+General customer:
+  A supplier 930,221$                   
+  B supplier 511,169                     
+  C supplier 176,910                     
+  D supplier 112,132                     
+  Others
+500,315                     
+The balance of each supplier has
+not exceeded 5% of the accounts
+payable.
+2,230,747                  
+Related parties
+ CHI Microelectronics
+    Limited 17,622                       
+2,248,369$                
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF SHORT-TERM BORROWINGS 
+DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 7 
+Statement 7, Page1 
+  
+Creditor Description Amount Contract Period Interest Rate Collateral or pledge Note
+Mega International Commercial Bank Co., Ltd. Credit loans 420,000$               2025.12.9~2026.3.20 1.80%~ 1.90% None
+Land Bank of Taiwan Credit loans 350,000                 2025.12.22~2026.3.20 1.90% None
+First Commercial Bank, Ltd Credit loans 300,000                 2025.12.12~2026.1.9 1.88% None
+Bank of Taiwan Credit loans 200,000                 2025.12.9~2026.3.9 1.88% None
+1,270,000$            
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF LONG-TERM BORROWINGS 
+DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 8 
+Statement 8, Page1 
+  
+Creditor Description Amount Contract Period Interest Rate Collateral or pledge Note
+Chang Hwa
+Commercial Bank,
+Ltd.
+Long-term secured borrowings 643,400$             2022.10.7~2037.10.7 1.80% ~ 1.90% Land、building and
+structures
+Far Eastern International
+Bank, Ltd.
+Credit loans 406,300               2024.9.12~2027.8.19 2.036% ~ 2.038% None
+1,049,700            
+Less:Current portion 284,817)(               
+764,883$             
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF BONDS PAYABLE 
+DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 9 
+Statement 9, Page1 
+  
+Total
+Issuance
+Amount
+Repayment
+Paid
+Ending
+Balance
+Unamortized
+Premiums
+(Discounts)
+Carrying
+Amount
+The first
+domestic
+unsecured
+convertible
+bonds
+KGI Bank
+Co., Ltd.
+2023.10.27 Not
+applicable
+0%
+1,000,000$ 100)($         999,900$    16,922)($      982,978$ 
+Repayable
+at maturity
+date None
+Repayment
+Term Collateral NoteBonds Name Trustee
+Issuance
+Date
+Interest
+Payment
+Date
+Coupon
+Rate
+Amount
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF OPERA TING REVENUE 
+FOR THE YEAR ENDED DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 10 
+Statement 10, Page1 
+  
+Item Quantities Amount Note
+ Sales revenue  1,538,738 thousands 14,612,517$                 
+ Less: sales returns and discounts  374 thousands 37,245)(                          
+ Net sales revenue 14,575,272$                 
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF OPERA TING COSTS 
+FOR THE YEAR ENDED DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 11 
+Statement 11, Page1 
+  
+Item Amount
+Direct material
+Beginning raw materials 515,156$                      
+Add: Material purchased 3,814,329                     
+Less: Transferred to expenses 2,444)(                            
+          Ending raw material 738,445)(                        
+Raw material consumed 3,588,596                     
+Direct labor 36,816                          
+Manufacturing overhead 2,229,052                     
+Manufacturing cost 5,854,464                     
+Beginning Work in progress 6,044,838                     
+Add: Work in progress purchased 5,127,706                     
+Less: Transferred to expenses 10,072)(                          
+         Ending work in progress 5,426,741)(                     
+Cost of finished goods 11,590,195                   
+Add: Beginning finished goods 1,582,448                     
+         Finished goods purchased 40,316                          
+         Transferred from expenses 81,688                          
+Less: Transferred to expenses 10,753)(                          
+          Ending finished goods 945,154)(                        
+          Others 9,231)(                            
+Total cost of goods sold 12,329,509                   
+Gain on reversal of market value
+decline and slow-moving inventories 171,689)(                        
+Total operating costs 12,157,820$                 
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF MANUFACTURING OVERHEADS 
+FOR THE YEAR ENDED DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 12 
+Statement 12, Page1 
+  
+Item Description Amount Note
+Processing fee 1,897,505$                   
+Depreciation charge 161,897                        
+Other expenses 169,650                        
+The balance of each account has not
+exceeded 5% of the manufacturing
+overhead.
+Total 2,229,052$                   
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF SELLING EXPENSES 
+FOR THE YEAR ENDED DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 13 
+Statement 13, Page1 
+  
+Item Description Amount Note
+Salaries and wages 120,714$                      
+Professional service fees 105,952                        
+Import and export charges 28,974                          
+Other expenses 69,143                          
+The balance of each account has not
+exceeded 5% of the selling expenses.
+Total 324,783$                      
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF ADMINISTRATIVE EXPENSES 
+FOR THE YEAR ENDED DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 14 
+Statement 14, Page1 
+  
+Item Description Amount Note
+Salaries and wages 151,847$                      
+Depreciation expense 24,129                          
+Professional service fees 23,128                          
+Other expenses 80,824                          
+The balance of each account has not
+exceeded 5% of the administrative
+expenses.
+Total 279,928$                      
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+STA TEMENT OF RESEARCH AND DEVELOPMENT EXPENSES 
+FOR THE YEAR ENDED DECEMBER 31, 2025 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 15 
+Statement 15, Page1 
+  
+Item Description Amount Note
+Salaries and wages 906,283$            
+Depreciation expense 174,712              
+Amortisation expenses 164,967              
+Research and development expenses 77,944                
+Other expenses 218,732              
+The balance of each account has not
+  exceeded 5% of the research and
+  development expenses.
+Total 1,542,638$         
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+SUMMARY STATEMENT OF CURRENT PERIOD EMPLOYEE BENEFITS, DEPRECIATION, DEPLETION AND AMORTIZATION EXPENSES BY 
+FUNCTION 
+FOR THE YEARS ENDED DECEMBER 31, 2025 AND 2024 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 16 
+Statement 16, Page1 
+ 
+Nature
+Employee Benefit Expense
+  Wages and salaries  $            81,801  $       1,171,649  $       1,253,450  $            84,859  $       1,147,663  $                  1,232,522
+  Labor and health insurance fees                  8,036                70,054                78,090                  8,655                69,673                           78,328
+  Pension costs                  4,002                40,889                44,891                  4,629                39,330                           43,959
+  Directors' remuneration                         -                  7,195                  7,195                         -                11,023                           11,023
+  Other employee benefit expenses                  3,017                22,620                25,637                  2,828                19,663                           22,491
+Depreciation expense              161,897              203,323              365,220              259,924              183,191                         443,115
+Amortisation expense                       32              169,812              169,844                       32              153,413                         153,445
+Note: 
+4. The average employee salaries and wages increased by 0.5% compared to the previous year.
+ 
+1. As at December 31, 2025 and 2024, the average number of the Company’s employee were 606 and 592, respectively, including 7 and 6 directors, who did not concurrently serve as
+    employees.
+2. As at 2025 and 2024, the average employee benefit expense was $2,341 and $2,350, respectively.
+3. As at 2025 and 2024, the average employee salaries and wages for the current year was $2,093 and $2,103, respectively.
+5. The Company has set up audit committee, therefore, there was no supervisors’ remuneration.
+Function Year ended December 31, 2025 Year ended December 31, 2024
+Classified as
+Operating Costs
+Classified as
+Operating
+Expenses
+Total Classified as
+Operating Costs
+Classified as
+Operating
+Expenses
+Total
+ELITE SEMICONDUCTOR MICROELECTRONICS TECHNOLOGY INC. 
+SUMMARY STATEMENT OF CURRENT PERIOD EMPLOYEE BENEFITS, DEPRECIATION, DEPLETION AND AMORTIZATION EXPENSES BY 
+FUNCTION (Cont.) 
+FOR THE YEARS ENDED DECEMBER 31, 2025 AND 2024 
+(Expressed in thousands of New Taiwan dollars) 
+ 
+Statement 16 
+Statement 16, Page2 
+  
+6. The Company’s compensation policies (including directors, supervisors, executive officers and employees).
+     According to the Company’s Articles of Incorporation, the Compensation Committee determine the salary for the directors , taking into account the extent and value of
+     the services provided for the management of the Company and the standards of the industry within the R.O.C. then submitted to  the Board of Directors for approval.
+     The Company could set different salaries between independent directors and general directors . According to the Company’s Articles of independent directors,
+     the salary for the independent directors should be based on Articles of Incorporation or have been approved by the shareholders' meeting, and could set reasonable salaries
+     that are different from general directors.
+     The Company’s compensation policies of executive officers and employees are based on fixed salary of salary structure, including base salary, meal allowance,
+     variable salary (including overtime wage and overtime meal allowance), and bonus (including year-end bonus, supplemental bonus).
+     The salary of the position is in accordance with the salary standards of the industry, job responsibilities and the services provided for the operational
+     objectives of the Company.
+     In addition to the operational performance, future business risk in industry and trend of development, the Company also takes individual performance and services provided
+     to the Company into consideration when determining reasonable compensation.
+     The performance assessments and the reasonableness of compensation for executive officers are reviewed by the Remuneration Committee and the Board of Directors.
+     The compensation system is subject to adjustment based on the Company's actual operations and relevant laws and regulations.
+     In accordance with the Company's Articles of Incorporation, if the Company generates a profit for the year, it shall allocate no less than 1% of the profit as employees'
+     compensation and no more than 1% of the profit as directors' remuneration, after offsetting any accumulated deficits. Furthermore, no less than 50% of the
+     aforementioned employees' compensation shall be distributed to non-managerial employees.

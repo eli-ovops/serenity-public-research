@@ -1,0 +1,313 @@
+Intel (INTC) Stock Price & Overview (https://stockanalysis.com/stocks/intc/)
+citeturn392view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/intc/","lineno":65}); Total lines: 377
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†By Country L15:   * cite8†Comparison Tool L16:   * cite9†Earnings Calendar L17:   * cite10†By Industry L18:   * cite11†Stock Lists L19:   * cite12†Top Stocks L20:   * cite13†Corporate Actions L21: 
+L22: cite14†IPOs L23: 
+L24:   * cite14†Recent IPOs L25:   * cite15†IPO Calendar L26:   * cite16†IPO Lockups L27:   * cite17†IPO Statistics L28:   * cite18†IPO News L29:   * cite19†IPO Screener L30: 
+L31: cite20†ETFs L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: 
+L66: cite42†Image: Intel logo†logos.stockanalysis.com L67: # Intel Corporation (INTC)
+L68: 
+L69: NASDAQ: INTC · Real-Time Price · USD
+L70: 
+L71: 100.21
+L72: 
+L73: -1.14 (-1.12%)
+L74: 
+L75: Oct 13, 2026, 10:03 AM EDT - Market open
+L76: 
+L77:   * cite43†Overview L78:   * cite44†Financials L79:   * cite45†Forecast L80:   * cite46†Statistics L81:   * cite47†Metrics L82:   * cite48†Dividends L83:   * cite49†History L84:   * cite50†Profile L85:   * cite51†Chart L86: 
+L87:   * 1D
+L88:   * 5D
+L89:   * 1M
+L90:   * YTD
+L91:   * 3M
+L92:   * 6M
+L93:   * 1Y
+L94:   * 5Y
+L95:   * Max
+L96: 
+L97: Full Chart Watchlist Alerts Compare
+L98: cite52†Market Cap | 526.56B +221.4%
+L99: cite53†Revenue (ttm) | 57.03B +7.5%
+L100: Net Income  | -11.29B
+L101: EPS  | -2.30
+L102: Shares Out  | 5.25B
+L103: PE Ratio  | n/a
+L104: Forward PE  | 59.79
+L105: Dividend  | n/a
+L106: Ex-Dividend Date  | n/a
+L107: Volume  | 16,943,848
+L108: Open  | 99.59
+L109: Previous Close  | 101.35
+L110: Day's Range  | 98.23 - 100.75
+L111: 52-Week Range  | 32.89 - 142.35
+L112: Beta  | 2.23
+L113: cite54†Analysts | Buy
+L114: cite45†Price Target | 118.48 (+18.23%)
+L115: Earnings Date  | Oct 29, 2026
+L116: ## About INTC
+L117: Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry.
+L118: The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, su... cite50†[Read more] L119: Industry cite55†Semiconductors L120: 
+L121: Sector cite56†Technology L122: 
+L123: Founded 1968
+L124: 
+L125: Employees cite57†85,100 L126: 
+L127: Stock Exchange Nasdaq
+L128: 
+L129: Ticker Symbol INTC
+L130: 
+L131: Website cite58†https://www.intel.com†www.intel.com L132: 
+L133: cite50†Full Company Profile L134: ## Financial Performance
+L135: 
+L136: In 2025, Intel's revenue was $52.85 billion, a decrease of -0.47% compared to the previous year's $53.10 billion. Losses were -$267.00 million, -98.58% less than in 2024.
+L137: 
+L138: cite44†Financial Statements L139: 
+L140: ## Analyst Summary
+L141: 
+L142: According to 48 analysts, the average rating for INTC stock is "Buy." The 12-month stock price target is $118.48, which is an increase of 18.23% from the latest price.
+L143: 
+L144: Price Target
+L145: 
+L146: $118.48
+L147: 
+L148: (18.23% upside)
+L149: 
+L150: Analyst Consensus: Buy
+L151: 
+L152: cite45†Stock Forecasts L153: ## News
+L154: 
+L155:   * [Button: All]
+L156:   *   * Press
+L157:   * [Button: Transcripts]
+L158:   * [Button: Filings]
+L159:   * Chat
+L160: 
+L161: ### cite59†Nvidia, AMD and Intel stocks fall premarket: why smart money is trimming chip bets†invezz.com L162: 
+L163: Nvidia and AMD stocks slipped again in Tuesday's premarket trading after four consecutive declines, while Intel stock briefly bucked the move before reversing as pressure spread across the chip sector...
+L164: 
+L165: Other symbols: cite60†AMD cite61†NVDA L166: 
+L167: 3 hours ago - Invezz
+L168: ### cite62†Broadcom, Intel CEOs warn of AI capital crunch, CNBC reports†www.tipranks.com L169: 
+L170: Speaking at the DBS Asia Future Forward Conference in Singapore, Broadcom (AVGO) (ACGO) CEO Hock Tan cautioned that market sentiment has grown overheated and that short-term trading driven by volatile...
+L171: 
+L172: Other symbols: cite63†AVGO L173: 
+L174: 4 hours ago - TheFly
+L175: ### Monday's Final Takeaways: INTC & AVGO CEOs Voice AI Capital Concerns
+L176: 
+L177: More AI companies are tapping into debt markets as the CEOs behind Intel (INTC) and Broadcom (AVGO) warn that capital constraints on the industry will lead to more significant headwinds. Sam Vadas add...
+L178: 
+L179: Other symbols: cite63†AVGO L180: 
+L181: 17 hours ago - Schwab Network
+L182: ### cite64†Intel shares details on GPU D-series, introduces new Xeon-based rack designs†www.tipranks.com L183: 
+L184: At the Open Compute Project Global Summit, Intel (INTC) shared new technical details on the Intel GPU D-series, formerly code-named Crescent Island, introduced new Intel Xeon-based rack designs and hi...
+L185: 
+L186: 18 hours ago - TheFly
+L187: ### cite65†Intel Accelerates Open Infrastructure for the Agentic AI Era†www.businesswire.com L188: 
+L189: SANTA CLARA, Calif.--(BUSINESS WIRE)--Intel® GPU D-series, Xeon CPUs, open software and ecosystem innovations help customers scale agentic AI.
+L190: 
+L191: 18 hours ago - Business Wire
+L192: ### cite66†Intel Stock (NASDAQ:INTC) Slides on Fears of “Capital Crunch”†www.tipranks.com L193: 
+L194: Chip stock Intel ($INTC) had a great year in terms of gaining capital. Investment from the United States government, several of its rivals, and a huge increase in stock price…
+L195: 
+L196: Other symbols: cite67†CRSR L197: 
+L198: 19 hours ago - TipRanks
+L199: ### cite68†Intel or Micron: One AI Stock Is Overvalued, the Other Offers Opportunity, Says Investor†www.tipranks.com L200: 
+L201: Despite recent pullbacks, Intel (NASDAQ:INTC) and Micron (NASDAQ:MU) have both delivered spectacular returns for investors in 2026, with Intel up more than 158% and Micron climbing over 215% year-to-d...
+L202: 
+L203: Other symbols: cite69†MU L204: 
+L205: 20 hours ago - TipRanks
+L206: ### cite70†Intel, AMD hiking prices of CPUs by 15%-20%, Wccftech reports†www.tipranks.com L207: 
+L208: Intel (INTC) has raised CPU prices ahead of schedule in September, with Panther Lake prices up 15%-20% and increases also affecting Arrow Lake, Meteor Lake, Alder Lake, and Twin Lake,…
+L209: 
+L210: Other symbols: cite60†AMD cite71†QCOM L211: 
+L212: 21 hours ago - TheFly
+L213: ### cite72†Intel, Broadcom CEOs reveal biggest risk that could derail AI boom†invezz.com L214: 
+L215: Intel CEO Lip-bu Tan and his Broadcom counterpart Hock Tan have sounded the alarm over the biggest near-term concern that could derail the artificial intelligence boom. The massive investment in artif...
+L216: 
+L217: Other symbols: cite63†AVGO L218: 
+L219: 1 day ago - Invezz
+L220: ### cite73†Intel CEO says adoption of Chinese AI models has been ‘very fast,’ Reuters says†www.tipranks.com L221: 
+L222: Intel (INTC) CEO Lip-Bu Tan said that the costs of Chinese AI models have lowered, and adoption has been “very fast,” Reuters reports. Tan said the performances of Chinese models…
+L223: 
+L224: 1 day ago - TheFly
+L225: ### cite74†Intel (INTC) CEO Highlights China’s Fast-Growing AI Models†www.tipranks.com L226: 
+L227: Lip-Bu Tan, chief executive officer of U.S. chipmaker Intel ($INTC), on Monday noted that flagship Chinese AI models run at lower usage-based fees (token costs) and are being adopted rapidly.
+L228: 
+L229: Other symbols: cite63†AVGO cite75†BABA cite61†NVDA L230: 
+L231: 1 day ago - TipRanks
+L232: ### cite76†Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck†www.cnbc.com L233: 
+L234: Intel and Broadcom warned that access to capital could emerge as a major constraint on the artificial intelligence boom. "[What] I think might be the biggest constraint is capital," Hock Tan said at t...
+L235: 
+L236: Other symbols: cite63†AVGO L237: 
+L238: 1 day ago - CNBC
+L239: ### cite77†Intel Stock (NASDAQ:INTC) Slips Despite Chance of New DDR4 Processors Next Year†www.tipranks.com L240: 
+L241: Those hoping that today’s news would turn chip stock Intel ($INTC) around were sadly disappointed. But, those hoping for new DDR4 processors out of Intel will be much less disappointed…
+L242: 
+L243: 3 days ago - TipRanks
+L244: ### cite78†Intel Stock (NASDAQ:INTC) Down Over 5% Despite Surface Win†www.tipranks.com L245: 
+L246: Chip stock Intel ($INTC) got a bit of good news today that did very little for its market performance today. A report out from NotebookCheck declared that Intel’s version of…
+L247: 
+L248: Other symbols: cite79†MSFT L249: 
+L250: 4 days ago - TipRanks
+L251: ### cite80†Why are Intel and AMD stocks plunging on Thursday?†invezz.com L252: 
+L253: Intel and AMD shares traded lower on Thursday as a broader selloff in US equities intensified, with surging oil prices and Treasury yields raising concerns about inflation and interest rates. Intel st...
+L254: 
+L255: Other symbols: cite60†AMD L256: 
+L257: 4 days ago - Invezz
+L258: ### cite81†Nvidia, AMD, Intel stocks despite record AI demand: has the easy money gone?†invezz.com L259: 
+L260: Nvidia, AMD and Intel were lower in Thursday's premarket trading even after TSMC delivered record sales, underscoring the tension between booming AI demand and tougher valuation conditions. TSMC repor...
+L261: 
+L262: Other symbols: cite60†AMD cite61†NVDA L263: 
+L264: 5 days ago - Invezz
+L265: ### cite82†Intel, Marvell, Wolfspeed, Levi Strauss, and More Stocks That Explain Today's Market†www.barrons.com L266: 
+L267: AI stocks struggle as investors fret about yields and oil prices, while Wolfspeed surges after it lands a financing deal with the Pentagon.
+L268: 
+L269: Other symbols: cite83†LEVI cite84†MRVL cite85†WOLF L270: 
+L271: 5 days ago - Barrons
+L272: ### cite86†Intel Stock (NASDAQ:INTC) Notches Up as it Still Has a Seat at Terafab’s Table†www.tipranks.com L273: 
+L274: Just yesterday, word emerged that chip stock Intel ($INTC) may be out of the picture at Terafab, or at least pushed to the back burner as Terafab considered the idea…
+L275: 
+L276: Other symbols: cite79†MSFT cite61†NVDA cite87†TSM L277: 
+L278: 5 days ago - TipRanks
+L279: ### INTC Continuing SPCX Terafab Involvement, Pushes Stock Higher Amid Tech Weakness
+L280: 
+L281: Intel (INTC) CEO Lip-Bu Tan told reporters that the company will continue its involvement with SpaceX's (SPCX) Terafab project. The headline pushed shares of Intel higher while TSMC (TSM) slid.
+L282: 
+L283: Other symbols: cite88†SPCX L284: 
+L285: 5 days ago - Schwab Network
+L286: ### cite89†Intel gains before opening bell: How Musk's comments became a catalyst†invezz.com L287: 
+L288: Intel shares showed signs of an early recovery in premarket trading Wednesday, rising 0.3% before the opening bell after falling 2% Monday and 3% Friday. The move followed Elon Musk's clarification th...
+L289: 
+L290: 6 days ago - Invezz
+L291: ### cite90†Elon Musk and Intel CEO shore up chipmaker's role in Terafab project — and here's what the news is doing to the stock.†www.marketwatch.com L292: 
+L293: Elon Musk and Intel's CEO have said the company's involvement in the Terafab chip plant will continue, boosting shares.
+L294: 
+L295: 6 days ago - Market Watch
+L296: ### cite91†Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role†www.barrons.com L297: 
+L298: The chip maker has fallen around 6% so far this week after Musk signaled TSMC may become involved in the SpaceX-Tesla chip project.
+L299: 
+L300: Other symbols: cite87†TSM L301: 
+L302: 6 days ago - Barrons
+L303: ### cite92†Intel to keep working on Musk's Terafab chipmaking venture, Bloomberg News reports†www.reuters.com L304: 
+L305: Intel Corp will continue to work with Elon Musk on ​his Terafab project, Bloomberg News reported ‌on Wednesday.
+L306: 
+L307: 6 days ago - Reuters
+L308: ### cite93†Cramer says these blue-chip stocks are among the best ways to invest in the AI boom†www.cnbc.com L309: 
+L310: Jim Cramer said established tech giants with strong businesses and multiple ways to benefit from AI are some of the best places to invest in the boom. He remains diversified but is overweight AI, argu...
+L311: 
+L312: Other symbols: cite60†AMD cite94†CRWD cite95†META cite84†MRVL cite79†MSFT cite96†PANW L313: 
+L314: 6 days ago - CNBC
+L315: ### cite97†Intel to Report Third-Quarter 2026 Financial Results†www.businesswire.com L316: 
+L317: SANTA CLARA, Calif.--(BUSINESS WIRE)--Intel to Report Third-Quarter 2026 Financial Results.
+L318: 
+L319: 6 days ago - Business Wire
+L320: 
+L321: [Button: Load More News]
+L322: 
+L323: Data Sources: cite98†S&P Global Market Intelligence†www.spglobal.com , cite99†CBOE†www.cboe.com , and more
+L324: Fundamental and historical data is provided by cite98†S&P Global Market Intelligence†www.spglobal.com . Real-time stock price data is provided by cite99†CBOE†www.cboe.com and 15-minute delayed consolidated tape pricing data is provided by cite100†Nasdaq UTP†www.utpplan.com .
+L325: 
+L326: Last checked:
+L327:     Oct 13, 2026
+L328: 
+L329: cite101†Data Sources cite102†Report a data error L330: #### Install The App
+L331: 
+L332: cite103†4.9 7.1K†apps.apple.com cite104†4.9 7.8K†play.google.com L333: 
+L334: #### Sections
+L335: 
+L336:   * cite4†Stocks L337:   * cite14†IPOs L338:   * cite20†ETFs L339:   * cite28†Private Companies L340: 
+L341: #### Services
+L342: 
+L343:   * cite38†Stock Analysis Pro L344:   * cite37†Free Newsletter L345:   * cite105†Get Support L346:   * cite106†Install The App L347: 
+L348: #### Website
+L349: 
+L350:   * cite40†Login L351:   * cite107†Create Account L352:   * cite108†Changelog L353:   * cite101†Data Sources L354:   * cite109†Advertise L355:   * cite41†Help Center L356: #### Company
+L357: 
+L358:   * cite110†About L359:   * cite111†Contact Us L360:   * cite112†Terms of Use L361:   * cite113†Privacy Policy L362:   * cite114†Affiliate Program L363: 
+L364: #### Market Newsletter
+L365: 
+L366: Daily market news in bullet point format.
+L367: 
+L368: [Input: Enter your email]
+L369: 
+L370: [Button: Subscribe]
+L371: 
+L372: #### Site Theme
+L373: 
+L374: Light Dark
+L375: 
+L376: © 2026 StockAnalysis.com. All rights reserved.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn392view1 [wordlim: 200] Source: open({"ref_id":"https://investors.nvent.com/press-releases/press-release-details/2026/nVent-and-AMD-Collaborate-on-Cooling-for-AMD-Helios-Rackscale-Solution/default.aspx","lineno":null}); Total lines: 1
+L0: URL https://investors.nvent.com/press-releases/press-release-details/2026/nVent-and-AMD-Collaborate-on-Cooling-for-AMD-Helios-Rackscale-Solution/default.aspx is not accessible via this tool.
+--------------------------------------------------------------------------------
+CIRM-Supported Research and Its Impact on Biotech - The Stem Cellar (https://blog.cirm.ca.gov/research-and-science/another-proof-point-from-cirm-supported-research/)
+citeturn392view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://blog.cirm.ca.gov/research-and-science/another-proof-point-from-cirm-supported-research/","lineno":null}); Total lines: 54
+L0: # cite0†The Stem Cellar L1: 
+L2: ## The Official Blog of CIRM, California's Stem Cell Agency
+L3: # Another proof point from CIRM-supported research
+L4: 
+L5: cite1†October 7, 2026October 7, 2026 / cite2†California Institute for Regenerative Medicine (CIRM) L6: When Alameda-based biotech company and CIRM awardee Scribe Therapeutics cite3†raised over $155 million from a recent IPO†www.scribetx.com , it became the latest in a series of companies developing CIRM-supported therapies that have gone public or netted significant follow-on funding and investment. That’s good news for Californians whose tax dollars support the companies’ work.
+L7: While biotech IPOs don’t indicate that any given treatment will succeed, they do independently validate the quality of the research CIRM supports.
+L8: ## Innovation and Follow-On Funding
+L9: 
+L10: CIRM’s mission is to accelerate the development of new cell and gene therapies in California along with building the infrastructure and workforce required to do that.
+L11: Over more than two decades, the agency has committed more than $5.1 billion toward that goal, supporting cutting-edge science from early discovery through clinical trials. This public taxpayer investment has created the leverage to bring an additional $38 billion in follow-on funding, private investment, acquisitions, and public offerings to California while helping to establish the state as a global leader in regenerative medicine and cell and gene therapy
+L12: ## CRISPR for Cardiovascular Health
+L13: 
+L14: Co-founded by Nobel laureate Prof. Jennifer Doudna, Ph.D., Scribe uses custom-engineered CRISPR tools to develop next-generation genetic medicines for cardiovascular disease—the leading cause of death in the U.S. and worldwide.
+L15: Scribe’s goal is to provide everyone access to cardioprotective genetic effects. The IPO provided Scribe capital to advance a suite of programs aimed at providing persistent treatments to ameliorate the underlying cause of ASCVD: atherogenic lipids such as LDL-C with epigenetic silencing technologies that could prove to be safer and more effective.
+L16: CIRM cite4†awarded Scribe two multi-year grants†www.scribetx.com totaling more than $25 million to support preclinical development of one-time approaches accelerating programs for severe hypertriglyceridemia (STX-1400) and Lp(a)-driven atherosclerotic cardiovascular disease (STX-1200).
+L17: “CIRM plays a critical role in investing in the people, companies, and technology driving California’s biotech industry, which pays forward to all Californians,” said Brett Staahl, Ph.D., a Scribe co-founder and Vice President of External Innovation. “This investment helps Scribe to advance two programs that aim to deliver practical, one-time therapeutic solutions to patients throughout California that will enable them to avoid a lifetime of healthcare friction spent managing disease imperfectly.”
+L18: Scribe co-founder and Vice President of External Innovation, Brett Staahl speaking at conference in San Diego.
+L19: #### Economic Growth and Workforce Development
+L20: 
+L21: Scribe’s expansion highlights the broader economic ripple effect of state funding, which accelerates novel treatments while creating high-value jobs and local economic opportunity.
+L22: Beyond supporting commercial ventures, CIRM’s educational programs have trained more than 4,500 high school, undergraduate, graduate, and postdoctoral students to fill roles created by these investments. An independent cite5†economic impact report in 2019†www.cirm.ca.gov demonstrated that CIRM investments continue to drive tens of thousands of full-time jobs across California.
+L23: Other CIRM-supported companies have also entered the public markets. South San Francisco-based Tenaya Therapeutics, which has received CIRM funding for a gene therapy to treat heart disease, went public in 2021. CIRM later awarded Tenaya an $8 million clinical-stage grant in 2025 to support its ongoing Phase 1b trial. Others, like Neurona, have been purchased by public companies.
+L24: Investors in an IPO are betting on the company’s future success. In biotech, that future success depends almost entirely on its science and the potential for its therapies to get through clinical trials and receive FDA approval. But the process is long, expensive, and fraught with failure. On average, it can take a decade or more and cost well over $1 billion because you have to factor in failures.
+L25: Veera Rajagopal, MBBS, MD, PhD, thinks that’s an underestimate, and costs can exceed cite6†$3 billion†www.gwasstories.com to get a drug approved.
+L26: That is why Scribe’s public offering matters beyond Wall Street. It does not guarantee clinical success, but it gives a CIRM-supported company more resources to navigate the long, costly path from promising science to potential approval. For Californians, it is another proof point that public investment in cell and gene therapy can help turn bold research into companies, jobs, and, most importantly, new treatment options for patients who need them.
+L27: ### Like this:
+L28: 
+L29: Like
+L30: 
+L31: ### Related
+L32: 
+L33: cite7†Research & Science L34: 
+L35: cite8†Cardiovascular Diseases , cite9†CRISPR L36: 
+L37: ## Discover more from The Stem Cellar
+L38: 
+L39: Subscribe now to keep reading and get access to the full archive.
+L40: 
+L41: [Input: Type your email…]
+L42: 
+L43: [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input][Input][Input] [Button: Subscribe ]
+L44: 
+L45: cite10†Continue reading L46: 
+L47: Loading Comments...
+L48: 
+L49: Email (Required) [Input] Name (Required) [Input] Website [Input]
+L50: 
+L51: [Input]
+L52: 
+L53: cite11†iframe†widgets.wp.com 

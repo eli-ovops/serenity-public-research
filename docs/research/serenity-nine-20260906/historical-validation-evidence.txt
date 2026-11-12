@@ -1,0 +1,17 @@
+/Users/USER/.codex/sessions/2026/09/05/rollout-2026-09-05T19-31-53-01a07156-dfd4-7161-9856-dea718f5b001.jsonl:174
+NINE-RESEARCH-INTERIM-20260905-A.md SHA_MATCH True bytes 10609 mtime 1788608545.0523312
+NINE-X-CLAIMS-20260905-A.csv SHA_MATCH True bytes 2204 mtime 1788608545.0525243
+NINE-SOURCES-20260905-A.csv SHA_MATCH True bytes 3795 mtime 1788608545.0526829
+HANDOFF-NINE-RESEARCH-20260905-A.md SHA_MATCH True bytes 1742 mtime 1788608545.0527933
+NINE-X-CLAIMS-20260905-A.csv rows 13 companies 9
+NINE-SOURCES-20260905-A.csv rows 21 companies 9
+
+/Users/USER/.codex/sessions/2026/09/05/rollout-2026-09-05T19-43-11-01a07161-378e-7740-8022-fe52de01205c.jsonl:54
+    2356 /tmp/serenity-x-2m/HANDOFF-NINE-RESEARCH-20260905-B.md
+    2587 /tmp/serenity-x-2m/NINE-RESEARCH-DELTA-20260905-B.md
+     240 /tmp/serenity-x-2m/NINE-RESEARCH-CHECKSUMS-20260905-B.sha256
+    5183 total
+/tmp/serenity-x-2m/HANDOFF-NINE-RESEARCH-20260905-B.md: OK
+/tmp/serenity-x-2m/NINE-RESEARCH-DELTA-20260905-B.md: OK
+Filesystem   1024-blocks      Used Available Capacity iused    ifree %iused  Mounted on
+/dev/disk3s5   239362496 206389588   6229472    98% 3075497 62294720    5%   /System/Volumes/Data

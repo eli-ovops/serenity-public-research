@@ -1,0 +1,503 @@
+Quarterly Results and Webcasts | Tower Semiconductor (https://ir.towersemi.com/financial-information/quarterly-results)
+citeturn134search0 [wordlim: 200] Crawled: 6 days ago;   * Q2 2026 Earnings Conference Transcript 189.1 KB ...   * Q1 2026 Earnings Conference Transcript 199.8 KB
+
+# Quarterly Results and Webcasts
+
+Show all
+
+## 2026
+
+Q2
+
+  * Press Release 263.8 KB
+
+  * Webcast
+
+  * Supporting Slides 522.3 KB
+
+  * Q2 2026 Earnings Conference Transcript 189.1 KB
+
+Q1
+
+  * Press Release 278.7 KB
+
+  * Webcast
+
+  * Supporting Slides 474 KB
+
+  * Q1 2026 Earnings Conference Transcript 199.8 KB
+
+## 2025
+
+Q4
+
+  * Press Release 413.6 KB
+
+  * Webcast
+
+  * Supporting Slides 649.8 KB
+
+  * Q4 2025 Earnings Conference Transcript 212.8 KB
+
+Q3
+
+  * Press Release 255.8 KB
+
+  * Webcast
+
+  * Supporting Slides 398.7 KB
+
+  * Q3 2025 Earnings Conference Transcript 194.8 KB
+
+Q2
+
+  * Press Release 225.4 KB
+
+  * Webcast
+
+  * Supporting Slides 563.9 KB
+
+  * Q2 2025 Earnings Conference Transcript 221.1 KB
+
+Q1
+
+  * Press Release 223.5 KB
+--------------------------------------------------------------------------------
+Second Quarter 2026 Financial Results and Conference Call | Tower Semiconductor (https://ir.towersemi.com/events/event-details/second-quarter-2026-financial-results-and-conference-call/)
+citeturn134search1 [wordlim: 200] Crawled: yesterday; ## Second Quarter 2026 Financial Results and Conference Call ... Q2 2026 Supporting Slides 522.3 KB
+
+## Second Quarter 2026 Financial Results and Conference Call
+
+### 
+
+Aug 4, 2026 at 10:00 AM EDT
+
+Webcast link
+
+#### Supporting Materials
+
+Q2 2026 Supporting Slides 522.3 KB
+
+#### Live Teleconference Information
+--------------------------------------------------------------------------------
+Ciena Corporation - Financials - Quarterly Results (https://investor.ciena.com/financials/quarterly-results/)
+citeturn134search2 [wordlim: 200] Crawled: 4 days ago; Today, Thursday, September 3, 2026, in conjunction with this announcement, Ciena has posted to the Quarterly Results page of the Investor Relations section of its website certain related supporting materials for its unaudited fiscal third quarter 2026 results. ...   * Non-GAAP tax provision - consists of current and deferred income tax expense commensurate with the level of adjusted income before income taxes and utilizes a current, blended U.S. and foreign statutory annual tax rate of 20% for the third quarter of fiscal 2026 and 22% for the third quarter of fiscal 2025.This rate may be subject to change in the future, including as a result of changes in tax policy or tax strategy. ... "We delivered strong fiscal second quarter results, marked by significant year-over-year revenue growth, adjusted gross margin expansion, and nearly fourfold growth in adjusted earnings per share," said Marc Graff, Ciena’s Chief Financial Officer.
+
+## Latest Quarters
+
+[Button: Q3 2026 ] [Button: Q2 2026 ] [Button: Q1 2026 ] [Button: Q4 2025 ]
+
+### Q3 2026 Earnings
+
+#### Ciena Reports Fiscal Third Quarter 2026 Financial Results
+
+Summary
+
+  * Fiscal third quarter 2026 revenue was $1.67 billion, up 37% year-over-year
+  * Fiscal third quarter 2026 adjusted Earnings Per Share (EPS) was $2.11, an increase of 215% compared to fiscal third quarter 2025
+  * Providing revenue guidance for fiscal fourth quarter 2026 of $1.75 billion plus or minus $50 million
+  * Raising revenue guidance for fiscal year 2026 to $6.42 billion plus or minus $50 million, a 35% increase year-over-year at the midpoint
+
+FULTON, Md.--(BUSINESS WIRE)-- Ciena^{® }Corporation (NYSE: CIEN) today announced financial results for its fiscal third quarter ended August 1, 2026.
+
+"Today’s outstanding financial performance demonstrates Ciena’s leadership in providing industry-leading, high-speed connectivity solutions as AI continues to drive compounding waves of network investment,” said Gary Smith, president and CEO, Ciena. “As the only pure-play optical systems and interconnects provider, Ciena’s unmatched combination of incumbency, technology innovation, and deep expertise gives us a powerful competitive edge."
+
+"Our record fiscal third quarter results reflect Ciena’s ability to deliver increasingly profitable growth while positioning for future opportunities,” said Marc Graff, Ciena’s Chief Financial Officer. “Our expanding supply capacity, strengthening business fundamentals, and increasing operating leverage set the stage to continue to accelerate earnings and deliver long-term value for customers and shareholders.”
+
+Performance Summary for Fiscal Third Quarter Ended August 1, 2026
+
+Revenue:
+
+  * $1.67 billion in the fiscal third quarter 2026, compared to $1.22 billion in the fiscal third quarter 2025
+
+Net Income per diluted share:
+
+  * $1.83 GAAP and $2.11 adjusted (non-GAAP) for the fiscal third quarter 2026, compared to $0.35 and $0.67 for fiscal third quarter 2025, respectively
+
+The tables below (in millions, except percentage data) provide comparisons of certain quarterly results. Business Outlook
+
+Ciena expects fiscal fourth quarter 2026 to include:
+
+  * Revenue of $1.75B billion plus or minus $50 million
+  * Adjusted (non-GAAP) gross margin in the range of 45% plus or minus 50 bps
+  * Adjusted (non-GAAP) operating expense in the range of $415 million plus or minus $10 million
+  * Adjusted (non-GAAP) operating margin in the range of 20% plus or minus 50 bps
+
+Statements relating to business outlook are forward-looking in nature and actual results may differ materially. These statements should be read in the context of the "Key assumptions underlying our outlook" in our accompanying Earnings Presentation and each of the "Forward-Looking Statements" and "Reconciliation of Adjusted (Non- GAAP) Measurements" found in the Notes to Investors below.
+
+Financial Highlights for the Fiscal Third Quarter 2026
+
+  * Two customers represented 10%-plus of revenue for a total of 41.7% of revenue.
+  * Average days' sales outstanding (DSOs) were 76.
+  * Inventory turns were 3.5.
+  * Repurchased approximately 0.4 million shares of common stock for an aggregate price of $171.7 million under the $1 billion share repurchase program.
+
+Financial Performance by Segment
+
+   |    | Revenue by Segment (unaudited)
+   |    | Quarter Ended
+   |    | August 1, 2026  |    | August 2, 2025
+   |    | Revenue  |    | %**  |    | Revenue  |    | %**
+Networking Platforms  |    |    |    |    |    |    |    |  
+Optical Networking  |    | $  | 1,191.3  |    | 71.3  |    | $  | 815.5  |    | 66.9
+Routing and Switching  |    |    | 164.4  |    | 9.8  |    |    | 125.9  |    | 10.3
+Total Networking Platforms  |    |    | 1,355.7  |    | 81.1  |    |    | 941.4  |    | 77.2
+   |    |    |    |    |    |    |    |  
+Platform Software and Services  |    |    | 98.6  |    | 5.9  |    |    | 90.0  |    | 7.4
+   |    |    |    |    |    |    |    |  
+Blue Planet Automation Software and Services  |    |    | 23.2  |    | 1.4  |    |    | 27.8  |    | 2.3
+   |    |    |    |    |    |    |    |  
+Global Services  |    |    |    |    |    |    |    |  
+Maintenance, Support, and Learning  |    |    | 89.8  |    | 5.4  |    |    | 80.7  |    | 6.6
+Implementation  |    |    | 87.9  |    | 5.3  |    |    | 65.9  |    | 5.4
+Advisory and Enablement  |    |    | 15.9  |    | 0.9  |    |    | 13.6  |    | 1.1
+Total Global Services  |    |    | 193.6  |    | 11.6  |    |    | 160.2  |    | 13.1
+   |    |    |    |    |    |    |    |  
+Total  |    | $  | 1,671.1  |    | 100.0  |    | $  | 1,219.4  |    | 100.0
+ 
+** Denotes % of total revenue
+
+Supplemental Materials and Live Web Broadcast of Unaudited Fiscal Third Quarter 2026 Results
+
+Today, Thursday, September 3, 2026, in conjunction with this announcement, Ciena has posted to the Quarterly Results page of the Investor Relations section of its website certain related supporting materials for its unaudited fiscal third quarter 2026 results.
+
+### Download Reports
+
+  * Press Release of Q3 2026 Earnings, (opens in new window)
+  * Webcast of Q3 2026 Earnings, (opens in new window)
+  * Presentation of Q3 2026 Earnings, (opens in new window)
+  * Transcript of Q3 2026 Earnings, (opens in new window)
+  * Tables of Q3 2026 Earnings, (opens in new window)
+  * Form 10-Q of Q3 2026 Earnings, (opens in new window)
+
+### Q2 2026 Earnings
+
+#### Ciena Reports Fiscal Second Quarter 2026 Financial Results
+
+Summary
+
+  * Fiscal second quarter 2026 revenue was $1.57 billion, up 40% year-over-year
+  * Fiscal second quarter 2026 adjusted Earnings Per Share (EPS) was $1.64, an increase of 290% compared to fiscal second quarter 2025
+  * Providing revenue guidance for fiscal third quarter 2026 of $1.625 billion plus or minus $50 million
+  * Raising revenue guidance for fiscal year 2026 to $6.3 billion plus or minus $100 million, a 32% increase YoY at the midpoint
+--------------------------------------------------------------------------------
+IR Events | Tower Semiconductor (https://ir.towersemi.com/news-and-events/events/)
+citeturn134search3 [wordlim: 200] Crawled: 2 weeks ago; # IR Events ... Second Quarter 2026 Financial Results and Conference Call ... Q2 2026 Supporting Slides 522.3 KB
+
+# IR Events
+
+## Past Events
+
+Aug 4, 2026 at 10:00 AM EDT
+
+Second Quarter 2026 Financial Results and Conference Call
+
+Webcast link
+
+Supporting Materials
+
+Q2 2026 Supporting Slides 522.3 KB
+
+May 13, 2026 at 10:00 AM EDT
+
+First Quarter 2026 Financial Results and Conference Call
+
+Webcast link
+
+Feb 11, 2026 at 10:00 AM EST
+
+Fourth Quarter and Fiscal Year 2025 Financial Results and Conference Call
+
+Webcast link
+
+Supporting Materials
+
+Q4 and Full Year Financial Results 649.8 KB
+
+Dec 10, 2025
+
+Barclays 23rd Annual Global Technology Conference
+
+Nov 10, 2025 at 10:00 AM EST
+
+Third Quarter 2025 Financial Results and Conference Call
+
+Webcast link
+
+Supporting Materials
+
+Q3 2025 Financial Results 398.7 KB
+
+Aug 4, 2025 at 10:00 AM EDT
+
+Second Quarter 2025 Financial Results and Conference Call
+
+Webcast link
+
+Supporting Materials
+
+Q2 2025 Financial Results 563.9 KB
+
+May 29, 2025
+
+TD Cowen 53rd Annual Technology Media & Telecom Conference
+
+May 28, 2025
+
+Craig-Hallum 22nd Annual Institutional Investor Conference
+
+Webcast
+
+May 18, 2025
+
+Oppenheimer Annual Israeli Conference
+
+May 14, 2025 at 10:00 AM EDT
+
+First Quarter 2025 Financial Results and Conference Call
+
+Webcast link
+
+Supporting Materials
+
+Q1 2025 Financial Results 496.4 KB--------------------------------------------------------------------------------
+Press Releases | Tower Semiconductor (https://ir.towersemi.com/news-and-events/press-releases?mobile=1&page=3)
+citeturn134search4 [wordlim: 200] Crawled: 2 months ago; Tower Semiconductor Announces Second Quarter 2026 Financial Results and Conference Call
+
+# Press Releases
+
+Year [Select]
+
+[Input] [Input] [Input] [Input]
+
+Jul 14, 2026
+
+Tower Semiconductor with METI Support Announces Strategic Capacity Expansion in Japan
+
+Jul 07, 2026
+
+Tower Semiconductor Announces Second Quarter 2026 Financial Results and Conference Call
+
+Jun 18, 2026
+
+Tower Semiconductor and Marvell Ship Over Five Million Coherent Photonic ICs
+
+Jun 15, 2026
+
+IQE and Tower Semiconductor Announce Multi-year InP epiwafer Supply Agreement
+
+May 13, 2026
+
+Tower Semiconductor Signs Customer Contracts for $1.3 Billion Silicon Photonics Revenue for 2027
+
+May 13, 2026
+
+Tower Semiconductor Reports First Quarter 2026 Financial Results with 15% Year over Year Revenue Growth
+
+May 04, 2026
+
+Tower Semiconductor to Participate in May and June Investor Conferences
+
+Apr 27, 2026
+
+Tower Semiconductor and Axiro Semiconductor Deliver High-Power, High-Efficiency SiGe ICs for Secure U.S. Defense Applications
+
+Apr 20, 2026
+
+Tower Semiconductor Announces First Quarter 2026 Financial Results and Conference Call
+
+Mar 25, 2026
+
+Tower Semiconductor Announces Plans to Expand 300mm Capacity in Japan to Support Strong Customer Demand
+
+Displaying 1 - 10 of 589--------------------------------------------------------------------------------
+Ciena Corporation - Investor Relations (https://investor.ciena.com/overview/default.aspx?src=nav)
+citeturn134search5 [wordlim: 200] Crawled: 2 weeks ago; Ciena Reports Fiscal Third Quarter 2026 Financial Results ...   * Download , Ciena Reports Fiscal Third Quarter 2026 Financial Results, September 3, 2026, (opens in new window) ... Investor Relations
+
+August 6, 2026
+
+Ciena Announces Reporting Date and Web Broadcast for Fiscal Third Quarter 2026 Results
+
+Continue Reading
+
+  * Download , Ciena Announces Reporting Date and Web Broadcast for Fiscal Third Quarter 2026 Results, August 6, 2026, (opens in new window)
+
+View All News
+
+## Latest Events
+
+Date: September 3, 2026
+
+Ciena Fiscal Q3 2026 Financial Results Call
+
+  * Webcast Ciena Fiscal Q3 2026 Financial Results Call, September 3, 2026, (opens in new window)
+
+Date: June 4, 2026
+
+Ciena Fiscal Q2 2026 Financial Results Call
+
+  * Webcast Ciena Fiscal Q2 2026 Financial Results Call, June 4, 2026, (opens in new window)
+  * Q2 2026 Earnings Call Transcript Open Event Link, PDF file, June 4, 2026, (opens in new window)
+
+Date: March 26, 2026
+
+2026 Annual Meeting of Stockholders
+
+  * 2025 Annual Report Open Event Link, PDF file, March 26, 2026, (opens in new window)
+--------------------------------------------------------------------------------
+Press Releases | Tower Semiconductor (https://ir.towersemi.com/news-and-events/press-releases?page=3)
+citeturn134search6 [wordlim: 200] Crawled: last week; Tower Semiconductor Announces Record Results for Revenue and Profitability for the Second Quarter 2026 with Third Quarter 2026 Record Revenue Guidance
+
+# Press Releases
+
+Sep 17, 2026
+
+NewPhotonics® and Tower Semiconductor Begin High-Volume Shipments of Laser-Integrated, Serviceable Optical Engine PICs for Scale-Out and Scale Up AI Interconnect
+
+Sep 15, 2026
+
+Tower Semiconductor to Highlight its High-Volume Silicon Photonics and SiGe Solutions for AI Infrastructure, Telecom and Emerging Applications at ECOC 2026
+
+Aug 12, 2026
+
+Tower Semiconductor to Participate in August and September Investor Conferences
+
+Aug 11, 2026
+
+OpenLight and Tower Semiconductor Expand PH18DA Photonics Ecosystem to Accelerate Photonic IC Development
+
+Aug 04, 2026
+
+Tower Semiconductor Announces Record Results for Revenue and Profitability for the Second Quarter 2026 with Third Quarter 2026 Record Revenue Guidance
+
+Jul 14, 2026
+
+Tower Semiconductor with METI Support Announces Strategic Capacity Expansion in Japan
+
+Jul 07, 2026
+
+Tower Semiconductor Announces Second Quarter 2026 Financial Results and Conference Call
+
+Jun 18, 2026
+
+Tower Semiconductor and Marvell Ship Over Five Million Coherent Photonic ICs
+
+Jun 15, 2026
+
+IQE and Tower Semiconductor Announce Multi-year InP epiwafer Supply Agreement
+
+May 13, 2026
+
+Tower Semiconductor Signs Customer Contracts for $1.3 Billion Silicon Photonics Revenue for 2027
+
+Displaying 1 - 10 of 594--------------------------------------------------------------------------------
+Ciena Corporation - Investor Relations (https://investor.ciena.com/overview/default.aspx?source=news_body_link)
+citeturn134search7 [wordlim: 200] Crawled: today;   * Download , Ciena Reports Fiscal Third Quarter 2026 Financial Results, September 3, 2026, (opens in new window) ...   * Q2 2026 Earnings Call Transcript Open Event Link, PDF file, June 4, 2026, (opens in new window) ... Ciena Investor Forum 2026 Financials
+
+Continue Reading
+
+  * Download , Ciena Reports Fiscal Third Quarter 2026 Financial Results, September 3, 2026, (opens in new window)
+
+View All News
+
+## Latest Events
+
+Date: September 16, 2026
+
+Ciena Investor Forum 2026
+
+  * Transcript PDF Open Event Link, PDF file, September 16, 2026, (opens in new window)
+  * Ciena Investor Forum 2026 Presentation Open Event Link, PDF file, September 16, 2026, (opens in new window)
+  * Ciena Investor Forum 2026: The leader in high-speed connectivity Open Event Link, Online link, September 16, 2026, (opens in new window)
+  * 2026 Investor Forum Highlights Open Event Link, PDF file, September 16, 2026, (opens in new window)
+
+Date: September 3, 2026
+
+Ciena Fiscal Q3 2026 Financial Results Call
+
+  * Webcast Ciena Fiscal Q3 2026 Financial Results Call, September 3, 2026, (opens in new window)
+--------------------------------------------------------------------------------
+072716Genera (https://ir.towersemi.com/static-files/da25365d-20d1-4c75-83d9-93b39badcb42)
+citeturn134search12 [wordlim: 200] Published: last month; Operating profit for the second quarter of 2026 was $90 million, 2.26x the operating profit in the second quarter of 2025. ... Earnings per share for the second quarter of 2026 were $0.80 per share basic and $0.79 diluted, almost double the $0.49 basic and $0.41 diluted in the second quarter of 2025.
+Fab seven continues to be fully utilized, well above our 85% utilization model.
+
+Now I'd like to turn the call to our CFO, Mr. Oren Shirazi. Please, Oren. Thank you.
+
+Oren Shirazi^ Thank you. Hello, everyone. Earlier today we released our financial results for the second quarter of 2026. I will now review the highlights of these results as well as the balance sheet CapEx investments and our updated business model. First, looking into the P&L. Revenue for the second quarter of 2026 was $460 million, a record in the company's history, representing 11% quarter-over-quarter growth compared to $414 million in the first quarter of 2026 and 24% year-over-year growth compared to $372 million in the second quarter of 2025. Gross profit for the second quarter of 2026 was a record $138 million, reflecting a 30% gross margin and an increase of 72% compared to $80 million in the second quarter of 2025.
+
+Operating profit for the second quarter of 2026 was $90 million, 2.26x the operating profit in the second quarter of 2025. Net profit for the second quarter of 2026 was $91 million, reflecting a 20% net margin, and an increase of 95% or $44 million compared to a net profit of $47 million in the second quarter of 2025. Earnings per share for the second quarter of 2026 were $0.80 per share basic and $0.79 diluted, almost double the $0.49 basic and $0.41 diluted in the second quarter of 2025.
+
+Moving to our balance sheet. As we previously announced, we received $290 million in prepayments from SiPho customers in the first quarter of 2026, mostly towards 2027 capacity reservation. These customer prepayments are included in the balance sheet as of the end of June 2026 as liabilities under short- and long-term customer advances and are included in the cash flow report for Q1 '26 and for H1 '26 as cash from operating activities.--------------------------------------------------------------------------------
+Tower Semiconductor Announces Second Quarter 2026 Financial Results and Conference Call (https://ir.towersemi.com/node/16966/pdf)
+citeturn134search13 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; MIGDAL HAEMEK, Israel – July 7, 2026 – Tower Semiconductor (NASDAQ/ TASE: TSEM), the leading foundry of high value analog semiconductor solutions, will issue its second quarter 2026 earnings release on Tuesday, August 4, 2026. ... The call will be webcast and available through the Investor Relations section of Tower Semiconductor’s website at https://ir.towersemi.com/, where the pre-registration form required for dial-in participation is also accessible.
+Tower Semiconductor Announces Second Quarter 2026 Financial Results and Conference Call
+
+July 7, 2026 at 6:00 AM EDT
+
+MIGDAL HAEMEK, Israel – July 7, 2026 – Tower Semiconductor (NASDAQ/ TASE: TSEM), the leading foundry of high value analog semiconductor solutions, will issue its second quarter 2026 earnings release on Tuesday, August 4, 2026. The Company will hold a conference call to discuss its second quarter 2026 financial results and third quarter 2026 guidance on Tuesday, August 4, 2026, at 10:00 a.m. Eastern Time (09:00 a.m. Central, 08:00 a.m. Mountain, 07:00 a.m. Pacific and 05:00 p.m. Israel time).
+
+The call will be webcast and available through the Investor Relations section of Tower Semiconductor’s website at https://ir.towersemi.com/, where the pre-registration form required for dial-in participation is also accessible. Upon completing the registration, participants will receive the dial-in details, a unique PIN, and a confirmation email with all necessary information. The teleconference will be available for replay for 90 days.
+--------------------------------------------------------------------------------
+Credo Technology Group Holding Ltd - Investor Relations (https://investors.credosemi.com/overview/)
+citeturn134search8 [wordlim: 200] Crawled: yesterday; Q1 FY2027 Earnings Conference Call(opens in new window)
+
+Credo’s mission is to transform connectivity at scale through fast, reliable, and energy-efficient system solutions. Our high-speed copper and optical interconnect products deliver industry-leading power and performance to meet the ever-expanding data infrastructure demands of AI.
+
+About Credo (opens in new window)
+
+Q1 FY2027 Press Release(opens in new window)
+
+Q1 FY2027 Earnings Conference Call(opens in new window)
+
+Q1 FY2027 Quarterly Filing(opens in new window)
+
+View Latest Quarterly Results
+
+09/14/2026 Credo to Showcase High-Speed Connectivity Innovations Driving Next-Generation AI Infrastructure at AI Infra 2026 Read More about Credo to Showcase High-Speed Connectivity Innovations Driving Next-Generation AI Infrastructure at AI Infra 2026
+
+09/18/2026 Credo to Showcase 1.6T Optical Connectivity Solutions for AI Scale-Out Fabrics at ECOC 2026 Read More about Credo to Showcase 1.6T Optical Connectivity Solutions for AI Scale-Out Fabrics at ECOC 2026
+--------------------------------------------------------------------------------
+Ciena Corporation - Investor Relations (https://investor.ciena.com/overview/default.aspx)
+citeturn134search9 [wordlim: 200] Crawled: today;   * Press Release of Q3 2026, aspx file, (opens in new window) ...   * Transcript of Q3 2026, PDF file, (opens in new window) ... Investor Relations ... ​ [REDACTED_EMAIL]
+--------------------------------------------------------------------------------
+Tower Semiconductor Announces Second Quarter 2026 Financial Results and Conference Call | Tower Semiconductor (https://ir.towerjazz.com/news-releases/news-release-details/tower-semiconductor-announces-second-quarter-2026-financial)
+citeturn134search10 [wordlim: 200] Published: 2 months ago; Crawled: last week; MIGDAL HAEMEK, Israel – July 7, 2026 – Tower Semiconductor (NASDAQ/ TASE: TSEM), the leading foundry of high value analog semiconductor solutions, will issue its second quarter 2026 earnings release on Tuesday, August 4, 2026. ... The call will be webcast and available through the Investor Relations section of Tower Semiconductor’s website at https://ir.towersemi.com/, where the pre-registration form required for dial-in participation is also accessible.
+--------------------------------------------------------------------------------
+IR Events | Tower Semiconductor (https://ir.towersemi.com/news-and-events/events?mobile=1&page=1%2C0)
+citeturn134search11 [wordlim: 200] Crawled: 2 months ago; # IR Events ... Second Quarter 2026 Financial Results and Conference Call ... Tower Semiconductor Fourth Quarter and Fiscal Year 2024 Earnings Conference Call
+--------------------------------------------------------------------------------
+Ciena Reports Fiscal Third Quarter 2025 Financial Results (https://investor.ciena.com/node/26541/pdf)
+citeturn134search14 [wordlim: 200] Published: 5 months ago; Ciena Reports Fiscal Third Quarter 2025 Financial Results ... well into fiscal year 2026, we are confident in the continued momentum of our business and remain focused on further expanding our operating ... Ciena's GAAP net income for the fiscal third quarter 2025 was $50.3 million, or $0.35 per diluted common share, which compares to a GAAP net
+--------------------------------------------------------------------------------
+Ciena Corporation (Q3 2025 Results) (https://investor.ciena.com/static-files/83b81167-ad1d-4fd1-939a-aa039865fab4)
+citeturn134search15 [wordlim: 200] Published: 11 months ago; margin performance, establishing world-class working capital management practices and a ... With that, let me recap our strong fiscal third quarter performance. ... Adjusted gross margin in Q3 was 41.9%, 90 basis points above our guidance, ... Adjusted net income was $96 million and adjusted EPS was ... repurchase of 1 million shares for $81.8 million in the third quarter which brought our year-to-
+--------------------------------------------------------------------------------
+Financial Model (https://towersemi.com/wp-content/uploads/2026/05/TSEM_Q12026_IRCALL_SLIDES_FF.pdf)
+citeturn134search16 [wordlim: 200] Published: 4 months ago; First Quarter 2026Financial Results Conference Call
+--------------------------------------------------------------------------------
+Daily Trading Action and General Discussion - Wednesday, August 05, 2026 (https://www.reddit.com/r/LWLG/comments/1vfzt6d/daily_trading_action_and_general_discussion/)
+citeturn134reddit17 [wordlim: 200] Published: last month; https://investors.gf.com/news-releases/news-release-details/globalfoundries-reports-second-quarter-2026-financial-results ... # tower semi earnings yesterday:https://ir.towersemi.com/news-releases/news-release-details/tower-semiconductor-announces-record-results-revenue-and
+--------------------------------------------------------------------------------
+Intel Q2 2026 Earnings Discussion (https://www.reddit.com/r/AMD_Stock/comments/1v4oyc4/intel_q2_2026_earnings_discussion/)
+citeturn134reddit18 [wordlim: 200] Published: 2 months ago; * https://www.intc.com/news-events/ir-calendar/detail/20260723-q2-2026-intel-corporation-earnings-conference-call ... * https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+--------------------------------------------------------------------------------
+$CIEN 2026-Q3 Earnings Call Summary (Sep 3, 2026) (https://www.reddit.com/r/earningsdigest/comments/1w80hpg/cien_2026q3_earnings_call_summary_sep_3_2026/)
+citeturn134reddit19 [wordlim: 200] Published: 3 weeks ago; Siena delivered an outstanding fiscal third quarter of 2026, with record revenues of 1.7 billion dollars, representing a 37% year-over-year increase.The company surpassed earnings estimates with an EPS of 2.11 dollars, a 22 percentage point surprise, and achieved its highest adjusted operating margin at 22.5%. ... 3. ... Financial Outlook & Margin Expansion: Raised full-year revenue guidance to approximately 6.42 billion dollars; expects gross margins to stay around 45%, with operating margins forecasted between 20-21% for FY 2026 and potentially rising further in 2027.
+--------------------------------------------------------------------------------
+Intel Q2 2026 Earnings (Jul 23, 2026 • 2:00 PM PDT) (https://www.reddit.com/r/amd_fundamentals/comments/1v4hnfs/intel_q2_2026_earnings_jul_23_2026_200_pm_pdt/)
+citeturn134reddit20 [wordlim: 200] Published: 2 months ago; * https://www.intc.com/news-events/ir-calendar/detail/20260723-q2-2026-intel-corporation-earnings-conference-call ... They said $173 million quarter over quarter due to charges, but from a YOY charge it was probably much larger> (from the 10Q) CCPG operating income increased $290 million from Q2 2025, primarily driven by $701 million of higher product profit in Q2 2026 primarily related to higher client revenue, partially offset by higher client unit costs resulting from an increased mix of premium products sold in Q2 2026. ... However, the second line is Tan's new ethos of "we're not building anything until people commit," but Intel has a head start on this because of Gelsinger. ... SemiAnalysis mostly talks about why it's great from an Intel point of view.
+--------------------------------------------------------------------------------
+$CIEN 2026-Q3 Earnings Call Summary (Sep 3, 2026) (https://www.reddit.com/r/earningsdigest/comments/1w80kmr/cien_2026q3_earnings_call_summary_sep_3_2026/)
+citeturn134reddit21 [wordlim: 200] Published: 3 weeks ago; Ciena reported a strong third quarter of fiscal 2026, with record revenues of $1.67 billion, surpassing estimates and showing a 37% year-over-year increase. ... Ciena’s emphasis on long-term customer commitments and backlog visibility suggests a resilient revenue outlook, warranting attention to upcoming earnings updates and product deployment milestones.
+--------------------------------------------------------------------------------
+Second-quarter revenue was $16.1 billion, up 25% year-over-year (YoY). (https://www.reddit.com/r/intelstock/comments/1v4p4n1/secondquarter_revenue_was_161_billion_up_25/)
+citeturn134reddit22 [wordlim: 200] Published: 2 months ago; * Second-quarter earnings (loss) per share (EPS) attributable to Intel was $(2.16); non-GAAP EPS attributable to Intel was $0.42.* Forecasting third-quarter 2026 revenue of $15.8 billion to $16.8 billion; expecting third-quarter EPS attributable to Intel of $0.31 and non-GAAP EPS attributable to Intel of $0.38.
+--------------------------------------------------------------------------------
+Cien (https://www.reddit.com/r/dotaddaknowledge/comments/1wr3zz6/cien/)
+citeturn134reddit23 [wordlim: 200] Published: 3 days ago; • Ciena Reports Fiscal Third Quarter 2026 Financial Results ... • Ciena Fiscal Q3 2026 Earnings Call
+--------------------------------------------------------------------------------
+TSMC just committed $265 billion to Arizona. Net income up 78% last quarter. 2nm chips at $30,000 per wafer just started shipping. The stock is still down 7% from results day. (https://www.reddit.com/r/iOCharts/comments/1v1b5tt/tsmc_just_committed_265_billion_to_arizona_net/)
+citeturn134reddit24 [wordlim: 200] Published: 2 months ago; [Monday July 20 2026] [+11 votes]Went through TSMC's Q2 results from Thursday July 17 and the Arizona announcement that came with it. ... * Q3 revenue guidance: $44.6B–$45.8B, implying about 36% YoY growth ... The second fab is receiving equipment, the third is under construction, and site preparation has begun for the fourth.Despite all of that, the stock fell 7.3% after earnings in Taipei.
+--------------------------------------------------------------------------------
+JUST IN: TSMC second-quarter profit jumps over 77%, beating estimates, on high-end chip boom (https://www.reddit.com/r/SKHynix/comments/1uxuab7/just_in_tsmc_secondquarter_profit_jumps_over_77/)
+citeturn134reddit25 [wordlim: 200] Published: 2 months ago; [Thursday July 16 2026] [+72 votes] ... "Taiwan Semiconductor Manufacturing Co on Thursday reported a 77.4% jump in second-quarter profit year on year, shattering estimates as the world’s largest contract-chipmaker continues to set consecutive record-breaking milestones.Here are TSMC’s second-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:

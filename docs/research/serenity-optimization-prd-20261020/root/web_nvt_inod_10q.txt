@@ -1,0 +1,6 @@
+nvt-20260630 (https://www.sec.gov/Archives/edgar/data/1720635/000162828026051428/nvt-20260630.htm)
+citeturn461view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1720635/000162828026051428/nvt-20260630.htm","lineno":null}); Total lines: 1664
+--------------------------------------------------------------------------------
+INNODATA INC._June 30, 2026 (https://www.sec.gov/Archives/edgar/data/903651/000110465926092021/inod-20260630x10q.htm)
+citeturn461view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/903651/000110465926092021/inod-20260630x10q.htm","lineno":null}); Total lines: 1746
+

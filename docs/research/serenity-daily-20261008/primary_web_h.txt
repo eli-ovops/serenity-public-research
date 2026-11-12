@@ -1,0 +1,44 @@
+Internal Error ()
+citeturn378view0 [wordlim: 200] Source: open({"ref_id":"https://investor.marvell.com/news-events/press-releases/detail/1036/marvell-to-showcase-open-ai-infrastructure-solutions-at-ocp-global-summit-2026","lineno":null}); Total lines: 1
+L0: URL https://investor.marvell.com/news-events/press-releases/detail/1036/marvell-to-showcase-open-ai-infrastructure-solutions-at-ocp-global-summit-2026 is not accessible via this tool.
+--------------------------------------------------------------------------------
+Teradyne Introduces Titan HP Platform with Burn-In Capabilities for Advanced AI Data Center Devices :: Teradyne, Inc. (TER) (https://investors.teradyne.com/news-events/press-releases/detail/452/teradyne-introduces-titan-hp-platform-with-burn-in-capabilities-for-advanced-ai-data-center-devices)
+citeturn378view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.teradyne.com/news-events/press-releases/detail/452/teradyne-introduces-titan-hp-platform-with-burn-in-capabilities-for-advanced-ai-data-center-devices","lineno":null}); Total lines: 77
+L0: cite0†Image†secure.group-dataintelligence.com L1: 
+L2: cite1†Skip to main content cite2†Skip to section navigation cite3†Skip to footer L3:   * cite4†Investors L4:   * cite5†News & Events L5:     * cite6†Press Releases L6:     * cite7†IR Calendar L7:     * cite8†Presentations L8:     * cite9†Email Alerts L9:   * cite10†Company Information L10:     * cite10†Company Profile L11:     * cite11†Executive Team L12:     * cite12†Contacts L13:     * cite13†FAQ L14:   * cite14†Governance L15:     * cite14†Governance Overview L16:     * cite15†Board of Directors L17:     * cite16†Board Committees L18:     * cite17†Governance Documents L19:   * cite18†Financial Results L20:   * cite19†Stock Data L21:     * cite20†Quote & Chart L22:     * cite21†Historical Data L23:     * cite22†Analyst Coverage L24:   * cite23†SEC Filings L25:     * cite24†All SEC Filings L26:     * cite25†Annual Reports L27:     * cite26†Quarterly Reports L28:     * cite27†Section 16 Filings L29:   * Stock Information
+L30:   * cite28†chevron_leftBack to Teradyne.com†www.teradyne.com L31: 
+L32: News & Events
+L33: ### News & Events
+L34: 
+L35:   * cite6†Press Releases L36:   * cite7†IR Calendar L37:   * cite8†Presentations L38:   * cite9†Email Alerts L39: # Teradyne Introduces Titan HP Platform with Burn-In Capabilities for Advanced AI Data Center Devices
+L40: 
+L41: Chipmakers can lower cost of test, factory floor space, and time to market for high-power AI, automotive, and other high-reliability devices.
+L42: NORTH READING, Mass.--(BUSINESS WIRE)-- cite28†Teradyne, Inc.†www.teradyne.com (NASDAQ: TER), a leading provider of automated test equipment and advanced robotics, today announced a production-ready system that delivers enhanced burn-in capabilities on its cite29†Titan™ HP†www.teradyne.com platform. Traditional burn-in holds devices in banks of dedicated ovens at a controlled air temperature for hours before they move on to functional test.
+L43: Teradyne Titan HP instead holds each device at its target junction temperature while running a realistic device workload, so reliability stress functions are optimized and thermal controls are enabled at the per-device level. Titan HP can be used for system level test or reliability testing, optimizing capital cost investments. For reliability testing, every device carries its full stress-and-test history on a single record.
+L44: This press release features multimedia. View the full release here: cite30†https://www.businesswire.com/news/home/20261006716626/en/†www.businesswire.com L45: 
+L46: cite31†Image: Teradyne introduces Titan HP with burn-in for advanced AI data center devices†mms.businesswire.com L47: 
+L48: Teradyne introduces Titan HP with burn-in for advanced AI data center devices
+L49: “Our customers are being asked to ship high-power AI silicon at reliability levels that used to belong to automotive,” said Jason Zee, vice president and general manager of the Integrated Systems Test division at Teradyne. “Moving reliability stress testing onto a system level test platform means optimized reliability, which can lower cost of test, improve time to market and deliver better data on every device shipped.”
+L50: Per-site thermal control, tuned to each device's thermal and force zones, and paired with high per-device kilowatt power delivery, lets Titan HP sustain reliability-stress conditions on parts whose power draw and heat dissipation strain a conventional oven flow. The platform's asynchronous slot architecture loads and tests each slot independently, so a long stress run on one device does not idle the rest of the system, and individual sites can be serviced while the system continues to operate.
+L51: Test programs run on the Teradyne Atlas software platform, which lets engineers import existing programs or build new ones and port them to other Teradyne system level test systems. Teradyne's per-device power roadmap extends to the levels future AI accelerators are expected to require, so the same platform carries customers forward as device power grows.
+L52: Burn-in has long been standard for automotive and other high-reliability silicon. AI accelerators and cloud infrastructure devices are now entering the same category, driven by the high cost of a single failed accelerator in a deployed rack. That demand is arriving as capital, floor space, and handling capacity for dedicated oven banks come under pressure in high-volume manufacturing and OSAT facilities.
+L53: Enhanced burn-in extends Teradyne’s test portfolio, which spans the AI device supply chain from wafer to data center. As AI silicon moves through wafer probe, package test, system level test, and now reliability stress testing, Teradyne covers every device at every insertion.
+L54: Teradyne Titan HP with enhanced burn-in is available today and deployed in production. For more information, visit us at booth #1143 at SEMICON West, October 13-15, 2026, in San Francisco, California, and at booth #204 at the IEEE International Test Conference (ITC), October 11-16 in San Antonio, Texas. Learn more at cite29†teradyne.com/titan-hp†www.teradyne.com .
+L55: About Teradyne
+L56: cite28†Teradyne†www.teradyne.com (NASDAQ: TER) designs, develops, and manufactures automated test equipment and advanced robotics systems. Its semiconductor and electronics test solutions span the full AI device supply chain, from wafer to data center, enabling customers to meet the quality and reliability standards the AI era demands. Its advanced robotics business deploys intelligent automation across manufacturing, logistics, and data center operations for customers worldwide.
+L57: For more information, visit cite28†teradyne.com†www.teradyne.com . Teradyne® is a registered trademark of Teradyne, Inc., in the U.S. and other countries.
+L58: View source version on businesswire.com: cite30†https://www.businesswire.com/news/home/20261006716626/en/†www.businesswire.com L59: 
+L60: For more information
+L61: Amy McAndrews
+L62: Investor Relations
+L63: Tel 978.370.3945
+L64: [REDACTED_EMAIL]
+L65: 
+L66: Source: Teradyne, Inc.
+L67: 
+L68: Released October 6, 2026
+L69: 
+L70: ©2026 cite4†Teradyne, Inc. All Rights Reserved.
+L71: 
+L72:   * cite32†Privacy Policy†www.teradyne.com L73:   * cite33†Disclaimer L74:   * cite34†Sitemap L75:   * cite35†Accessibility Statement L76: Market Data copyright © 2026 cite36†QuoteMedia†www.quotemedia.com . Data delayed 15 minutes unless otherwise indicated (view cite37†delay times†www.quotemedia.com for all exchanges). RT=Real-Time, EOD=End of Day, PD=Previous Day. Market Data powered by cite36†QuoteMedia†www.quotemedia.com . cite38†Terms of Use†www.quotemedia.com .
+

@@ -1,0 +1,385 @@
+News Archive | NVIDIA Newsroom (https://nvidianews.nvidia.com/news)
+citeturn385view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://nvidianews.nvidia.com/news","lineno":null}); Total lines: 209
+L0: PLATFORMS
+L1: 
+L2: other links
+L3: 
+L4:   * cite0†Developers†developer.nvidia.com L5:   * cite1†Industries†www.nvidia.com L6:   * cite2†Shop†www.nvidia.com L7:   * cite3†Drivers†www.nvidia.com L8:   * cite4†Support†www.nvidia.com L9:   * cite5†About NVIDIA†www.nvidia.com L10: 
+L11:   * cite6†View All Products†www.nvidia.com L12:   * cite7†GPU TECHNOLOGY CONFERENCE†www.nvidia.com L13:   * cite8†NVIDIA Blog†blogs.nvidia.com L14:   * cite9†Community†www.nvidia.com L15:   * cite10†Careers†www.nvidia.com L16:   * cite11†TECHNOLOGIES†www.nvidia.com L17: 
+L18: cite12†Newsroom L19: 
+L20: cite13†NVIDIA in Brief L21: 
+L22: cite14†Exec Bios L23: cite8†NVIDIA Blog†blogs.nvidia.com L24: 
+L25: cite15†Podcast†blogs.nvidia.com L26: 
+L27: cite16†Media Assets L28: 
+L29: cite17†In the News L30: 
+L31: cite18†Press Contacts L32: 
+L33: cite19†Online Press Kits L34: 
+L35:   * cite13†NVIDIA in Brief L36:   * cite14†Exec Bios L37:   * cite8†NVIDIA Blog†blogs.nvidia.com L38:   * cite15†Podcast†blogs.nvidia.com L39:   * cite16†Media Assets L40:   * cite17†In the News L41:   * cite18†Press Contacts L42:   * cite19†Online Press Kits L43: # News Archive
+L44: 
+L45: [Input: Search News]
+L46: 
+L47: Sort By:
+L48: 
+L49: [Input]Press releases
+L50: 
+L51: [Input]Blog
+L52: 
+L53: Year: [Select]
+L54: 
+L55: cite20†Image†iprsoftwaremedia.com L56: 
+L57: October 13, 2026
+L58: ### cite21†All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark†blogs.nvidia.com L59: 
+L60: NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX ...
+L61: 
+L62: cite21†Read Blog†blogs.nvidia.com L63: 
+L64: cite22†Image†iprsoftwaremedia.com L65: 
+L66: October 12, 2026
+L67: ### cite23†NVIDIA Lands in Europe for GTC Berlin†blogs.nvidia.com L68: 
+L69: NVIDIA is in Europe, showcasing the future of technology together with the region’s developers, researchers and industry leaders.
+L70: 
+L71: cite23†Read Blog†blogs.nvidia.com L72: 
+L73: cite24†Image†iprsoftwaremedia.com L74: 
+L75: October 12, 2026
+L76: ### cite25†From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA†blogs.nvidia.com L77: 
+L78: Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress ...
+L79: 
+L80: cite25†Read Blog†blogs.nvidia.com L81: 
+L82: cite26†Image†iprsoftwaremedia.com L83: 
+L84: October 12, 2026
+L85: ### cite27†OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide†blogs.nvidia.com L86: 
+L87: As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global ...
+L88: 
+L89: cite27†Read Blog†blogs.nvidia.com L90: 
+L91: cite28†Image†iprsoftwaremedia.com L92: 
+L93: October 12, 2026
+L94: ### cite29†NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories L95: 
+L96: NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable ...
+L97: 
+L98: cite29†Read Press Release L99: 
+L100: cite30†Image†iprsoftwaremedia.com L101: 
+L102: October 08, 2026
+L103: ### cite31†Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents†blogs.nvidia.com L104: 
+L105: Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help ...
+L106: 
+L107: cite31†Read Blog†blogs.nvidia.com L108: 
+L109: cite32†Image†iprsoftwaremedia.com L110: 
+L111: October 08, 2026
+L112: ### cite33†NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years L113: 
+L114: NVIDIA today announced commitments valued at $1 billion to build out the United States’ capacity for super intelligence research and development in fields critical for U.S. leadership, including quantum computing, healthcare and energy security.
+L115: 
+L116: cite33†Read Press Release L117: 
+L118: cite34†Image†iprsoftwaremedia.com L119: 
+L120: October 08, 2026
+L121: ### cite35†Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW†blogs.nvidia.com L122: 
+L123: Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the action is also coming: Fire TV ...
+L124: 
+L125: cite35†Read Blog†blogs.nvidia.com L126: 
+L127: cite36†Image†iprsoftwaremedia.com L128: 
+L129: October 07, 2026
+L130: ### cite37†NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents†blogs.nvidia.com L131: 
+L132: At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now ...
+L133: 
+L134: cite37†Read Blog†blogs.nvidia.com L135: 
+L136: cite38†Image†iprsoftwaremedia.com L137: 
+L138: October 06, 2026
+L139: ### cite39†Why Telecom Operators Are Building Their AI Strategy on Open Models†blogs.nvidia.com L140: 
+L141: Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous ...
+L142: 
+L143: cite39†Read Blog†blogs.nvidia.com L144: 
+L145:   * cite40†1 L146:   * cite41†2 L147:   * cite42†3 L148:   * cite43†4 L149:   * cite44†5 L150:   * cite45†6 L151:   * ... cite46†509 L152:   * cite41†Next L153:   * cite46†Last L154: ## Media Contacts
+L155: 
+L156: Global contacts for media inquiries.
+L157: 
+L158: cite18†All Contacts L159: ## Stay Informed
+L160: 
+L161: Newsroom updates delivered to your inbox.
+L162: 
+L163: cite47†Subscribe L164: 
+L165: Corporate Information
+L166: 
+L167:   * cite5†About NVIDIA†www.nvidia.com L168:   * cite48†Corporate Overview†www.nvidia.com L169:   * cite11†Technologies†www.nvidia.com L170:   * cite49†NVIDIA Research†www.nvidia.com L171:   * cite50†Investors†investor.nvidia.com L172:   * cite51†Social Responsibility†www.nvidia.com L173:   * cite52†NVIDIA Foundation†www.nvidia.com L174: 
+L175: Get Involved
+L176:   * cite53†Forums†www.nvidia.com L177:   * cite10†Careers†www.nvidia.com L178:   * cite0†Developer Home†developer.nvidia.com L179:   * cite54†Join the Developer Program†developer.nvidia.com L180:   * cite55†NVIDIA Partner Network†www.nvidia.com L181:   * cite56†NVIDIA Inception†www.nvidia.com L182:   * cite57†Resources for Venture Capitalists†www.nvidia.com L183:   * cite58†Venture Capital (NVentures)†www.nventures.ai L184:   * cite59†Technical Training†www.nvidia.com L185:   * cite60†Training for IT Professionals†academy.nvidia.com L186:   * cite61†Professional Services for Data Science†www.nvidia.com L187: News & Events
+L188: 
+L189:   * cite12†Newsroom L190:   * cite8†NVIDIA Blog†blogs.nvidia.com L191:   * cite62†NVIDIA Technical Blog†developer.nvidia.com L192:   * cite63†Webinars†www.nvidia.com L193:   * cite64†Stay Informed†www.nvidia.com L194:   * cite65†Events Calendar†www.nvidia.com L195:   * cite7†NVIDIA GTC†www.nvidia.com L196:   * cite66†NVIDIA On-Demand†www.nvidia.com L197: 
+L198: cite67†USA - United States†www.nvidia.com L199:   * cite68†Privacy Policy†www.nvidia.com L200:   * cite69†Your Privacy Choices†www.nvidia.com L201:   * [Button: Manage Cookie Settings]
+L202:   * cite70†Terms of Service†www.nvidia.com L203:   * cite71†Accessibility†www.nvidia.com L204:   * cite72†Corporate Policies†www.nvidia.com L205:   * cite73†Product Security†www.nvidia.com L206:   * cite74†Contact†www.nvidia.com L207: 
+L208: Copyright © 2026 NVIDIA Corporation
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn385view1 [wordlim: 200] Source: open({"ref_id":"https://corporate.celestica.com/news-releases","lineno":null}); Total lines: 1
+L0: Failed to fetch https://corporate.celestica.com/news-releases: (403) Forbidden
+--------------------------------------------------------------------------------
+Investors - Camtek (https://www.camtek.com/investors/)
+citeturn385view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.camtek.com/investors/","lineno":null}); Total lines: 928
+L0: cite0†Image†cdn.camtek.com L1: 
+L2: [Input] [Input]
+L3: 
+L4: Investors
+L5: 
+L6:   * cite1†Company Profile L7:   * cite2†Financials & Filings L8:   * cite3†Stock performance L9:   * cite4†News & Events L10:   * cite5†Analysts L11:   * cite6†Corporate Governance L12:   * cite7†IR Contact L13: Camtek is a leading developer and manufacturer of high-end inspection and metrology equipment for the semiconductor industry.
+L14: Camtek’s systems inspect and measure wafers throughout the production process of semiconductor devices, covering the front and mid-end, and up to the beginning of assembly (Post Dicing Inspection and Metrology).
+L15: Camtek’s systems inspect wafers for the most demanding semiconductor market segments, including Advanced Interconnect Packaging, Memory, CMOS Image Sensors, MEMS and RF, serving the industry’s leading global IDMs, OSATs and foundries.
+L16: Camtek’s world-class sales and customer support infrastructure is organized around eight subsidiaries based in the US, Europe, Japan, China, Hong Kong, Taiwan, Korea and Singapore.
+L17: Link to Settlement Method Election Notice – click cite8†here†cdn.camtek.com L18: 
+L19: Link to the Annual General Meeting of Shareholders Notice – click cite9†here†cdn.camtek.com L20: 
+L21: Link to  the Proxy Card – click cite10†here†cdn.camtek.com L22: ## Financials & Filings
+L23: 
+L24: cite11†Image†cdn.camtek.com Quarterly Earnings
+L25: 
+L26:   * 2026
+L27:   * 2025
+L28:   * 2024
+L29:   * 2023
+L30:   * 2022
+L31:   * 2021
+L32:   * 2020
+L33:   * 2019
+L34:   * 2018
+L35:   * 2017
+L36:   * 2016
+L37:   * 2015
+L38:   * 2014
+L39:   * 2013
+L40:   * 2012
+L41:   * 2011
+L42:   * 2010
+L43:   * 2009
+L44:   * 2008
+L45:   * 2007
+L46: 
+L47: cite12†Image†cdn.camtek.com Annual Report
+L48: 
+L49:   * cite13†2025†cdn.camtek.com L50:   * cite14†2024†cdn.camtek.com L51:   * cite15†2023†cdn.camtek.com L52:   * cite16†2022†cdn.camtek.com L53:   * cite17†2021†cdn.camtek.com L54: 
+L55: cite18†Image†cdn.camtek.com SEC Filings cite19†View L56: ## Latest Investors presentation
+L57: 
+L58: August 11, 2026
+L59: 
+L60: Investors presentation
+L61: 
+L62: cite20†Download PDF†cdn.camtek.com cite21†Image†cdn.camtek.com L63: 
+L64: ## Q2 2026
+L65: 
+L66:   * cite22†Q2 Conference Call†cdn.camtek.com L67:   * cite23†Q2 Conference Call Presentation†cdn.camtek.com L68:   * cite24†Q2 2026†cdn.camtek.com L69: 
+L70: ## Q1 2026
+L71: 
+L72:   * cite25†Q1 2026†cdn.camtek.com L73:   * cite26†Q1 2026 Conference Call†cdn.camtek.com L74: 
+L75: ## Q4 2025
+L76: 
+L77:   * cite27†Q4 and Full Year 2025 Conference Call†cdn.camtek.com L78:   * cite28†Q4 and Full Year 2025†cdn.camtek.com L79: ## Q3 2025
+L80: 
+L81:   * cite29†Q3 2025 Conference Call†cdn.camtek.com L82:   * cite30†Q3 2025†cdn.camtek.com L83: 
+L84: ## Q2 2025
+L85: 
+L86:   * cite31†Q2 2025†cdn.camtek.com L87:   * cite32†Q2 2025 Conference Call†cdn.camtek.com L88: 
+L89: ## Q1 2025
+L90: 
+L91:   * cite33†Q1 2025†cdn.camtek.com L92:   * cite34†Q1 2025 Conference Call†cdn.camtek.com L93: 
+L94: ## Q4 2024
+L95: 
+L96:   * cite35†Q4 and Full Year 2024 Conference Call†cdn.camtek.com L97:   * cite36†Q4 and Full Year 2024†cdn.camtek.com L98: 
+L99: ## Q3 2024
+L100: 
+L101:   * cite37†Q3 2024†cdn.camtek.com L102:   * cite38†Q3 2024 Conference Call†cdn.camtek.com L103: ## Q2 2024
+L104: 
+L105:   * cite39†Q2 2024†cdn.camtek.com L106:   * cite40†Q2 2024 Conference Call†cdn.camtek.com L107: 
+L108: ## Q1 2024
+L109: 
+L110:   * cite41†Q1 2024 Conference Call†cdn.camtek.com L111:   * cite42†Q1 2024†cdn.camtek.com L112: 
+L113: ## Q4 2023
+L114: 
+L115:   * cite43†Q4 and Full Year 2023 Conference Call†cdn.camtek.com L116:   * cite44†Q4 and Full Year 2023†cdn.camtek.com L117: 
+L118: ## Q3 2023
+L119: 
+L120:   * cite45†Q3 2023 Conference Call†cdn.camtek.com L121:   * cite46†Q3 2023†cdn.camtek.com L122: 
+L123: ## Q2 2023
+L124: 
+L125:   * cite47†Q2 2023 Conference Call†cdn.camtek.com L126:   * cite48†Q2 2023†cdn.camtek.com L127: ## Q1 2023
+L128: 
+L129:   * cite49†Q1 2023 Conference Call†cdn.camtek.com L130:   * cite50†Q1 2023†cdn.camtek.com L131: 
+L132: ## Q4 2022
+L133: 
+L134:   * cite51†Q4 2022 and Full Year 2022 Conference Call†cdn.camtek.com L135:   * cite52†Q4 2022 and Full Year†cdn.camtek.com L136: 
+L137: ## Q3 2022
+L138: 
+L139:   * cite53†Q3 2022†cdn.camtek.com L140:   * cite54†Q3 2022 Conference Call†cdn.camtek.com L141: 
+L142: ## Q2 2022
+L143: 
+L144:   * cite55†Q2 2022†cdn.camtek.com L145:   * cite56†Q2 2022 Conference Call†cdn.camtek.com L146: 
+L147: ## Q1 2022
+L148: 
+L149:   * cite57†Q1 2022†cdn.camtek.com L150:   * cite58†Q1 2022 Conference Call†cdn.camtek.com L151: ## Q4 2021
+L152: 
+L153:   * cite59†Q4 2021†cdn.camtek.com L154:   * cite60†Q4 2021 Conference Call†cdn.camtek.com L155: 
+L156: ## Q3 2021
+L157: 
+L158:   * cite61†Q3 2021†cdn.camtek.com L159:   * cite62†Q3 2021 Conference Call†cdn.camtek.com L160: 
+L161: ## Q2 2021
+L162: 
+L163:   * cite63†Q2 2021†cdn.camtek.com L164:   * cite64†Q2 2021 Conference Call†cdn.camtek.com L165: 
+L166: ## Q1 2021
+L167: 
+L168:   * cite65†Q1 2021†cdn.camtek.com L169:   * cite66†Q1 2021 Conference Call†cdn.camtek.com L170: 
+L171: ## Q4 2020
+L172: 
+L173:   * cite67†Q4 2020†cdn.camtek.com L174:   * Q4 2020 Conference Call
+L175: ## Q3 2020
+L176: 
+L177:   * cite68†Q3 2020†cdn.camtek.com L178:   * cite69†Q3 2020 Conference Call†cdn.camtek.com L179: 
+L180: ## Q2 2020
+L181: 
+L182:   * cite70†Q2 2020†cdn.camtek.com L183:   * cite71†Q2 2020 Conference Call†cdn.camtek.com L184: 
+L185: ## Q1 2020
+L186: 
+L187:   * cite72†Q1 2020†cdn.camtek.com L188:   * cite73†Q1 2020 Conference Call†cdn.camtek.com L189: 
+L190: ## Q4 2019
+L191: 
+L192:   * cite74†Q4 2019†cdn.camtek.com L193:   * cite75†Q4 2019 Conference Call†cdn.camtek.com L194: 
+L195: ## Q3 2019
+L196: 
+L197:   * cite76†Q3 2019†cdn.camtek.com L198:   * cite77†Q3 2019 Conference Call†cdn.camtek.com L199: ## Q2 2019
+L200: 
+L201:   * cite78†Q2 2019†cdn.camtek.com L202:   * cite79†Q2 2019 Conference Call†cdn.camtek.com L203: 
+L204: ## Q1 2019
+L205: 
+L206:   * cite80†Q1 2019†cdn.camtek.com L207:   * cite81†Q1 2019 Conference Call†cdn.camtek.com L208: 
+L209: ## Q4 2018
+L210: 
+L211:   * cite82†Q4 2018†cdn.camtek.com L212:   * cite83†Q4 2018 Conference Call†cdn.camtek.com L213:   * cite84†XBRL Data Download†cdn.camtek.com L214: 
+L215: ## Q3 2018
+L216: 
+L217:   * cite85†Q3 2018†cdn.camtek.com L218:   * cite86†Q3 Earnings Summary†cdn.camtek.com L219:   * cite87†Q3 2018 Conference Call†cdn.camtek.com L220: ## Q2 2018
+L221: 
+L222:   * cite88†Q2 2018†cdn.camtek.com L223:   * cite89†Q2 2018 Conference Call†cdn.camtek.com L224: 
+L225: ## Q1 2018
+L226: 
+L227:   * cite90†Q1 2018†cdn.camtek.com L228:   * cite91†Q1 2018 Conference Call†cdn.camtek.com L229: 
+L230: ## Q4 2017
+L231: 
+L232:   * cite92†Q4 2017†cdn.camtek.com L233:   * cite93†Q4 2017 Conference Call†cdn.camtek.com L234:   * cite94†XBRL Data Download†cdn.camtek.com L235: 
+L236: ## Q3 2017
+L237: 
+L238:   * cite95†Q3 2017 Conference Call†cdn.camtek.com L239:   * cite96†Q3 2017†cdn.camtek.com L240: ## Q2 2017
+L241: 
+L242:   * cite97†Q2 2017 Conference Call†cdn.camtek.com L243:   * cite98†Q2 2017†cdn.camtek.com L244:   * cite99†XBRL Data Download†cdn.camtek.com L245: 
+L246: ## Q1 2017
+L247: 
+L248:   * cite100†Q1 2017 Conference Call†cdn.camtek.com L249:   * cite101†Q1 2017†cdn.camtek.com L250: 
+L251: ## Q4 2016
+L252: 
+L253:   * cite102†Q4 2016 Conference Call†cdn.camtek.com L254:   * cite103†XBRL Data Download†cdn.camtek.com L255:   * cite104†Q4 2016†cdn.camtek.com L256: 
+L257: ## Q3 2016
+L258: 
+L259:   * cite105†Q3 2016 Conference Call†cdn.camtek.com L260:   * cite106†Q3 2016†cdn.camtek.com L261: ## Q2 2016
+L262: 
+L263:   * cite107†XBRL Data Download†cdn.camtek.com L264:   * cite108†Q2 2016†cdn.camtek.com L265:   * cite109†Q2 Conference Call†cdn.camtek.com L266: 
+L267: ## Q1 2016
+L268: 
+L269:   * cite110†Q1 Conference Call†cdn.camtek.com L270:   * cite111†Q1 2016†cdn.camtek.com L271: 
+L272: ## Q4 2015
+L273: 
+L274:   * cite112†XBRL Data Download†cdn.camtek.com L275:   * cite113†Q4 Conference Call†cdn.camtek.com L276:   * cite114†Q4 2015†cdn.camtek.com L277: 
+L278: ## Q3 2015
+L279: 
+L280:   * cite115†Q3 2015†cdn.camtek.com L281:   * cite116†Q3 Conference Call†cdn.camtek.com L282: ## Q2 2015
+L283: 
+L284:   * cite117†Q2 Conference Call†cdn.camtek.com L285:   * cite118†Q2 2015†cdn.camtek.com L286: 
+L287: ## Q1 2015
+L288: 
+L289:   * Q1 2015
+L290:   * cite119†Q1 Conference Call†cdn.camtek.com L291: 
+L292: ## Q4 2014
+L293: 
+L294:   * cite120†XBRL Data Download†cdn.camtek.com L295:   * cite121†Q4 2014†cdn.camtek.com L296:   * cite122†Q4 Conference Call†cdn.camtek.com L297: 
+L298: ## Q3 2014
+L299: 
+L300:   * cite123†Q3 2014†cdn.camtek.com L301:   * cite124†Q3 Conference Call†cdn.camtek.com L302: 
+L303: ## Q2 2014
+L304: 
+L305:   * cite125†Q2 2014†cdn.camtek.com L306:   * cite126†Q2 Conference Call†cdn.camtek.com L307: ## Q1 2014
+L308: 
+L309:   * cite127†Q1 2014†cdn.camtek.com L310:   * cite128†Q1 Conference Call†cdn.camtek.com L311: 
+L312: ## Q4 2013
+L313: 
+L314:   * cite129†Q4 2013†cdn.camtek.com L315:   * cite130†XBRL Data Download†cdn.camtek.com L316:   * cite131†20-F 2013†cdn.camtek.com L317: 
+L318: ## Q3 2013
+L319: 
+L320:   * cite132†Q3 Conference Call†cdn.camtek.com L321: 
+L322: ## Q2 2013
+L323: 
+L324:   * cite133†Q2 Conference Call†cdn.camtek.com L325:   * cite134†Q2 2013†cdn.camtek.com L326: 
+L327: ## Q1 2013
+L328: 
+L329:   * cite135†Q1 Conference Call†cdn.camtek.com L330:   * cite136†Q1 2013†cdn.camtek.com L331: ## Q4 2012
+L332: 
+L333:   * 20-F 2012
+L334:   * cite137†XBRL data download†cdn.camtek.com L335:   * cite138†Q4 Conference Call†cdn.camtek.com L336:   * cite139†Q4 2012†cdn.camtek.com L337: 
+L338: ## Q3 2012
+L339: 
+L340:   * cite140†Q3 2012†cdn.camtek.com L341:   * cite141†Q3 Conference Call†cdn.camtek.com L342: 
+L343: ## Q2 2012
+L344: 
+L345:   * cite142†Q2 2012†cdn.camtek.com L346:   * Q2 Conference Call
+L347: 
+L348: ## Q1 2012
+L349: 
+L350:   * cite143†Q1 Conference Call†cdn.camtek.com L351:   * cite144†Q1 2012†cdn.camtek.com L352: ## Q4 2011
+L353: 
+L354:   * cite145†20-F 2011†cdn.camtek.com L355:   * cite146†Q4 2011†cdn.camtek.com L356:   * cite147†Q4 Conference Call†cdn.camtek.com L357: 
+L358: ## Q3 2011
+L359: 
+L360:   * cite148†Q3 2011†cdn.camtek.com L361: 
+L362: ## Q2 2011
+L363: 
+L364:   * cite149†Q2 2011†cdn.camtek.com L365: 
+L366: ## Q1 2011
+L367: 
+L368:   * cite150†Q1 2011†cdn.camtek.com L369: 
+L370: ## Q4 2010
+L371: 
+L372:   * cite151†20-F 2010†cdn.camtek.com L373:   * cite152†Q4 2010†cdn.camtek.com L374: 
+L375: ## Q3 2010
+L376: 
+L377:   * cite153†Q3 2010†cdn.camtek.com L378: 
+L379: ## Q2 2010
+L380: 
+L381:   * cite154†Q2 2010†cdn.camtek.com L382: 
+L383: ## Q1 2010
+L384: 
+L385:   * cite155†Q1 2010†cdn.camtek.com L386: ## Q4 2009
+L387: 
+L388:   * cite156†Q4 2009†cdn.camtek.com L389:   * 20-F 2009
+L390: 
+L391: ## Q3 2009
+L392: 
+L393:   * cite157†Q3 2009†cdn.camtek.com L394: 
+L395: ## Q2 2009
+L396: 
+L397:   * cite158†Q2 2009†cdn.camtek.com L398: 
+L399: ## Q1 2009
+L400: 
+L401:   * cite159†Q1 2009†cdn.camtek.com L402: 
+L403: ## Q4 2008
+L404: 
+L405:   * cite160†20-F 2008†cdn.camtek.com L406:   * cite161†Q4 2008†cdn.camtek.com L407: 
+L408: ## Q3 2008
+L409: 
+L410:   * cite162†Q3 2008†cdn.camtek.com L411: 
+L412: ## Q2 2008
+L413: 
+L414:   * cite163†Q2 2008†cdn.camtek.com --------------------------------------------------------------------------------
+Scribe → News (https://www.scribetx.com/newsroom)
+citeturn385view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.scribetx.com/newsroom","lineno":null}); Total lines: 105
+--------------------------------------------------------------------------------
+Press Releases | Tesla Investor Relations (https://ir.tesla.com/press)
+citeturn385view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://ir.tesla.com/press","lineno":null}); Total lines: 55
+--------------------------------------------------------------------------------
+Events & Presentations | FormFactor, Inc. (https://investors.formfactor.com/events-and-presentations)
+citeturn385view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.formfactor.com/events-and-presentations","lineno":null}); Total lines: 49
+--------------------------------------------------------------------------------
+Investor Events | AAON (https://investors.aaon.com/events)
+citeturn385view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.aaon.com/events","lineno":null}); Total lines: 231
+--------------------------------------------------------------------------------
+台積公司2026年9月營收報告 (https://pr.tsmc.com/chinese/news/3343)
+citeturn385view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://pr.tsmc.com/chinese/news/3343","lineno":null}); Total lines: 327
+

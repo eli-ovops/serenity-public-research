@@ -1,0 +1,851 @@
+ 
+ 
+Interim Report Q1 | January - March 2026 
+ 
+Critical Enablers of a 
+Greener Data Economy 
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  2 
+Interim Report Q1 2026 
+The following Interim Report relates to the period January 1 to March 31, 2026
+First quarter January – March 2026 
+➔ Net sales amounted to SEK 61.9 m (78.9), equivalent to a  
+decrease of 22% YoY.  
+➔ Adjusted EBITDA totaled SEK -13.8 m (-6.0), equivalent to a  
+decrease by SEK 7.8 m 
+➔ Profit/loss before depreciation and amortization (EBITDA) 
+amounted to SEK -24.7 m (-8.6) 
+➔ Operating profit/loss (EBIT) was SEK -41.5 m (-28.3) 
+➔ Profit/loss after tax amounted to SEK -42.7 m (-49.9) 
+➔ Cash flow from operating activities was SEK -49.2 m (-15.8) 
+➔ Earnings per share before and after dilution were SEK -0.14 (-0.19) 
+➔ Equity per share amounted to SEK 2.99 (3.99) 
+ 
+ 
+Key performance indicators1 
+ 
+1. For definitions and calculations see pages 17-18
+Significant events in the first quarter 
+➔ January 15 – Awarded strategic development contract by leading 
+U.S. defense contractor  
+➔ February 17 – Announced new broad market Ka-Band SATCOM 
+beamforming ICs and antenna panels 
+➔ February 24 – Refinanced group debt facilities with Bootstrap Eu-
+rope 
+➔ March 2 – Showcased cutting-edge SATCOM and Fixed Wireless 
+Access innovations at MWC Barcelona 
+➔ March 9 – Demoed latest photonics and DFB laser array solutions 
+at OFC 2026 
+➔ March 11 – Developed partnership with strategic LiDAR customer 
+➔ March 17 – Announced strategic partnership with O-Net and Ena-
+blence Technologies 
+➔ March 23 – Attended and demoed latest SATCOM solutions to 
+SATShow 2026 
+➔ March 30 – Announced General availability of Daybreak™ 5G/6G 
+advanced ICs for emerging FR3 applications 
+Significant events after the end of the period 
+➔ April 15 – Announced collaboration with Jabil on energy efficient 
+1.6T Pluggable Optical Transceiver Module 
+➔ April 15 – Resolved on a directed share issue amounting to ap-
+proximately 125 MSEK   
+➔ April 15 – Announced Evaluation of a potential dual listing of 
+shares on the Nasdaq New York 
+➔ May 6 – Taychon Networks expanded FWA Portfolio with 1.5 
+MUSD development partnership with Sivers 
+➔ May 19 – Microelectronic Commons strengthened commitment to 
+Sivers with year 2 funding 
+➔ May 20 – Welcomed the nomination of new Sivers Board members 
+Joakim Nideborn and Helena Svancar 
+ 
+  
+Jan-Dec
+SEK m 2026 2025 2025
+Net sales 61.9 78.9 306.6
+Net sales growth, % -22% 40% 40%
+Adjusted EBITDA -13.8 -6.0 -50.3
+EBITDA -24.7 -8.6 -93.4
+EBIT -41.5 -28.3 -177.8
+Profit/loss for the period -42.7 -49.9 -222.6
+Cash flow from operating activities -49.2 -15.8 -38.5
+Earnings per share before and after dilution, SEK -0.14 -0.19 -0.81
+Equity per share, SEK 2.99 3.99 3.05
+Jan-Mar
+An online presentation of the Interim Report will be held at 8:00 AM (CEST) on May 29, 2026. 
+Register for the webinar at: https://sivers-semiconductors.events.inderes.com/q1-report-2026  
+ 
+C E O ’ S  S T A T E M E N T 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  3 
+Record Opportunity Pipeline Growth, and Multiple Product Ramps 
+into 2027 remain on Track for Growth Acceleration 
+Q1 revenue was 61.9 MSEK, impacted by US defense budget approval delays and a weaker exchange rate. Q1 
+AEBITDA was -13.8 MSEK driven by sales team expansion to support pipeline and US dual-list preparation.      
+Sivers Q1 2026 revenues came in at 61.9 MSEK. The U.S. Government 
+shutdown and associated defense budget approvals in Q4 2025 de-
+layed some expected revenues from Q1 (and Q2) into the second half 
+of 2026. We remain on track to our full-year revenue growth plan de-
+spite movement between quarters. Our expenses grew to increase 
+sales headcount to support our growing pipeline as well as prepara-
+tions for the potential US dual listing. The recent capital raise in May 
+2026 added high quality institutional investors and provides solid run-
+way for the Company to execute on our plans. 
+Sivers opportunity pipeline grew strongly by 77% Year-to-Date to 
+$799M. The strong increase was driven by a combination of higher 
+production forecasts from some existing customer opportunities and 
+tremendous influx of interest and engagement with our standard 
+products for wireless beamformers and Indium Phosphide (InP) lasers.  
+In Photonics, our qual builds and production readiness is on track for 
+our automotive LIDAR customer ramp in Q4 2026. The product portfo-
+lio is also poised to find applications for LIDAR beyond automotive in 
+areas such as industrial LIDAR and autonomous robots. 
+Sivers’ collaboration with Jabil to develop a 1.6T LRO pluggable trans-
+ceiver is an excellent validation of our laser technology for data cen-
+ters. 800G+ pluggables will continue to drive the majority of shipments 
+into new AI datacenters for the next several years. Given the massive 
+multi-year imbalance in the demand-supply situation for optical net-
+working in AI datacenters, Sivers stays focused on our concerted strat-
+egy to provide reliable, high-performance lasers and laser arrays with 
+relevant manufacturing capacity to the ecosystem at large. Since the 
+Jabil collaboration announcement, we have seen even stronger expan-
+sion of the opportunity pipeline with pluggable customer prospects. 
+Simultaneously, we continue to work with key partners and customers 
+on developing laser technology for future Co-Packaged/Near Packaged 
+Optics for AI Data Centers (CPO/NPO) deployments. These architec-
+tures continue to evolve, and we are positioning our technology well to 
+intersect the commercialization trajectory of these solutions.  
+In Wireless, York Space signing a definitive agreement to acquire our 
+strategic customer ALL.SPACE is a strategically significant milestone for 
+Sivers. The acquisition will combine two innovative companies with a 
+strong balance sheet to drive continued commercialization of their 
+product portfolios. With this acquisition, York Space squarely positions 
+itself as a leading “mission prime” to the Space industry which is ex-
+pected to be a $1.8T economy by 2035. York Space’s strong tie to the 
+US Space Development Agency is a welcome development for Sivers. 
+We are expecting new production orders imminently for the upcoming 
+ramp in 2027 and look forward to supporting the combined entity. 
+The release of Cloudchaser and Maverick products for SATCOM have 
+significantly expanded the opportunity pipeline for Wireless. We ex-
+pect to announce meaningful engagements in the coming quarters.  
+Sivers has also expanded its relationship with Tachyon Networks to 
+develop 60 GHz products in addition to the 28GHz production ramp 
+which is already underway for Fixed Wireless Access Networks (FWA). 
+Our Tier-1 telecom vendor is also on track to release their first prod-
+ucts for FWA by end of 2026. The two companies are anticipated to 
+drive meaningful revenue increases for Sivers in 2027 with both prod-
+uct roll-outs layering on top of each other.   
+The renewal of US Chips Act funding for the EW Star program is a tes-
+tament to the state-of-the-art mmWave beamformer technology 
+driven by Sivers. Sivers and our defense prime partners are very fo-
+cused on accelerating commercialization, as modernization of warfare 
+continues to be a strong thrust in the United States and worldwide.  
+Our Board of Directors nominations at the company’s upcoming An-
+nual General Meeting (AGM), will provide an extremely accomplished 
+Board to help us navigate our promising future, with prominent mem-
+bers from both the U.S. and Europe. We thank prior Board members 
+Erik Fallstrom, Tomas Duffy and Keith Halsey for their contributions to 
+date and welcome new nominees Joakim Nideborn and Helena 
+Svancar. Additionally, we have been investing proactively to bring our 
+financials to a higher standard of control for a potential US dual listing. 
+With a strong opportunity pipeline and multiple ramps expected from 
+customers in AI datacenters, LIDAR, Satellite, Fixed Wireless Access, 
+and Defense, I am confident that Sivers is well positioned for a trans-
+formational 2027. Backed by an experienced Board, a strong moti-
+vated team, and differentiated technology in place, we believe the 
+Company is poised to deliver long-term value for shareholders and 
+customers worldwide.  
+ 
+Vickram Vathulya, President and CEO 
+
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  4 
+This is Sivers Semiconductors 
+We are Critical Enablers of a Greener Data Economy with Energy Efﬁcient Photonics & Wireless Solutions 
+Sivers – mission critical focus on two markets with tremendous momentum 
+ 
+AI Datacenters  Satellite Communications (SATCOM) 
+ 
+ 
+ 
+  
+Total number  
+of employees 
+132 
+of whom 
+31 
+employees 
+hold a PhD 
+ 
+ 
+Sweden 
+Head office & Wireless / 
+R&D and sales 
+USA 
+Wireless /  
+R&D and sales 
+Scotland 
+Photonics AI 
+R&D and Sales/ Fab 
+Sivers Semiconductors is listed on Nasdaq Stockholm  
+under the SIVE ticker.  
+The Group’s head office is in Kista, Stockholm. 
+ 
+ 
+At the end of the first quarter 2026,  
+Sivers Semiconductors had 132 employees  
+in the US, Scotland and Sweden. 
+ 
+ 
+The company’s differentiated high  
+precision laser and RF beamformer  
+technologies are targeted to address  
+two long term secular trends: 
+With energy efficient  
+photonics and wireless solutions,  
+Sivers enables the deployment  
+of innovative next generation data  
+communication networks  
+from the Cloud to the Edge. 
+AI-acceleration mmWave adoption 
+India 
+Wireless / R&D 
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  5 
+Net sales and results 
+First quarter 
+The Group’s net sales amounted to SEK 61.9 m (78.8), a decrease of 
+SEK 16.9 m, equivalent to a decrease of 22 percent year-on-year. The 
+decrease in net sales is the result of FX headwinds and revenue timing 
+related to delays in defense spending approval. Wireless’ net sales de-
+creased by SEK 8.6 m, corresponding to 16 percent, and Photonics’ net 
+sales decreased by SEK 8.4 m, corresponding to 32 percent. 
+Operating profit (EBIT) was SEK -41.5 m (-28.3), a decrease of SEK 13.2 
+m. EBIT was affected by the postponed revenue and increased costs 
+related to our strategic investments in strengthening the organization, 
+primarily within sales, go-to-market, and production. The quarter in-
+cluded non-recurring costs of total SEK 10.7 m, whereof SEK 2.6 m re-
+lated to strategic initiatives, SEK 7.8 m related to share option pro-
+grams and SEK 0.3 m for restructuring. EBIT was also affected by SEK -
+17.0 m (-19.7) in depreciation, amortization, and impairment. 
+Adjusted EBITDA was SEK -13.8 m (-6.0), a decrease of SEK 7.8 m. 
+EBITDA was SEK -24.7 m (-8.6), a decrease of SEK 16.1 m. 
+Net result from financial items amounted to SEK -4.4 m (-25.5). The fi-
+nancial costs were impacted by a non-cash foreign exchange loss of 
+SEK 8.3 m (-18.3), resulting from the revaluation of USD and GBP de-
+nominated intercompany funding to our subsidiaries, and SEK -5.4 m 
+(0), related to revaluation of an external loan denominated in USD. 
+This effect arises from movements in exchange rates between the 
+Swedish krona and the U.S. dollar. This translation impact is non-cash 
+and relates to internal group funding rather than external debt or op-
+erating activities. Exchange rate movements may create volatility in re-
+ported financial results from period to period, but they do not affect 
+the Group’s underlying cash generation or strategic position. 
+Profit/loss after tax was SEK -42.7 m (-49.9), an improvement of SEK 
+7.2 m.  
+Other comprehensive income was SEK 19.1 m (-68.1), an improvement 
+of SEK 87.2.m. The change relates to translation effects of investments 
+in subsidiaries from USD and GBP to SEK. 
+Depreciation and amortization 
+First quarter 
+Profit for the first quarter 2026 was affected by SEK -17.0 m 
+(-19.7) in depreciation, amortization, and impairment, of which  
+SEK -2.9 (-3.6) related to depreciation and amortization of equipment, 
+tools and installations, SEK -0.5 m (-0.9) related to depreciation and 
+amortization of the previous year’s capitalized development expenses, 
+SEK -12.1 m (-14.2) related to amortization of other intangible assets 
+and SEK -1.4 m (-1.1) related to depreciation and amortization of  
+right-of-use assets in lease agreements.  
+Liquidity, balance sheet, cash flow and financing 
+At March 31, 2026, the Group’s total available cash position was SEK 
+26.6 m (73.5). 
+Given the Group’s development and scale-up phase, management 
+maintains strict, forward-looking liquidity planning, supported by de-
+tailed rolling cash flow forecasts and scenario analyses. Throughout 
+the year, the Group further strengthened its financial position through 
+several pre-planned and successfully executed financing measures, 
+ensuring flexibility going into 2026. 
+In the first quarter, the Group entered into a new secured loan facility 
+agreement amounting to USD 17.0 million. The facility comprises a 
+term loan of USD 5.0 million and a convertible loan of USD 12.0 million 
+and refinanced the Group’s existing external debt. The facility is se-
+cured by guarantees and security interests in certain Group compa-
+nies and assets.  
+In the first quarter, the Group’s cash flow from operating activities 
+amounted to SEK -49.2 m (-15.8), consistent with the Group’s in-
+creased commercial activity and investment phase. 
+The Group maintains several levers to further extend its liquidity run-
+way when needed, including the ability to utilize equity-based financing 
+to support future growth initiatives. As part of the annual strategic 
+planning process, the Group is actively reviewing and optimizing its 
+long-term capital structure. In addition, a number of working-capital 
+enhancement measures are being implemented, including efforts to 
+enhance commercial terms in customer agreements and initiatives to 
+better coordinate customer and supplier payment schedules. These 
+actions are designed to further strengthen cash generation and sup-
+port the Group’s liquidity profile.  
+Investments 
+The Group’s total investments in the period January to March 
+amounted to SEK 11.6 m (12.0) related to intangible assets for capital-
+ized development expenses of SEK 10.5 m (11.3), acquisitions of other  
+intangible assets of SEK 0.2 m (0.6), acquisitions of property, plant and 
+equipment of SEK 0.9 m (0.1). The investment in capitalized  
+development expenses was attributable to the development of new 
+product generations.  
+Equity 
+As of March 31, 2026, Group equity amounted to SEK 929.6 m 
+(1,075.3). The share capital totaled SEK 155.7 m (131,9).  
+Parent Company 
+Interest expense and similar items were negatively affected by  
+currency conversion of GBP and USD to SEK and increased interest 
+costs. 
+Shares 
+Sivers Semiconductors’ share capital was divided over 311,333,572 
+(269 359 076) shares with a quotient value of SEK 0.50 as of March 31, 
+2026. These shares comprise 296,534,751 ordinary shares with voting 
+rights 1.0 and 14,798,821 C-shares with voting right 0.1. The C-shares 
+and 1,116,214 of the ordinary shares are held by the Group to cover 
+incentive programs and related social security costs. Since June 10, 
+2021, the share trades on Nasdaq Stockholm under the ticker SIVE, 
+ISIN code SE0003917798 and LEI code 254900UBKNY2EJ588J53.  
+Employees 
+As of March 31, 2026, the Group had, excluding consultants, 132 (129) 
+employees. 
+Ownership structure 
+As of December 31, 2025, Sivers Semiconductors AB (publ) had two 
+shareholders with individual direct and indirect holdings  
+corresponding to five percent or more of the votes and capital in the 
+company. In total, Sivers Semiconductors had approximately 19,000 
+shareholders. 
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  6 
+Outlook  
+The Board does not publish forward-looking financial forecasts. 
+Risks and uncertainties 
+The Group’s operations, financial position and results of operations 
+can be affected by a number of risks and uncertainties. These risks are 
+described in the Group’s Annual Report 2025. No significant new risks 
+have been identified since the publication of the Annual Report. 
+Events after the end of the period 
+After the end of reporting period, a previously announced directed 
+new issue of 8 620 000 shares, corresponding to a capital injection of 
+approximately SEK 125 m before transaction fees, was completed. 
+ 
+ 
+ 
+ 
+ 
+ 
+This interim report has not been submitted for review by the Company’s Auditor 
+ 
+Sivers Semiconductors AB (publ)  
+Kista, Sweden, May 29, 2026 
+The Board 
+ 
+ 
+ 
+ 
+ 
+ 
+This disclosure contains information that Sivers Semiconductors is obliged to make public pursuant to the EU Market Abuse Regulation (EU nr 
+596/2014). The information was submitted for publication through the CEO on May 29, 2026, 07:00 CET 
+ 
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  7 
+Consolidated Income Statement in summary 
+ 
+ 
+ 
+Consolidated Statement of  
+Comprehensive Income in summary 
+ 
+ 
+  
+Jan-Dec
+SEK m 2026 2025 2025
+Net sales 61.9 78.9 306.6
+Cost of goods sold -57.7 -69.7 -308.6
+Gross profit 4.2 9.2 -2.1
+Research and development expenses -7.3 -10.8 -36.3
+Selling, administrative and other expenses -38.2 -26.7 -148.8
+Other operating income 1.2 - 9.4
+Other operating expenses -1.5 - -
+Operating profit/loss -41.5 -28.3 -177.8
+Share of profit/loss of associates -0.2 - 0.1
+Financial income 13.4 - 10.3
+Financial expenses -17.8 -25.5 -69.8
+Profit/loss before tax -46.2 -53.8 -237.2
+Income tax 3.4 3.9 14.6
+Profit/loss for the period -42.7 -49.9 -222.6
+Profit for the year attributable to
+Parent Company shareholders -42.7 -49.9 -222.6
+Earnings per share
+Average number of shares, basic (thousands) 295,419 259,110 274,721
+Basic earnings per share (SEK) -0.14 -0.19 -0.81
+Diluted earnings per share (SEK) -0.14 -0.19 -0.81
+Jan-Mar
+Jan-Dec
+SEK m 2026 2025 2025
+Profit/loss for the period -42.7 -49.9 -222.6
+Other comprehensive income
+Items that will not be reclassified to profit or loss - - -
+Items that maye be reclassified subsequently to profit or loss
+Exchange differences on translation of foreign operations 19.1 -68.1 -121.8
+Other comprehensive income for the period 19.1 -68.1 -121.8
+Comprehensive income attributable to: -23.6 -118.0 -344.4
+Parent Company shareholders -23.6 -118.0 -344.4
+Jan-Mar
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  8 
+Consolidated Statement of Financial Position  
+in summary 
+ 
+SEK m 3/31/2026 3/31/2025 12/31/2025
+ASSETS
+Non-current assets
+Goodwill 378.2 391.3 370.1
+Other intangible assets 482.3 560.9 478.5
+Capitalized development expenditure 186.0 166.8 174.7
+Property, plant and equipment 54.6 61.4 55.9
+Right-of-use assets 18.8 15.8 19.0
+Other assets 1.2 1.0 1.4
+Total non-current assets 1,121.0 1,197.1 1,099.5
+Current assets
+Inventories 10.1 21.5 10.6
+Account receivables 22.2 68.3 42.7
+Current tax receivables 3.2 7.7 -
+Prepaid expenses and other receivables 45.2 23.6 34.3
+Contract assets 112.7 61.5 100.4
+Bank deposit commitments  -    -   13.8
+Cash and cash equivalents 26.6 73.5 29.7
+Total current assets 220.1 256.0 231.5
+TOTAL ASSETS 1,341.1 1,453.1 1,331.0
+EQUITY AND LIABILITIES
+Share capital 155.7 131.8 155.7
+Share premium reserve 2,004.9 1,930.0 2,004.6
+Translation reserve 32.2 69.6 16.0
+Accumulated deficit -1,263.2 -1,056.1 -1,226.5
+Equity attributable to Parent Company shareholders 929.6 1,075.4 949.8
+Total equity 929.6 1,075.4 949.8
+Non-current liabilities
+Deferred tax liabilities 96.5 116.7 96.7
+Non-current lease liabilities 12.5 12.5 13.6
+Liabilities to credit institutions 36.3 15.3 12.1
+Provisions 9.7 2.9 4.0
+Convertible loans 107.2  -   -
+Other non-current liabilities 2.5 3.2 2.6
+Total non-current liabilities 264.7 150.6 129.0
+Current liabilties
+Convertible loans 4.4 54.0 -
+Liabilities to credit institutions 10.4 68.2 90.6
+Accounts payable 40.5 20.0 47.9
+Current lease liabilities 6.5 4.1 5.9
+Contract liabilities 8.7 23.6 11.6
+Accrued expenses 63.5 44.0 82.9
+Other current liabilities 12.6 13.3 13.3
+Total current liabilities 146.6 227.2 252.2
+Total liabilitites 411.3 377.8 381.2
+TOTAL EQUITY AND LIABILITIES 1,341.1 1,453.1 1,331.0
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  9 
+Consolidated Statement of Changes in Equity  
+in summary 
+ 
+  
+SEK m 3/31/2026 3/31/2025 12/31/2025
+Opening balance 949.8 1,091.1 1,091.1
+Profit/loss for the period -42.7 -49.8 -222.6
+Other comprehensive income 19.1 -68.1 -121.8
+New share issue - 107.8 211.0
+Share issue expenses - -6.8 -14.0
+Repurchase of own shares - - -8.1
+Issued warrants - - 6.4
+Equity component on convertible loan 0.2 - -
+Share-based payments 3.3 1.2 7.8
+Closing balance at the end of the period 929.6 1,075.3 949.8
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  10  
+Consolidated Statement of Cash Flow  
+in summary 
+ 
+Jan-Dec
+SEK m 2026 2025 2025
+Cash flow from operating activities
+Operating profit/loss -41.5 -28.2 -177.8
+Adjustments for non-cash items
+Depreciation 17.0 19.6 72.6
+Impairment of property, plant and equipment - - 5.4
+Impairment/write-off of capitalized development expenditure and similar work - - 22.6
+Changes in provisions 5.6 - 1.3
+Equity-settled share-based payments 3.3 1.2 7.8
+Net financial items -1.3 - 2.0
+Other - 3.0 -3.5
+Taxes received - 0.3 4.7
+Net cash flow from operating activities before changes in working capital -16.9 -4.1 -64.8
+Changes in working capital
+- Decrease/increase in inventories 0.7 2.2 12.3
+- Decrease/increase in contract assets -7.9 -14.8 -62.2
+- Decrease/increase in contract liabilities -3.0 -8.6 -21.0
+- Decrease/increase in trade receivables 20.6 7.1 31.0
+- Decrease/increase in other receivables and deferred income -13.8 -7.6 -14.8
+- Decrease/increase in trade payables -7.6 -6.2 24.2
+- Decrease/increase in other liabilities and accrued expenses -21.3 16.1 56.7
+Net cash flow from operating activities -49.2 -15.8 -38.5
+Cash flow from investing activities
+Acquisition of property, pland and equipment -0.9 -0.1 -8.7
+Sale of property, plant and equipment - - 0.5
+Acquisition of intangible assets -10.7 -11.9 -58.5
+Grants received 1.4 2.4 11.8
+Interest received - - 0.3
+Net cash flow from investing activities -10.2 -9.6 -54.6
+Cash flow from financing activities
+Proceeds from borrowings 153.4 - 117.8
+New share issue - 107.8 211.0
+Share issue expenses - -6.8 -14.0
+Bank deposit commitments 13.7 - -14.7
+Repayment of borrowings -104.4 -11.3 -157.6
+Payment of lease liabilities -1.6 -1.1 -4.6
+Repurchase of own shares - - -8.1
+Interest paid -4.9 -7.0 -19.0
+Net cash flow from financing activities 56.2 81.6 110.7
+Net cash flow for the period -3.2 56.2 17.6
+Opening cash and cash equivalents 29.7 17.8 17.8
+Exchange rate difference in cash and cash equivalents 0.1 -0.5 -5.7
+Closing cash and cash equivalents 26.6 73.5 29.7
+Jan-Mar
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  11  
+Parent Company Income Statement  
+in summary 
+ 
+The parent company does not have any items included in other comprehensive income 
+ 
+ 
+  
+Jan-Dec
+SEK m 2026 2025 2025
+Net sales 12.9 7.3 22.2
+Net sales 12.9 7.3 22.2
+Administrative expenses -20.4 -8.5 -55.0
+Other operating income 0.1 - -
+Operating profit/loss -7.5 -1.2 -32.8
+Result from participation in group companies -9.9 -0.1 -47.3
+Financial income 17.5 7.9 31.2
+Financial expenses -7.3 -25.4 -46.5
+Profit/loss before tax -7.2 -18.8 -95.4
+Income tax - - -
+Profit/loss for the period -7.2 -18.8 -95.4
+Jan-Mar
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  12  
+Parent Company Statement of Financial Position 
+in summary 
+ 
+  
+SEK m 3/31/2026 3/31/2025 12/31/2025
+ASSETS
+Non-current assets
+Other intangible assets 1.9 2.4 2.0
+Shares in Group companies 1,203.5 1,203.5 1,203.5
+Receivables from Group companies 308.7 295.4 255.6
+Total non-current assets 1,514.1 1,501.3 1,461.1
+Current assets
+Current receivables
+Receivables from Group companies 121.1 21.2 34.2
+Other receivables 5.4 1.3 1.7
+Prepaid expenses and accrued income 15.5 1.5 6.4
+Total current receivables 142.0 24.0 42.3
+Cash and cash equivalents 15.2 65.2 10.0
+Total current assets 157.2 89.2 52.4
+TOTAL ASSETS 1,671.3 1,590.5 1,513.4
+EQUITY AND LIABILITIES
+Restricted equity
+Share capital 155.7 134.7 155.7
+Non-restricted equity
+Share premium reserve 2,004.6 1,929.6 2,004.6
+Retained earnings including profit/loss for the year -677.5 -602.1 -673.9
+Total equity 1,482.8 1,462.2 1,486.4
+Non-current liabilities
+Liabilities to credit institutions 36.3 - -
+Convertible loans 107.2 - -
+Provisions 1.8 0.3 0.5
+Total non-current liabilities 145.3 0.3 0.5
+Current liabilties
+Liabilities to credit institutions 10.4 64.3 -
+Convertible loans 4.4 54.0 -
+Liabilities to Group companies 0.6 0.3 0.3
+Accounts payable 10.1 2.2 0.3
+Other liabilities 1.3 3.1 1.4
+Accrued expenses and prepaid income 16.5 4.0 24.5
+Total current liabilities 43.2 127.9 26.5
+TOTAL EQUITY AND LIABILITIES 1,671.3 1,590.5 1,513.4
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  13  
+Notes 
+Note 1.  
+Accounting principles 
+The Interim Report has been prepared in accordance with IAS 34 and 
+the applicable regulations of the Swedish Annual Accounts Act. The 
+Consolidated Financial Statements have been prepared in accordance 
+with International Financial Reporting Standards (IFRS) as adopted by 
+the EU and the Swedish Annual Accounts Act. The Parent Company 
+applies the Swedish Annual Accounts Act and the Swedish Financial 
+Reporting Board’s recommendation RFR2.  The same accounting  
+principles and computation methods have been applied in the Interim 
+Reports as in the latest Annual Report.  
+Changed presentation and corrections 
+The Group has changed the presentation of the income statement 
+from cost type to function, which affects certain items in the financial 
+statements. Comparative figures have been reclassified in accordance 
+with the new presentation, without impact on profit or loss or equity. 
+Furthermore, errors in previous periods have been identified and cor-
+rected by retrospective restatement of comparative figures. The cor-
+rections primarily relate to accrual, valuation of items and reclassifica-
+tions between balance sheet items. 
+For more information, see the Group's annual report for 2025. 
+ 
+ 
+Note 2.  
+Revenue from contracts with customers and  
+segment reporting 
+The products (chips, modules, evaluation packages, semiconductor 
+products, etc.) that Sivers manufactures and sells to customers are 
+product sales. Product sales are recognized either at a point in time or 
+over time.  In the Photonics business area, performance obligations 
+are normally fulfilled at a specific point in time, while Wireless has a 
+larger proportion of contracts where performance obligations are met 
+over time. In Wireless, there are so-called “Non-Recurring Engineering” 
+(NRE) contracts. These contracts relate to development projects where 
+Sivers adapts technology in hardware to match customer needs or de-
+velop a new product, for example.  
+Customized products developed through NRE contracts can later be 
+sold at volume under the category “product sales”. Revenue for  
+NRE contracts is recognized over time. In the Wireless business area, 
+support is also sold for the company’s product sales, to facilitate cus-
+tomer adaptation of the technology to their products. For example, 
+the support contracts allow Sivers Semiconductors’ products to be 
+embedded into the customers’ products, which are then sold on to 
+end customers. Revenue from support contracts is reported over 
+time.
+Wireless 
+Net sales for the first quarter of 2026 amounted to SEK 44.1 m (52.7), 
+a decrease of SEK 8.6 m year-on-year, representing a decrease of 16%. 
+EBITDA was SEK -10.5 m (-6.9), a decrease of SEK 3.6 m.  
+ 
+Photonics 
+Net sales for the first quarter of 2026 amounted to SEK 17.8 m (26.2), 
+a decrease of SEK 8.4 m year-on-year, representing a decrease of 32 
+percent. EBITDA was SEK -7.7 m (-0.6) a decrease of SEK 7.1 m. 
+ 
+ 
+  
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  14  
+Revenue from customer contracts 
+ 
+ 
+ 
+  
+Revenue type Wireless Photonics Total Wireless Photonics Total
+Hardware revenue 9.9 17.8 27.7 14.5 26.2 40.7
+Revenue from NRE contracts 34.2  -   34.2 38.1  -   38.1
+Support & other  -    -   - 0.1  -   0.1
+Total 44.1 17.8 61.9 52.7 26.2 78.9
+Recognition
+At a point in time 9.9 17.8 27.7 14.6 26.2 40.8
+Over time 34.2 34.2 38.1 - 38.1
+Total 44.1 17.8 61.9 52.7 26.2 78.9
+Geographical market
+North America 19.5 5.6 25.2 35.6 16.2 51.8
+Europe 22.0 6.5 28.5 15.9 9.1 25.0
+Asia 2.6 5.7 8.2 1.2 0.9 2.2
+Total 44.1 17.8 61.9 52.7 26.2 78.9
+Jan-Mar 2026 Jan-Mar 2025
+Revenue type Wireless Photonics Total
+Hardware revenue 33.8 93.4 127.2
+Revenue from NRE contracts 178.7 - 178.7
+Support & other 0.7 - 0.7
+Total 213.1 93.4 306.6
+Recognition
+At a point in time 34.4 93.4 127.9
+Over time 178.7 - 178.7
+Total 213.1 93.4 306.6
+Geographical market
+North America 99.8 47.9 147.7
+Europe 110.5 26.7 137.2
+Asia 2.8 18.8 21.6
+Total 213.1 93.4 306.6
+Jan-Dec 2025
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  15  
+Net sales and profit by segment 
+ 
+ 
+1. Inkluderar koncernövergripande kostnader som inte har fördelats till de rapporterbara segmenten.  
+ 
+ 
+ 
+  
+Jan-Dec
+SEK m 2026 2025 2025
+External net sales
+Wireless 44.1 52.7 213.1
+Photonics 17.8 26.2 93.4
+Net sales for reportable segments 61.9 78.9 306.6
+Group-wide¹ - - -
+Total net sales 61.9 78.9 306.6
+Depreciation/amortizations and impairment
+Wireless -13.2 -15.4 -62.6
+Photonics -3.7 -4.2 -21.2
+Group-wide¹ -0.1 -0.1 -0.5
+Total depreciation, amortization and impairment -17.0 -19.7 -84.4
+EBITDA
+Wireless -10.5 -6.6 -48.5
+Photonics -7.6 -0.9 -11.2
+Group-wide¹ -6.4 -1.1 -33.7
+Total -24.5 -8.5 -93.4
+Adjustments:
+Share-based payment expenses 7.8 2.1 8.5
+Restructuring costs 0.3 0.2 11.5
+Strategic initiatives 2.6 0.2 14.7
+Cyberattack - - 8.5
+Adjusted EBITDA -13.8 -6.0 -50.3
+Depreciation/amortizations and impairment -17.0 -19.7 -84.4
+Financial income 13.4 - 10.3
+Financial expenses -18.0 -25.5 -69.8
+Income tax 3.4 3.9 14.6
+Profit/loss for the period -42.7 -49.8 -222.6
+Jan-Mar
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  16  
+Note 3.  
+Financial instruments 
+The Statement of Financial Position includes operating receivables and 
+liabilities held to maturity. These consist of accounts receivable, cash 
+and cash equivalents, accounts payable, other current liabilities, ac-
+crued expenses and liabilities to credit institutions. These are reported 
+at amortized cost, which approximates fair value. The credit risk for 
+the receivables is judged to be low.  
+During the first quarter, Sivers Semiconductors AB entered into an 
+agreement for a loan facility totaling USD 17.0 million. The loan facility 
+consists of a secured loan of USD 5.0 million at an interest rate of 12% 
+and a secured convertible loan of USD 12.0 million at an interest of 
+10,85%. In connection with the refinancing, all existing loans were re-
+paid. 
+  
+.
+Note 4.  
+Transactions with related parties 
+During this period, normal business transactions took place between 
+companies within the Group. 
+Note 5.  
+Deferred tax liability 
+The Group’s deferred tax liability on March 31, 2026, was SEK 96.5 m 
+(116.7), Deferred tax liabilities in the Statement of Financial Position 
+are mainly linked to consolidated values identified in connection with 
+the acquisition of MixComm in 2022, which are dissolved in the In-
+come Statement over the useful life of the identified assets. 
+  
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  17  
+Definitions of alternative  
+performance measures 
+Profitability Definition Reason for using the measure 
+Net sales growth, % Percentage change in Net sales compared with the  
+previous period’s Net sales 
+The measure is used to monitor progress of the Group’s  
+operations between different periods 
+EBITDA Profit before financial items, tax, depreciation and  
+amortization 
+The measure is a means of evaluating profit without taking 
+into account financial decisions or tax 
+Adjusted EBITDA EBITDA adjusted for items affecting comparability. Items  
+affecting comparability include: Expenses related to the 
+employee stock option programs (IFRS 2 expenses and  
+social security expenses), acquisition related expenses,  
+restructuring costs, legal costs in relation to major disputes, 
+strategic initiatives and data security breach. 
+The purpose of using the measure is to illustrate the  
+performance of the operating activities, independent of  
+depreciation, amortization and items affecting comparability  
+EBIT (operating profit) Profit before financial items and tax Operating profit provides an overall view of total profit  
+generation in operations 
+Capital Structure   
+Equity Equity at the end of the period Used to calculate equity/assets ratio 
+Total assets Total assets or the sum of liabilities and equity  Used to calculate capital employed and equity/assets ratio  
+Equity/assets ratio (%) Equity as a percentage of total assets The measure shows the proportion of total assets that  
+comprises equity and helps to increase under-standing of 
+the Group’s capital structure 
+Cash Flow and Liquidity   
+Cash flow before investments Profit after financial items plus items not affecting cash flow 
+and less changes in working capital 
+Used to monitor whether the Company is able to generate a 
+sufficiently positive cash flow to maintain operations and 
+generate a surplus for future investments 
+Cash flow after investments Profit after financial items plus items not affecting cash flow 
+and less changes in working capital and investments  
+Used to monitor whether the Company is able to generate a 
+sufficiently positive cash flow to maintain and expand  
+operations and generate a surplus for future dividends  
+Cash and cash equivalents Bank balances and cash Used to calculate interest-bearing net debt 
+Employees   
+Average number of employees1) Average number of employees in the period  
+Total number of employees1) Total number of employees at the end of the period  
+Data per share   
+Number of shares2) Number of shares at the end of the period  
+Average number of shares2) Average number of shares at the end of the period  
+Earnings per share (SEK) Profit for the period divided by average number of shares  The performance indicator sheds light on the owners’ share 
+of profit 
+Equity per share (SEK) Equity divided by total number of shares at the end of the 
+period 
+The measure shows the extent of owners’ invested capital 
+per share from a owner perspective 
+1) The performance indicator is operational and is not considered an Alternative Performance Measure according to ESMA’s guidelines 
+2) Non-financial measure  
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  18  
+Alternative Performance Measures 
+Alternative performance measures are used to describe the progress of operations and increase comparability between periods. They are not 
+defined using the IFRS regulatory framework but rather correspond to the Group Management’s and Board’s measures of the Company’s finan-
+cial performance and can thus be viewed as a complement to the financial information presented under IFRS. 
+Group 
+ 
+ 
+ 
+Jan-Dec
+2026 2025 2025
+PROFITABILITY
+Net sales growth, % -22% 40% 40%
+EBITDA (SEK m) -24.7 -8.5 -93.4
+Adjusted EBITDA (SEK m) -13.8 -6.0 -50.3
+EBIT (SEK m) -41.5 -28.3 -177.8
+CAPITAL STRUCTURE
+Equity (SEK m) 929.6 1,075.3 949.8
+Total assets (SEK m) 1,341.1 1,452.7 1,331.0
+Equity/assets ratio (%) 69% 74% 71%
+CASH FLOW AND LIQUIDITY
+Cash flow before investments (SEK m) -49.2 -15.8 -38.5
+Cash flow after investments (SEK m) -59.4 -25.4 -93.1
+Cash and cash equivalents (SEK m) 26.6 73.5 29.7
+INVESTMENTS
+Acquisition of property, plan and equipment (SEK m) 0.9 0.1 8.7
+Acquisition of intangible assets (SEK m) 10.7 11.9 58.5
+DATA PER SHARE
+Number of shares 311,333,572 269,359,076 311,333,572
+Average number of shares before and after dilution 268,772,003 259,106,796 274,721,003
+Earnings per share before and after dilution -0.14 -0.19 -0.81
+Equity per share (SEK) 2.99 3.99 3.05
+Jan-Mar
+ 
+SIVERS SEMICONDUCTORS  INTERIM REPORT Q1  2026  19  
+Contact 
+Sivers Semiconductors AB (publ)  
+Org.nr. 556383-9348 
+Investor Relations 
+[REDACTED_EMAIL]  
+Telefon: 08-703 68 00 
+Sivers Semiconductors AB  
+Torshamnsgatan 48 
+164 40 Kista   
+ 
+Financial calendar  
+Annual General Meeting 2026 15 June 2026 
+Interim report Jan-Jun 2026 6 August 2026 
+Interim report  Jan-Sept 2026 11 November 2026 

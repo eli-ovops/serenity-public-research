@@ -1,0 +1,62 @@
+FS (https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/3a94d1034b9e6b22446b674f7aaf3d088a12a193/FS.pdf)
+citeturn453view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 4; Source: click({"ref_id":"turn450view0","id":132}); Total lines: 154
+--------------------------------------------------------------------------------
+Q3 2026 Taiwan Semiconductor Manufacturing Company Limited Earnings Call (Chinese, English) on October 15, 2026 / 6:00AM (https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)
+citeturn453view1 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 19; Source: click({"ref_id":"turn450view0","id":136}); Total lines: 625
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn453view2 [wordlim: 200] Source: click({"ref_id":"turn452view3","id":103}); Total lines: 1
+--------------------------------------------------------------------------------
+Innodata - Innodata Reports Record Second Quarter 2026 Results (https://investor.innodata.com/news/news-details/2026/Innodata-Reports-Record-Second-Quarter-2026-Results/default.aspx)
+citeturn453view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn450view1","pattern":"prepayment"}); Total lines: 312
+No matching text found for "prepayment"--------------------------------------------------------------------------------
+Innodata - Innodata Reports Record Second Quarter 2026 Results (https://investor.innodata.com/news/news-details/2026/Innodata-Reports-Record-Second-Quarter-2026-Results/default.aspx)
+citeturn453view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn450view1","pattern":"advance"}); Total lines: 312
+No matching text found for "advance"--------------------------------------------------------------------------------
+Tesla Investor Relations (https://ir.tesla.com/)
+citeturn453view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn452view2","pattern":"2026"}); Total lines: 85
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: ## Documents and Events
+L4: 
+L5: [Button: Quarterly Disclosure ] [Button: Other Documents & Events ]
+L6: Year  | Year  | Quarter  | Earnings Date  | Production & Delivery  | Shareholder Deck  | Webcast with Q&A  | SEC Filing  | Consensus
+L7: --- | --- | --- | --- | --- | --- | --- | --- | ---
+L8: 2026  | 2026  | Q3  | cite2†Oct 21, 2026 | cite2†Press Release |  |  |  | cite3†Delivery cite4†Earnings L9: 2026  | Q2  | cite5†Jul 22, 2026 | cite5†Press Release | cite6†Download†assets-ir.tesla.com | cite7†Listen cite8†Q&A†app.saytechnologies.com | cite9†10-Q†www.sec.gov | cite10†Delivery cite11†Earnings L10: 2026  | Q1  | cite12†Apr 22, 2026 | cite12†Press Release | cite13†Download†assets-ir.tesla.com | cite14†Listen cite15†Q&A†app.saytechnologies.com | cite16†10-Q†www.sec.gov | cite17†Delivery cite18†Earnings L11: 2025  | 2025  | Q4  | cite19†Jan 28, 2026 | cite19†Press Release | cite20†Download†assets-ir.tesla.com | cite21†Listen cite22†Q&A†app.saytechnologies.com | cite23†10-K†www.sec.gov | cite24†Delivery cite25†Earnings L12: 2025  | Q3  | cite26†Oct 22, 2025 | cite26†Press Release | cite27†Download†assets-ir.tesla.com | cite28†Listen cite29†Q&A†app.saytechnologies.com | cite30†10-Q†www.sec.gov |
+L13: 2025  | Q2  | cite31†Jul 23, 2025 | cite31†Press Release | cite32†Download†www.tesla.com | cite33†Listen cite34†Q&A†app.saytechnologies.com | cite35†10-Q†www.sec.gov |
+L14: 2025  | Q1  | cite36†Apr 22, 2025 | cite36†Press Release | cite37†Download†digitalassets.tesla.com | cite38†Listen cite39†Q&A†app.saytechnologies.com | cite40†10-Q†www.sec.gov |
+L15: 2024  | 2024  | Q4  | cite41†Jan 29, 2025 | cite41†Press Release | cite42†Download†digitalassets.tesla.com | cite43†Listen cite44†Q&A†app.saytechnologies.com | cite45†10-K†www.sec.gov |
+L16: 2024  | Q3  | cite46†Oct 23, 2024 | cite46†Press Release | cite47†Download†digitalassets.tesla.com | cite48†Listen cite49†Q&A†app.saytechnologies.com | cite50†10-Q†www.sec.gov |
+L17: 2024  | Q2  | cite51†Jul 23, 2024 | cite51†Press Release | cite52†Download†digitalassets.tesla.com | cite53†Listen cite54†Q&A†app.saytechnologies.com | cite55†10-Q†www.sec.gov |
+L18: 2024  | Q1  | cite56†Apr 23, 2024 | cite56†Press Release | cite57†Download†digitalassets.tesla.com | cite58†Listen cite59†Q&A†app.saytechnologies.com | cite60†10-Q†www.sec.gov |
+L19: 2023  | 2023  | Q4  | cite61†Jan 24, 2024 | cite61†Press Release | cite62†Download†digitalassets.tesla.com | cite63†Listen cite64†Q&A†app.saytechnologies.com | cite65†10-K†www.sec.gov |
+L20: 2023  | Q3  | cite66†Oct 18, 2023 | cite66†Press Release | cite67†Download†digitalassets.tesla.com | cite68†Listen cite69†Q&A†app.saytechnologies.com | cite70†10-Q†www.sec.gov |
+L21: 2023  | Q2  | cite71†Jul 19, 2023 | cite71†Press Release | cite72†Download†digitalassets.tesla.com | cite73†Listen cite74†Q&A†app.saytechnologies.com | cite75†10-Q†www.sec.gov |
+L22: 2023  | Q1  | cite76†Apr 19, 2023 | cite76†Press Release | cite77†Download†digitalassets.tesla.com | cite78†Listen cite79†Q&A†app.saytechnologies.com | cite80†10-Q†www.sec.gov |
+L23: 2022  | 2022  | Q4  | cite81†Jan 25, 2023 | cite81†Press Release | cite82†Download†digitalassets.tesla.com | cite83†Listen cite84†Q&A†app.saytechnologies.com | cite85†10-K†www.sec.gov |
+L24: 2022  | Q3  | cite86†Oct 19, 2022 | cite86†Press Release | cite87†Download†digitalassets.tesla.com | cite88†Listen cite89†Q&A†app.saytechnologies.com | cite90†10-Q†www.sec.gov |
+L25: 2022  | Q2  | cite91†Jul 20, 2022 | cite91†Press Release | cite92†Download†digitalassets.tesla.com | cite93†Listen cite94†Q&A†app.saytechnologies.com | cite95†10-Q†www.sec.gov |
+L26: 2022  | Q1  | cite96†Apr 20, 2022 | cite96†Press Release | cite97†Download†digitalassets.tesla.com | cite98†Listen cite99†Q&A†app.saytechnologies.com | cite100†10-Q†www.sec.gov |
+L27: 2021  | 2021  | Q4  | cite101†Jan 26, 2022 | cite102†Press Release | cite103†Download†digitalassets.tesla.com | cite104†Listen cite105†Q&A†app.saytechnologies.com | cite106†10-K†www.sec.gov |
+L28: 2021  | Q3  | cite107†Oct 20, 2021 | cite108†Press Release | cite109†Download†digitalassets.tesla.com | cite110†Listen cite111†Q&A†app.saytechnologies.com | cite112†10-Q†www.sec.gov |
+L29: 2021  | Q2  | cite113†Jul 26, 2021 | cite114†Press Release | cite115†Download†digitalassets.tesla.com | cite116†Listen cite117†Q&A†app.saytechnologies.com | cite118†10-Q†www.sec.gov |
+L30: 2021  | Q1  | cite119†Apr 26, 2021 | cite120†Press Release | cite121†Download†digitalassets.tesla.com | cite122†Listen cite123†Q&A†app.saytechnologies.com | cite124†10-Q†www.sec.gov |
+L31: 2020  | 2020  | Q4  | cite125†Jan 27, 2021 | cite126†Press Release | cite127†Download†digitalassets.tesla.com | cite128†Listen cite129†Q&A†app.saytechnologies.com | cite130†10-K†www.sec.gov |
+L32: 2020  | Q3  | cite131†Oct 21, 2020 | cite132†Press Release | cite133†Download†digitalassets.tesla.com | cite134†Listen cite135†Q&A†app.saytechnologies.com | cite136†10-Q†www.sec.gov |
+L33: 2020  | Q2  | cite137†Jul 22, 2020 | cite138†Press Release | cite139†Download†digitalassets.tesla.com | cite140†Listen cite141†Q&A†app.saytechnologies.com | cite142†10-Q†www.sec.gov |
+L34: 2020  | Q1  | cite143†Apr 29, 2020 | cite144†Press Release | cite145†Download†digitalassets.tesla.com | cite146†Listen cite147†Q&A†app.saytechnologies.com | cite148†10-Q†www.sec.gov |
+L35: 2019  | 2019  | Q4  | cite149†Jan 29, 2020 | cite150†Press Release | cite151†Download†digitalassets.tesla.com | cite152†Listen cite153†Q&A†app.saytechnologies.com | cite154†10-K†www.sec.gov |
+L36: 2019  | Q3  | cite155†Oct 23, 2019 | cite156†Press Release | cite157†Download†digitalassets.tesla.com | cite158†Listen cite159†Q&A†app.saytechnologies.com | cite160†10-Q†www.sec.gov |
+L64: 2012  | Q3  | cite266†Nov 5, 2012 |  | cite267†Download†digitalassets.tesla.com |  | cite268†10-Q†www.sec.gov |
+L65: 2012  | Q2  | cite269†Jul 25, 2012 |  | cite270†Download†digitalassets.tesla.com |  | cite271†10-Q†www.sec.gov |
+L66: 2012  | Q1  | cite272†May 8, 2012 |  | cite273†Download†digitalassets.tesla.com |  | cite274†10-Q†www.sec.gov |
+L68: 2011  | Q3  | cite278†Nov 1, 2011 |  | cite279†Download†digitalassets.tesla.com |  | cite280†10-Q†www.sec.gov |
+L69: 2011  | Q2  | cite281†Aug 3, 2011 |  | cite282†Download†digitalassets.tesla.com |  | cite283†10-Q†www.sec.gov |
+L70: cite284†See all Updates L71: Year  | Shareholder Meeting  | Investor Events  | Product Reveals  | Other
+L72: --- | --- | --- | --- | ---
+L73: 2026  |  |  |  | cite285†2025 Impact Report†www.tesla.com cite286†2025 Extended Impact Report†www.tesla.com L74: 2025  | cite287†Annual Report & Webcast†www.tesla.com |  | cite288†Megapack 3 & Megablock†digitalassets.tesla.com | cite289†A Letter to Our Shareholders on the 2025 CEO Interim Award†digitalassets.tesla.com L75: 2024  | cite290†Annual Report & Webcast†www.tesla.com |  |  | cite291†2024 Impact Report†www.tesla.com cite292†2024 Extended Impact Report†www.tesla.com L76: 2023  | cite293†Annual Report & Webcast†www.tesla.com | cite294†2023 Investor Day†www.youtube.com cite295†2023 Investor Day Presentation†digitalassets.tesla.com |  | cite296†2023 Impact Report†www.tesla.com cite297†2023 Extended Impact Report†www.tesla.com cite298†Cybertruck Delivery Event†www.youtube.com L77: 2022  | cite299†Annual Report & Webcast†www.tesla.com |  | cite300†Tesla Semi Delivery Event†digitalassets.tesla.com | cite301†2022 Impact Report†www.tesla.com cite302†3-1 stock split cite303†Filing for 3-for-1 Stock Split†digitalassets.tesla.com cite304†AI Day 2†www.youtube.com L78: 2021  | cite305†Annual Report & Webcast†www.tesla.com |  | cite306†Tesla Model S Plaid Delivery Event†www.youtube.com | cite307†2021 Impact Report†www.tesla.com cite308†Tesla AI Day†www.youtube.com --------------------------------------------------------------------------------
+Sivers Semiconductors — a deep dive on his #1 conviction laser pick · Serenity Tracker (https://serenitytrades.com/deep-dive/sive)
+citeturn453view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn452view1","pattern":"x.com/"}); Total lines: 170
+No matching text found for "x.com/"--------------------------------------------------------------------------------
+nVent Electric plc - nVent Electric plc Second Quarter 2026 Financial Results Available on Company’s Website (https://investors.nvent.com/press-releases/press-release-details/2026/nVent-Electric-plc-Second-Quarter-2026-Financial-Results-Available-on-Companys-Website/default.aspx)
+citeturn453view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn452view3","pattern":"2026-Q2"}); Total lines: 352
+No matching text found for "2026-Q2"

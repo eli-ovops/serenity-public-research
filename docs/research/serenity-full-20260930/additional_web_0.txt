@@ -1,0 +1,295 @@
+ (https://www.sec.gov/Archives/edgar/data/1122411/000095010326011351/dp250868_6k.htm)
+citeturn185search0 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Results for the Second Quarter of 2026Taipei, July 30, 2026 – ASE Technology Holding Co., Ltd. ... Basic earnings per share for the quarter were NT$4.80 (or US$0.304 per ADS), compared to NT$1.74 for 2Q25 and NT$3.23 for 1Q26.
+   |    | Title:    Chief Financial Officer
+
+Investor Relations Contact:
+
+[REDACTED_EMAIL] Tel: +886.2.6636.5678 https://www.aseglobal.com  |  
+   |  
+
+ASE Technology Holding Co., Ltd. Reports Its Unaudited Consolidated Financial
+Results for the Second Quarter of 2026 
+
+ 
+
+Taipei, July 30, 2026 – ASE Technology Holding Co., Ltd. (TWSE: 3711, NYSE: ASX) (“We”, “ASEH”, or the “Company”), the leading provider of semiconductor assembly and testing services (“ATM”) and the provider of electronic manufacturing services (“EMS”), today reported its unaudited^{1} net revenues of NT$191,064 million for 2Q26, up by 26.7% year-over-year and up by 10.0% sequentially. Net income attributable to shareholders of the parent for the quarter totaled NT$21,068 million, up from NT$7,521 million in 2Q25 and up from NT$14,132 million in 1Q26.  Basic earnings per share for the quarter were NT$4.80 (or US$0.304 per ADS), compared to NT$1.74 for 2Q25 and NT$3.23 for 1Q26.  Diluted earnings per share for the quarter were NT$4.61 (or US$0.292 per ADS), compared to NT$1.70 for 2Q25 and NT$3.08 for 1Q26.
+
+ASE Technology Holding Co., Ltd.
+
+Summary of EMS Statement of Income Data
+
+(In NT$ million)
+
+(Unaudited)
+
+ 
+
+ 
+
+   | For the three months ended  |    | For the six months ended
+   | Jun. 30 2026    |    | Mar. 31 2026 (Retrospectively Adjusted)  |    | Jun. 30 2025    |    | Jun. 30 2026 (Retrospectively Adjusted)  |    | Jun. 30 2025   |  
+   |    |    |    |    |    |    |    |    |    |  
+Net revenues  | 65,789  |    | 61,875  |    | 58,770  |    | 127,664  |    | 121,065  |  
+   |    |    |    |    |    |    |    |    |    |  
+Cost of revenues  | (59,916)  |    | (56,013)  |    | (53,221)  |    | (115,929)  |    | (109,988)  |  
+Gross profit  | 5,873  |    | 5,862  |    | 5,549  |    | 11,735  |    | 11,077  |  
+   |    |    |    |    |    |    |    |    |    |  
+Operating expenses  |    |    |    |    |    |    |    |    |    |  
+Research and development  | (1,887)  |    | (1,751)  |    | (1,723)  |    | (3,638)  |    | (3,303)  |  
+Selling, general and administrative  | (2,417)  |    | (2,244)  |    | (2,313)  |    | (4,661)  |    | (4,653)  |  
+Total operating expenses  | (4,304)  |    | (3,995)  |    | (4,036)  |    | (8,299)  |    | (7,956)  |  
+Operating income  | 1,569  |    | 1,867  |    | 1,513  |    | 3,436  |    | 3,121  |  
+
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/2120882/000119312526299963/d32785d424b4.htm)
+citeturn185search1 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; This is a public offering of American Depositary Shares, or “ADSs,” representing common shares of SK hynix Inc., organized under the laws of the Republic of Korea, or “Korea.” ... Each ADS represents one-tenth of a share of our common stock, par value ~~W~~5,000 per share, or “common share.” ... In this prospectus, references to “Won” or “~~W~~” are to the currency of Korea and references to “U.S. dollars” or “US$” are to the currency of the United States of America, references to “Euro” are to the currency of the European Union, references to “Chinese Yuan” are to the currency of the People’s Republic of China, and references to “Japanese Yen” are to the currency of Japan. ... If you purchase ADSs in this offering, you will experience immediate dilution of US$131.06 per ADS in the net tangible book value of your ADSs after giving effect to the offering at the initial public offering price of US$149.00 per ADS (based on 708,297,021 common shares outstanding as of March 31, 2026), because the price that you pay will be substantially greater than the net tangible book value per ADS that you acquire.
+
+Filed Pursuant to Rule 424(b)(4)
+Registration No. 333-296987
+
+ 
+
+PROSPECTUS
+
+17,790,000 Common Shares
+
+Represented by American Depositary Shares
+
+ 
+
+ 
+
+Image: LOGO
+
+SK hynix Inc.
+
+(a corporation organized under the laws of the Republic of Korea)
+
+This is a public offering of American Depositary Shares, or “ADSs,” representing common shares of SK hynix Inc., organized under the laws of the Republic of Korea, or “Korea.” We are offering 177,900,000 ADSs. Each ADS represents one-tenth of a share of our common stock, par value ~~W~~5,000 per share, or “common share.”
+
+The initial public offering price of the ADSs is US$149.00 per ADS. Our common shares are listed on the KRX KOSPI Market of the Korea Exchange (the “KRX KOSPI Market”) under the identification code “000660.” On July 9, 2026, the last reported sales price of our common shares on the KRX KOSPI Market, our principal trading market, was ~~W~~2,186,000 per common share (equivalent to approximately US$1,421.28 per common share based on the exchange rate of ~~W~~1,538.05 per US$1.00, the noon buying rate in effect on July 2, 2026 as quoted by the Federal Reserve Bank of New York in the United States). --------------------------------------------------------------------------------
+2026 Interim Results | IQE Corporate (https://www.iqep.com/media/press-releases/2026/2026-interim-results/)
+citeturn185search2 [wordlim: 200] Published: 3 weeks ago; Crawled: yesterday; # 2026 Interim Results ... IQE plc (AIM: IQE, "IQE" or the "Group"), the leading global supplier of compound semiconductor wafer products and advanced material solutions, today announces its unaudited results for the six months ended 30 June 2026. ... “I am pleased to report a strong first half performance, with more than 40% revenue growth year-on-year across our core markets driving profitability. ...     * Wireless revenue of £26.0m (H1 2025: £18.6m) increased 40% year-on-year, reflecting market share gains and increased sales of wireless mobile connectivity solutions across newly qualified customer platforms. ...   * Reported net cashflow from operations of £1.2m (H1 2025: £3.6m) as a result of an increase in revenues and adjusted EBITDA, partially offset by a working capital outflow of £4.0m and restructuring and strategic review costs of £2.4m. ... The Board expects the move to enhance the Company's investor profile, broaden access to institutional capital, improve liquidity in the Company's shares and support inclusion in FTSE indices, while maintaining the highest standards of governance and disclosure.
+
+# 2026 Interim Results
+
+Cardiff, UK
+7 September 2026
+
+H1 2026 Results
+
+- Revenue growth of over 40% year-on year driving step change in profitability
+
+- Strong order book and long-term agreements enabling greater visibility and momentum
+
+- Intention to move to the Main Market of London Stock Exchange
+
+IQE plc (AIM: IQE, "IQE" or the "Group"), the leading global supplier of compound semiconductor wafer products and advanced material solutions, today announces its unaudited results for the six months ended 30 June 2026.
+
+Jutta Meier, Chief Executive Officer of IQE, commented:
+
+“I am pleased to report a strong first half performance, with more than 40% revenue growth year-on-year across our core markets driving profitability. This reflects the strong momentum we are seeing across AI-driven data centre infrastructure, advanced sensing, wireless and defence applications, alongside improved operational execution and a more favourable product mix.
+
+“During the period, we have demonstrated our ability to capture long-term growth opportunities across these critical markets, underpinned by a number of key supply agreements. IQE is uniquely positioned to meet customer needs and will be converting existing capacity in H2 to support the increasing demand for Indium Phosphide solutions.
+
+“Looking ahead, we have initiated a move to the Main Market of the London Stock Exchange, marking an important next step in IQE’s development and reflecting the Board’s ambition to broaden support for the business and position IQE for the future.”
+
+H1 2026 Financial Summary:
+
+   | H1 2026
+£’m  | H1 2025
+£’m
+Revenue  | 64.6  | 45.3
+Adjusted EBITDA^{1}  | 6.0  | (0.4)
+Adjusted loss before tax  | (8.2)  | (16.0)
+Reported loss before tax  | (12.6)  | (18.3)
+Adjusted net cashflow from operations  | 4.7  | 6.2
+Reported net cashflow from operations  | 1.2  | 3.6
+Cash capital expenditure^{2}  | (1.1)  | (1.0)
+Adjusted net cash/(debt)^{3}  | 30.2  | (23.5)
+Cash and cash equivalents  | 41.6  | 17.0
+Reported Diluted EPS  | (1.25p)  | (1.84p)
+Adjusted Diluted EPS  | (0.82p)  | (1.60p)
+
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1688757/000168875726000047/estaerq22026-ex991.htm)
+citeturn185search3 [wordlim: 200] Published: last month; Crawled: last month; (NASDAQ: ESTA), a global medical technology company dedicated to improving women’s health and wellness, principally in breast aesthetics and reconstruction, today announced financial results for the second quarter ended June 30, 2026. ... •Revenue of $67.5 million, up 31.7% from Q2 2025, and sequential growth of 12.8% from Q1 2026
+
+•Adjusted EBITDA income of $3.7 million compared to a loss of $8.5 million in the year-ago period
+
+•Cash balance of $71.2 million as of June 30, 2026, a $16.5 million improvement from the year-ago period, and up $3.1 million from Q1 2026
+
+"Momentum continued throughout the second quarter and into the third quarter as we continue to take market share and expand the category,” said Peter Caldini, Chief Executive Officer. "Strong execution globally, accelerating adoption of our minimally invasive platform, and expanding profitability allows us to raise our full-year revenue guidance. We should have strong growth in the second half of 2026 and throughout 2027, as our business inflects to be both high growth and free cash flow positive.”
+
+Second Quarter 2026 Financial Results (Unaudited)
+
+Total revenue for the quarter ended June 30, 2026 was $67.5 million, compared to $51.3 million for the same period in 2025, representing a growth of 31.7%, with Motiva USA revenue increasing to $24.7 million from $10.3 million in the prior-year period.
+
+Gross profit for the second quarter of $47.7 million, or 70.6% of revenue, increased compared to $35.3 million, or 68.8% of revenue, for the same period in 2025. The improvement in gross profit margin was primarily driven by favorable geographic and channel mix, including continued growth of our higher-margin U.S. business and our minimally invasive platform.
+
+Total operating expenses for the second quarter were $52.0 million compared to $49.4 million in the second quarter of 2025. Total operating expenses included one-time charges related to debt refinancing and restructuring costs of $2.2 million in the second quarter of 2026 and $0.5 million in the same period last year. Excluding these one-time charges, adjusted operating expenses increased 2.0% compared to a revenue growth of 31.7%, demonstrating the operating leverage we are achieving as the business continues to scale.
+
+Net loss for the second quarter was $11.7 million, compared to a net loss of $16.6 million in the year-ago period. Adjusted EBITDA increased by $12.2 million to an income of $3.7 million compared to a loss of $8.5 million in the year-ago period, achieving another quarter of positive adjusted EBITDA.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/2120882/000119312526295501/d32785dex11.htm)
+citeturn185search4 [wordlim: 200] Crawled: 2 months ago; SK hynix Inc., a joint stock company (chusik-hoesa in Korean) incorporated under the laws of the Republic of Korea (“Korea”) (the “Company”), proposes to sell to the several underwriters named in SCHEDULE I hereto (the “Underwriters”), for whom you (the “Representatives”) are acting as representatives, [●] common shares, par value KRW 5,000 per share (the “Common Shares”) of the Company in the form of American Depositary Shares (“ADSs”), each ADS representing one-tenth (1/10) of a Common Share (said ADSs to be sold by the Company being hereinafter called the “Securities”). ... The ADSs will be evidenced by American Depositary Receipts (“ADRs”) issued pursuant to a Deposit Agreement to be dated on or about [●], 2026 (the “Deposit Agreement”) among the Company, Citibank, N.A., as depositary (the “Depositary”), and the owners and holders from time to time of the ADRs issued by the Depositary evidencing the ADSs under the Deposit Agreement.
+
+Exhibit 1.1
+
+SK hynix Inc.
+
+[●] Shares of Common Stock
+
+represented by [●] American Depositary Shares
+
+Underwriting Agreement
+
+New York, New York
+
+[●], 2026
+
+BofA Securities, Inc.
+
+Citigroup Global Markets Inc.
+
+Goldman Sachs (Asia) L.L.C.
+
+J.P. Morgan Securities LLC
+
+As Representatives of the several Underwriters,
+
+c/o BofA Securities, Inc.
+
+One Bryant Park
+
+New York, New York 10036
+
+c/o Citigroup Global Markets Inc.
+
+388 Greenwich Street
+
+New York, New York 10013
+
+c/o Goldman Sachs (Asia) L.L.C.
+
+68th Floor, Cheung Kong Center
+
+2 Queens Road, Central, Hong Kong
+
+c/o J.P. Morgan Securities LLC
+
+270 Park Avenue
+
+New York, New York 10017
+
+Ladies and Gentlemen:
+
+SK hynix Inc., a joint stock company (chusik-hoesa in Korean) incorporated under the laws of the Republic of Korea (“Korea”) (the “Company”), proposes to sell to the several underwriters named in SCHEDULE I hereto (the “Underwriters”), for whom you (the “Representatives”) are acting as representatives, [●] common shares, par value KRW 5,000 per share (the “Common Shares”) of the Company in the form of American Depositary Shares (“ADSs”), each ADS representing one-tenth (1/10) of a Common Share (said ADSs to be sold by the Company being hereinafter called the “Securities”). --------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/2120882/000119312526280172/d32785df1.htm)
+citeturn185search5 [wordlim: 200] Published: 3 months ago; Crawled: 3 months ago; Our telephone number is +82 (31) 5185-4114, and our website is www.skhynix.com. ... On June 24, 2026, our board of directors resolved that the maximum number of new common shares to be issued in connection with this offering is 17,790,000 shares, representing approximately 2.50% of our total issued and outstanding common shares of 712,702,365 shares as of the date of such resolution. ... ADSs  | Each ADS represents      th of a common share. ... Voting rights of ADSs  | Holders of ADSs may instruct the depositary to vote the number of deposited common shares their ADSs represent.
+Our telephone number is +82 (31) 5185-4114, and our website is www.skhynix.com. Information on or connected to our website is not part of this prospectus.
+
+ 
+
+10
+
+THE OFFERING
+
+ 
+
+Issuer  | SK hynix Inc.
+
+ 
+
+The offering  | We are offering       common shares represented by ADSs. On June 24, 2026, our board of directors resolved that the maximum number of new common shares to be issued in connection with this offering is 17,790,000 shares, representing approximately 2.50% of our total issued and outstanding common shares of 712,702,365 shares as of the date of such resolution. The maximum offering size was determined taking into account the requirement under the Monopoly Regulation and Fair Trade Act that SK square Co., Ltd. (“SK square”), our largest shareholder, maintain ownership of at least 20% of our issued and outstanding shares. See “Korean Foreign Exchange Controls and Securities Regulations — Holding Company Regulations” and “Principal Shareholders.”
+
+ 
+
+Underwriters  | BofA Securities, Inc., Citigroup Global Markets Inc., Goldman Sachs (Asia) L.L.C. and J.P. ##### Table of Contents
+
+   | To better understand the terms of the ADSs, you should carefully read the “Description of American Depositary Shares” section of this prospectus. You should also read the deposit agreement, which is filed as an exhibit to the registration statement that includes this prospectus.
+
+ 
+
+Depositary  | Citibank, N.A.
+
+ 
+
+Use of proceeds  | We estimate that the net proceeds that we will receive in the offering will be US$      million from our issuance and sale of       common shares represented by ADSs in the offering after deducting the estimated underwriting discount and commissions and estimated offering expenses payable by us. We intend to use the net proceeds we receive from this offering for general corporate purposes, including capital expenditures. See “Use of Proceeds.”
+
+ 
+
+Listing  | We intend to apply to list the ADSs on the Nasdaq under the symbol “SKHY.” Our common shares are listed on the “KRX KOSPI Market under the identification code “000660.”
+--------------------------------------------------------------------------------
+Soitec launches an offering of bonds settled in cash and/or (https://rss.globenewswire.com/news-release/2026/09/17/3364216/0/en/soitec-launches-an-offering-of-bonds-settled-in-cash-and-or-convertible-into-new-shares-and-or-exchangeable-for-existing-shares-ornanes-due-september-2033-for-a-nominal-amount-of-5.html)
+citeturn185search6 [wordlim: 200] Published: last week; Crawled: yesterday; September 25, 2026) until and including March 25, 2033 only under certain conditions described in the terms and conditions of the Bonds (including, in the event that the Company exercises its right to early redeem the Bonds, in the event of default, in the event of delisting, in the event of a public offer resulting in, or likely to result in, a change of control, or in the event of a parity event), and (b) at any time from and including March 26, 2033 until and including the 30^{th} business day preceding the Maturity Date, or the relevant early redemption date, as the case may be. ... The ORNANE structure would allow to limit dilution for existing shareholders upon conversion, at the Company’s option.Upon exercise of their Conversion/Exchange Right, Bondholders will receive, at the option of the Company exclusively, an amount payable in cash or an amount payable in cash and in new and/or existing shares of Soitec.
+September 25, 2026) until and including March 25, 2033 only under certain conditions described in the terms and conditions of the Bonds (including, in the event that the Company exercises its right to early redeem the Bonds, in the event of default, in the event of delisting, in the event of a public offer resulting in, or likely to result in, a change of control, or in the event of a parity event), and (b) at any time from and including March 26, 2033 until and including the 30^{th} business day preceding the Maturity Date, or the relevant early redemption date, as the case may be. The initial conversion/exchange ratio will correspond to the nominal amount of a Bond divided by the initial conversion/exchange price (i.e., the reference share price increased by the conversion/exchange premium).
+
+The ORNANE structure would allow to limit dilution for existing shareholders upon conversion, at the Company’s option. Upon exercise of their Conversion/Exchange Right, Bondholders will receive, at the option of the Company exclusively, an amount payable in cash or an amount payable in cash and in new and/or existing shares of Soitec. The Company will retain the option to deliver new and/or existing shares only. The cash amount that the Company may decide to pay, will be calculated based on the average of volume-weighted average prices of the share over a 20-trading-day period beginning 2 trading days following the Company’s decision to deliver a cash amount to Bondholders, under the conditions described in the terms and conditions of the Bonds.
+
+--------------------------------------------------------------------------------
+EX-99.1 (https://www.sec.gov/Archives/edgar/data/1350653/000119312526332870/atec-ex99_1.htm)
+citeturn185search7 [wordlim: 200] Published: last month; Crawled: 2 weeks ago; Second Quarter 2026 Financial Results ... Surgeons understand that better technology, workflows, and data can transform the surgical experience and drive improved patient outcomes. ... The Company is reaffirming its full-year revenue outlook and increasing adjusted EBITDA guidance following a second quarter characterized by strong case volume growth, continued surgeon adoption, expanding profitability, and positive free cash flow generation.
+Image: img43239604_0.jpg  | Exhibit 99.1
+
+ 
+
+ATEC Reports Second Quarter Financial Results
+
+ 
+
+Total revenue of $214 million, up 15% year-over-year
+
+Surgical revenue of $196 million increased 17%, driven by 20% case volume growth
+
+Company reaffirms 2026 revenue outlook
+
+CARLSBAD, Calif., August 4, 2026 – Alphatec Holdings, Inc. (Nasdaq: ATEC), a spine-focused provider of innovative solutions dedicated to revolutionizing the approach to spine surgery, today announced financial results for the quarter ended June 30, 2026, and business highlights.
+
+Second Quarter 2026 Financial Results
+
+ | 
+ | Quarter Ended June 30, 2026
+Total revenue  | $214 million
+GAAP gross margin  | 72.2%
+Non-GAAP gross margin  | 72.5%
+GAAP operating expenses  | $156 million
+Non-GAAP operating expenses  | $135 million
+GAAP net income / (loss)  | ($26) million
+Non-GAAP net income / (loss)  | $11 million
+Non-GAAP adjusted EBITDA  | $36 million
+Non-GAAP adjusted EBITDA margin  | 16.8%
+Ending cash balance  | $119 million
+
+Second Quarter Highlights
+--------------------------------------------------------------------------------
+Useful information (https://www.sec.gov/Archives/edgar/data/1900304/000165495426002249/annualreportandform20-f20.pdf)
+citeturn185search12 [wordlim: 200] Published: 6 months ago; Each ADS represents two ordinary shares. ... Computershare Trust Company, N.A. ... <tr><td>Ex-dividend date (Ordinary shares)</td><td>9 April 2026</td></tr>
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/792987/000079298726000039/aste-20260630xexx991.htm)
+citeturn185search8 [wordlim: 200] Published: last month; Crawled: last month; (Nasdaq: ASTE) announced today its financial results for the second quarter ended June 30, 2026. ... (in millions, except per share and percentage data)  | 2Q 2026  |  | 2Q 2025  |  | Change  |  | 2Q 2026  |  | 2Q 2025  |  | Change
+--------------------------------------------------------------------------------
+ (https://www.iqep.com/investors/)
+citeturn185search9 [wordlim: 200] Crawled: yesterday;   * Share Price Tools ...   * 07 SEP 2026 2026 Interim Results  * 03 SEP 2026 IQE announces purchase agreement with Quintessent as Quantum Dot Laser technology moves to customer sampling
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1472033/000119380526000898/e665622_f6-skhynix.htm)
+citeturn185search10 [wordlim: 200] Published: 3 months ago; Crawled: 3 months ago; American Depositary Shares (“ADS(s)”), each ADS representing the right to receive one-tenth of one common share of SK hynix Inc. (the “Company”)  | 1,780,000,000 ADSs  | $5.00  | $89,000,000  | $12,290.90*     Each unit represents 100 ADSs. ... Pursuant to the requirements of the Securities Act of 1933, as amended, Citibank, N.A., acting solely on behalf of the legal entity to be created by the Deposit Agreement, by and among SK hynix Inc., Citibank, N.A., as depositary, and all Holders and Beneficial Owners of American Depositary Shares issued thereunder, certifies that it has reasonable grounds to believe that all the requirements for filing on Form F-6 are met and has duly caused this Registration Statement on Form F-6 to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of New York, State of New York, on the 1^{st} day of July, 2026.
+--------------------------------------------------------------------------------
+Soitec annonce le succès de son émission d’obligations à (https://rss.globenewswire.com/news-release/2026/09/18/3364464/0/fr/soitec-annonce-le-succ%C3%A8s-de-son-%C3%A9mission-d-obligations-%C3%A0-option-de-remboursement-en-num%C3%A9raire-et-ou-en-actions-nouvelles-et-ou-existantes-ornanes-%C3%A0-%C3%A9ch%C3%A9ance-septembre-2033-pour-un-.html)
+citeturn185search11 [wordlim: 200] Published: last week; Crawled: 6 days ago; Les porteurs d’Obligations bénéficieront d’un droit à l’attribution d’actions nouvelles et/ou existantes par conversion et/ou échange des Obligations (le “Droit à l’Attribution d’Actions”), qu’ils pourront exercer (a) à compter de la Date d’Émission (soit le 25 septembre 2026 (inclus)) jusqu’au 25 mars 2033 (inclus), uniquement dans certaines conditions décrites dans les modalités des Obligations (notamment, en cas d’exercice par la Société de sa faculté de remboursement anticipé des Obligations, en cas de défaut, en cas de radiation de la cote, en cas d’offre publique résultant d’un, ou pouvant résulter en un, changement de contrôle ou en cas d’événement de parité), et (b) à tout moment à compter du 26 mars 2033 (inclus) et jusqu’au 30^{ème} jour ouvré précédant la Date de Maturité (inclus), ou, le cas échéant, la date de remboursement anticipé concernée. ... La structure d'ORNANE permettrait de limiter la dilution des actionnaires existants en cas de conversion, au gré de la Société.
+--------------------------------------------------------------------------------
+OTHER INFORMATION (https://www.sec.gov/Archives/edgar/data/1835724/000110465926107213/tm2625359d1_ex99-3.pdf)
+citeturn185search13 [wordlim: 200] Published: 2 weeks ago; <th colspan="2">Price paid per share</th> ... During the Reporting Period, the number of Class A Ordinary Shares in issue was reduced by 3,721,614 shares as a result of the cancellation of the Repurchased Shares on April 27, 2026. ... Represents 3,403,593 ADSs repurchased corresponding to a total of 10,210,779 underlying Class A Ordinary Shares, which were determined based on the ADS ratio of one ADS representing three Class A Ordinary Shares.
+--------------------------------------------------------------------------------
+DIRECTORS’ REPORT (https://www.sec.gov/Archives/edgar/data/1677250/000110465926044633/tm2611946d1_ex99-1.pdf)
+citeturn185search14 [wordlim: 200] Published: 5 months ago; On August 19, 2025, the Board approved an interim dividend of US$0.30 per ADS and ordinary share for the six months ended June 30, 2025, which was paid to holders of its ordinary shares and ADSs as of the close of business on September 30, 2025.On March 17, 2026, the Board approved a cash dividend of US$0.39 per ADS and ordinary share for the six months ended December 31, 2025, to holders of its ordinary shares and ADSs as of the close of business on April 8, 2026.
+--------------------------------------------------------------------------------
+MAJOR SHAREHOLDERS AND RELATED PARTY TRANSACTIONS (https://www.sec.gov/Archives/edgar/data/1526125/000110465926052038/tm2613076d1_ex99-2.pdf)
+citeturn185search15 [wordlim: 200] Published: 5 months ago; (1) The number of ordinary shares beneficially owned is as of March 31, 2026, and consists of 4,869,368 Class A ordinary shares and 43,590,336 Class B ordinary shares, including: (i) 28,000,000 Class B ordinary shares held by EDC Group Limited, (ii) 15,590,336 Class B ordinary shares held by GDS Enterprises Limited, (iii) 608,671 ADSs representing 4,869,368 Class A ordinary shares held by Solution Leisure Investment Limited, and (iv) 2,320,000 Class A ordinary shares in the form of 290,000 ADSs underlying restricted share units that will vest within 60 days after March 31, 2026 held by Mr. ... (2) Represents ordinary shares beneficially held by all of our directors and executive officers as a group and ordinary shares (in the form of ADS) underlying restricted share units that will vest within 60 days after March 31, 2026 held by all of our directors and executive officers as a group.
+--------------------------------------------------------------------------------
+SOITEC_2024_URD_EN (https://www.soitec.com/docs/default-source/agm-documents/2025/en/universal-registration-document-2024-2025---en.pdf?Status=Master&sfvrsn=721740d4_1)
+citeturn185search16 [wordlim: 200] Published: 1.3 years ago; <tr><td>08/25/2021</td><td>Capital increase through the conversion of OCEANE 2023 bonds</td><td>120,000</td><td>6,148,200</td><td>60,000</td><td>2.00</td><td>67,636,512</td><td>33,818,256</td></tr> ... <tr><td>10/18/2021</td><td>Capital increase through the conversion of OCEANE 2023 bonds</td><td>417,324</td><td>21,281,595</td><td>208,662</td><td>2.00</td><td>70,275,148</td><td>35,137,574</td></tr> ... The purpose of this contract is for BNP Paribas to market Soitec’s shares traded on the Euronext Paris regulated market under ISIN code FR0013227113.
+--------------------------------------------------------------------------------
+The Directors have prepared financial projections containing both a ‘base case’ and a ‘severe but plausible downside case’. (https://www.iqep.com/media/iq3b2jsx/iqe-h1-2025-results-rns-final-v2.pdf)
+citeturn185search17 [wordlim: 200] Published: last year; - Revenue for H2 2025 is aligned with the lower end of the Group’s latest trading update with year-on-year growth of 31% forecast in 2026 as customer and market dynamics are expected to improve with revenue forecast to return to 2024 levels. ... Whilst the Directors are confident that the divestment of either the whole Group or IQE Taiwan is progressing as planned and will realise sufficient cash, they acknowledge that either a decision by HSBC Bank plc to withdraw its on-going support of the Group, or a delayed outcome of the potential sale of the whole Group or IQE Taiwan could impact the availability of sufficient funding for the Group’s needs in the going concern period from 31 December 2025 onwards. ... The interim financial statements do not include any adjustments that would result from the basis of preparation being inappropriate. ... Actual results may differ from these estimates.
+

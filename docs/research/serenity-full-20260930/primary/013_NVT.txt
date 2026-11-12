@@ -1,0 +1,81 @@
+false 0001720635 0001720635 2026-09-29 2026-09-29 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE
+COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT PURSUANT TO SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934 Date of Report (Date
+of earliest event reported): September 29, 2026 nVent
+Electric plc (Exact name of Registrant as specified in its
+charter) Ireland 001-38265 98-1391970 (State or other jurisdiction of incorporation) (Commission File Number) (I.R.S. Employer Identification No.) The
+Mille , 1000 Great West Road , 8th Floor (East) , London , TW8 9DW , United
+Kingdom (Address of principal
+executive offices) Registrant's telephone
+number, including area code: 44-20 - 3966-0279 Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions: ¨ Written
+                                            communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting
+                                            material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement
+                                            communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement
+                                            communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    symbol(s) Name
+    of each exchange on which registered Ordinary
+    Shares, nominal value $0.01 per share NVT New
+    York Stock Exchange Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). ¨ Emerging growth company If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ ITEM 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement
+of a Registrant On September 29, 2026, nVent Electric plc
+(the “Company”), Hoffman Schroff Holdings, Inc. (“Hoffman Schroff”) and nVent Finance S.à r.l. (“nVent
+Finance”) completed a public offering (the “Offering”) of $800.0 million aggregate principal amount of Hoffman Schroff’s
+6.150% Senior Notes due 2036 (the “Notes”). The Notes are fully and unconditionally and jointly and severally guaranteed as
+to payment of principal and interest by the Company and nVent Finance (the “Guarantees”). The Notes were issued under an Indenture (the “Base
+Indenture”), dated as of September 29, 2026, among the Company, Hoffman Schroff, nVent Finance and U.S. Bank Trust Company,
+National Association, as trustee (the “Trustee”), as supplemented by a First Supplemental Indenture, dated as of September 29,
+2026, between the Company, Hoffman Schroff, nVent Finance and the Trustee, establishing the terms and providing for the issuance of the
+Notes (the “First Supplemental Indenture”). The First Supplemental Indenture and form of the
+Notes, which is included therein, provide, among other things, that the Notes bear interest at a rate of 6.150% per year (payable
+semi-annually in arrears on March 15 and September 15 of each year, beginning on March 15, 2027), and will mature on September 15,
+2036. The interest rate payable on the Notes will be subject to adjustment based on certain rating events. As previously disclosed, on
+September 17, 2026, Hoffman Schroff, nVent Finance and the Company entered into a loan agreement with a syndicate of financial
+institutions, providing for a $600.0 million senior unsecured term loan facility (the “Term Loan Facility”).
+Additionally, as previously disclosed, on September 17, 2026, Hoffman Schroff, nVent Finance and the Company entered into
+Amendment No. 2 to that Second Amended and Restated Credit Agreement, dated as of June 30, 2025, among the Company, nVent
+Finance, Hoffman Schroff and a syndicate of banks, to permit limited conditionality draws of up to an aggregate principal amount of
+$250.0 million (the “Specified Revolving Facility”). Hoffman Schroff, nVent Finance and the Company intend to use
+the net proceeds of the Offering, borrowings under the Term Loan Facility, borrowings under the Specified Revolving Facility, and
+cash on hand to finance the acquisition of Maverick Power, LLC (“Maverick Power”), for approximately $1.75 billion (the “Maverick Power acquisition”), and to pay related fees and expenses. Hoffman
+Schroff, nVent Finance and the Company intend to use the remainder of the net proceeds from the Offering, if any, for general
+corporate purposes. At any time prior to June 15, 2036, Hoffman
+Schroff may redeem the Notes at a “make-whole” redemption price, plus accrued and unpaid interest on the Notes being redeemed
+to, but excluding, the redemption date. At any time on or after June 15, 2036, Hoffman Schroff may redeem the Notes at a redemption
+price equal to 100% of the aggregate principal amount of the Notes being redeemed, plus accrued and unpaid interest on the Notes being
+redeemed to, but excluding, the redemption date. Hoffman Schroff is required to offer to repurchase the Notes for cash at a price of 101%
+of the aggregate principal amount of the Notes repurchased, plus accrued and unpaid interest, if any, upon the occurrence of a change
+of control triggering event. Hoffman Schroff also may redeem all, but not less than all, of the Notes in the event of certain tax changes
+affecting such Notes. If (a) the consummation of the Maverick Power
+acquisition does not occur on or prior to November 20, 2026 (or such later date on or before February 19, 2027 as extended by
+the parties to the Membership Interest Purchase Agreement, dated as of August 21, 2026, among the Company, Hoffman Schroff, Maverick
+Power and Maverick Power Holdings, LLC (the “Purchase Agreement”), the “outside date”), (b) Hoffman Schroff
+notifies the Trustee and the holders of the Notes that in its reasonable judgment the Maverick Power acquisition will not be consummated
+on or prior to the outside date or (c) the Purchase Agreement has been terminated without the consummation of the Maverick Power
+acquisition, then Hoffman Schroff will be required to redeem all of the Notes then outstanding on the date specified in the notice of
+special mandatory redemption (such date, the “special mandatory redemption date”) at a redemption price equal to 101% of the
+principal amount of the Notes then outstanding, plus accrued and unpaid interest, if any, to, but not including, the special mandatory
+redemption date. The First Supplemental Indenture contains customary
+events of default. If an event of default occurs and is continuing with respect to the Notes, then the Trustee or the holders of at least
+25% of the principal amount of the outstanding Notes of that series may declare the Notes of that series to be due and payable immediately.
+In addition, in the case of an event of default arising from certain events of bankruptcy, insolvency or reorganization, all outstanding
+Notes will become due and payable immediately without any declaration or other act on the part of the Trustee or the holders of the Notes. The descriptions of the Base Indenture and the
+First Supplemental Indenture set forth above are qualified by reference to the Base Indenture and the First Supplemental Indenture filed
+as Exhibits 4.1 and 4.2, respectively, to this Current Report on Form 8-K and incorporated by reference herein. ITEM 8.01 Other Events The Notes and the Guarantees are registered under
+the Securities Act of 1933, as amended, pursuant to a Registration Statement on Form S-3 (Registration No. 333-293530, 333-293530-01
+and 333-293530-02) that the Company, Hoffman Schroff and nVent Finance filed with the Securities and Exchange Commission on February 17,
+2026. The Company is also filing certain exhibits as part of this Current Report on Form 8-K for purposes of such Registration Statement.
+See “Item 9.01. Financial Statements and Exhibits.” ITEM 9.01 Financial Statements and Exhibits (d) Exhibits.
+The exhibits listed in the Exhibit Index below are filed as part of this report. Exhibit Index Exhibit Description 4.1 Indenture, dated as of September 29, 2026, among nVent Electric plc, Hoffman Schroff Holdings, Inc., nVent Finance S.à r.l. and U.S. Bank Trust Company, National Association. 4.2 First Supplemental Indenture, dated as of September 29, 2026, among nVent Electric plc, Hoffman Schroff Holdings, Inc., nVent Finance S.à r.l. and U.S. Bank Trust Company, National Association. 5.1 Opinion of Foley & Lardner LLP with respect to the Notes and the Guarantees. 5.2 Opinion
+    of Allen Overy Shearman Sterling SCS, société en commandite simple (inscrite au barreau de Luxembourg) , with
+    respect to the Guarantee issued by nVent Finance S.à r.l. 5.3 Opinion of Arthur Cox LLP with respect to the Guarantee issued by nVent Electric plc. 23.1 Consent of Foley & Lardner LLP (included in Exhibit 5.1). 23.2 Consent
+    of Allen Overy Shearman Sterling SCS, société en commandite simple (inscrite au barreau de Luxembourg) , (included
+    in Exhibit 5.2). 23.3 Consent of Arthur Cox LLP (included in Exhibit 5.3). 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant to the requirements of
+the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto
+duly authorized, on September 29, 2026. nVent Electric plc Registrant By /s/ Gary L. Corona Gary L. Corona Executive Vice President and Chief Financial Officer

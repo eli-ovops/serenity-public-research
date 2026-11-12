@@ -1,0 +1,301 @@
+Serenity Tracker — @aleabitoreddit's AI supply-chain chokepoint theses, for retail
+Buy
+—
+exposure on-chain
+via a tokenized share (
+—
+) on DeGate
+Read this before you continue — credibility is the whole point of this site.
+•
+Not investment advice.
+This site only tracks Serenity's public posts. He is not involved and is not endorsing anything.
+•
+You'd buy a token, not the share.
+…on
+tokens are backed 1:1 by the real share in custody, but they are a cash-redeemable claim on the issuer (Ondo) — not the stock itself, and with no shareholder voting.
+•
+Restricted availability.
+Not offered to residents of the US, UK, EU/EEA, Switzerland, Canada, Singapore, mainland China (where crypto trading is prohibited) and others. Check your own eligibility first.
+•
+Self-custody required.
+You'll need a crypto wallet and USDC, and you are responsible for your own funds and security.
+•
+Third party.
+DeGate and Ondo are independent services. We are not affiliated with them and earn nothing from this link.
+Cancel
+Continue to DeGate ↗
+Ask Serenity
+Ask Serenity
+Not Serenity himself — a bot that quotes only his public posts · Not advice
+Ask
+📧 Want his calls like this, once a week?
+Get the free digest →
+✕
+🔔
+Get his next call the second he posts it
+Live alerts in the Telegram group — free. This page updates every few days; the group is real-time.
+Join Telegram for live alerts →
+Maybe later
+Unofficial, fan-built tracker —
+not Serenity, not affiliated
+. We archive his public X posts; every entry links to its source. We earn nothing from any link on this page.
+Get every new call the second he posts it
+— live alerts in the Telegram group, free.
+Join free
+↗
+Latest call
+Updated October 20, 2026
+Sivers’ auditor flagged going concern seven weeks before the raise
+Found in the annual report, not a post · Oct 19
+He argued on Oct 19 that people forget institutions have already financed
+Sivers’
+expansion. They have — and the reason that matters is in the FY2025 annual report. Deloitte signed a clean opinion on May 13, then added a section headed “Significant uncertainty regarding the going concern assumption”, because sales do not yet cover the development plan. The oversubscribed SEK 700M issue seven weeks later answers that half. What cash cannot answer is the separate audit matter beside it — “significant deficiencies in the internal control environment and errors affecting financial reporting” — which is exactly what the PCAOB audit behind his expected US listing would test.
+See all new calls →
+🔔 Get the next one live →
+The AI build-out, as he sees it
+Tap a stage to see those picks
+Move the data
+Photonics
+$AXTI · $SIVE
+Feed the GPUs
+Memory
+$EWY
+Run the compute
+Neocloud
+$NBIS
+Who pays for it
+AI demand
+$RPI
+Where it goes next
+Robotics
+$CCXI · 688017
+What powers it
+Macro / energy
+$NEXT · $AIRO
+Ask Serenity
+→
+Not Serenity himself — a scripted bot that answers only from his public posts, with links. Try “latest call?” or a ticker like $SIVE.
+Public analyst · X: @aleabitoreddit · 1M+ followers (crossed Aug 11, 2026)
+He doesn't buy
+Nvidia
+.
+He buys the
+three obscure companies
+Nvidia
+can't build a GPU without
+.
+Serenity is a former Reddit WSB trader and AI/photonics engineer who built a 1M+-follower following on X
+        by mapping the AI supply chain to
+chokepoint nodes
+—
+        obscure, vertically-integrated suppliers without which the hyperscaler AI buildout literally stops.
+        Self-reported track record:
++122%
+over the year to 04/2026, and
++3,612% YTD
+as of June 11, 2026 — his own figures: leveraged, volatile, unaudited, and posted at different times; we can't reconcile the two numbers, so treat them as his claims, not verified returns.
+July 17, same transparency in the other direction: he disclosed a
+−49.4% drawdown
+for the month in the market-wide AI/memory/photonics crash (
+his post ↗
+), cut his leverage, and kept the thesis — and on Aug 15 posted (in Chinese, dismissing “blew up” rumors) that his YTD return still stands at
++2,411.84%
+after the crash (
+his post ↗
+; self-reported, unaudited, same as every figure here) — leveraged-and-volatile cuts both ways, and he posts it both ways.
+No fund, no 13F —
+        just public theses on X, validated by subsequent earnings and industry warnings.
+Follow on X →
+Framework: Chokepoint Theory
+Sector: AI photonics + supply chain
+Style: concentrated, ~1.4x margin
+THE CHOKEPOINT STACK
+what an Nvidia GPU can't ship without
+Nvidia GPU
+what everyone buys
+↓ can't run without ↓
+Optics & CPO
+$LITE $COHR
+CW lasers
+$SIVE $AAOI
+Epiwafers
+$IQE
+InP substrate
+$AXTI
+fewer suppliers ↓ more pricing power
+Own the bottleneck, not the brand.
+“The Strait of AXTI” · his core framework
+1Y return
++122%
+Self-reported · 04/2026 · unaudited
+YTD 2026
++3,612%
+Self-reported · 06/11 · unaudited — then a
+−49.4% July drawdown ↗
+, also self-reported
+Chokepoints mapped
+7
+Layers of AI photonics
+Names called
+20+
+Self-reported wins — see caveats below
+The framework
+"The Strait of AXTI"
+Just as 20% of global oil passes through one strait, the AI photonics buildout depends on
+        a handful of single-vendor or duopoly chokepoints. Find them, own them, hold them.
+The edge
+"Only buys what he's touched"
+Former AI research scientist + RISC-V Foundation member + silicon-photonics engineer.
+        Reads the substrate-level technical literature retail (and most analysts) won't.
+The validation
+"Frontran institutions"
+Called $AXTI's InP substrate bottleneck a year before IntelliEPI's CEO publicly warned
+        of an "indium phosphide supply shortage" in Q1 2026. Earnings have repeatedly confirmed.
+The chokepoint map
+Seven layers of the AI-photonics supply chain, each with a structural bottleneck. The ticker on each row is the publicly-stated chokepoint owner.
+1
+Raw materials — gallium, indium, arsenic
+$AXTI
+· vertically integrated
+Sourcing and refinement of the rare metals every InP wafer starts with. Concentrated in China; AXT processes its own.
+2
+pBN crucibles & growth equipment
+Shin-Etsu Chemical
+· JP
+Pyrolytic boron nitride crucibles that grow the InP boules. Single-vendor equipment chokepoint.
+3
+InP substrate processing — "the crown jewel"
+$AXTI
+· + an unnamed monopoly/duopoly
+Where the photonics supply chain pinches hardest. IntelliEPI's CEO publicly confirmed an "InP shortage" in Q1 2026 — a year after Serenity's call.
+4
+CW lasers — light source for Co-Packaged Optics (CPO)
+$SIVE
+· Sivers Semi
+The 2027–2028 inflection. CPO replaces pluggable optics; Sivers owns the laser-source choke at ~$290M cap.
+5
+Optical transceivers — assembly
+$AAOI · $COHR · $LITE · Innolight
+The visible end of the chain. Nvidia's $2B optical investment locked in capacity here ahead of supply shocks.
+6
+Testing & qualification
+$AEHR
+· Aehr Test Systems
+Photonics test equipment — "early $AAOI stage" before the volume ramp. Recently won qualification orders from a leading transceiver vendor.
+7
+Optical cable & fiber (HCF + traditional)
+$GLW · Prysmian · Furukawa
+The plumbing. Traditional fiber + new hollow-core fiber for low-latency interconnect between AI clusters.
+Every name he's publicly called
+Filter by category. Star the ones you want to track. Picks paraphrased from public posts — see sources.
+Cards
+Thesis arc
+beta
+All
+New
+Photonics chokepoints
+Memory rotation
+Neocloud
+Robotics / physical AI
+AI demand
+Macro / energy
+Crypto
+Flagged risks
+★ Watchlist
+Market:
+All
+🇺🇸 US
+🇪🇺 Europe
+🇬🇧 UK
+🇹🇼 Taiwan
+🇰🇷 Korea
+🇯🇵 Japan
+🇨🇳 China
+◎ Crypto
+Jargon, translated:
+InP = indium phosphide, the crystal wafer these lasers are built on · CPO = co-packaged optics, moving the light link right next to the chip · ELS/ELSFP = external laser source, the laser that feeds those optics · CW laser = continuous-wave (steady-beam) laser · SiPh = silicon photonics · HVM = high-volume manufacturing.
+The three-phase rotation
+His framework for how institutional money flows through the AI supply chain.
+Phase 1 · Done
+Memory / HBM
+"Caught the tail end"
+$SNDK, Samsung, SK Hynix, $MU. Institutions rotated in late 2025 / early 2026.
+Phase 2 · Now
+Optical transceivers
+"Frontran institutions"
+$AAOI, $AXTI, $LITE, $COHR. Many up 100–400% since first posts.
+Phase 3 · Emerging
+SiPh / ELS / CPO
+"Adding heavily now"
+$SIVE, $AAOI (as ELS player), $POET, Celestial AI. 2027–2028 CPO inflection.
+The implication for retail: by the time the next phase is consensus, the asymmetric upside is gone.
+    Watch what Phase 3 names get added to before institutions pile in.
+Track record — calls that actually played out
+Receipts. So you can calibrate.
+$AXTI
+Validated
+Called the InP substrate bottleneck a year early
+IntelliEPI's CEO publicly confirmed "InP shortage is a bottleneck for the entire AI infrastructure" in Q1 2026 earnings — exactly what Serenity called.
+view on X ↗
+$RPI
++72% over 2 sessions
+Raspberry Pi demand-spike thesis
+Called +55% revenue growth when sell-side consensus was +14%. Earnings printed +58%. Stock +44.76% on 3/31 and +27.43% on 4/1.
+view on X ↗
+$AAOI
+Multi-bagger from entry
+Entered at ~$84, called "way too cheap"
+Full transceiver supply chain + ELSFP build for CPO. Said "10x revenue from optical transceivers in H2 2027." ~$500M cash on the balance sheet.
+view on X ↗
+$LNG
++52.74% YTD
+"Most obvious" energy-war pick
+Cheniere Energy as the cleanest US LNG export beneficiary of geopolitical disruption.
+$CVX
++35.44% YTD
+Energy-war supermajor
+Bought as an Iran-tension hedge.
+view on X ↗
+$IREN
+Flipped
+Was long → went bearish after $6B ATM
+A reminder that he updates his theses when the cap structure changes against him.
+view on X ↗
+Track record is self-reported and from public posts. The wins above are not a complete sample — losers and unconfirmed calls are not shown here. Calibrate accordingly.
+How to follow live
+This page is a snapshot. The actual stream of theses is on X.
+Primary
+@aleabitoreddit on X
+Real-time thesis posts, replies, and chokepoint maps. Turn on notifications.
+Long-form
+Singularity Research Fund essay
+The most thorough third-party synthesis of his framework and positions.
+Performance
+PhotonCap: +122% 1Y writeup
+Independent breakdown of his returns and the "engineer who only buys what he's touched" angle.
+Before you copy a single trade — read this
+No fund, no 13F
+Unlike a hedge fund manager, Serenity has no regulatory obligation to disclose holdings. What you see is what he chooses to post.
+Never copy his sizing
+He runs concentrated with ~1.4x margin; entry prices are sometimes disclosed, weights never. Follow ideas if you must — never sizing. His "Doomsday" percentages are hedges on
+his
+book, not a portfolio for you. July 2026 made it concrete: ~1.4x on a book that fell ~35% underneath = his self-reported −49.4% monthly drawdown.
+He moves in real-time
+His $IREN flip shows he changes theses when conditions change. By the time you read a tweet, he may have rotated.
+Survivorship in track record
+Self-reported wins; losers and stop-outs are not posted with the same visibility. Calibrate the +122% accordingly.
+Sources
+All picks on this page are paraphrased from public posts. Verify against primary sources:
+@aleabitoreddit on X (primary)
+Singularity Research Fund — Inside the Mind of Serenity
+PhotonCap — 1Y +122% writeup
+Moomoo — backstory thread
+Not affiliated with Serenity, AleaBito, or @aleabitoreddit. Not investment advice. Some picks may be out of date by the time you read them — always check his most recent posts before acting.
+Free weekly digest
+Get his week, in plain English.
+One email a week: his newest calls, what actually changed, and the receipts — the same verified summaries you see on this page, sent to you so you don't have to keep checking back. No spam, no hype, unsubscribe anytime. Not investment advice.
+Do not fill this in:
+Get the digest
+We store your email only to send the digest — nothing else. Prefer real-time? The
+Telegram group
+is faster (needs a VPN inside China).

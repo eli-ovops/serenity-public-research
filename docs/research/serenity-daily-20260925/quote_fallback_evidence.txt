@@ -1,0 +1,1579 @@
+FormFactor (FORM) Stock Price History 2003-2026 (https://stockanalysis.com/stocks/form/history/)
+citeturn72view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/form/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: FormFactor, Inc. (FORM)
+L64: 
+L65: NASDAQ: FORM · Real-Time Price · USD
+L66: 
+L67: 131.59
+L68: 
+L69: +2.55 (1.98%)
+L70: Sep 25, 2026, 9:52 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Tower Semiconductor (TSEM) Stock Price History 1994-2026 (https://stockanalysis.com/stocks/tsem/history/)
+citeturn72view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tsem/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Tower Semiconductor Ltd. (TSEM)
+L64: 
+L65: NASDAQ: TSEM · Real-Time Price · USD
+L66: 
+L67: 230.66
+L68: 
+L69: +13.38 (6.16%)
+--------------------------------------------------------------------------------
+Credo Technology Group Holding (CRDO) Stock Price History 2022-2026 (https://stockanalysis.com/stocks/crdo/history/)
+citeturn72view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/crdo/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Credo Technology Group Holding Ltd (CRDO)
+L64: 
+L65: NASDAQ: CRDO · Real-Time Price · USD
+L66: 
+L67: 199.50
+L68: +3.53 (1.80%)
+L69: 
+L70: Sep 25, 2026, 10:08 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Camtek (CAMT) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/camt/history/)
+citeturn72view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/camt/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Camtek Ltd. (CAMT)
+L64: 
+L65: NASDAQ: CAMT · Real-Time Price · USD
+L66: 
+L67: 146.25
+L68: 
+L69: +1.13 (0.78%)
+L70: Sep 25, 2026, 9:32 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Modine Manufacturing Company (MOD) Stock Price History 1990-2026 (https://stockanalysis.com/stocks/mod/history/)
+citeturn72view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/mod/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Modine Manufacturing Company (MOD)
+L64: 
+L65: NYSE: MOD · Real-Time Price · USD
+L66: 
+L67: 201.00
+L68: 
+L69: +4.05 (2.06%)
+--------------------------------------------------------------------------------
+Onto Innovation (ONTO) Stock Price History 1992-2026 (https://stockanalysis.com/stocks/onto/history/)
+citeturn72view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/onto/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Onto Innovation Inc. (ONTO)
+L64: 
+L65: NYSE: ONTO · Real-Time Price · USD
+L66: 
+L67: 288.22
+L68: 
+L69: +8.49 (3.04%)
+L70: Sep 25, 2026, 10:03 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+AAON, Inc. (AAON) Stock Price History 1991-2026 (https://stockanalysis.com/stocks/aaon/history/)
+citeturn72view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aaon/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: AAON, Inc. (AAON)
+L64: 
+L65: NASDAQ: AAON · Real-Time Price · USD
+L66: 
+L67: 89.31
+L68: 
+L69: +5.04 (5.98%)
+L70: Sep 25, 2026, 9:52 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+nVent Electric (NVT) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/nvt/history/)
+citeturn72view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/nvt/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: nVent Electric plc (NVT)
+L64: 
+L65: NYSE: NVT · Real-Time Price · USD
+L66: 
+L67: 161.75
+L68: 
+L69: -1.13 (-0.69%)
+L70: Sep 25, 2026, 9:48 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Arista Networks (ANET) Stock Price History 2014-2026 (https://stockanalysis.com/stocks/anet/history/)
+citeturn72view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/anet/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Arista Networks, Inc. (ANET)
+L64: 
+L65: NYSE: ANET · Real-Time Price · USD
+L66: 
+L67: 209.50
+L68: 
+L69: +3.80 (1.84%)
+L70: Sep 25, 2026, 9:58 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Applied Optoelectronics (AAOI) Stock Price History 2013-2026 (https://stockanalysis.com/stocks/aaoi/history/)
+citeturn72view9 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aaoi/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Applied Optoelectronics, Inc. (AAOI)
+L64: 
+L65: NASDAQ: AAOI · Real-Time Price · USD
+L66: 
+L67: 102.12
+L68: 
+L69: +1.08 (1.07%)
+--------------------------------------------------------------------------------
+Ciena (CIEN) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/cien/history/)
+citeturn72view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/cien/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Ciena Corporation (CIEN)
+L64: 
+L65: NYSE: CIEN · Real-Time Price · USD
+L66: 
+L67: 361.50
+L68: 
+L69: +3.07 (0.86%)
+L70: Sep 25, 2026, 10:08 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Quanta Services (PWR) Stock Price History 1998-2026 (https://stockanalysis.com/stocks/pwr/history/)
+citeturn72view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/pwr/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Quanta Services, Inc. (PWR)
+L64: 
+L65: NYSE: PWR · Real-Time Price · USD
+L66: 
+L67: 650.00
+L68: 
+L69: +6.50 (1.01%)
+L70: Sep 25, 2026, 10:08 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+POET Technologies (POET) Stock Price History 2011-2026 (https://stockanalysis.com/stocks/poet/history/)
+citeturn72view12 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/poet/history/","lineno":62}); Total lines: 217
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: POET Technologies Inc. (POET)
+L64: 
+L65: NASDAQ: POET · Real-Time Price · USD
+L66: 
+L67: 7.73
+L68: 
+L69: -0.02 (-0.26%)
+--------------------------------------------------------------------------------
+Fluence Energy (FLNC) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/flnc/history/)
+citeturn72view13 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/flnc/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Fluence Energy, Inc. (FLNC)
+L64: 
+L65: NASDAQ: FLNC · Real-Time Price · USD
+L66: 
+L67: 7.75
+L68: 
+L69: +0.29 (3.89%)
+L70: Sep 25, 2026, 9:50 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Super Micro Computer (SMCI) Stock Price History 2007-2026 (https://stockanalysis.com/stocks/smci/history/)
+citeturn72view14 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/smci/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Super Micro Computer, Inc. (SMCI)
+L64: 
+L65: NASDAQ: SMCI · Real-Time Price · USD
+L66: 
+L67: 42.75
+L68: 
+L69: +1.24 (2.99%)
+--------------------------------------------------------------------------------
+Lightwave Logic (LWLG) Stock Price History 2004-2026 (https://stockanalysis.com/stocks/lwlg/history/)
+citeturn72view15 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/lwlg/history/","lineno":62}); Total lines: 217
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Lightwave Logic, Inc. (LWLG)
+L64: 
+L65: NASDAQ: LWLG · Real-Time Price · USD
+L66: 
+L67: 5.37
+L68: 
+L69: +0.09 (1.70%)
+L70: Sep 25, 2026, 9:46 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Statistics L75:   * cite42†History L76:   * cite43†Profile --------------------------------------------------------------------------------
+Nokia Oyj (NOK) Stock Price History 1994-2026 (https://stockanalysis.com/stocks/nok/history/)
+citeturn72view16 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/nok/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Nokia Oyj (NOK)
+L64: 
+L65: NYSE: NOK · Real-Time Price · USD
+L66: 
+L67: 10.49
+L68: 
+L69: +0.06 (0.58%)
+L70: Sep 25, 2026, 10:02 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart 
+NVIDIA (NVDA) Stock Price History 1999-2026 (https://stockanalysis.com/stocks/nvda/history/)
+citeturn75view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/nvda/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: NVIDIA Corporation (NVDA)
+L64: 
+L65: NASDAQ: NVDA · Real-Time Price · USD
+L66: 
+L67: 224.71
+L68: 
+L69: +0.13 (0.06%)
+L70: Sep 25, 2026, 10:13 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Taiwan Semiconductor Manufacturing Company (TSM) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/tsm/history/)
+citeturn75view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tsm/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Taiwan Semiconductor Manufacturing Company Limited (TSM)
+L64: 
+L65: NYSE: TSM · Real-Time Price · USD
+L66: 451.65
+L67: 
+L68: +0.50 (0.11%)
+L69: 
+--------------------------------------------------------------------------------
+Broadcom (AVGO) Stock Price History 2009-2026 (https://stockanalysis.com/stocks/avgo/history/)
+citeturn75view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/avgo/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Broadcom Inc. (AVGO)
+L64: 
+L65: NASDAQ: AVGO · Real-Time Price · USD
+L66: 
+L67: 353.15
+L68: 
+L69: +2.79 (0.80%)
+L70: Sep 25, 2026, 9:49 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Micron Technology (MU) Stock Price History 1984-2026 (https://stockanalysis.com/stocks/mu/history/)
+citeturn75view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/mu/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Micron Technology, Inc. (MU)
+L64: 
+L65: NASDAQ: MU · Real-Time Price · USD
+L66: 
+L67: 1,086.71
+L68: 
+L69: +6.18 (0.57%)
+L70: Sep 25, 2026, 9:58 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Eaton Corporation (ETN) Stock Price History 1968-2026 (https://stockanalysis.com/stocks/etn/history/)
+citeturn75view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/etn/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Eaton Corporation plc (ETN)
+L64: 
+L65: NYSE: ETN · Real-Time Price · USD
+L66: 
+L67: 443.77
+L68: 
+L69: +3.77 (0.86%)
+L70: Sep 25, 2026, 9:49 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Vertiv Holdings Co (VRT) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/vrt/history/)
+citeturn75view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/vrt/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Vertiv Holdings Co (VRT)
+L64: 
+L65: NYSE: VRT · Real-Time Price · USD
+L66: 
+L67: 251.91
+L68: 
+L69: +6.61 (2.69%)
+L70: Sep 25, 2026, 9:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+GE Vernova (GEV) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/gev/history/)
+citeturn75view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/gev/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: GE Vernova Inc. (GEV)
+L64: 
+L65: NYSE: GEV · Real-Time Price · USD
+L66: 
+L67: 955.90
+L68: 
+L69: +0.86 (0.09%)
+L70: Sep 25, 2026, 9:49 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Coherent (COHR) Stock Price History 1990-2026 (https://stockanalysis.com/stocks/cohr/history/)
+citeturn75view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/cohr/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Coherent Corp. (COHR)
+L64: 
+L65: NYSE: COHR · Real-Time Price · USD
+L66: 
+L67: 294.85
+L68: 
+L69: +4.24 (1.46%)
+L70: Sep 25, 2026, 10:00 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Lumentum Holdings (LITE) Stock Price History 2015-2026 (https://stockanalysis.com/stocks/lite/history/)
+citeturn75view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/lite/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Lumentum Holdings Inc. (LITE)
+L64: 
+L65: NASDAQ: LITE · Real-Time Price · USD
+L66: 
+L67: 934.60
+L68: 
+L69: +5.56 (0.60%)
+L70: Sep 25, 2026, 10:06 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Marvell Technology (MRVL) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/mrvl/history/)
+citeturn75view9 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/mrvl/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Marvell Technology, Inc. (MRVL)
+L64: 
+L65: NASDAQ: MRVL · Real-Time Price · USD
+L66: 
+L67: 262.40
+L68: 
+L69: +3.45 (1.33%)
+--------------------------------------------------------------------------------
+Dell Technologies (DELL) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/dell/history/)
+citeturn75view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/dell/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Dell Technologies Inc. (DELL)
+L64: 
+L65: NYSE: DELL · Real-Time Price · USD
+L66: 
+L67: 558.42
+L68: 
+L69: +22.40 (4.18%)
+L70: Sep 25, 2026, 9:58 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Hewlett Packard Enterprise Company (HPE) Stock Price History 2015-2026 (https://stockanalysis.com/stocks/hpe/history/)
+citeturn75view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/hpe/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Hewlett Packard Enterprise Company (HPE)
+L64: 
+L65: NYSE: HPE · Real-Time Price · USD
+L66: 
+L67: 64.63
+L68: 
+L69: +1.11 (1.75%)
+--------------------------------------------------------------------------------
+Western Digital (WDC) Stock Price History 1983-2026 (https://stockanalysis.com/stocks/wdc/history/)
+citeturn75view12 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/wdc/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Western Digital Corporation (WDC)
+L64: 
+L65: NASDAQ: WDC · Real-Time Price · USD
+L66: 
+L67: 452.86
+L68: 
+L69: +2.55 (0.57%)
+--------------------------------------------------------------------------------
+Seagate Technology Holdings (STX) Stock Price History 2002-2026 (https://stockanalysis.com/stocks/stx/history/)
+citeturn75view13 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/stx/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Seagate Technology Holdings plc (STX)
+L64: 
+L65: NASDAQ: STX · Real-Time Price · USD
+L66: 
+L67: 916.15
+L68: 
+L69: +10.23 (1.13%)
+--------------------------------------------------------------------------------
+Fabrinet (FN) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/fn/history/)
+citeturn75view14 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/fn/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Fabrinet (FN)
+L64: 
+L65: NYSE: FN · Real-Time Price · USD
+L66: 
+L67: 409.00
+L68: 
+L69: +10.64 (2.67%)
+L70: Sep 25, 2026, 9:54 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Amkor Technology (AMKR) Stock Price History 1998-2026 (https://stockanalysis.com/stocks/amkr/history/)
+citeturn75view15 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/amkr/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Amkor Technology, Inc. (AMKR)
+L64: 
+L65: NASDAQ: AMKR · Real-Time Price · USD
+L66: 
+L67: 53.80
+L68: 
+L69: +1.11 (2.11%)
+L70: Sep 25, 2026, 9:52 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+ASE Technology Holding (ASX) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/asx/history/)
+citeturn75view16 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/asx/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: ASE Technology Holding Co., Ltd. (ASX)
+L64: 
+L65: NYSE: ASX · Real-Time Price · USD
+L66: 
+L67: 44.50
+L68: 
+L69: +1.00 (2.30%)
+
+Teradyne (TER) Stock Price History 1970-2026 (https://stockanalysis.com/stocks/ter/history/)
+citeturn73view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/ter/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Teradyne, Inc. (TER)
+L64: 
+L65: NASDAQ: TER · Real-Time Price · USD
+L66: 
+L67: 394.07
+L68: 
+L69: +6.37 (1.64%)
+L70: Sep 25, 2026, 9:37 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+KLA Corporation (KLAC) Stock Price History 1983-2026 (https://stockanalysis.com/stocks/klac/history/)
+citeturn73view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/klac/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: KLA Corporation (KLAC)
+L64: 
+L65: NASDAQ: KLAC · Real-Time Price · USD
+L66: 
+L67: 188.38
+L68: 
+L69: +1.27 (0.68%)
+L70: Sep 25, 2026, 10:04 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Lam Research (LRCX) Stock Price History 1985-2026 (https://stockanalysis.com/stocks/lrcx/history/)
+citeturn73view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/lrcx/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Lam Research Corporation (LRCX)
+L64: 
+L65: NASDAQ: LRCX · Real-Time Price · USD
+L66: 
+L67: 311.43
+L68: 
+L69: +4.27 (1.39%)
+L70: Sep 25, 2026, 9:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast --------------------------------------------------------------------------------
+Applied Materials (AMAT) Stock Price History 1983-2026 (https://stockanalysis.com/stocks/amat/history/)
+citeturn73view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/amat/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Applied Materials, Inc. (AMAT)
+L64: 
+L65: NASDAQ: AMAT · Real-Time Price · USD
+L66: 
+L67: 482.29
+L68: 
+L69: +8.04 (1.70%)
+L70: Sep 25, 2026, 9:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+ASML Holding (ASML) Stock Price History 1995-2026 (https://stockanalysis.com/stocks/asml/history/)
+citeturn73view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/asml/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: ASML Holding N.V. (ASML)
+L64: 
+L65: NASDAQ: ASML · Real-Time Price · USD
+L66: 
+L67: 1,748.24
+L68: 
+L69: +25.74 (1.49%)
+L70: Sep 25, 2026, 10:08 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+ACM Research (ACMR) Stock Price History 2017-2026 (https://stockanalysis.com/stocks/acmr/history/)
+citeturn73view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/acmr/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: ACM Research, Inc. (ACMR)
+L64: 
+L65: NASDAQ: ACMR · Real-Time Price · USD
+L66: 
+L67: 76.95
+L68: 
+L69: +0.77 (1.01%)
+L70: Sep 25, 2026, 9:45 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Entegris (ENTG) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/entg/history/)
+citeturn73view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/entg/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Entegris, Inc. (ENTG)
+L64: 
+L65: NASDAQ: ENTG · Real-Time Price · USD
+L66: 
+L67: 152.97
+L68: 
+L69: +4.34 (2.92%)
+L70: Sep 25, 2026, 9:54 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Rambus (RMBS) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/rmbs/history/)
+citeturn73view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/rmbs/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Rambus Inc. (RMBS)
+L64: 
+L65: NASDAQ: RMBS · Real-Time Price · USD
+L66: 
+L67: 106.58
+L68: 
+L69: +2.03 (1.94%)
+L70: Sep 25, 2026, 9:54 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Intel (INTC) Stock Price History 1972-2026 (https://stockanalysis.com/stocks/intc/history/)
+citeturn73view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/intc/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Intel Corporation (INTC)
+L64: 
+L65: NASDAQ: INTC · Real-Time Price · USD
+L66: 
+L67: 125.53
+L68: 
+L69: -1.86 (-1.46%)
+L70: Sep 25, 2026, 10:00 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Internal Error ()
+citeturn73view9 [wordlim: 200] Source: open({"ref_id":"https://stockanalysis.com/stocks/skhy/history/","lineno":62}); Total lines: 1
+--------------------------------------------------------------------------------
+ON Semiconductor (ON) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/on/history/)
+citeturn73view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/on/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: ON Semiconductor Corporation (ON)
+L64: 
+L65: NASDAQ: ON · Real-Time Price · USD
+L66: 
+L67: 76.15
+L68: 
+L69: +3.00 (4.10%)
+L70: Sep 25, 2026, 10:13 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+GLOBALFOUNDRIES (GFS) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/gfs/history/)
+citeturn73view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/gfs/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: GLOBALFOUNDRIES Inc. (GFS)
+L64: 
+L65: NASDAQ: GFS · Real-Time Price · USD
+L66: 
+L67: 48.10
+L68: 
+L69: +1.05 (2.23%)
+L70: Sep 25, 2026, 9:55 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Churchill Capital Corp XI (CCXI) Stock Price History 2026-2026 (https://stockanalysis.com/stocks/ccxi/history/)
+citeturn73view12 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/ccxi/history/","lineno":62}); Total lines: 216
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Churchill Capital Corp XI (CCXI)
+L64: 
+L65: NASDAQ: CCXI · Real-Time Price · USD
+L66: 
+L67: 12.08
+L68: 
+L69: -0.15 (-1.23%)
+--------------------------------------------------------------------------------
+Aehr Test Systems (AEHR) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/aehr/history/)
+citeturn73view13 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aehr/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Aehr Test Systems, Inc. (AEHR)
+L64: 
+L65: NASDAQ: AEHR · Real-Time Price · USD
+L66: 
+L67: 100.50
+L68: 
+L69: +3.08 (3.16%)
+L70: Sep 25, 2026, 9:54 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+AXT, Inc. (AXTI) Stock Price History 1998-2026 (https://stockanalysis.com/stocks/axti/history/)
+citeturn73view14 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/axti/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: AXT, Inc. (AXTI)
+L64: 
+L65: NASDAQ: AXTI · Real-Time Price · USD
+L66: 
+L67: 76.85
+L68: 
+L69: +0.94 (1.25%)
+L70: Sep 25, 2026, 9:46 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Howmet Aerospace (HWM) Stock Price History 2016-2026 (https://stockanalysis.com/stocks/hwm/history/)
+citeturn73view15 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/hwm/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Howmet Aerospace Inc. (HWM)
+L64: 
+L65: NYSE: HWM · Real-Time Price · USD
+L66: 
+L67: 231.29
+L68: 
+L69: +1.91 (0.83%)
+L70: Sep 25, 2026, 9:51 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Tesla (TSLA) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/tsla/history/)
+citeturn73view16 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tsla/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Tesla, Inc. (TSLA)
+L64: 
+L65: NASDAQ: TSLA · Real-Time Price · USD
+L66: 
+L67: 373.91
+L68: 
+L69: -4.03 (-1.07%)
+L70: Sep 25, 2026, 10:08 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart 
+Recursion Pharmaceuticals (RXRX) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/rxrx/history/)
+citeturn74view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/rxrx/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Recursion Pharmaceuticals, Inc. (RXRX)
+L64: 
+L65: NASDAQ: RXRX · Real-Time Price · USD
+L66: 
+L67: 3.770
+L68: -0.120 (-3.08%)
+L69: 
+L70: Sep 25, 2026, 10:03 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Celestica (CLS) Stock Price History 1998-2026 (https://stockanalysis.com/stocks/cls/history/)
+citeturn74view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/cls/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Celestica Inc. (CLS)
+L64: 
+L65: NYSE: CLS · Real-Time Price · USD
+L66: 
+L67: 374.52
+L68: 
+L69: +0.96 (0.26%)
+L70: Sep 25, 2026, 9:52 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+DPC Holdings (DPC) Stock Price History 2026-2026 (https://stockanalysis.com/stocks/dpc/history/)
+citeturn74view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/dpc/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: DPC Holdings PLC (DPC)
+L64: 
+L65: NYSE: DPC · Real-Time Price · USD
+L66: 
+L67: 41.34
+L68: 
+L69: -0.59 (-1.41%)
+L70: Sep 24, 2026, 4:00 PM EDT - Market closed
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Scribe Therapeutics (SCTX) Stock Price History 2026-2026 (https://stockanalysis.com/stocks/sctx/history/)
+citeturn74view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/sctx/history/","lineno":62}); Total lines: 209
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Scribe Therapeutics Inc. (SCTX)
+L64: 
+L65: NASDAQ: SCTX · Real-Time Price · USD
+L66: 
+L67: 21.59
+L68: 
+L69: -0.02 (-0.12%)
+--------------------------------------------------------------------------------
+Amazon.com (AMZN) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/amzn/history/)
+citeturn74view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/amzn/history/","lineno":62}); Total lines: 220
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Amazon.com, Inc. (AMZN)
+L64: 
+L65: NASDAQ: AMZN · Real-Time Price · USD
+L66: 
+L67: 248.24
+L68: 
+L69: -1.14 (-0.46%)
+L70: Sep 25, 2026, 10:01 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart --------------------------------------------------------------------------------
+Arteris (AIP) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/aip/history/)
+citeturn74view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aip/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Arteris, Inc. (AIP)
+L64: 
+L65: NASDAQ: AIP · Real-Time Price · USD
+L66: 
+L67: 24.82
+L68: 
+L69: +0.63 (2.60%)
+L70: Sep 25, 2026, 9:46 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+nLIGHT (LASR) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/lasr/history/)
+citeturn74view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/lasr/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: nLIGHT, Inc. (LASR)
+L64: 
+L65: NASDAQ: LASR · Real-Time Price · USD
+L66: 
+L67: 41.03
+L68: 
+L69: +0.41 (1.01%)
+L70: Sep 25, 2026, 9:45 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Tempus AI (TEM) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/tem/history/)
+citeturn74view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tem/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Tempus AI, Inc. (TEM)
+L64: 
+L65: NASDAQ: TEM · Real-Time Price · USD
+L66: 
+L67: 81.64
+L68: 
+L69: -0.60 (-0.73%)
+L70: Sep 25, 2026, 9:40 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Nebius Group (NBIS) Stock Price History 2011-2026 (https://stockanalysis.com/stocks/nbis/history/)
+citeturn74view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/nbis/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Nebius Group N.V. (NBIS)
+L64: 
+L65: NASDAQ: NBIS · Real-Time Price · USD
+L66: 
+L67: 239.24
+L68: 
+L69: -4.24 (-1.74%)
+L70: Sep 25, 2026, 9:52 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Astera Labs (ALAB) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/alab/history/)
+citeturn74view9 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/alab/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Astera Labs, Inc. (ALAB)
+L64: 
+L65: NASDAQ: ALAB · Real-Time Price · USD
+L66: 
+L67: 362.45
+L68: 
+L69: +1.94 (0.54%)
+L70: Sep 25, 2026, 9:48 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Generac Holdings (GNRC) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/gnrc/history/)
+citeturn74view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/gnrc/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Generac Holdings Inc. (GNRC)
+L64: 
+L65: NYSE: GNRC · Real-Time Price · USD
+L66: 
+L67: 206.00
+L68: 
+L69: +7.95 (4.01%)
+--------------------------------------------------------------------------------
+Ouster (OUST) Stock Price History 2020-2026 (https://stockanalysis.com/stocks/oust/history/)
+citeturn74view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/oust/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Ouster, Inc. (OUST)
+L64: 
+L65: NASDAQ: OUST · Real-Time Price · USD
+L66: 
+L67: 41.86
+L68: 
+L69: +0.49 (1.18%)
+L70: Sep 25, 2026, 9:50 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Hesai Group (HSAI) Stock Price History 2023-2026 (https://stockanalysis.com/stocks/hsai/history/)
+citeturn74view12 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/hsai/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Hesai Group (HSAI)
+L64: 
+L65: NASDAQ: HSAI · Real-Time Price · USD
+L66: 
+L67: 16.22
+L68: 
+L69: -0.15 (-0.92%)
+L70: Sep 25, 2026, 9:46 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart --------------------------------------------------------------------------------
+Innodata (INOD) Stock Price History 1993-2026 (https://stockanalysis.com/stocks/inod/history/)
+citeturn74view13 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/inod/history/","lineno":62}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Innodata Inc. (INOD)
+L64: 
+L65: NASDAQ: INOD · Real-Time Price · USD
+L66: 
+L67: 72.27
+L68: 
+L69: +0.40 (0.56%)
+L70: Sep 25, 2026, 9:46 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart --------------------------------------------------------------------------------
+Vishay Precision Group (VPG) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/vpg/history/)
+citeturn74view14 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/vpg/history/","lineno":62}); Total lines: 224
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Vishay Precision Group, Inc. (VPG)
+L64: 
+L65: NYSE: VPG · Real-Time Price · USD
+L66: 
+L67: 68.57
+L68: 
+L69: -1.26 (-1.80%)
+--------------------------------------------------------------------------------
+Richtech Robotics (RR) Stock Price History 2023-2026 (https://stockanalysis.com/stocks/rr/history/)
+citeturn74view15 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/rr/history/","lineno":62}); Total lines: 217
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Richtech Robotics Inc. (RR)
+L64: 
+L65: NASDAQ: RR · Real-Time Price · USD
+L66: 
+L67: 1.670
+L68: 
+L69: +0.030 (1.83%)
+L70: Sep 25, 2026, 9:07 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Statistics L75:   * cite42†History --------------------------------------------------------------------------------
+Serve Robotics (SERV) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/serv/history/)
+citeturn74view16 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/serv/history/","lineno":62}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Serve Robotics Inc. (SERV)
+L64: 
+L65: NASDAQ: SERV · Real-Time Price · USD
+L66: 
+L67: 4.490
+L68: 
+L69: -0.020 (-0.44%)
+

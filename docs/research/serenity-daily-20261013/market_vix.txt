@@ -1,0 +1,111 @@
+VIX (CBOE Volatility...) Index Value | Tallac Options (https://tallacoptions.com/Indices/VIX)
+citeturn379view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://tallacoptions.com/Indices/VIX","lineno":null}); Total lines: 111
+L0: Please activate JavaScript in order to get the most out of our website.
+L1: 
+L2: ## VIX: CBOE Volatility Index
+L3: 
+L4: As of Tuesday, October 13th, 2026
+L5: 
+L6: * * *
+L7: 
+L8: ## 15.20
+L9: 
+L10:  |
+L11: 
+L12: ## -0.01 -0.07%
+L13: 
+L14: Open:  | 15.61
+L15: High:  | 15.61
+L16: Low:  | 15.17
+L17: Volume:  | N/A
+L18: 
+L19: Previous Close on Monday, October 12th, 2026
+L20: 
+L21: * * *
+L22: 
+L23: ## 15.21
+L24: 
+L25: ## +0.37 +2.49%
+L26: 
+L27: Open:  | 15.39
+L28: High:  | 15.53
+L29: Low:  | 15.11
+L30: Volume:  |
+L31: 
+L32: Chart Type: [Select]
+L33: #### Historical Data
+L34: 
+L35: * * *
+L36: Date  | Open  | High  | Low  | Close  | Volume
+L37: --- | --- | --- | --- | --- | ---
+L38: 2026-10-12  | 15.39  | 15.53  | 15.11  | 15.21  | 0
+L39: 2026-10-09  | 15.34  | 15.34  | 14.77  | 14.84  | 0
+L40: 2026-10-08  | 15.68  | 16.46  | 15.15  | 15.49  | 0
+L41: 2026-10-07  | 15.21  | 16.01  | 14.97  | 15.07  | 0
+L42: 2026-10-06  | 15.50  | 15.54  | 14.96  | 15.01  | 0
+L43: 2026-10-05  | 16.24  | 16.38  | 15.48  | 15.49  | 0
+L44: 2026-10-02  | 16.15  | 16.24  | 15.30  | 15.31  | 0
+L45: 2026-10-01  | 16.33  | 17.59  | 16.21  | 16.39  | 0
+L46: cite0†VIEW MORE / DOWNLOAD L47: #### Metrics and Technicals
+L48: 
+L49: * * *
+L50: 
+L51: Period  | High  | Low  | Chg  | %Chg  | MDD  | SMA
+L52: --- | --- | --- | --- | --- | --- | ---
+L53: 5D  | 16.46
+L54:  | 14.77
+L55:  | -0.28  | -1.81  | -10.27  | 15.12
+L56: 10D  | 17.59
+L57:  | 14.77
+L58:  | -0.86  | -5.35  | -16.03  | 15.52
+L59: 20D  | 18.94
+L60:  | 14.12
+L61:  | -1.89  | -11.05  | -25.45  | 15.56
+L62: WTD  | 15.53
+L63:  | 15.11
+L64:  | 0.37  | 2.49  | --  | 15.21
+L65: MTD  | 17.59
+L66:  | 14.77
+L67:  | -1.13  | -6.92  | -16.03  | 15.35
+L68: As of Monday, October 12th, 2026
+L69: ##### Free Tier
+L70: 
+L71: Ticker  | Last  | Chg  | %Chg  | Volume
+L72: --- | --- | --- | --- | ---
+L73: cite1†GE General Electric Company  | 308.51  | -0.13  | -0.04  | 312,129
+L74: cite2†KO The Coca-Cola Company  | 89.79  | +0.00  | +0.00  | 1,521,694
+L75: cite3†PFE Pfizer Inc.  | 28.32  | -0.08  | -0.28  | 1,951,778
+L76: cite4†VZ Verizon Communications Inc.  | 43.00  | +0.22  | +0.51  | 2,051,844
+L77: cite5†VIX CBOE Volatility Index  | 15.20  | -0.01  | -0.07  |
+L78: 
+L79: 
+L80: 
+L81: ##### Watchlists
+L82: 
+L83: ###### cite6†Log In L84: To create and display watchlists.
+L85: ##### Markets
+L86: Ticker  | Last  | Chg  | %Chg  | Volume
+L87: --- | --- | --- | --- | ---
+L88: cite7†DJIA Dow Jones Industrial Average  | 52,018.03  | +167.48  | +0.32  | 55,630,758
+L89: cite8†DJTA Dow Jones Transportation Average  | 19,775.05  | +15.97  | +0.08  | 3,404,357
+L90: cite9†SPX S&P 500 Index  | 7,810.71  | +3.47  | +0.04  |
+L91: cite10†OEX S&P 100 Index  | 3,897.37  | +3.65  | +0.09  |
+L92: cite11†NDX NASDAQ 100 Index  | 30,559.81  | -104.89  | -0.34  |
+L93: cite12†NYA NYSE Composite Index  | 24,021.42  | +30.69  | +0.13  |
+L94: cite13†XAX NYSE AMEX Composite Index  | 8,285.74  | +90.71  | +1.11  |
+L95: cite14†RUI RUSSELL 1000 Index  | 4,246.28  | +3.01  | +0.07  |
+L96: cite15†RUT Russell 2000 Index  | 2,797.59  | +3.11  | +0.11  |
+L97: cite16†RUA Russell 3000 Index  | 4,417.97  | +3.20  | +0.07  |
+L98: cite5†VIX CBOE Volatility Index  | 15.20  | -0.01  | -0.07  |
+L99: cite17†VIX1Y CBOE S&P 500 One-Year Volatility Index  | 21.64  | -0.03  | -0.14  |
+L100: cite18†VIX6M CBOE S&P 500 6-Month Volatility Index  | 19.87  | -0.08  | -0.40  |
+L101: cite19†VIX3M CBOE S&P 500 3-Month Volatility Index  | 17.89  | -0.04  | -0.22  |
+L102: ##### Recent
+L103: 
+L104: Ticker  | Last  | Chg  | %Chg  | Volume
+L105: --- | --- | --- | --- | ---
+L106: cite5†VIX CBOE Volatility Index  | 15.20  | -0.01  | -0.07  |
+L107: 
+L108: cite20†About | cite21†Contact L109: 
+L110: © 2026 Tallac Options. All Rights Reserved.
+

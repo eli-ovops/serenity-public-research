@@ -1,0 +1,177 @@
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1109138/000117891326004769/zk2636226.htm)
+citeturn482view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1109138/000117891326004769/zk2636226.htm","lineno":null}); Total lines: 417
+L0: 6-K 1 zk2636226.htm 6-K
+L1: 
+L2: 
+L3: 
+L4: 
+L5: 
+L6: UNITED STATES
+L7: SECURITIES AND EXCHANGE COMMISSION
+L8: Washington, D.C. 20549
+L9: 
+L10: 
+L11: 
+L12: FORM 6-K
+L13: 
+L14: 
+L15: 
+L16: Report of Foreign Private Issuer
+L17: Pursuant to Rule 13a-16 or 15d-16
+L18: under the Securities Exchange Act of 1934
+L19: 
+L20: 
+L21: 
+L22: For the Month of October 2026
+L23: 
+L24: 
+L25: 
+L26: CAMTEK LTD.
+L27: (Translation of Registrant’s Name into English)
+L28: 
+L29: 
+L30: 
+L31: Ramat Gavriel Industrial Zone
+L32: P.O. Box 544
+L33: Migdal Haemek 23150
+L34: ISRAEL
+L35: (Address of Principal Corporate Offices)
+L36: Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.
+L37: 
+L38: 
+L39: 
+L40: Form 20-F ☒     Form 40-F ☐
+L41: 
+L42: 
+L43: 
+L44: Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities and Exchange Act of 1934.
+L45: 
+L46: 
+L47: 
+L48: Yes ☐     No ☒
+L49: 
+L50: 
+L51: 
+L52: 
+L53: 
+L54: SIGNATURE
+L55: Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. This Form 6-K, including all exhibits hereto, is hereby incorporated by reference into all effective registration statements filed by the registrant under the Securities Act of 1933.
+L56: 
+L57: 
+L58: 
+L59:  |    | CAMTEK LTD.
+L60: (Registrant)
+L61: By: /s/ Moshe Eisenberg
+L62: ——————————————
+L63: Moshe Eisenberg,
+L64: Chief Financial Officer
+L65: Dated: October 14, 2026
+L66: 
+L67: 
+L68: 
+L69: 
+L70: 
+L71: 
+L72: 
+L73: cite0†Image L74: Camtek at a glance High - end inspection and metrology systems provider for the semiconductor manufacturing market Camtek is a key enabler of AI - driven semiconductor innovation ~ % Revenue CAGR, 2019 – 2025 >$ M Cash, Deposits and Cash Equivalent ~ $ M 2026 E revenues + Employees > Customers, incl. all top 20 semi manufacturers with 4000 installed base WELCOME TO CAMTEK'S ANALYST & INVESTOR PRESENTATION – OCTOBER 14 , 2026 Copyright of Camtek Ltd 2026 .
+L75: All rights reserved 1 1 Copyright of Camtek Ltd 2026 . All rights reserved
+L76: 
+L77: 
+L78: 
+L79: 
+L80: cite1†Image L81: Disclaimer 2 Copyright of Camtek Ltd 2026 . All rights reserved Confidentiality This presentation is confidential and may not be reproduced or distributed to others at any time without our prior written consent. Forward - Looking Statements This presentation contains forward - looking statements within the meaning of the federal securities laws.
+L82: You can identify these statements by our use of the words “ anticipates, ” “ assumes, ” “ believes, ” “ estimates, ” “ expects, ” “ goals, ” “ guidance, ” “ intends, ” “ plans, ” “ projects, ” “ targets, ” "can," "could," "may," "should," "will," "would," and similar expressions that do not relate to historical matters. All statements other than statements of historical fact are forward - looking statements, including statements regarding our financial model and the goals/targets reflected therein.
+L83: You should exercise caution in interpreting and relying on forward - looking statements because they involve known and unknown risks, uncertainties, and other factors which are, in some cases, beyond Camtek ’ s control and could materially affect actual results, performance, or achievements which could differ materially from those set forth in the forward - looking statements and may be affected by a variety of risks.
+L84: Factors that may cause our actual results to differ materially from those contained in the forward - looking statements include, but are not limited to our ability to achieve the goals/targets reflected in our financial model, which are based on assumptions that may prove incorrect; the continued demand for HPC, HBM and Chiplet devices resulting from, among other things, the field of AI surging worldwide across companies, industries and nations; our dependency upon the semiconductor industry and the risk that unfavorable economic conditions or low capital expenditures may negatively impact our operating results; formal or informal imposition by countries of new or revised export and/or import and doing - business regulations or sanctions, including but not limited to changes in U.S.
+L85: trade policies, changes or uncertainty related to the U.S.
+L86: government entity list and changes in the ability to sell products incorporating U.S originated technology, which can be made without prior notice, and our ability to effectively address such global trade issues and changes; the risks relating to the concentration of a significant portion of our business in certain countries in the Asia Pacific Region, particularly China, Taiwan and Korea, some of which might be subject to the trade restrictions referred to above or involved in trade wars with countries which might impose such trade restrictions; the effects of the evolving regional conflicts in the Middle East; changing industry and market trends; our ability to identify, complete and successfully integrate acquisitions, as well as the risks of unanticipated costs, liabilities or disruptions to our business arising from such acquisitions; and those other factors discussed in our Annual Report on Form 20 - F as published on March 19 , 2026 , as well as other documents that may be subsequently filed by Camtek from time to time with the Securities and Exchange Commission.
+L87: We caution you not to place undue reliance on forward - looking statements, which speak only as of the date hereof. Camtek does not assume any obligation to update any forward - looking statements in order to reflect events or circumstances that may arise after the date of this presentation unless required by law.
+L88: Financial Model The financial model included in this presentation does not constitute projections; it reflects goals/targets that are forward - looking, subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond the control of Camtek and its management, and are based upon assumptions with respect to future decisions, which are subject to change. The financial model should not be viewed as a guarantee of future performance or as guidance.
+L89: Actual results will vary and those variations may be material. Nothing in this presentation should be regarded as a representation by any person that these goals/targets will be achieved, and Camtek undertakes no duty to update its goals/targets. Use of Non - GAAP Financial Measures This presentation contains various non - GAAP financial measures, including Operating Margin and Gross Margin .
+L90: These non - GAAP financial measures should be considered supplemental to, but not as a substitute for or superior to, financial measures prepared in accordance with United States GAAP . Our non - GAAP measures include adjustments that reflect how management views our businesses and may differ from similarly titled non - GAAP measures presented by other companies . Reconciliations of each non - GAAP measure to the closest comparable GAAP measure are available in the Appendix of this presentation .
+L91: Statistical Data This presentation contains statistical and other industry and market data that we obtained from industry publications and reports generated by third parties. All of the market data used in this presentation involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. Although we believe that the publications and reports are reliable, we have not independently verified this statistical data.
+L92: Some data are also based on Camtek ’ s good faith estimates, which are derived from its review of internal sources as well as the third party sources described above.
+L93: 
+L94: 
+L95: 
+L96: 
+L97: cite2†Image L98: 
+L99: Copyright of Camtek Ltd 2026 . All rights reserved 3 Executive Chairman Chief Executive Officer Chief Financial Officer President and COO Marketing Director Grand Hyatt San Francisco, Union Square | October 14 , 2026 Today ’ s Presenters
+L100: 
+L101: 
+L102: 
+L103: 
+L104: 
+L105: cite3†Image L106: Copyright of Camtek Ltd 2026 . All rights reserved 4 Breaking News – Record Revenue Levels Q 3 preannouncement, Q 4 guidance and a first look at 2027 01 Q 3 2026 Preannouncing Q 3 revenues + 27 % YoY 02 Q 4 2026 Q 4 guidance + 40 % YoY Bringing FY 2026 to ~$ 595 M 03 FY 2027 2027 initial revenue outlook > + 35 % over FY 2026 E Copyright of Camtek Ltd 2026 . All rights reserved 4
+L107: 
+L108: 
+L109: 
+L110: 
+L111: 
+L112: cite4†Image L113: Copyright of Camtek Ltd 2026 . All rights reserved 5 Semiconductors Market Forecast The Momentum Continues Source: TechInsights 2026 forecast $ 1.7 T $ 2.3 T $ 3 T $ 1,5 T $ 1,0 T $ 0,65 T $ 0,5 T $ 0,0 T $ 2,0 T $ 2,5 T $ 3,0 T $ 3,5 T 2024 2026 F 2028 F 2030 F
+L114: 
+L115: 
+L116: 
+L117: 
+L118: 
+L119: cite5†Image L120: 2026 E 2027 E Target in ~ 3 years Our Path to Double Our Revenues Organic growth targets $ 1.2 B in annual revenue in ~ 3 years GROWTH ENGINES AI data centers & accelerated computing Compute for AI training and inference Camtek ’ s primary market Physical & edge AI Robotics, autonomous vehicles, drones, smart vision, industrial automation, and AI - powered wearables. Copyright of Camtek Ltd 2026 . All rights reserved 6 6 Copyright of Camtek Ltd 2026 . All rights reserved
+L121: 
+L122: 
+L123: 
+L124: 
+L125: 
+L126: cite6†Image L127: Advanced Packaging: Our Main Market More Volume, More Complexity Advanced packaging is scaling 01 HBM • More capacity • More memory layers • Higher complexity 02 2.5 D / 3 D Integration • 2.5 D continues to expand • More devices & interfaces • Increasing architectural complexity CoWoS, Foveros and other advanced interposers 03 Photonics • Critical to Al infrastructure • Moving into 2.5 D integration Copyright of Camtek Ltd 2026 . All rights reserved 7 Copyright of Camtek Ltd 2026 .
+L128: All rights reserved 7 7 Copyright of Camtek Ltd 2026 . All rights reserved
+L129: 
+L130: 
+L131: 
+L132: 
+L133: cite7†Image L134: Why Camtek Is Built to Win We Are Positioned at the Heart of the AI Advanced Packaging Transition • Leading capabilities in 2 D Inspection, 3 D bump Metrology and Metrology • Strong position in the most demanding Advanced Packaging applications • Breakthrough innovations in optics and AI - based defect detection & metrology • • Strong relationships with the world ’ s leading Foundries, IDMs, OSATs and Memory manufacturers Early involvement in customers ’ next - generation process development • Close alignment of our roadmap with customers ’ future technology requirements • A large global installed base creating opportunities for: Upgrades, New Applications Software, Additional Capacity • • Manufacturing capacity and supply - chain infrastructure are being expanded to support the next level of growth The foundation for growth is already in place.
+L135: Winning is in our DNA. We ’ ve proven it before, and we ’ re ready to do it again. Winning is in our DNA. We ’ ve proven it before, and we ’ re ready to do it again. Copyright of Camtek Ltd 2026 . All rights reserved 7 Copyright of Camtek Ltd 2026 . All rights reserved 7 8 Copyright of Camtek Ltd 2026 . All rights reserved
+L136: 
+L137: 
+L138: 
+L139: 
+L140: cite8†Image L141: 
+L142: Copyright of Camtek Ltd 2026 . All rights reserved 9 Camtek Organic Growth Strategy
+L143: 
+L144: 
+L145: 
+L146: 
+L147: 
+L148: cite9†Image L149: Copyright of Camtek Ltd 2026 . All rights reserved 10 Copyright of Camtek Ltd 2026 . All rights reserved 10 Advanced Packaging is an Enabler for AI Copyright of Camtek Ltd 2026 .
+L150: All rights reserved 10 Compute Best - in - class computation Memory Very high memory capacity Power High power dissipation Bandwidth High data transfer AI demands drive new packaging technologies, and with them more complexity WHAT AI DEMANDS HOW PACKAGING RESPONDS 2.5 D Platforms Finer pitch Hybrid bonding Photonics High - end advanced packaging Technologies AI data centers require GPU's, CPUs & Memory on one interposer Foveros + EMIB, CoWoS and variants Over 100 M smaller bumps per wafer Bumpless interconnect Faster data transfer, lower power Edge and physical AI Robots, vehicles, PCs, phones and wearables DRAM / HBM HBF / HBC Fan - out + 2.5 D Smaller - stack DRAM and HBM New high - bandwidth memory Fan - out and 2.5 D variations Data - center building blocks, scaled for the edge
+L151: 
+L152: 
+L153: 
+L154: 
+L155: cite10†Image L156: 
+L157: Copyright of Camtek Ltd 2026 . All rights reserved 11 Advanced Packaging grows twice as fast 0 50 100 150 2025 2026 F 2027 F 2028 F 2029 F 2030 F 2031 F Million 300 mm - equivalent wafers processed, 2025 – 2031 F Advanced packaging wafers + 13 % CAGR Total production wafers + 7 % CAGR 200 AP is our main business Source: Techinsights 2026
+L158: 
+L159: 
+L160: 
+L161: 
+L162: 
+L163: cite11†Image L164: Copyright of Camtek Ltd 2026 . All rights reserved 12 High - end AP grows twice as fast as the AP market 0 35 70 105 2025 2026 F 2027 F 2028 F 2029 F 2030 F 2031 F Advanced packaging wafer volume, million 300 mm - equivalent wafers processed, 2025 – 2031 F High - end AP ( 2.5 D, 3 D, etc) + 24 % CAGR Fan - in WLP + flip chip | Total AP + 13 % C 140 AGR source: Techinsights 2026 60 % - 70 % of Camtek Business is in High - End AP
+L165: 
+L166: 
+L167: 
+L168: 
+L169: 
+L170: cite12†Image L171: Copyright of Camtek Ltd 2026 . All rights reserved 13 Copyright of Camtek Ltd 2026 . All rights reserved 13 Edge AI Will Demand We are only at the beginning of the revolution 13 WHAT INDUSTRY LEADERS SAY UNITS PER YEAR TODAY AI data - center GPU Modules 10 M BY 2030 GPU Modules Humanoid robots & autonomous cars 10 s of M GPU/NPU Modules for AI PCs 100 s of M GenAI smartphones 1 B Every edge device will become autonomous. Every edge device will have agentic systems.
+L172: Jensen Huang , CEO, NVIDIA Memory content in Level 4 and higher autonomous vehicles … each more than an order of magnitude greater than in today ’ s … vehicles. Humanoid robots are expected to have comparable memory and storage requirements to autonomous vehicles. Sanjay Mehrotra , Chairman and CEO, Micron The AI race will be won at the edge, where devices, data, and users converge. Cristiano Amon , CEO, Qualcomm Edge AI silicon volume: Copyright of Camtek Ltd 2026 . All rights reserved
+L173: 
+L174: 
+L175: 
+L176: 
+L177: cite13†Image L178: 
+L179: Copyright of Camtek Ltd 2026 . All rights reserved 14 Silicon Photonics Forecast – new AI growth engine Si PIC die shipments, million units, 2023 – 2030 F 3.6 M 23 M 0 30 60 90 2023 2024 2025 2026 F 2027 F 2028 F 2029 F 2030 F 2023 – 2030 Silicon photonics shipments grow by 2030 Source: Yole 2025 83.9 M
+L180: 
+L181: 
+L182: 
+L183: 
+L184: 
+L185: cite14†Image --------------------------------------------------------------------------------
+Press Releases | Tesla Investor Relations (https://ir.tesla.com/press)
+citeturn482view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://ir.tesla.com/press","lineno":null}); Total lines: 53
+

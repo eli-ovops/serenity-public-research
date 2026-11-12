@@ -1,0 +1,133 @@
+Scope: 2026-10-13 user-requested macro coverage change; official date verification only, not full macro decision analysis.
+Schedule of Selected Releases for October 2026 (https://www.bls.gov/schedule/2026/10_sched.htm)
+citeturn398view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn397view0","pattern":"Consumer Price"}); Total lines: 299
+L33:     * cite32†Inflation & Prices L34:     * cite33†Consumer Price Index L35:     * cite34†Producer Price Indexes L36:     * cite35†Import/Export Price Indexes L37:     * cite36†Contract Escalation L38:     * cite37†Price Index Research L39:     * cite38†Pay & Benefits L40:     * cite39†Employment Cost Index L41:     * cite40†Employer Costs for Employee Compensation L42:     * cite41†Wage Data by Occupation L43:     * cite42†Earnings by Demographics L44:     * cite43†Earnings by Industry L45:     * cite44†County Wages L46:     * cite45†Benefits L47:     * cite46†Modeled Wage Estimates L166:   * cite127†Release Calendar L167:   * By News Release
+L168:     * cite146†Consumer Price Index L169:     * cite147†Employment Cost Index L170:     * cite148†Employment Situation L171:     * cite149†Job Openings and Labor Turnover L172:     * cite150†Producer Price Index L173:     * cite151†Productivity and Costs L174:     * cite152†Real Earnings L175:     * cite153†U.S. Export and Import Price Indexes L176:     * cite154†Metropolitan Area Employment and Unemployment L177:     * cite155†State Employment and Unemployment L178:   * cite131†Prior Years L179: 
+L180: [Button: Close]
+L181: 
+L182:   * cite127†BY MONTH L183:   * cite156†FEBRUARY 2026 L184:   * cite157†MARCH 2026 L185:   * cite158†APRIL 2026 L186:   * cite159†MAY 2026 L187:   * cite160†JUNE 2026 L188:   * cite161†JULY 2026 L189:   * cite162†AUGUST 2026 L190:   * cite163†SEPTEMBER 2026 L191:   * cite164†OCTOBER 2026 L192:   * cite165†NOVEMBER 2026 L193:   * cite166†DECEMBER 2026 L194:   * cite167†JANUARY 2027 L195:   * cite168†FEBRUARY 2027 L196:   * cite169†MARCH 2027 L197:   * cite170†APRIL 2027 L198:   * cite171†MAY 2027 L199:   * cite172†JUNE 2027 L200:   * cite173†JULY 2027 L201:   * cite174†AUGUST 2027 L202:   * cite175†SEPTEMBER 2027 L203:   * cite176†OCTOBER 2027 L204:   * cite177†NOVEMBER 2027 L205:   * cite178†DECEMBER 2027 L209:   * BY NEWS RELEASE
+L210:   * cite181†BUSINESS EMPLOYMENT DYNAMICS L211:   * cite146†CONSUMER PRICE INDEX L212:   * cite182†COUNTY EMPLOYMENT AND WAGES L213:   * cite147†EMPLOYMENT COST INDEX L214:   * cite148†EMPLOYMENT SITUATION L215:   * cite149†JOB OPENINGS AND LABOR TURNOVER L216:   * cite150†PRODUCER PRICE INDEX L217:   * cite151†PRODUCTIVITY AND COSTS L218:   * cite152†REAL EARNINGS L219:   * cite153†U.S. EXPORT AND IMPORT PRICE INDEXES L220:   * cite154†METROPOLITAN AREA EMPLOYMENT AND UNEMPLOYMENT L221:   * cite155†STATE EMPLOYMENT AND UNEMPLOYMENT L222:  |
+L223: # October 2026
+L224: Month View | cite183†List View L225: Monday Tuesday Wednesday Thursday Friday
+L226: 28  29 Job Openings and Labor Turnover Survey
+L227: August 2026
+L228: 10:00 AM 30 Metropolitan Area Employment and Unemployment (Monthly)
+L229: August 2026
+L230: 10:00 AM 1  2 Employment Situation
+L231: September 2026
+L232: 08:30 AM
+L233: 5  6  7  8  9
+L234: 12 Columbus Day
+L235: Holiday
+L236: 13  14 Consumer Price Index
+L237: September 2026
+L238: 08:30 AM Real Earnings
+L239: September 2026
+L240: 08:30 AM 15 Producer Price Index
+L241: September 2026
+L242: 08:30 AM 16 U.S. Import and Export Price Indexes
+L243: September 2026
+L244: 08:30 AM
+L245: 19  20 State Employment and Unemployment (Monthly)
+L246: September 2026
+L247: 10:00 AM 21 Usual Weekly Earnings of Wage and Salary Workers
+L248: Third Quarter 2026
+L249: 10:00 AM 22  23
+L250: 26  27  28 Metropolitan Area Employment and Unemployment (Monthly)
+L251: September 2026
+L252: 10:00 AM Quarterly Data Series on Business Employment Dynamics
+L253: First Quarter 2026
+L254: 10:00 AM 29 Consumer Expenditures
+L255: Annual 2025
+L256: 10:00 AM 30 Employment Cost Index
+L257: Third Quarter 2026
+L258: 08:30 AM
+--------------------------------------------------------------------------------
+Schedule of Selected Releases for October 2026 (https://www.bls.gov/schedule/2026/10_sched.htm)
+citeturn398view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn397view0","pattern":"Producer Price"}); Total lines: 299
+L33:     * cite32†Inflation & Prices L34:     * cite33†Consumer Price Index L35:     * cite34†Producer Price Indexes L36:     * cite35†Import/Export Price Indexes L37:     * cite36†Contract Escalation L38:     * cite37†Price Index Research L39:     * cite38†Pay & Benefits L40:     * cite39†Employment Cost Index L41:     * cite40†Employer Costs for Employee Compensation L42:     * cite41†Wage Data by Occupation L43:     * cite42†Earnings by Demographics L44:     * cite43†Earnings by Industry L45:     * cite44†County Wages L46:     * cite45†Benefits L47:     * cite46†Modeled Wage Estimates L166:   * cite127†Release Calendar L167:   * By News Release
+L168:     * cite146†Consumer Price Index L169:     * cite147†Employment Cost Index L170:     * cite148†Employment Situation L171:     * cite149†Job Openings and Labor Turnover L172:     * cite150†Producer Price Index L173:     * cite151†Productivity and Costs L174:     * cite152†Real Earnings L175:     * cite153†U.S. Export and Import Price Indexes L176:     * cite154†Metropolitan Area Employment and Unemployment L177:     * cite155†State Employment and Unemployment L178:   * cite131†Prior Years L179: 
+L180: [Button: Close]
+L181: 
+L182:   * cite127†BY MONTH L183:   * cite156†FEBRUARY 2026 L184:   * cite157†MARCH 2026 L185:   * cite158†APRIL 2026 L186:   * cite159†MAY 2026 L187:   * cite160†JUNE 2026 L188:   * cite161†JULY 2026 L189:   * cite162†AUGUST 2026 L190:   * cite163†SEPTEMBER 2026 L191:   * cite164†OCTOBER 2026 L192:   * cite165†NOVEMBER 2026 L193:   * cite166†DECEMBER 2026 L194:   * cite167†JANUARY 2027 L195:   * cite168†FEBRUARY 2027 L196:   * cite169†MARCH 2027 L197:   * cite170†APRIL 2027 L198:   * cite171†MAY 2027 L199:   * cite172†JUNE 2027 L200:   * cite173†JULY 2027 L201:   * cite174†AUGUST 2027 L202:   * cite175†SEPTEMBER 2027 L203:   * cite176†OCTOBER 2027 L204:   * cite177†NOVEMBER 2027 L205:   * cite178†DECEMBER 2027 L209:   * BY NEWS RELEASE
+L210:   * cite181†BUSINESS EMPLOYMENT DYNAMICS L211:   * cite146†CONSUMER PRICE INDEX L212:   * cite182†COUNTY EMPLOYMENT AND WAGES L213:   * cite147†EMPLOYMENT COST INDEX L214:   * cite148†EMPLOYMENT SITUATION L215:   * cite149†JOB OPENINGS AND LABOR TURNOVER L216:   * cite150†PRODUCER PRICE INDEX L217:   * cite151†PRODUCTIVITY AND COSTS L218:   * cite152†REAL EARNINGS L219:   * cite153†U.S. EXPORT AND IMPORT PRICE INDEXES L220:   * cite154†METROPOLITAN AREA EMPLOYMENT AND UNEMPLOYMENT L221:   * cite155†STATE EMPLOYMENT AND UNEMPLOYMENT L222:  |
+L223: # October 2026
+L224: Month View | cite183†List View L225: Monday Tuesday Wednesday Thursday Friday
+L226: 28  29 Job Openings and Labor Turnover Survey
+L227: August 2026
+L228: 10:00 AM 30 Metropolitan Area Employment and Unemployment (Monthly)
+L229: August 2026
+L230: 10:00 AM 1  2 Employment Situation
+L231: September 2026
+L232: 08:30 AM
+L233: 5  6  7  8  9
+L234: 12 Columbus Day
+L235: Holiday
+L236: 13  14 Consumer Price Index
+L237: September 2026
+L238: 08:30 AM Real Earnings
+L239: September 2026
+L240: 08:30 AM 15 Producer Price Index
+L241: September 2026
+L242: 08:30 AM 16 U.S. Import and Export Price Indexes
+L243: September 2026
+L244: 08:30 AM
+L245: 19  20 State Employment and Unemployment (Monthly)
+L246: September 2026
+L247: 10:00 AM 21 Usual Weekly Earnings of Wage and Salary Workers
+L248: Third Quarter 2026
+L249: 10:00 AM 22  23
+L250: 26  27  28 Metropolitan Area Employment and Unemployment (Monthly)
+L251: September 2026
+L252: 10:00 AM Quarterly Data Series on Business Employment Dynamics
+L253: First Quarter 2026
+L254: 10:00 AM 29 Consumer Expenditures
+L255: Annual 2025
+L256: 10:00 AM 30 Employment Cost Index
+L257: Third Quarter 2026
+L258: 08:30 AM
+--------------------------------------------------------------------------------
+Schedule of Selected Releases for October 2026 (https://www.bls.gov/schedule/2026/10_sched.htm)
+citeturn398view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn397view0","pattern":"Employment Situation"}); Total lines: 299
+L166:   * cite127†Release Calendar L167:   * By News Release
+L168:     * cite146†Consumer Price Index L169:     * cite147†Employment Cost Index L170:     * cite148†Employment Situation L171:     * cite149†Job Openings and Labor Turnover L172:     * cite150†Producer Price Index L173:     * cite151†Productivity and Costs L174:     * cite152†Real Earnings L175:     * cite153†U.S. Export and Import Price Indexes L176:     * cite154†Metropolitan Area Employment and Unemployment L177:     * cite155†State Employment and Unemployment L178:   * cite131†Prior Years L179: 
+L180: [Button: Close]
+L181: 
+L182:   * cite127†BY MONTH L183:   * cite156†FEBRUARY 2026 L184:   * cite157†MARCH 2026 L185:   * cite158†APRIL 2026 L186:   * cite159†MAY 2026 L187:   * cite160†JUNE 2026 L188:   * cite161†JULY 2026 L189:   * cite162†AUGUST 2026 L190:   * cite163†SEPTEMBER 2026 L191:   * cite164†OCTOBER 2026 L192:   * cite165†NOVEMBER 2026 L193:   * cite166†DECEMBER 2026 L194:   * cite167†JANUARY 2027 L195:   * cite168†FEBRUARY 2027 L196:   * cite169†MARCH 2027 L197:   * cite170†APRIL 2027 L198:   * cite171†MAY 2027 L199:   * cite172†JUNE 2027 L200:   * cite173†JULY 2027 L209:   * BY NEWS RELEASE
+L210:   * cite181†BUSINESS EMPLOYMENT DYNAMICS L211:   * cite146†CONSUMER PRICE INDEX L212:   * cite182†COUNTY EMPLOYMENT AND WAGES L213:   * cite147†EMPLOYMENT COST INDEX L214:   * cite148†EMPLOYMENT SITUATION L215:   * cite149†JOB OPENINGS AND LABOR TURNOVER L216:   * cite150†PRODUCER PRICE INDEX L217:   * cite151†PRODUCTIVITY AND COSTS L218:   * cite152†REAL EARNINGS L219:   * cite153†U.S. EXPORT AND IMPORT PRICE INDEXES L220:   * cite154†METROPOLITAN AREA EMPLOYMENT AND UNEMPLOYMENT L221:   * cite155†STATE EMPLOYMENT AND UNEMPLOYMENT L222:  |
+L223: # October 2026
+L224: Month View | cite183†List View L225: Monday Tuesday Wednesday Thursday Friday
+L226: 28  29 Job Openings and Labor Turnover Survey
+L227: August 2026
+L228: 10:00 AM 30 Metropolitan Area Employment and Unemployment (Monthly)
+L229: August 2026
+L230: 10:00 AM 1  2 Employment Situation
+L231: September 2026
+L232: 08:30 AM
+L233: 5  6  7  8  9
+L234: 12 Columbus Day
+L235: Holiday
+L236: 13  14 Consumer Price Index
+L237: September 2026
+L238: 08:30 AM Real Earnings
+L239: September 2026
+L240: 08:30 AM 15 Producer Price Index
+L241: September 2026
+L242: 08:30 AM 16 U.S. Import and Export Price Indexes
+L243: September 2026
+L244: 08:30 AM
+L245: 19  20 State Employment and Unemployment (Monthly)
+L246: September 2026
+L247: 10:00 AM 21 Usual Weekly Earnings of Wage and Salary Workers
+L248: Third Quarter 2026
+L249: 10:00 AM 22  23
+L250: 26  27  28 Metropolitan Area Employment and Unemployment (Monthly)
+L251: September 2026
+L252: 10:00 AM Quarterly Data Series on Business Employment Dynamics
+L253: First Quarter 2026
+L254: 10:00 AM 29 Consumer Expenditures
+L255: Annual 2025
+L256: 10:00 AM 30 Employment Cost Index
+L257: Third Quarter 2026
+L258: 08:30 AM
+

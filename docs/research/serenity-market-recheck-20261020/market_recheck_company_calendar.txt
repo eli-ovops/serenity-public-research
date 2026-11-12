@@ -1,0 +1,91 @@
+Innodata - Innodata to Report Third Quarter 2026 Results (https://investor.innodata.com/news/news-details/2026/Innodata-to-Report-Third-Quarter-2026-Results/default.aspx)
+citeturn494view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.innodata.com/news/news-details/2026/Innodata-to-Report-Third-Quarter-2026-Results/default.aspx","lineno":null}); Total lines: 110
+--------------------------------------------------------------------------------
+nVent Electric plc - nVent and AMD Collaborate on Cooling for AMD Helios Rackscale Solution (https://investors.nvent.com/press-releases/press-release-details/2026/nVent-and-AMD-Collaborate-on-Cooling-for-AMD-Helios-Rackscale-Solution/default.aspx)
+citeturn494view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.nvent.com/press-releases/press-release-details/2026/nVent-and-AMD-Collaborate-on-Cooling-for-AMD-Helios-Rackscale-Solution/default.aspx","lineno":null}); Total lines: 365
+--------------------------------------------------------------------------------
+Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call | Celestica Inc. (https://celestica.gcs-web.com/news-releases/news-release-details/celestica-hold-q3-2026-financial-results-and-2026-investor-and)
+citeturn494view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn492search5","lineno":null}); Total lines: 161
+L78: ##
+L79: 
+L80: Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call
+L81: 
+L82: Oct 06, 26 at 4:15 PM EDT
+L83: 
+L84: cite53†PDF Version L85: 
+L86: TORONTO, Oct. 06, 2026 (GLOBE NEWSWIRE) -- Celestica Inc. (NYSE: CLS)(TSX: CLS) will hold its third quarter 2026 financial results and 2026 Investor and Analyst Day conference call on Tuesday, October 27, 2026. The conference call start time is 8:00am ET.
+L87: 
+L88: Financial results will be released after market close on Monday, October 26, 2026.
+L89: During the conference call, Celestica’s management will provide an update on its business operations, strategic priorities, growth opportunities and its financial outlook.
+L90: 
+L91: Participants are invited to join the live webcast at the following cite54†link†events.q4inc.com .
+L92: 
+L93: For those unable to participate, a recorded webcast will be available approximately two hours after completion of the call. To access the recorded webcast visit cite55†www.celestica.com†www.celestica.com .
+L94: Reminder: 2026 Investor and Analyst Day Lunch Forum
+L95: 
+L96: As previously announced, following the morning conference call, Celestica will host its 2026 Investor and Analyst Day Lunch Forum. This is an in-person event held in Midtown Manhattan, New York City. During the session, Chair of the Board and CEO Rob Mionis and members of Celestica’s executive leadership team will be available to answer questions.
+--------------------------------------------------------------------------------
+Daily Treasury Rates | U.S. Department of the Treasury (https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve)
+citeturn494view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn488view1","pattern":"10/19/2026"}); Total lines: 837
+L601: 02/19/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 3.72  | 3.74  | 3.75  | 3.69  | 3.70  | 3.60  | 3.50  | 3.47  | 3.50  | 3.65  | 3.85  | 4.08  | 4.64  | 4.70
+L602: 02/20/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 3.72  | 3.73  | 3.74  | 3.69  | 3.71  | 3.61  | 3.51  | 3.48  | 3.50  | 3.65  | 3.85  | 4.08  | 4.66  | 4.72
+L621: 03/19/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 3.73  | 3.71  | 3.72  | 3.73  | 3.71  | 3.76  | 3.73  | 3.79  | 3.79  | 3.88  | 4.06  | 4.25  | 4.82  | 4.83
+L622: 03/20/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 3.73  | 3.71  | 3.72  | 3.74  | 3.73  | 3.79  | 3.80  | 3.88  | 3.90  | 4.01  | 4.20  | 4.39  | 4.97  | 4.96
+L663: 05/18/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 3.69  | 3.68  | 3.68  | 3.68  | 3.76  | 3.77  | 3.81  | 4.07  | 4.14  | 4.27  | 4.43  | 4.61  | 5.14  | 5.14
+L664: 05/19/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 3.66  | 3.66  | 3.66  | 3.67  | 3.75  | 3.77  | 3.83  | 4.13  | 4.20  | 4.32  | 4.50  | 4.67  | 5.19  | 5.18
+L727: 08/19/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 3.77  | 3.77  | 3.81  | 3.86  | 3.88  | 3.94  | 4.00  | 4.19  | 4.25  | 4.35  | 4.48  | 4.65  | 5.17  | 5.19
+L728: 08/20/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 3.80  | 3.77  | 3.79  | 3.87  | 3.88  | 3.94  | 3.99  | 4.19  | 4.26  | 4.39  | 4.53  | 4.69  | 5.20  | 5.23
+L765: 10/14/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 4.11  | 4.15  | 4.15  | 4.28  | 4.36  | 4.37  | 4.53  | 4.82  | 4.92  | 5.00  | 5.09  | 5.19  | 5.57  | 5.52
+L766: 10/15/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 4.17  | 4.15  | 4.19  | 4.28  | 4.35  | 4.35  | 4.49  | 4.77  | 4.85  | 4.91  | 5.00  | 5.10  | 5.48  | 5.43
+L767: 10/16/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 4.12  | 4.14  | 4.17  | 4.26  | 4.32  | 4.34  | 4.46  | 4.74  | 4.82  | 4.89  | 4.98  | 5.09  | 5.47  | 5.43
+L768: 10/19/2026  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 4.11  | 4.14  | 4.17  | 4.27  | 4.34  | 4.37  | 4.50  | 4.77  | 4.85  | 4.94  | 5.04  | 5.15  | 5.53  | 5.48
+L769: * * *
+L770: 
+L771: Monday Oct 19, 2026
+L772: 
+L773: Monday Oct 19, 2026
+L774: *Series Break - Treasury updated its methodology for deriving yield curves. On 12/6/2021, Treasury began using a monotone convex spline (MC) method for deriving its official par yield curves and discontinued the use of the quasi-cubic Hermite spline (HS) methodology. All Treasury yield curve rates derived from yield curves that used the HS methodology - prior to implementation of the MC method - remain official. See the cite237†Yield Curve Methodology Change Information Sheet for more details.
+L775: ** The 1.5-month constant maturity series began on February 18, 2025, with the first auction of a 6-week Treasury bill as a benchmark Treasury security. Prior to this date, Treasury had issued Treasury bills with 6-week maturities as cash management bills.
+L776: ** The 4-month constant maturity series began on October 19, 2022, with the first auction of a 17-week Treasury bill as a benchmark Treasury security. Prior to this date, Treasury had issued Treasury bills with 17-week maturities as cash management bills.
+L777: 
+L778: The 2-month constant maturity series began on October 16, 2018, with the first auction of the 8-week Treasury bill.
+L785: At such times, Treasury will not restrict the use of prices that correspond to negative yields as inputs to the monotone convex spline method. However, the derived par yield curve from these input prices for the Treasury nominal Constant Maturity Treasury series (CMTs) will be floored at zero. This decision is consistent with Treasury not accepting negative yields in Treasury nominal security auctions.
+L786: In addition, given that CMTs are used in many statutorily and regulatory determined loan and credit programs as well as for setting interest rates on non-marketable government securities, establishing a floor of zero more accurately reflects borrowing costs related to various programs.
+L787: 
+L788: For more information regarding these statistics contact the Office of Debt Management by email at [REDACTED_EMAIL]
+L789: 
+L790: For other Public Debt information contact (202) 504-3550
+L791: 
+L792: Monday Oct 19, 2026
+L793: Monday Oct 19, 2026
+L794: Daily Treasury Bill Rates: These rates are the daily secondary market quotations on the most recently auctioned Treasury Bills for each maturity tranche (4-week, 6-week, 8-week, 13-week, 17-week, 26-week, and 52-week) for which Treasury currently issues new bills. Market quotations are obtained at approximately 3:30 PM each business day by the Federal Reserve Bank of New York.
+L795: The Bank Discount rate is the rate at which a bill is quoted in the secondary market and is based on the par value, amount of the discount and a 360-day year. The Coupon Equivalent, also called the Bond Equivalent, or the Investment Yield, is the bill's yield based on the purchase price, discount, and a 365- or 366-day year. The Coupon Equivalent can be used to compare the yield on a discount bill to the yield on a nominal coupon security that pays semiannual interest with the same maturity date.
+L796: For more information regarding these statistics contact the Office of Debt Management by email at [REDACTED_EMAIL]
+L797: 
+L798: For other Public Debt information contact (202) 504-3550.
+L799: 
+L800: Monday Oct 19, 2026
+L801: 
+L802: Monday Oct 19, 2026
+L803: Treasury Long-Term Average Rate and Extrapolation Factors. Beginning February 18, 2002, Treasury ceased publication of the 30-year constant maturity series. Instead, from February 19, 2002 through May 28, 2004, Treasury published a Long-Term Average Rate, "LT>25," (not to be confused with the Long-Term Composite Rate, definitions below).
+L804: In addition, Treasury published daily linear extrapolation factors that could be added to the Long-Term Average Rate to allow interested parties to compute an estimated 30-year rate. On June 1, 2004, Treasury discontinued the "LT>25" average due to a dearth of eligible bonds.
+L805: In place of the "LT>25" average, Treasury published the Treasury 20-year Constant Maturity rate on this page along with an extrapolation factor that was added to the 20-year Constant Maturity to obtain an estimate for a theoretical 30-year rate. On February 9, 2006, Treasury reintroduced the 30-year constant maturity and is no longer publishing the extrapolation factor.
+L806: The Long-Term Average Rate, "LT>25," was the arithmetic average of the bid yields on all outstanding fixed-coupon securities (i.e., excluding Inflation-Indexed securities) with 25 years or more remaining to maturity. This series first appeared on February 19, 2002, following discontinuation of the 30-year Treasury constant maturity series. Subsequently, the "LT>25" average was discontinued on June 1, 2004.
+L807: Linear Extrapolation Factors were determined by considering the slope of the yield curve at it's long end and extrapolating out to a theoretical 30-year point. To use the Extrapolation Factor to determine a 30-year proxy rate, add the factor to the 20-year Constant Maturity Rate. For example, if on a particular day the 20-year Constant Maturity was 5.40% and the Extrapolation Factor was 0.02%, then a 30-year theoretical rate would have been 5.40% + 0.02% = 5.42%.
+L809: The Long-Term Composite Rate is the unweighted average of bid yields on all outstanding fixed-coupon bonds neither due nor callable in less than 10 years.
+L810: 
+L811: For more information regarding these statistics contact the Office of Debt Management by email at [REDACTED_EMAIL]
+L812: 
+L813: Monday Oct 19, 2026
+L814: 
+L815: Monday Oct 19, 2026
+L825: For more information regarding these statistics contact the Office of Debt Management by email at [REDACTED_EMAIL]
+L826: 
+L827: For other Public Debt information contact (202) 504-3550.
+L828: 
+L829: Monday Oct 19, 2026
+L830: 
+L831: Monday Oct 19, 2026
+L832: 
+L833: Long Term Real Rate Average: The Long-Term Real Rate Average is the unweighted average of bid real yields on all outstanding TIPS with remaining maturities of more than 10 years and is intended as a proxy for long-term real rates.
+

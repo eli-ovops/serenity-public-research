@@ -1,0 +1,338 @@
+Federal Reserve Board - Calendar: October 2026 (https://www.federalreserve.gov/newsevents/2026-october.htm)
+citeturn488view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn470view2","lineno":12}); Total lines: 279
+L0: cite0†Skip to main content cite1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system. L1: 
+L2: ## Calendar
+L3: 
+L4: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L5: 
+L6: #### October 2026
+L7: 
+L8: cite2†Previous L9: 
+L10: cite3†Next L11: 
+L12: #### Speeches
+L13: 
+L14: ###### Time:
+L15: ###### Release Date(s):
+L16: 
+L17: 11:30 p.m.
+L18: 
+L19: Discussion - Chairman Kevin Warsh
+L20: 
+L21: cite4†Watch Live†www.youtube.com L22: 
+L23: Conversation between IMF Managing Director Georgieva and Federal Reserve Chairman Warsh
+L24: 
+L25: At the Fireside Chat with International Monetary Fund (IMF) Managing Director Kristalina Georgieva, Bangkok, Thailand
+L26: 
+L27: 15
+L28: 
+L29: 10:55 p.m.
+L30: 
+L31: Speech - Vice Chair for Supervision Michelle W. Bowman
+L32: 
+L33: cite5†Watch Live†www.youtube.com L34: 
+L35: Supervision and Regulation
+L36: 
+L37: At the Bangkok Economic Festival 2026
+L38: 
+L39: 14
+L40: 
+L41: 5:40 a.m.
+L42: Discussion - Vice Chair for Supervision Michelle W. Bowman
+L43: 
+L44: Supervision and Regulation
+L45: 
+L46: At the 2026 IIF Annual Membership Summit, Bangkok, Thailand
+L47: 
+L48: 14
+L49: 
+L50: 3:45 a.m.
+L51: 
+L52: Discussion - Governor Christopher J. Waller
+L53: 
+L54: cite6†Watch Live†www.youtube.com L55: 
+L56: AI
+L57: 
+L58: At the Bloomberg New Economy Forum 2026, New Delhi, India
+L59: 
+L60: 13
+L61: 
+L62: 4:30 a.m.
+L63: 
+L64: Speech - Governor Christopher J. Waller
+L65: 
+L66: cite7†Watch Live†istanbulef.org L67: 
+L68: Economic Outlook
+L69: At the Central Bank of the Republic of Türkiye (TCMB) İstanbul Economic Forum, Ümraniye/İstanbul, Türkiye
+L70: 
+L71: 8
+L72: 
+L73: 10:45 a.m.
+L74: 
+L75: Speech - Vice Chair for Supervision Michelle W. Bowman
+L76: 
+L77: cite8†Watch Live†www.communitybanking.org L78: 
+L79: Modernizing Regulation and Supervision
+L80: 
+L81: At the 2026 Community Banking Research Conference, St. Louis, Missouri
+L82: 
+L83: 6
+L84: 
+L85: 3:30 p.m.
+L86: 
+L87: Discussion - Governor Lisa D. Cook
+L88: 
+L89: Global Central Banking
+L90: 
+L91: At the Central Banking Seminar (Virtual)
+L92: 
+L93: 1
+L94: 
+L95: 3:00 p.m.
+L96: Speech - Vice Chair for Supervision Michelle W. Bowman
+L97: 
+L98: cite9†Watch Live†www.youtube.com L99: 
+L100: Modernizing Financial Regulation: Initial Observations from eSLR
+L101: 
+L102: At the Atlantic Council’s Conversation with Michelle W. Bowman, Washington, D.C.
+L103: 
+L104: 1
+L105: 
+L106: 1:30 p.m.
+L107: 
+L108: Speech - Vice Chair Philip N. Jefferson
+L109: 
+L110: cite10†Watch Live†darden-virginia.zoom.us L111: 
+L112: U.S. Economy and Monetary Policy
+L113: 
+L114: At a Talk and Q&A with Federal Reserve Board Vice Chair Philip N. Jefferson, Charlottesville, Va.
+L115: 
+L116: 1
+L117: 
+L118: 10:00 a.m.
+L119: Speech - Governor Christopher J. Waller
+L120: 
+L121: cite11†Watch Live†www.youtube.com L122: 
+L123: Federal Reserve Economic Data
+L124: 
+L125: At FRED Con: Navigating Trust, AI & Storytelling in a World of Data, St. Louis, Mo.
+L126: 
+L127: 1
+L128: #### FOMC Meetings
+L129: 
+L130: ###### Time:
+L131: 
+L132: ###### Release Date(s):
+L133: 
+L134: 2:00 p.m.
+L135: 
+L136: FOMC Minutes
+L137: 
+L138: Meeting of September 15-16
+L139: 
+L140: 7
+L141: 
+L142: 2:30 p.m.
+L143: 
+L144: cite12†FOMC Press Conference L145: 
+L146: 28
+L147: 
+L148: 2:00 p.m.
+L149: 
+L150: FOMC Meeting
+L151: 
+L152: Two-day meeting, October 27 - 28
+L153: 
+L154: Press Conference
+L155: 
+L156: 28
+L157: 
+L158: #### Beige Book
+L159: 
+L160: ###### Time:
+L161: 
+L162: ###### Release Date(s):
+L163: 
+L164: 2:00 p.m.
+L165: 
+L166: Beige Book
+L167: 
+L168: 14
+L169: 
+L170: #### Statistical Releases
+L171: 
+L172: ###### Time:
+L173: ###### Release Date(s):
+L174: 
+L175: 4:15 p.m.
+L176: 
+L177: G.5 - Foreign Exchange Rates
+L178: 
+L179: 1
+L180: 
+L181: G.20 - Finance Companies
+L182: 
+L183: Publication date for this release is approximate.
+L184: 
+L185: 30
+L186: 
+L187: 3:00 p.m.
+L188: 
+L189: G.19 - Consumer Credit
+L190: 
+L191: 7
+L192: 
+L193: 9:15 a.m.
+L194: 
+L195: G.17 - Industrial Production and Capacity Utilization
+L196: 
+L197: 16
+L198: 
+L199: 4:30 p.m.
+L200: 
+L201: H.4.1 - Factors Affecting Reserve Balances
+L202: 
+L203: 1, 8, 15, 22, 29
+L204: 
+L205: 1:00 p.m.
+L206: 
+L207: H.6 - Money Stock Measures
+L208: 
+L209: 27
+L210: 
+L211: 4:15 p.m.
+L212: 
+L213: H.10 - Foreign Exchange Rates
+L214: 
+L215: 5, 13, 19, 26
+L216: 
+L217: 4:15 p.m.
+L218: 
+L219: H.8 - Assets and Liabilities of Commercial Banks in the U.S.
+L220: 2, 9, 16, 23, 30
+L221: 
+L222: 1:00 p.m.
+L223: 
+L224: CP - Commercial Paper
+L225: 
+L226: 1, 2, 5, 6, 7, 8, 9, 13, 14, 15, 16, 19, 20, 21, 22, 23, 26, 27, 28, 29, 30
+L227: 
+L228: 4:15 p.m.
+L229: 
+L230: H.15 - Selected Interest Rates
+L231: 
+L232: 1, 2, 5, 6, 7, 8, 9, 13, 14, 15, 16, 19, 20, 21, 22, 23, 26, 27, 28, 29, 30
+L233: #### Other
+L234: 
+L235: ###### Time:
+L236: 
+L237: ###### Release Date(s):
+L238: 
+L239: Holiday - Columbus Day
+L240: 
+L241: The daily and weekly statistical releases scheduled for today will be released on Tuesday, October 13.
+L242: 
+L243: 12
+L244: 
+L245: cite2†Previous L246: 
+L247: cite3†Next L248: 
+L249: Last Update: June 24, 2025
+L250: 
+L251: cite13†Back to Top L252: ###### Board of Governors of the Federal Reserve System
+L253: 
+L254:   * cite14†About the Fed L255:   * cite15†News & Events L256:   * cite16†Monetary Policy L257:   * cite17†Supervision & Regulation L258:   * cite18†Financial Stability L259:   * cite19†Payment Systems L260:   * cite20†Economic Research L261:   * cite21†Data L262:   * cite22†Consumers & Communities L263:   * cite23†Connect with the Board L264: ###### Tools and Information
+L265: 
+L266:   * cite24†Contact L267:   * cite25†Publications L268:   * cite26†Freedom of Information (FOIA) L269:   * cite27†Office of Inspector General†oig.federalreserve.gov L270:   * cite28†Budget & Performance | cite29†Audit L271:   * cite30†No FEAR Act L272:   * cite31†Español L273:   * cite32†Website Policies | cite33†Privacy Program L274:   * cite34†Accessibility L275: cite35†Federal Reserve Facebook Page†www.facebook.com cite36†Federal Reserve Instagram Page†www.instagram.com cite37†Federal Reserve YouTube Page†www.youtube.com cite38†Federal Reserve Flickr Page†www.flickr.com cite39†Federal Reserve LinkedIn Page†www.linkedin.com cite40†Federal Reserve Threads Page†www.threads.net cite41†Link to Federal Reserve Bluesky Page†bsky.app cite42†Subscribe to RSS cite43†Subscribe to Email L276: 
+L277: Board of Governors of the Federal Reserve System
+L278: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+--------------------------------------------------------------------------------
+Daily Treasury Rates | U.S. Department of the Treasury (https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve)
+citeturn488view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026","lineno":null}); Total lines: 837
+L0: MENU MENU
+L1: 
+L2: # cite0†U.S. Department of the Treasury L3: 
+L4:   * cite1†About Treasury L5: 
+L6: [Input] [Input] Enter Search Term(s): [Input: Enter keywords]
+L7: 
+L8: [Input]
+L9: 
+L10: About Treasury
+L11: 
+L12: ## cite2†General Information L13: 
+L14: cite3†Role of the Treasury L15: 
+L16: cite4†Officials L17: 
+L18: cite5†Organizational Chart L19: 
+L20: cite6†Orders and Directives L21: ## cite7†Offices L22: 
+L23: cite8†Domestic Finance L24: 
+L25: cite9†Economic Policy L26: 
+L27: cite10†General Counsel L28: 
+L29: cite11†International Affairs L30: 
+L31: cite12†Management L32: 
+L33: cite13†Public Affairs L34: 
+L35: cite14†Tax Policy L36: 
+L37: cite15†Terrorism and Financial Intelligence L38: 
+L39: cite16†Tribal and Native Affairs L40: 
+L41: cite17†Inspectors General L42: ## cite18†Bureaus L43: 
+L44: cite19†Alcohol and Tobacco Tax and Trade Bureau (TTB)†www.ttb.gov L45: 
+L46: cite20†Bureau of Engraving & Printing (BEP)†www.bep.gov L47: 
+L48: cite21†Financial Crimes Enforcement Network (FinCEN)†www.fincen.gov L49: 
+L50: cite22†Bureau of the Fiscal Service (BFS)†www.fiscal.treasury.gov L51: 
+L52: cite23†Internal Revenue Service (IRS)†www.irs.gov L53: 
+L54: cite24†Office of the Comptroller of the Currency (OCC)†www.occ.treas.gov L55: 
+L56: cite25†U.S. Mint†www.usmint.gov L57: 
+L58: cite26†Office of Inspector General (OIG)†oig.treasury.gov L59: cite27†Treasury Inspector General for Tax Administration (TIGTA)†www.tigta.gov L60: 
+L61: cite28†Special Inspector General for Pandemic Recovery (SIGPR)†www.sigpr.gov L62: ## cite29†Budget, Financial Reporting, Planning and Performance L63: 
+L64: cite30†Strategic Plan L65: 
+L66: cite31†Budget Request/Annual Performance Plan and Reports L67: 
+L68: cite32†Agency Financial Report L69: 
+L70: cite33†Inspector General Audits and Investigative Reports L71: 
+L72: cite34†IRS Strategic Operating Plan L73: 
+L74: ## cite35†History L75: 
+L76: cite36†Curator L77: 
+L78: cite37†History Overview L79: 
+L80: cite38†Prior Secretaries L81: 
+L82: cite39†Prior Treasurers L83: 
+L84: cite40†The Treasury Building L85: 
+L86: cite41†Collections L87: 
+L88: cite42†Freedman's Bank Building L89: ## cite43†Careers L90: 
+L91: cite44†At Headquarters L92: 
+L93: cite45†At Our Bureaus  L94: 
+L95: cite46†Top 10 Reasons to Work Here L96: 
+L97: cite47†Benefits and Growth L98: 
+L99: cite48†Workforce L100: 
+L101: cite49†Veterans Employment L102: 
+L103: cite50†Pathways L104: 
+L105: cite51†How to Apply L106: 
+L107: cite52†Search Jobs†treasury.usajobs.gov L108: 
+L109: cite53†The Fair Chance to Compete Act L110: 
+L111:   * cite54†Policy Issues L112: 
+L113: [Input] [Input] Enter Search Term(s): [Input: Enter keywords]
+L114: 
+L115: [Input]
+L116: 
+L117: Policy Issues
+L118: ## cite55†Tax Policy L119: 
+L120: cite56†Data Transparency L121: 
+L122: cite57†Revenue Proposals L123: 
+L124: cite58†Tax Expenditures L125: 
+L126: cite59†International Tax L127: 
+L128: cite60†Treaties and Related Documents L129: 
+L130: cite61†Foreign Account Tax Compliance Act (FATCA) L131: 
+L132: cite62†Reports L133: 
+L134: cite63†Tax Analysis L135: 
+L136: cite64†Tax Regulatory Process L137: 
+L138: ## cite65†Economic Policy L139: 
+L140: cite66†Treasury Coupon Issues L141: 
+L142: cite67†Corporate Bond Yield Curve L143: 
+L144: cite68†Economic Policy Reports L145: 
+L146: cite69†Social Security and Medicare L147: 
+L148: cite70†Total Taxable Resources L149: ## cite71†Terrorism and Illicit Finance L150: 
+L151: cite72†Sanctions†ofac.treasury.gov L152: 
+L153: cite73†Asset Forfeiture L154: 
+L155: cite74†311 Actions L156: 
+L157: cite75†Terrorist Finance Tracking Program L158: 
+L159: cite76†Money Laundering L160: 
+L161: cite77†Financial Action Task Force L162: 
+L163: cite78†Protecting Charitable Organizations L164: 
+L165: ## cite79†Financing the Government L166: 
+L167: cite80†Treasury Quarterly Refunding L168: 
+

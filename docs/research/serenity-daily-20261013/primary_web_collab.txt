@@ -1,0 +1,206 @@
+FormFactor and Teradyne Announce Strategic Collaboration to Accelerate Next-Generation Semiconductor Testing | FormFactor, Inc. (https://investors.formfactor.com/news-releases/news-release-details/formfactor-and-teradyne-announce-strategic-collaboration)
+citeturn388view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn387view6","lineno":10}); Total lines: 65
+L0: cite0†Image†www.visionary-operation365.com L1: 
+L2: [Input]
+L3: 
+L4: cite1†Products†www.formfactor.com cite2†Applications†www.formfactor.com cite3†Industries†www.formfactor.com cite4†Sales & Service†www.formfactor.com cite5†Company†www.formfactor.com L5: 
+L6: cite1†Products†www.formfactor.com cite2†Applications†www.formfactor.com cite3†Industries†www.formfactor.com cite4†Sales & Service†www.formfactor.com cite5†Company†www.formfactor.com L7: 
+L8: # Press Release
+L9: ##
+L10: 
+L11: FormFactor and Teradyne Announce Strategic Collaboration to Accelerate Next-Generation Semiconductor Testing
+L12: 
+L13: October 12, 2026 at 4:01 PM EDT
+L14: 
+L15: Companies to combine leadership in probe, interface, and test technologies to accelerate AI and high-performance compute deployments
+L16: LIVERMORE, Calif., Oct. 12, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM), a leading provider of semiconductor test and measurement technologies, and Teradyne, Inc. (Nasdaq: TER), a leading provider of automated test equipment and advanced robotics, today announced the two companies have entered into a broad technology collaboration aimed at accelerating the development, validation, and high-volume production deployment of next-generation semiconductor devices.
+L17: In addition, Teradyne has agreed to purchase shares of FormFactor common stock.
+L18: The collaboration brings together FormFactor’s industry-leading expertise in probe technologies, interface solutions, test engineering, and device characterization with Teradyne’s advanced automated test platforms to help customers address growing semiconductor complexity.
+L19: Together, the companies will partner to advance semiconductor test architectures, optimize test infrastructure, and enhance production readiness for existing and emerging applications, including high-performance compute (HPC), advanced packaging, high-bandwidth memory (HBM), and silicon photonics.
+L20: "The semiconductor industry is entering a period where test performance, scalability, and time-to-market are becoming decisive competitive advantages," said Mike Slessor, Chief Executive Officer of FormFactor. "By combining FormFactor's deep expertise in device characterization, probing, interfaces, and production test solutions with Teradyne's test platforms, we can help customers accelerate innovation and move more efficiently from technology development to high-volume manufacturing."
+L21: “The most demanding test challenges in advanced packaging, silicon photonics, and memory can’t be solved by a single company,” said Gregory Smith, President and Chief Executive Officer of Teradyne. “By investing in FormFactor and combining our leading-edge test platforms with FormFactor’s probe and interface expertise, we’re building a more complete, validated path to production for our shared customers, and reinforcing our commitment to an open, interoperable ecosystem.”
+L22: The companies believe the collaboration will accelerate innovation across the semiconductor test ecosystem from wafer to data center, expand opportunities for joint customer engagement, and support increasing demand for advanced computing, AI infrastructure, and next-generation semiconductor technologies.
+L23: 
+L24: Under the terms of the agreement, Teradyne has agreed to make a $300 million strategic equity investment. The transaction is subject to customary closing conditions and regulatory approvals.
+L25: Safe Harbor Statement
+L26: This release contains forward-looking statements within the meaning of the “safe harbor” provisions of the federal securities laws, including statements regarding the expected benefits and anticipated results of the collaboration between Teradyne and FormFactor, and the anticipated timing and consummation of Teradyne’s investment in FormFactor.
+L27: Investors are cautioned that such forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from the forward-looking statements due to known and unknown risks, uncertainties, assumptions, and other factors. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and Teradyne and FormFactor disclaim any obligation to update these forward-looking statements to reflect future events or circumstances.
+L28: About FormFactor
+L29: FormFactor, Inc. (Nasdaq: FORM) is a leading provider of essential test and measurement technologies along the full IC life cycle — from characterization, modeling, reliability, and design de-bug to qualification and production test. Semiconductor companies rely upon FormFactor’s products and services to accelerate profitability by optimizing device performance and advancing yield knowledge. The Company serves customers through its network of facilities in Asia, Europe, and North America.
+L30: For more information, visit cite6†www.formfactor.com†www.formfactor.com L31: Investor Relations Contact for FormFactor, Inc.
+L32: 
+L33: Stan Finkelstein
+L34: Investor Relations
+L35: (925) 290-4273
+L36: [REDACTED_EMAIL]
+L37: 
+L38: About Teradyne
+L39: cite7†Teradyne†www.teradyne.com (Nasdaq: TER) designs, develops, and manufactures automated test equipment and advanced robotics systems. Its semiconductor and electronics test solutions span the full AI device supply chain, from wafer to data center, enabling customers to meet the quality and reliability standards the AI era demands. Its advanced robotics business deploys intelligent automation across manufacturing, logistics, and data center operations for customers worldwide.
+L40: For more information, visit cite7†www.teradyne.com†www.teradyne.com .Teradyne® is a registered trademark of Teradyne, Inc., in the U.S. and other countries.
+L41: Investor Relations Contact for Teradyne, Inc.
+L42: 
+L43: Amy McAndrews
+L44: Investor Relations
+L45: (978) 370-3945
+L46: [REDACTED_EMAIL]
+L47: 
+L48: Source: FormFactor, Inc. and Teradyne, Inc.
+L49: 
+L50: FORM-F
+L51: 
+L52: cite8†Image†www.globenewswire.com L53: cite9†Image†ml.globenewswire.com L54: ### Stock Quote
+L55: 
+L56:  |
+L57: 
+L58: Day High:
+L59: Day Low:
+L60: Volume:
+L61: 
+L62: 10/07/26 4:03 PM EDT
+L63: 
+L64: Minimum 15 minutes delayed. Source: LSEG
+--------------------------------------------------------------------------------
+NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories | NVIDIA Newsroom (https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories)
+citeturn388view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn387view7","lineno":44}); Total lines: 219
+L0: PLATFORMS
+L1: 
+L2: other links
+L3: 
+L4:   * cite0†Developers†developer.nvidia.com L5:   * cite1†Industries†www.nvidia.com L6:   * cite2†Shop†www.nvidia.com L7:   * cite3†Drivers†www.nvidia.com L8:   * cite4†Support†www.nvidia.com L9:   * cite5†About NVIDIA†www.nvidia.com L10: 
+L11:   * cite6†View All Products†www.nvidia.com L12:   * cite7†GPU TECHNOLOGY CONFERENCE†www.nvidia.com L13:   * cite8†NVIDIA Blog†blogs.nvidia.com L14:   * cite9†Community†www.nvidia.com L15:   * cite10†Careers†www.nvidia.com L16:   * cite11†TECHNOLOGIES†www.nvidia.com L17: 
+L18: cite12†Newsroom L19: 
+L20: cite13†NVIDIA in Brief L21: 
+L22: cite14†Exec Bios L23: cite8†NVIDIA Blog†blogs.nvidia.com L24: 
+L25: cite15†Podcast†blogs.nvidia.com L26: 
+L27: cite16†Media Assets L28: 
+L29: cite17†In the News L30: 
+L31: cite18†Press Contacts L32: 
+L33: cite19†Online Press Kits L34: 
+L35:   * cite13†NVIDIA in Brief L36:   * cite14†Exec Bios L37:   * cite8†NVIDIA Blog†blogs.nvidia.com L38:   * cite15†Podcast†blogs.nvidia.com L39:   * cite16†Media Assets L40:   * cite17†In the News L41:   * cite18†Press Contacts L42:   * cite19†Online Press Kits L43: 
+L44: Press Release
+L45: # NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories
+L46: 
+L47: New Transceivers Enable AI Builders to Scale Compute Within the Same Network Footprint While Reducing Networking’s Share of the Power Budget
+L48: 
+L49: October 12, 2026
+L50: 
+L51: News Summary:
+L52:   * Ultra-Dense Small Form Factor Pluggable (USFP) is designed to be the first module to support 400Gb/s-per-lane electrical signals, enabling capacity up to 12.8Tb/s so AI factory builders can scale Ethernet AI fabrics, while extending a proven deployment model across multiple generations of data center networks.
+L53:   * USFP delivers 4x the bandwidth density and 1.3x the power efficiency of 200Gb/s-per-lane optics so AI factories can connect more computing systems without adding network tiers, while using less power to move each bit of data.
+L54:   * NVIDIA and Cisco are working with TE Connectivity and Amphenol to build a multi-source hardware ecosystem around USFP.
+L55: NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.
+L56: As AI models grow and inference demand expands, AI factories must connect more computing systems while managing network complexity, power and costs. Moving more data per watt and per switch helps operators make better use of their infrastructure investments.
+L57: Scaling AI factories requires more bandwidth per connection and more connections per switch. When a switch reaches its capacity, further network expansion can require additional switch layers and optical links, increasing latency, power consumption and costs.
+L58: USFP is designed to enable AI factory builders to scale from 200 Gb/s per lane to 400Gb/s-per-lane Ethernet AI fabrics, while extending a deployment model proven at scale across multiple generations of data center networks. With USFP, customers can embrace next-generation optical technology and meet the performance demand of AI workloads without overhauling their data center infrastructure.
+L59: The first planned USFP-based transceivers will pack 16 full-duplex lanes in an octal small form factor (OSFP)-sized footprint supporting both switches and SuperNICs, with the ability to expand to 32 and more lanes in the future. By doubling both the lane count and bandwidth per lane, USFP enables AI fabrics to connect more 1.6Tb/s endpoints without adding network tiers. Customers will be able to achieve 12.8Tb/s of overall capacity with USFP.
+L60: Comparable with an OSFP-sized module, it delivers 4x the bandwidth and front-panel bandwidth density, with approximately 1.3x the power efficiency, versus 200Gb/s-per-lane pluggable modules. This means AI builders can increase their compute scale within the same network footprint, while decreasing networking’s share of the overall AI factory power budget.
+L61: “Building the world’s largest AI factories starts with rethinking the smallest of connections,” said Gilad Shainer, senior vice president NVIDIA. “With USFP, NVIDIA and Cisco are building an ecosystem to reinvent pluggable optics — connecting more computing with greater efficiency to power the next generation of AI factories.”
+L62: “AI builders need an interconnect architecture that can scale performance without locking them into a more complex operating model,” said Bill Gartner, senior vice president and general manager of optical systems and optics at Cisco. “Cisco and NVIDIA recognized that scaling pluggable optics to 400Gb/s per lane would require more than another incremental extension of today’s module designs.
+L63: Through our collaboration, USFP is designed to deliver a new level of bandwidth density while preserving the serviceability, deployment flexibility and operational simplicity of pluggable optics. By taking a full-stack approach — from silicon and systems to optics and the network operating system — we can optimize every layer to deliver the performance and scale the next generation of AI networks will require.”
+L64: More AI Infrastructure From Every Switch
+L65: Designed for electrical signals of 400Gb/s per lane, USFP uses a new two-dimensional array connector with a two-step insertion design that engages high-speed contacts after the module is inserted, reducing contact wear, improving signal integrity and making insertion force more predictable. The connector technology allows for further scaling of lane count to 32 full duplex lanes and more in the future.
+L66: Because the connector is designed for 400Gb/s performance, it also offers improved performance at 200Gb/s per lane.
+L67: USFP supports power dissipation of up to 100 watts without needing a separate, dedicated embedded cooling circuit within the transceiver, reducing switch design complexity and improving reliability. Together, these capabilities enable higher-bandwidth fabrics while preserving the mature deployment, serviceability and manufacturability of existing pluggable transceivers.
+L68: All USFP configurations support optical designs that reduce latency and power consumption by simplifying signal processing. Support for a broad range of optical technologies and connection distances gives system designers the flexibility to meet unique AI factory deployment needs.
+L69: A Hardware Ecosystem for Next-Generation AI Factories
+L70: NVIDIA and Cisco are collaborating with TE Connectivity and Amphenol to build USFP cages, connectors and modules, with additional partners expected to join. The shared form factor gives suppliers a common foundation for developing high-density pluggable infrastructure for 400Gb/s-per-lane fabrics to build a robust ecosystem for AI factory builders.
+L71: The collaboration builds on cite20†NVIDIA and Cisco’s existing work†newsroom.cisco.com to ensure NVIDIA Spectrum-X™ Ethernet networking and Cisco Silicon One-based Ethernet networks work together seamlessly, simplifying AI infrastructure deployment for enterprises, neoclouds and sovereign clouds.
+L72: 
+L73: NVIDIA and Cisco plan to create an open industry specification for USFP through an upcoming community-led multi-source project.
+L74: 
+L75: About Cisco
+L76: Cisco (NASDAQ: CSCO) is the worldwide technology leader that is revolutionizing the way organizations connect and protect in the AI era. For more than 40 years, Cisco has securely connected the world. With its industry leading AI-powered solutions and services, Cisco enables its customers, partners and communities to unlock innovation, enhance productivity and strengthen digital resilience. With purpose at its core, Cisco remains committed to creating a more connected and inclusive future for all.
+L77: Discover more on cite21†The Newsroom†newsroom.cisco.com and follow us on cite22†X†x.com at @Cisco.
+L78: Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries. A listing of Cisco's trademarks can be found at cite23†www.cisco.com/go/trademarks†www.cisco.com . Third-party trademarks mentioned are the property of their respective owners. The use of the word partner does not imply a partnership relationship between Cisco and any other company.
+L79: About NVIDIA
+L80: cite24†NVIDIA†www.nvidia.com (NASDAQ: NVDA) is the world leader in AI and accelerated computing.
+L81: 
+L82: Cisco Forward-Looking Statements
+L83: This press release may be deemed to contain forward-looking statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, among other things, statements regarding establishment of a USFP MSA and expected benefits thereof.
+L84: Readers are cautioned that these forward-looking statements are only predictions and may differ materially from actual future events or results due to a variety of factors, including: business and economic conditions and growth trends in the networking industry, our customer markets and various geographic regions; global economic conditions and uncertainties in the geopolitical environment; overall information technology spending; the growth and evolution of the Internet and levels of capital spending on Internet-based systems; reliance on new product introductions and acceptable market acceptance of those new products; and other factors listed in Cisco's most recent reports on Form 10-K and Form 10-Q filed with the SEC.
+L85: Any forward-looking statements in this release are based on limited information currently available to Cisco, which is subject to change, and Cisco will not necessarily update the information.
+L86: NVIDIA Forward-Looking Statements
+L87: Certain statements in this press release including, but not limited to, statements as to: the benefits, performance and capabilities of USFP and NVIDIA Spectrum-X Ethernet networking; NVIDIA’s collaborations with Cisco, TE Connectivity and Amphenol; plans for a community-led multi-source project and additional partners; and the impact of AI on data center demand are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections based on management’s beliefs and assumptions and on information currently available to management and are subject to risks and uncertainties that could cause results to be materially different than expectations.
+L88: Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing product and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q.
+L89: Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+L90: © 2026 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, and other NVIDIA product and service names are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries and regions. Other company, product, and service names may be trademarks of the respective companies with which they are associated.
+L91: ## Media Contacts
+L92: 
+L93: Alex Shapiro
+L94: 
+L95: Corporate Communications
+L96: 
+L97: NVIDIA Corporation
+L98: 
+L99: [REDACTED_EMAIL]
+L100: 
+L101: Taylor Hassman
+L102: 
+L103: Cisco
+L104: 
+L105: [REDACTED_EMAIL]
+L106: 
+L107: ## Downloads
+L108: 
+L109:   * cite25†Download Press Release L110:   * cite26†Download Attachments L111: 
+L112: ## More Images
+L113: 
+L114:   * #### Ultra-Dense Small Factor Pluggable
+L115: 
+L116: cite27†Download / File Link L117: 
+L118: ## More News
+L119: 
+L120: cite28†Image†iprsoftwaremedia.com L121: 
+L122: ### cite29†NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years L123: 
+L124: October 8, 2026
+L125: 
+L126: cite28†Image†iprsoftwaremedia.com L127: ### cite30†NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase L128: 
+L129: September 28, 2026
+L130: 
+L131: cite31†Image†iprsoftwaremedia.com L132: 
+L133: ### cite32†NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment L134: 
+L135: September 28, 2026
+L136: 
+L137: cite33†Image†iprsoftwaremedia.com L138: 
+L139: ### cite34†NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing L140: 
+L141: September 14, 2026
+L142: 
+L143: cite35†Image†iprsoftwaremedia.com L144: ### cite36†NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains L145: 
+L146: September 10, 2026
+L147: 
+L148: About Cisco
+L149: Cisco (NASDAQ: CSCO) is the worldwide technology leader that is revolutionizing the way organizations connect and protect in the AI era. For more than 40 years, Cisco has securely connected the world. With its industry leading AI-powered solutions and services, Cisco enables its customers, partners and communities to unlock innovation, enhance productivity and strengthen digital resilience. With purpose at its core, Cisco remains committed to creating a more connected and inclusive future for all.
+L150: Discover more on cite21†The Newsroom†newsroom.cisco.com and follow us on cite22†X†x.com at @Cisco.
+L151: Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries. A listing of Cisco's trademarks can be found at cite23†www.cisco.com/go/trademarks†www.cisco.com . Third-party trademarks mentioned are the property of their respective owners. The use of the word partner does not imply a partnership relationship between Cisco and any other company.
+L152: About NVIDIA
+L153: cite24†NVIDIA†www.nvidia.com (NASDAQ: NVDA) is the world leader in AI and accelerated computing.
+L154: 
+L155: Cisco Forward-Looking Statements
+L156: This press release may be deemed to contain forward-looking statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, among other things, statements regarding establishment of a USFP MSA and expected benefits thereof.
+L157: Readers are cautioned that these forward-looking statements are only predictions and may differ materially from actual future events or results due to a variety of factors, including: business and economic conditions and growth trends in the networking industry, our customer markets and various geographic regions; global economic conditions and uncertainties in the geopolitical environment; overall information technology spending; the growth and evolution of the Internet and levels of capital spending on Internet-based systems; reliance on new product introductions and acceptable market acceptance of those new products; and other factors listed in Cisco's most recent reports on Form 10-K and Form 10-Q filed with the SEC.
+L158: Any forward-looking statements in this release are based on limited information currently available to Cisco, which is subject to change, and Cisco will not necessarily update the information.
+L159: NVIDIA Forward-Looking Statements
+L160: Certain statements in this press release including, but not limited to, statements as to: the benefits, performance and capabilities of USFP and NVIDIA Spectrum-X Ethernet networking; NVIDIA’s collaborations with Cisco, TE Connectivity and Amphenol; plans for a community-led multi-source project and additional partners; and the impact of AI on data center demand are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections based on management’s beliefs and assumptions and on information currently available to management and are subject to risks and uncertainties that could cause results to be materially different than expectations.
+L161: Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing product and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q.
+L162: Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+L163: © 2026 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, and other NVIDIA product and service names are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries and regions. Other company, product, and service names may be trademarks of the respective companies with which they are associated.
+L164: ## Media Contacts
+L165: 
+L166: Global contacts for media inquiries.
+L167: 
+L168: cite18†All Contacts L169: ## Stay Informed
+L170: 
+L171: Newsroom updates delivered to your inbox.
+L172: 
+L173: cite37†Subscribe L174: 
+L175: Corporate Information
+L176: 
+L177:   * cite5†About NVIDIA†www.nvidia.com L178:   * cite38†Corporate Overview†www.nvidia.com L179:   * cite11†Technologies†www.nvidia.com L180:   * cite39†NVIDIA Research†www.nvidia.com L181:   * cite40†Investors†investor.nvidia.com L182:   * cite41†Social Responsibility†www.nvidia.com L183:   * cite42†NVIDIA Foundation†www.nvidia.com L184: 
+L185: Get Involved
+L186:   * cite43†Forums†www.nvidia.com L187:   * cite10†Careers†www.nvidia.com L188:   * cite0†Developer Home†developer.nvidia.com L189:   * cite44†Join the Developer Program†developer.nvidia.com L190:   * cite45†NVIDIA Partner Network†www.nvidia.com L191:   * cite46†NVIDIA Inception†www.nvidia.com L192:   * cite47†Resources for Venture Capitalists†www.nvidia.com L193:   * cite48†Venture Capital (NVentures)†www.nventures.ai L194:   * cite49†Technical Training†www.nvidia.com L195:   * cite50†Training for IT Professionals†academy.nvidia.com L196:   * cite51†Professional Services for Data Science†www.nvidia.com L197: News & Events
+L198: 
+L199:   * cite12†Newsroom L200:   * cite8†NVIDIA Blog†blogs.nvidia.com L201:   * cite52†NVIDIA Technical Blog†developer.nvidia.com L202:   * cite53†Webinars†www.nvidia.com L203:   * cite54†Stay Informed†www.nvidia.com L204:   * cite55†Events Calendar†www.nvidia.com L205:   * cite7†NVIDIA GTC†www.nvidia.com L206:   * cite56†NVIDIA On-Demand†www.nvidia.com L207: 
+L208: cite57†USA - United States†www.nvidia.com L209:   * cite58†Privacy Policy†www.nvidia.com L210:   * cite59†Your Privacy Choices†www.nvidia.com L211:   * [Button: Manage Cookie Settings]
+L212:   * cite60†Terms of Service†www.nvidia.com L213:   * cite61†Accessibility†www.nvidia.com L214:   * cite62†Corporate Policies†www.nvidia.com L215:   * cite63†Product Security†www.nvidia.com L216:   * cite64†Contact†www.nvidia.com L217: 
+L218: Copyright © 2026 NVIDIA Corporation
+

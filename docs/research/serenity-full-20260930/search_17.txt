@@ -1,0 +1,683 @@
+Richtech Robotics Issues Shareholder Letter | Richtech Robotics (https://ir.richtechrobotics.com/news-releases/news-release-details/richtech-robotics-issues-shareholder-letter)
+citeturn152search0 [wordlim: 200] Published: 7 months ago; Crawled: today; 17, 2026 (GLOBE NEWSWIRE) -- Richtech Robotics Inc. ... Excluding this non-cash expense, adjusted net loss attributable to common stockholders was approximately $(0.1) million for the quarter. ... Investors should read the risk factors set forth in Richtech Robotics’ Annual Report on Form 10-K, filed with the Securities and Exchange Commission (the “SEC”) on January 20, 2026, and periodic reports filed with the SEC on or after the date thereof.
+
+# Release Details
+
+## 
+
+Richtech Robotics Issues Shareholder Letter
+
+February 17, 2026
+
+Highlights the Company’s strategic business recalibration into three pillars: commercial, industrial and data services 
+
+LAS VEGAS, Feb. 17, 2026 (GLOBE NEWSWIRE) -- Richtech Robotics Inc. (Nasdaq: RR) (“Richtech Robotics” or the “Company”), a U.S.-based provider of AI-driven robots operating in commercial and industrial environments, issues a letter to its shareholders from Founder and Chief Executive Officer, Wayne Huang. The letter outlines the Company’s strategic evolution into three core business pillars and reaffirms its strong financial position following the filing of its Form 10-Q for Q1 FY2026, covering the three months ended December 31, 2025.
+
+Dear Fellow Shareholders,
+
+Thank you for your continued commitment and support of Richtech Robotics and our mission of advancing robotics in real world applications, across industries and markets. At Richtech Robotics, we are focused on developing and implementing advanced AI robotics systems that aim to improve the efficiency and productivity of businesses through the adoption of a supplemental AI powered workforce.
+
+Through our early mover advantage, we have identified three target markets with demonstrated labor constraints and where we have successfully deployed our robotics solutions with measurable returns. As such, we have recalibrated our business structure to capture near-term market share in high-growth, incumbent industries. As a result, our business is defined by three strategic pillars that serve as our team’s core focus for continued technology development going forward:
+
+  * Commercial Robotics: Our core hospitality and commercial service robots ADAM and Matradee continue to lead the market in beverage and barista capacity, providing a high-margin, easily scalable solution to labor shortages across hospitality and interactive retail-oriented environments.
+
+  * Industrial Robotics: Following its premiere in October 2025, our mobile humanoid robot, Dex, is expected to be deployed in an initial phase in 2Q FY2026. Purpose built for production and manufacturing verticals, we’ve integrated NVIDIA’s Isaac Sim technology with our internal data pipeline, accumulated through years of practical applications, simulation training and fine tuning, to accelerate time to market with a reliable system.
+This bottom-up strategy allows us to perfect tasks in the physical world before scaling them with the goal of delivering a model for global deployment.
+
+With the support of a resilient balance sheet position and continued momentum in the transition to recurring revenue generation through our Robots-as-a-Service (RaaS) model, we are producing tangible results. Of note, Q1 FY2026 reflects a period of structural financial transition and capital reinforcement.
+
+  * Accelerating RaaS Growth: In line with our strategic refocus to establish a predictable revenue rate, we operationalized our RaaS model in 2025, and in Q1 FY2026, RaaS revenue totaled $0.3 million, a 31% increase from the comparable prior year period. As we prioritize our recurring revenue business model, we’ve concurrently reduced our hardware robotics sales initiatives. As reported in our Q1 FY2026 financial statements, this mix shift is reflected as a year over year decrease in our Product Sale revenue, and while this revenue stream remains part of our overall revenue mix, our business development strategy is focused on our RaaS recurring revenue model.
+
+  * Bolstered Balance Sheet: Q1 FY2026 net loss attributable to common stockholders was $8.4 million. The net loss consisted of $8.3 million of non-cash stock-based compensation expense, which impacted GAAP net income but did not affect cash flow. Excluding this non-cash expense, adjusted net loss attributable to common stockholders was approximately $(0.1) million for the quarter. As of December 31, 2025, total liquidity was $328.8 million, consisting of $271.8 million in cash and cash equivalents and $56.7 million in short-term investments. In addition, we recently bolstered our balance sheet with a significant capital commitment from a long-term institutional investor, providing us the flexibility to continue to invest in R&D and business development and go-to-market of our three strategic growth pillars while maintaining strict financial discipline.
+
+Importantly, we remain steadfast in our commitment to transparency and will promptly communicate to the market in compliance with public disclosure requirements.
+--------------------------------------------------------------------------------
+Financial Information - ESMT (https://www.esmt.com.tw/en/investor/financial)
+citeturn152search1 [wordlim: 200] Crawled: yesterday; * 2026 - 2025
+
+#### Monthly Revenue
+
+The Company announces its monthly revenues on a consolidated basis.
+
+* 2026 - 2025
+* 2025 - 2024
+* 2024 - 2023
+* 2023 - 2022
+* 2022 - 2021
+* 2021 - 2020
+* 2020 - 2019
+* 2019 - 2018
+* 2018 - 2017
+* 2017 - 2016
+* 2016 - 2015
+* 2015 - 2014
+
+2026 - 2025
+
+（Unit:NT$K）
+
+Scroll horizontally for more info
+
+Month
+
+2026
+
+2025
+
+Change ($)
+
+Variance (%)
+
+2026
+
+YTD
+
+2025
+
+YTD
+
+Change ($)
+
+Variance (%)
+
+JAN.
+
+2,146,214
+
+935,504
+
+1,210,710
+
+129.42
+
+2,146,214
+
+935,504
+
+1,210,710
+
+129.42
+
+FEB.
+
+2,094,881
+
+917,212
+
+1,177,669
+
+128.40
+
+4,241,095
+
+1,852,716
+
+2,388,379
+
+128.91
+
+MAR.
+
+3,025,805
+
+1,050,219
+
+1,975,586
+
+188.11
+
+7,266,900
+
+2,902,935
+
+4,363,965
+
+150.33
+
+APR.
+
+4,634,223
+
+1,031,627
+
+3,602,596
+
+349.21
+
+11,901,123
+
+3,934,562
+
+7,966,561
+
+202.48
+
+MAY.
+
+4,466,516
+
+1,125,618
+
+3,340,898
+
+296.81
+
+16,367,640
+
+5,060,180
+
+11,307,460
+
+223.46
+
+JUN.
+
+4,845,479
+
+1,131,185
+
+3,714,294
+
+328.35
+
+21,213,118
+
+6,191,364
+
+15,021,754
+
+242.62
+
+JUL.
+
+6,784,662
+
+1,147,877
+
+5,636,785
+
+491.06
+
+27,997,780
+
+7,339,241
+
+20,658,539
+
+281.48
+
+AUG.
+
+7,904,796
+
+1,120,861
+
+6,783,935
+
+605.24
+
+35,902,576
+
+8,460,101
+
+27,442,475
+
+324.38
+
+SEP.
+
+-
+
+1,308,368
+
+-
+
+-
+
+-
+
+9,768,470
+
+-
+
+-
+
+OCT.
+
+-
+
+1,234,940
+
+-
+
+-
+
+-
+
+11,003,409
+
+-
+
+-
+
+NOV.
+
+-
+
+1,401,078
+
+-
+
+-
+
+-
+
+12,404,488
+
+-
+
+-
+
+DEC.
+
+-
+
+2,170,785
+
+-
+
+-
+
+-
+
+14,575,272
+
+-
+
+-
+
+#### Financial Reports
+
+The Company presents consolidated financial reports on a quarterly basis, and further discloses standalone financial statements annually at year-end.
+
+* Year
+* 2026
+* 2025
+* 2024
+* 2023
+* 2022
+* 2021
+* 2020
+* 2019
+
+2026
+
+Q1 Consolidated
+
+Q2 Consolidated
+
+2025
+
+Q1 Consolidated
+
+Q2 Consolidated
+
+Q3 Consolidated
+
+Q4 Consolidated
+
+Q4 Unconsolidated
+
+2024
+
+Q1 Consolidated
+
+Q2 Consolidated
+
+Q3 Consolidated
+
+Q4 Consolidated
+
+Q4 Unconsolidated
+
+2023
+
+Q1 Consolidated
+
+Q2 Consolidated
+
+Q3 Consolidated
+
+Q4 Consolidated
+
+Q4 Unconsolidated
+
+2022
+
+Q1 Consolidated
+
+Q2 Consolidated
+
+Q3 Consolidated
+
+Q4 Consolidated
+
+Q4 Unconsolidated
+
+2021
+
+Q1 Consolidated
+
+Q2 Consolidated
+
+Q3 Consolidated
+
+Q4 Consolidated
+
+Q4 Unconsolidated
+
+2020
+
+Q1 Consolidated
+
+Q2 Consolidated
+
+Q3 Consolidated
+
+Q4 Consolidated
+
+Q4 Unconsolidated
+
+2019
+
+Q4 Consolidated
+
+Q4 Unconsolidated
+
+#### Annual Reports
+
+Annual Report 2025
+
+Previous Years
+
+Annual Report 2024
+
+Annual Report 2023
+
+Annual Report 2022
+
+Annual Report 2021
+
+Annual Report 2020
+
+Annual Report 2019--------------------------------------------------------------------------------
+Richtech Robotics Issues Shareholder Letter (https://ir.richtechrobotics.com/node/7431/pdf)
+citeturn152search12 [wordlim: 200] Published: 7 months ago; Excluding this non-cash expense, adjusted net loss attributable to common stockholders was approximately $(0.1) million for the quarter. ... Investors should read the risk factors set forth in Richtech Robotics’ Annual Report on Form 10-K, filed with the Securities and Exchange Commission (the “SEC”) on January 20, 2026, and periodic reports filed with the SEC on or after the date thereof. ... CORE IR
+initiatives. As reported in our Q1 FY2026 financial statements, this mix shift is reflected as a year over year decrease in our Product Sale revenue, and while this revenue stream remains part of our overall revenue mix, our business development strategy is focused on our RaaS recurring revenue model.
+
+• **Bolstered Balance Sheet:** Q1 FY2026 net loss attributable to common stockholders was $8.4 million. The net loss consisted of $8.3 million of non-cash stock-based compensation expense, which impacted GAAP net income but did not affect cash flow. Excluding this non-cash expense, adjusted net loss attributable to common stockholders was approximately $(0.1) million for the quarter. As of December 31, 2025, total liquidity was $328.8 million, consisting of $271.8 million in cash and cash equivalents and $56.7 million in short-term investments. In addition, we recently bolstered our balance sheet with a significant capital commitment from a long-term institutional investor, providing us the flexibility to continue to invest in R&D and business development and go-to-market of our three strategic growth pillars while maintaining strict financial discipline.
+--------------------------------------------------------------------------------
+Financials | ASE (https://ase.aseglobal.com/about-ase/financials/)
+citeturn152search2 [wordlim: 200] Crawled: yesterday; Advanced Semiconductor Engineering, Inc (commonly referred to as ‘ASE’) is a legal entity wholly owned by ASE Technology Holding Co., Ltd since 2018.Please visit https://ir.aseglobal.com for the latest financial data and investor-related information.
+
+# Financials
+
+Advanced Semiconductor Engineering, Inc (commonly referred to as ‘ASE’) is a legal entity wholly owned by ASE Technology Holding Co., Ltd since 2018. Please visit https://ir.aseglobal.com for the latest financial data and investor-related information.
+
+Image
+
+Financial Data
+
+Monthly Revenues Stock Exchange Filings Historical Data Download Quarterly Results Corporate Governance Comparison Financial Reports XBRL Files
+
+Shareholder Services
+
+Annual Reports Dividends History Shareholders' Meeting
+
+Financial Events & News
+
+Financial Events Financial News--------------------------------------------------------------------------------
+Investor Relations → Scribe (https://investors.scribetx.com/)
+citeturn152search3 [wordlim: 200] Crawled: 6 days ago; Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights ... drafts [REDACTED_EMAIL]
+
+## Our Mission
+
+Scribe Therapeutics is a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention. While current genetic medicines are largely limited to rare disorders, we are engineering our technologies for use in common diseases affecting millions. By targeting prevalent diseases with significant unmet need and high clinical burden, we aim to usher in a new era of broadly scalable, transformative, and preventative genetic medicines.
+
+Our focus is on cardiovascular and metabolic diseases with initial programs to address the key drivers of atherosclerotic cardiovascular disease, or ASCVD. We are designing CRISPR-based genetic medicines to be well-tolerated, effective, durable, and scalable enough to shift the treatment paradigm from symptom-driven intervention and chronic care to population-level prevention, with the goal of broadly democratizing access to the cardioprotective effects of known genetic variants.
+
+## Press Releases
+
+Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights
+
+September 2, 2026
+
+Scribe Therapeutics to Participate in Upcoming Investor Conferences
+
+September 1, 2026
+
+Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement
+
+July 27, 2026
+
+## Recent Reports
+
+More information is coming soon.
+
+## Events
+
+### Upcoming Events
+
+Cell & Gene Meeting on the Mesa
+
+October 5-7, 2026
+
+### Past Events
+
+Leerink Partners Biopharma Summit
+
+September 23-25, 2026
+
+### Past Events
+
+IPAVision 2026
+
+September 14-17, 2026
+
+### Past Events
+
+H.C. Wainwright 28th Annual Global Investment Conference
+
+September 14-16, 2026
+
+  * All Events
+
+## Investor Contact
+
+1150 Marina Village Pkwy 
+Alameda, CA 94501
+drafts [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Form S-1 for Richtech Robotics INC filed 02/18/2026 (https://ir.richtechrobotics.com/static-files/50764143-9793-46ee-b4c8-3650443b8504)
+citeturn152search13 [wordlim: 200] Published: 7 months ago; January 20, 2026; ... Our Quarterly Report on Form 10-Q for the quarter ended December 31, 2025 filed with the SEC on ... 3835 or at the following email address: [REDACTED_EMAIL].
+     
+Our Annual Report on Form 10-K for the year ended September 30, 2025 filed with the SEC on
+January 20, 2026;
+(b)
+    
+Our Quarterly Report on Form 10-Q for the quarter ended December 31, 2025 filed with the SEC on
+February 12, 2026; and
+(b)
+    
+Our Current Reports on Form  8-K filed with the SEC on October  1, 2025, November  4, 2025,
+November 17, 2025, December 5, 2025 and January 30, 2026.
+All documents subsequently filed by the registrant pursuant to Sections 13(a), 13(c), 14 or 15(d) of the
+Exchange Act, prior to the termination of the offering shall be deemed to be incorporated by reference into the
+prospectus. Any statement contained herein or in a document incorporated or deemed to be incorporated herein
+by reference shall be deemed to be modified or superseded for purposes of this prospectus to the extent that a
+statement contained herein or in any other subsequently filed document which also is or is deemed to be
+incorporated herein by reference modifies or supersedes such statement.
+--------------------------------------------------------------------------------
+Form 10-Q for Richtech Robotics INC filed 02/12/2026 (https://ir.richtechrobotics.com/static-files/66df51fd-3800-4feb-81e6-801fc10e879b)
+citeturn152search14 [wordlim: 200] Published: 7 months ago; Current Period Infrastructure Investment: In the current quarter (fiscal 2026), our Cost of Revenue
+thousand for the three months ended
+December 31, 2024. Gross margin was 52.3% for the three months ended December 31, 2025, compared to 90.2% for
+the three months ended December
+31, 2024. 
+ 
+The variance in gross margin is primarily
+attributable to the structural difference in our operating model between the two fiscal periods:
+ 
+●
+Comparison to Prior Year Low Cost Base: The gross margin in the first quarter of fiscal 2025 (ended
+December 31, 2024) was exceptionally
+high, reflecting a leaner cost structure with minimal fixed overhead. During that period, revenue
+was derived primarily from direct sales that did
+not require the extensive service, support, and fleet maintenance infrastructure we have
+since established.
+ 
+●
+Current Period Infrastructure Investment: In the current quarter (fiscal 2026), our Cost of Revenue
+includes significant upfront investments in
+the technical support and field service teams necessary to support our growing Robots-as-a-Service
+ (RaaS) fleet. While these costs dampen
+margins in the near term, they are essential scalability investments that do not scale linearly
+--------------------------------------------------------------------------------
+股東專區 - ESMT (https://www.esmt.com.tw/tw/investor/shareholder)
+citeturn152search4 [wordlim: 200] Crawled: yesterday; * 2026 ... 晶豪在台灣証券交易所掛牌，股票代號為 3006 ... E-mail：[REDACTED_EMAIL] ... 公開資訊觀測站 (新版) MOPS+ 整合上市櫃公司公開資訊，包括財務報告、重大訊息、股東會資料等，協助投資人快速查找完整且透明的企業資訊。
+
+#### Shareholders’ Information
+
+#### 股東會資訊
+
+查看歷年相關資料，包括年報、議事手冊與開會通知，可透過年份篩選快速找到所需資料
+
+* 全部年度
+* 2026
+* 2025
+* 2024
+* 2023
+* 2022
+* 2021
+* 2020
+* 2019
+* 2018
+* 2017
+* 2016
+* 2015
+* 2014
+* 2013
+
+115年度股東會議事錄
+
+115年度資金貸與他人或背書保證作業程序（訂定或修正）
+
+115年度公開說明書
+
+115年年報前十大股東相互間關係表
+
+115年度股東會議事手冊
+
+115年度股東會開會通知
+
+114年度年報
+
+114年度股東會議事錄
+
+114年年報前十大股東相互間關係表
+
+113年度年報
+
+#### Dividend History
+
+#### 股利資訊
+
+晶豪科技以現金或股票方式分配股利。股利並無固定形式，其金額及發放時間視每年盈餘及財務狀況而定。近年配股情形為：
+
+* 全部年度
+* 2026
+* 2025
+* 2024
+* 2023
+* 2022
+* 2021
+* 2020
+* 2019
+* 2018
+* 2017
+* 2016
+* 2015
+* 2014
+* 2013
+* 2012
+
+全部年度
+
+現金股利 (單位:元/股)
+
+左右托拉查看表格資訊
+--------------------------------------------------------------------------------
+rr-20260331 (https://www.sec.gov/Archives/edgar/data/1963685/000121390026086762/ea0296191-10q_richtech.htm)
+citeturn152search5 [wordlim: 200] Published: last month; Crawled: last month; For the quarterly period ended March 31, 2026 ... RICHTECH ROBOTICS INC.
+--------------------------------------------------------------------------------
+(ii) 財務收支及獲利能力分析 (https://www.esmt.com.tw/upload/csr/ESMT%20ESG_Final_2024.pdf)
+citeturn152search15 [wordlim: 200] Published: 1.1 years ago; (3) 研究發展狀況：2024 年研究發展支出為新台幣 1,450,799 仟元約佔營業收入 10.76%。 ... (6) 全力擴充 50nm NOR Flash 產品線及業務擴展。 ... (10) 維持穩健之財務結構。
+--------------------------------------------------------------------------------
+新聞中心 - ESMT (https://www.esmt.com.tw/tw/press-room?category=investor-Info)
+citeturn152search6 [wordlim: 200] Crawled: today; 晶豪科技將於即將到來的 Computex 2026上，聯合 Cadence、AP Memory及工研院等產業先驅，共同展示突破性的 aiPIM：DRAM記憶體內運算技術平台 、車用記憶體、高規格音訊與次世代智慧鑰匙三大突破性解決方案。 ... 工研院攜手晶豪科技（ESMT）推出AI PIM晶片，導入「記憶體內運算（PIM）」技術。 ... 17 2026 (更正115/09/04公告)代子公司誠風投資（股）公司公告取得有價證券 SEP.
+--------------------------------------------------------------------------------
+晶豪科技 - ESMT (https://www.esmt.com.tw/tw)
+citeturn152search7 [wordlim: 200] Crawled: today; 晶豪科技股份有限公司 ( Elite Semiconductor Microelectronics Technology Inc., ESMT) 成立於1998年6月，總部位於新竹科學園區，是一家國內指標性的專業IC設計領導廠商。 ... 公司治理 依公司治理規範揭露相關資訊 財務資訊 歷年財務資訊與報告 股東專區 股東會資訊及股利等投資人資訊 法人說明會 法人說明會簡報及錄影資訊 ... 秉持企業永續發展的原則，晶豪在追求經營獲利的同時，履行治理、環境與社會等面向之企業社會責任，進而提升永續經營之績效。
+--------------------------------------------------------------------------------
+<visual_element id="e1"> (https://www.esmt.com.tw/upload/FinanceReport/2024/%E6%99%B6%E8%B1%AA%E7%A7%91%E6%8A%80.2024%E5%90%88%E4%BD%B5%E5%B9%B4%E5%BA%A6.FS.AllReport%28%E5%90%AB%E9%99%84%E8%A8%BB%E9%99%84%E8%A1%A8%29.CHT.IFRS.pdf)
+citeturn152search16 [wordlim: 200] Published: 1.6 years ago; Crawled: 1.6 years ago; 112年1月1日餘額 ... 採用權益法認列之關聯企業及合資變動數 六(十九) ... <th>國外營運機構財務報表換算之兌換差額</th><th>透過其他綜合損益按公允價值衡量之金融資產未實現損益</th> ... <td>$ 6,553,259</td> ... 後附合併財務報表附註為本合併財務報告之一部分，請併同參閱。
+--------------------------------------------------------------------------------
+Home | ASE Holdings (https://www.aseglobal.com/)
+citeturn152search8 [wordlim: 200] Crawled: 2 weeks ago; #### ASE Marine Protection Project Enters Fifth Year: Connecting Taiwan for Sustainable Action on World Oceans DayJune 17, 2026
+--------------------------------------------------------------------------------
+114年第一季財務報告董事會預計召開日期為114年04月29日 - ESMT (https://www.esmt.com.tw/tw/press-room/2025042101?category=all)
+citeturn152search9 [wordlim: 200] Published: 1.4 years ago; Crawled: last month; 主旨  | 114年第一季財務報告董事會預計召開日期為114年04月29日 ... 預計提報董事會或經董事會決議之財務報告或 年度自結財務資訊年季:114年第一季 4.
+--------------------------------------------------------------------------------
+Richtech Robotics Inc. (via Public) / Quarterly Report for Quarter Ending March 31, 2026 (Form 10-Q) (https://ebs.publicnow.com/view/DC8B5306E23B16DBAA0F6D3DDCEADB9F9FF95D35)
+citeturn152search10 [wordlim: 200] Published: last month; Crawled: today; Richtech Robotics Inc. ... # Quarterly Report for Quarter Ending March 31, 2026 (Form 10-Q)
+--------------------------------------------------------------------------------
+Should I buy back (https://www.reddit.com/r/RichtechRobotics/comments/1tcubaf/should_i_buy_back/)
+citeturn152reddit17 [wordlim: 200] Published: 4 months ago; [Thursday May 14 2026] [+6 votes] ...   https://ir.richtechrobotics.com/financial-information/sec-filings/ ... Institutions keep adding every quarter...they aren't stupid, they'll just manipulate the price/news to get emotional shareholders to sell so they can buy cheaper. 48% increase last quarter for institutions....follow the big money.
+--------------------------------------------------------------------------------
+Financial Information - Taiwan Surface Mounting Technology (https://www.tsmt.com/en/financial-information)
+citeturn152search11 [wordlim: 200] Crawled: today; 2026 & 2025
+--------------------------------------------------------------------------------
+Daily Discussion Thread (https://www.reddit.com/r/RichtechRobotics/comments/1v1bzc1/daily_discussion_thread/)
+citeturn152reddit18 [wordlim: 200] Published: 2 months ago; [Monday July 20 2026] [+6 votes] ... Maybe RR already filed and just didn't say anything.   not the worst thing in the world but it'd be great if we knew what kind of financials we're dealing with, feels like they pull this every quarter.
+--------------------------------------------------------------------------------
+Why I believe RICHTECH ROBOTICS is primed to move (https://www.reddit.com/r/smallstreetbets/comments/1vezduu/why_i_believe_richtech_robotics_is_primed_to_move/)
+citeturn152reddit19 [wordlim: 200] Published: last month; 🔴The selloff: in may (2026), a massive selloff was triggered due to RR failing to submit form 10-Q for the first quarter of the year, as well as having a class action lawsuit filed against them for allegedly lying to investors about a potential commercial partnership with Microsoft, during which they also issued a share offering that netted them $38.7 million in cash runway (minus fees). ...   You do realize RR is the ticker for richtech robotics right?
+--------------------------------------------------------------------------------
+Black Rock added 6 million shares (https://www.reddit.com/r/RichtechRobotics/comments/1qjevk5/black_rock_added_6_million_shares/)
+citeturn152reddit20 [wordlim: 200] Published: 8 months ago; [Thursday January 22 2026] [+48 votes] ...   Added last quarter some time. ... Not that I don’t believe in Richtech, but I think LAES has so much more potential for the market it occupies. ...   However, I’m still keeping a bit in RR as I would like to stay invested in the US robotics space and think their RAAS model can work out long term, especially their car dealership robot service which they’re constantly refining and onboarding new customers.
+--------------------------------------------------------------------------------
+Annual Report filed (https://www.reddit.com/r/RichtechRobotics/comments/1qhz46h/annual_report_filed/)
+citeturn152reddit21 [wordlim: 200] Published: 8 months ago; Richtech Robotics Inc. ... Based on the Form 10-K filed today (January 20, 2026) and recent filings, the answer is both. ... Partnership with Microsoft, increasing R&D spending, increasing sales, increasing employees, increasing revenue and profit, quarter of a billion in cash/investments now gives them over a decade of reserves at current burn rate.
+--------------------------------------------------------------------------------
+Getting nervous about earnings report (https://www.reddit.com/r/RichtechRobotics/comments/1qbjuz4/getting_nervous_about_earnings_report/)
+citeturn152reddit22 [wordlim: 200] Published: 8 months ago; [Tuesday January 13 2026] [+10 votes] ...     Richtech Robotics Inc. ... According to Zacks Investment Research, based on 1 analysts' forecasts, the consensus EPS forecast for the quarter is $-0.03.
+--------------------------------------------------------------------------------
+RICHTECH ROBOTICS and why I believe it is a volatile powder keg ready to ignite (https://www.reddit.com/r/DeepFuckingValue/comments/1vezbk4/richtech_robotics_and_why_i_believe_it_is_a/)
+citeturn152reddit23 [wordlim: 200] Published: last month; Now, let's talk about RICHTECH. ... 🔴The selloff: in may (2026), a massive selloff was triggered due to RR failing to submit form 10-Q for the first quarter of the year, as well as having a class action lawsuit filed against them for allegedly lying to investors about a potential commercial partnership with Microsoft, during which they also issued a share offering that netted them $38.7 million in cash runway (minus fees).
+--------------------------------------------------------------------------------
+Richtech Robotics is a smouldering powder keg (https://www.reddit.com/r/10xPennyStocks/comments/1veyaqb/richtech_robotics_is_a_smouldering_powder_keg/)
+citeturn152reddit24 [wordlim: 200] Published: last month; Now, let's talk about RICHTECH. ... 🔴The selloff: in may (2026), a massive selloff was triggered due to RR failing to submit form 10-Q for the first quarter of the year, as well as having a class action lawsuit filed against them for allegedly lying to investors about a potential commercial partnership with Microsoft, during which they also issued a share offering that netted them $38.7 million in cash runway (minus fees). ...     i bought RR jan 16 2026   when Musk was pushing robotics as the future.  i am still holding because i see the future too.
+--------------------------------------------------------------------------------
+Microsoft Word - csr Report 0929final3.docx (https://esmt.com.tw/upload/csr/2020ESMT_CSR_Report.pdf)
+citeturn152search25 [wordlim: 200] Published: 5.0 years ago; Crawled: 5.0 years ago; 聯合國氣候變遷政府間專家委員會(IPCC) 指出，最快2030年時地球將升溫超過1.5°C，氣候變遷成為不容忽視的議題。晶豪科技有感於氣候變遷日益嚴重，產品生產及相關產業供應鏈間具有高度關聯，為了持續加強本公司面對氣候變遷之因應及應變能力，透過適當之方式對外揭露對環境氣候具體作為，並參考氣候相關財務揭露架構(Task Force on Climate-related Financial Disclosures, TCFD) 揭露氣候對本公司營運之風險與機會。
+--------------------------------------------------------------------------------
+Richtech Robotics - Ghost Kitchens Timeline DD (https://www.reddit.com/r/RichtechRobotics/comments/1gfvy12)
+citeturn152reddit26 [wordlim: 200] Published: 1.9 years ago; Crawled: 1.9 years ago; ChatGPT also added that the end of 2025 is a conservative yet realistic expectation for Richtech Robotics to start generating revenue across all 20 locations. ... 8-k: https://ir.richtechrobotics.com/static-files/b4891f53-6fcc-4371-9e48-c579aa241c5a ... Avoiding reverse split and further dilution of stock should be a priority and to do this they should be looking at ways to generate deals and revenue for next 2 -3 quarter to get the share price above $1
+--------------------------------------------------------------------------------
+Earnings and raas according to chat gpt (https://www.reddit.com/r/RichtechRobotics/comments/1myqef7/earnings_and_raas_according_to_chat_gpt/)
+citeturn152reddit27 [wordlim: 200] Published: 1.1 years ago;    ir.richtechrobotics.com ...    Late-2025 to Mid-2026 Timeline: The major deal and robot deployments ramping up—it’s realistic to expect that the financial benefits (i.e., improving margins and narrowing losses) will begin to meaningfully show in earnings late 2025 into mid 2026, once more robots are installed, and recurring RaaS revenue reaches critical mass. ...    Q2 FY2025 (ending March 31, 2025): Net loss widened (to $4.56M for the quarter) due to G&A skyrocketing (~276%), despite slight revenue growth.
+--------------------------------------------------------------------------------
+Richtech Robotics is a smouldering powder keg: an update (https://www.reddit.com/r/Shortsqueeze/comments/1vjbrsj/richtech_robotics_is_a_smouldering_powder_keg_an/)
+citeturn152reddit28 [wordlim: 200] Published: last month; [Sunday August 09 2026] [+56 votes] ... With over $321M net cash, zero debt, and roughly $2M per quarter in operating cash burn, the runway is measured in years, not quarters. ... Is this a social media pump and dump in the making (URL\_robotics\_is\_a\_smouldering\_powder\_keg/, https://www.reddit.com/r/Shortsqueeze/comments/1vjbrsj/richtech\_robotics\_is\_a\_smouldering\_powder\_keg\_an/, https://www.reddit.com/r/DeepFuckingValue/comments/1vhn0wv/crazy\_741\_coincidence\_in\_richtech\_robotics/, https://www.reddit.com/r/smallstreetbets/comments/1vezduu/why\_i\_believe\_richtech\_robotics\_is\_primed\_to\_move/) or a real short squeeze setup?
+--------------------------------------------------------------------------------
+Robot Orders Hold Steady in Q1 2026 as Demand Broadens Across Non-Automotive Industries (https://www.reddit.com/r/robotics/comments/1tczjwf/robot_orders_hold_steady_in_q1_2026_as_demand/)
+citeturn152reddit29 [wordlim: 200] Published: 4 months ago; A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. ... Cobots accounted for 18.1% of all robot units ordered during the quarter.

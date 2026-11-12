@@ -1,0 +1,126 @@
+SEC.gov | EDGAR Application Programming Interfaces (APIs) (https://www.sec.gov/edgar/sec-api-documentation)
+citeturn465view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/edgar/sec-api-documentation","lineno":null}); Redirected to URL: https://www.sec.gov/search-filings/edgar-application-programming-interfaces; Total lines: 124
+--------------------------------------------------------------------------------
+Federal Reserve Board - 2026 Speeches (https://www.federalreserve.gov/newsevents/2026-speeches.htm)
+citeturn465view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn464view0","pattern":"10/19/2026"}); Total lines: 682
+L545: cite98†Watch Live†www.youtube.com L546: 
+L547: Governor Christopher J. Waller
+L548: 
+L549: At The Great Realignment: Navigating AI, Demographic and Geoeconomic Change, 42nd Annual NABE Economic Policy Conference, The National Association for Business Economics, Washington, D.C.
+L550: 
+L551: 2/19/2026
+L552: 
+L553: cite99†Opening Remarks L554: 
+L555: cite100†Watch Live†atlantafed-org.zoomgov.com L556: 
+L557: Vice Chair for Supervision Michelle W. Bowman
+L558: At the Federal Reserve Bank of Atlanta 2026 Banking Outlook Conference: The Next Horizon in Banking, Atlanta, Georgia (via pre-recorded video)
+L559: 
+L560: 2/17/2026
+L561: 
+L562: cite101†What Will Artificial Intelligence Mean for the Labor Market and the Economy? L563: 
+L564: Governor Michael S. Barr
+L565: 
+L566: At the New York Association for Business Economics, New York, New York
+L567: 
+L568: 2/16/2026
+L569: 
+L570: cite102†Revitalizing Bank Mortgage Lending, One Step with Basel L571: 
+L572: cite103†Watch Live†x.com L573: 
+L574: Vice Chair for Supervision Michelle W. Bowman
+--------------------------------------------------------------------------------
+Federal Reserve Board - 2026 Speeches (https://www.federalreserve.gov/newsevents/2026-speeches.htm)
+citeturn465view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn464view0","pattern":"October 19"}); Total lines: 682
+No matching text found for "October 19"--------------------------------------------------------------------------------
+Fact Sheets – The White House (https://www.whitehouse.gov/fact-sheets/)
+citeturn465view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn464view1","pattern":"October"}); Total lines: 267
+L165: October 19, 2026
+L166: 
+L167:   * ## cite104†Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century L168: 
+L169: cite21†Fact Sheets L170: 
+L171: October 8, 2026
+L172: 
+L173:   * ## cite105†Fact Sheet: President Donald J. Trump Promotes Diesel Affordability L174: 
+L175: cite21†Fact Sheets L176: 
+L177: October 5, 2026
+L178: 
+L179:   * ## cite106†Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors L180: 
+L181: cite21†Fact Sheets L182: 
+L183: October 2, 2026
+L184:   * ## cite107†Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors L185: 
+L186: cite21†Fact Sheets L187: 
+L188: September 29, 2026
+L189: 
+L190:   * ## cite108†Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence L191: 
+L192: cite21†Fact Sheets L193: 
+L194: September 29, 2026
+L195: 
+L196:   * ## cite109†Fact Sheet: President Donald J. Trump Streamlines Access to Government Services Through America.gov L197: 
+L198: cite21†Fact Sheets L199: 
+L200: September 29, 2026
+--------------------------------------------------------------------------------
+INNODATA INC._June 30, 2026 (https://www.sec.gov/Archives/edgar/data/903651/000110465926092021/inod-20260630x10q.htm)
+citeturn465view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn461view1","pattern":"Pass-Through"}); Total lines: 1746
+No matching text found for "Pass-Through"--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1030894/000103089426000043/cls-20260630prcondensedfs.htm)
+citeturn465view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn458view1","pattern":"Cash provided by operations"}); Total lines: 477
+L160: Free cash flow is defined as cash provided by (used in) operations less the purchase of property, plant and equipment (net of proceeds from the sale of certain surplus assets, when applicable). Free cash flow does not represent residual cash flow available to Celestica for discretionary expenditures. Management uses free cash flow as a measure, in addition to GAAP cash provided by (used in) operations, to assess our operational cash flow performance.
+L215: GAAP EPS  | $  | 3.17   |  |  |  | $  | 1.82   |  |  |  | $  | 5.01   |  |  |  | $  | 2.55   |  |
+L216: Adjusted EPS (non-GAAP)  | $  | 2.54   |  |  |  | $  | 1.39   |  |  |  | $  | 4.70   |  |  |  | $  | 2.59   |  |
+L217: # of shares outstanding at period end (in millions)  | 115.0   |  |  |  | 115.0   |  |  |  | 115.0   |  |  |  | 115.0   |  |
+L218:  |  |  |  |  |  |  |  |  |  |  |
+L219: GAAP cash provided by operations  | $  | 410.9   |  |  |  | $  | 152.4   |  |  |  | $  | 767.2   |  |  |  | $  | 282.7   |  |
+L220: Purchase of property, plant and equipment, net of sales proceeds  | (263.8)  |  |  |  | (32.5)  |  |  |  | (482.2)  |  |  |  | (69.2)  |  |
+L221: Free cash flow (non-GAAP)  | $  | 147.1   |  |  |  | $  | 119.9   |  |  |  | $  | 285.0   |  |  |  | $  | 213.5   |  |
+L222:  |  |  |  |  |  |  |  |  |  |  |
+L422:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L423:  |  | Three months ended  |  | Six months ended
+L424:  |  | June 30  |  | June 30
+L425: Cash provided by (used in):  |  | 2026  |  | 2025  |  | 2026  |  | 2025
+L426: Operating activities:  |  |    |  |    |  |  |  |
+L427: Net earnings  |  | $  | 368.8   |  |  | $  | 211.0   |  |  | $  | 581.1   |  |  | $  | 297.2   |
+L428: Adjustments to reconcile net earnings to net cash flows provided by operating activities:  |  |  |  |  |  |
+L429: Depreciation and amortization  |  | 44.0   |  |  | 45.3   |  |  | 83.6   |  |  | 82.7   |
+L430: Stock-based compensation (SBC)  |  | 19.3   |  |  | 15.2   |  |  | 49.8   |  |  | 41.2   |
+L431: Total return swap (TRS) fair value adjustments  |  | (104.1)  |  |  | (97.4)  |  |  | (87.1)  |  |  | (78.3)  |
+L432: Restructuring and other charges (recoveries)  |  | —   |  |  | 0.4   |  |  | (10.0)  |  |  | 0.4   |
+L433: Unrealized losses on hedge derivatives  |  | —   |  |  | 1.3   |  |  | —   |  |  | 2.6   |
+L434: Deferred income taxes  |  | (22.0)  |  |  | (14.9)  |  |  | (48.6)  |  |  | (15.0)  |
+L435: Other  |  | (3.7)  |  |  | 12.2   |  |  | 2.8   |  |  | 18.4   |
+L436: Changes in non-cash working capital items:  |  |  |  |  |  |  |  |
+L437: Accounts receivable  |  | (170.8)  |  |  | (151.9)  |  |  | (700.1)  |  |  | (218.8)  |
+L438: Inventories  |  | (728.8)  |  |  | (129.8)  |  |  | (1,213.7)  |  |  | (157.5)  |
+L439: Other current assets  |  | (17.1)  |  |  | (9.4)  |  |  | 12.7   |  |  | (6.4)  |
+L440: Accounts payable, accrued and other current liabilities, provisions and income taxes payable  |  | 1,025.3   |  |  | 270.4   |  |  | 2,096.7   |  |  | 316.2   |
+L441: Net cash provided by operating activities  |  | 410.9   |  |  | 152.4   |  |  | 767.2   |  |  | 282.7   |
+L442:  |  |  |  |  |  |  |  |
+L443: Investing activities:  |  |  |  |  |  |  |  |
+L444:  |  |  |  |  |  |  |  |
+L445: Purchase of property, plant and equipment  |  | (263.8)  |  |  | (32.5)  |  |  | (493.3)  |  |  | (69.2)  |
+L446: Proceeds from sale of assets  |  | —   |  |  | —   |  |  | 11.1   |  |  | —   |
+L447: Other  |  | (2.5)  |  |  | (2.5)  |  |  | (2.5)  |  |  | (2.5)  |
+L448: Net cash used in investing activities  |  | (266.3)  |  |  | (35.0)  |  |  | (484.7)  |  |  | (71.7)  |
+L449:  |  |  |  |  |  |  |  |
+L450: Financing activities:  |  |  |  |  |  |  |  |
+L451: Borrowings under revolving loans  |  | 430.0   |  |  | 190.0   |  |  | 600.0   |  |  | 500.0   |
+L452: Repayments under revolving loans  |  | (430.0)  |  |  | (250.0)  |  |  | (600.0)  |  |  | (410.0)  |
+L453: Borrowings under term loans  |  | 250.0   |  |  | —   |  |  | 250.0   |  |  | —   |
+L454: Repayments under term loans  |  | (229.3)  |  |  | (4.3)  |  |  | (233.7)  |  |  | (8.7)  |
+L455: Principal payments of finance leases  |  | (2.0)  |  |  | (2.6)  |  |  | (5.0)  |  |  | (5.2)  |
+L456: Proceeds from issuance of capital stock  |  | —   |  |  | 0.3   |  |  | —   |  |  | 0.3   |
+L457: Repurchase of capital stock for cancellation  |  | —   |  |  | (40.0)  |  |  | (22.6)  |  |  | (117.7)  |
+L458: Purchase of treasury stock for SBC plans  |  | —   |  |  | —   |  |  | —   |  |  | (221.6)  |
+L459: Proceeds from TRS settlement  |  | —   |  |  | —   |  |  | —   |  |  | 98.6   |
+L460: SBC cash settlement  |  | (0.8)  |  |  | —   |  |  | (326.3)  |  |  | (156.0)  |
+L461: Debt issuance costs paid  |  | (4.8)  |  |  | —   |  |  | (4.8)  |  |  | (0.2)  |
+L462: Net cash provided by (used in) financing activities  |  | 13.1   |  |  | (106.6)  |  |  | (342.4)  |  |  | (320.5)  |
+L463:  |  |  |  |  |  |  |  |
+L464: Net increase (decrease) in cash and cash equivalents  |  | 157.7   |  |  | 10.8   |  |  | (59.9)  |  |  | (109.5)  |
+L465: Cash and cash equivalents, beginning of period  |  | 378.0   |  |  | 303.0   |  |  | 595.6   |  |  | 423.3   |
+L466: Cash and cash equivalents, end of period  |  | $  | 535.7   |  |  | $  | 313.8   |  |  | $  | 535.7   |  |  | $  | 313.8   |
+L467:  |  |  |  |  |  |  |  |
+L468: Supplemental disclosure information:  |  |  |  |  |  |  |  |
+L469: Interest paid  |  | $  | 20.8   |  |  | $  | 12.5   |  |  | $  | 39.3   |  |  | $  | 27.3   |
+L470: Net income taxes paid  |  | $  | 74.7   |  |  | $  | 50.6   |  |  | $  | 145.5   |  |  | $  | 56.2   |
+L471: Non-cash investing activity:  |  |  |  |  |  |  |  |
+L472: Unpaid purchases of property, plant and equipment at end of period  |  | $  | 180.0   |  |  | $  | 31.4   |  |  | $  | 180.0   |  |  | $  | 31.4   |
+

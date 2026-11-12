@@ -1,0 +1,694 @@
+Amkor Technology Reports Financial Results for the Second Quarter 2026 | Amkor Technology (https://ir.amkor.com/news-releases/news-release-details/amkor-technology-reports-financial-results-second-quarter-2026)
+citeturn177search0 [wordlim: 200] Published: 2 months ago; Crawled: last week; Amkor Technology Reports Financial Results for the Second Quarter 2026 ... “Amkor delivered record second quarter revenue and strong profitability, with record revenue in our Computing and Automotive & Industrial end markets,” said Kevin Engel, president and chief executive officer. ...   * Full year 2026 capital expenditures of approximately $2.5 billion to $3.0 billion
+
+Amkor Technology Reports Financial Results for the Second Quarter 2026
+
+TEMPE, Ariz.--(BUSINESS WIRE)--Jul. 27, 2026-- Amkor Technology, Inc. (Nasdaq: AMKR), a leading provider of semiconductor packaging and test services, today announced financial results for the second quarter ended June 30, 2026.
+
+Record Second Quarter 2026 Highlights
+
+  * Net sales $1.90 billion, up 26% year-on-year
+  * Gross profit $319 million, operating income $200 million
+  * Net income $174 million, earnings per diluted share $0.70
+  * EBITDA $400 million
+
+“Amkor delivered record second quarter revenue and strong profitability, with record revenue in our Computing and Automotive & Industrial end markets,” said Kevin Engel, president and chief executive officer. “During the first half of 2026, we expanded strategic partnerships across the semiconductor ecosystem, advanced key customer programs in AI and HPC, and continued the expansion of our Advanced packaging and test capacity. We expect these actions will strengthen our competitive position, increase our earnings power, and create sustainable shareholder value.”
+
+Quarterly Financial Results
+
+($ in millions, except per share data)  |    | Q2 2026  |    | Q1 2026  |    | Q2 2025 (2)
+Net sales  |    | $1,898  |    | $1,685  |    | $1,511
+Gross margin  |    | 16.8%  |    | 14.2%  |    | 12.0%
+Operating income  |    | $200  |    | $100  |    | $92
+Operating income margin  |    | 10.5%  |    | 6.0%  |    | 6.1%
+Net income attributable to Amkor  |    | $174  |    | $83  |    | $54
+Earnings per diluted share  |    | $0.70  |    | $0.33  |    | $0.22
+EBITDA (1)  |    | $400  |    | $285  |    | $259
+ |  |  |  |  |  |  
+(1) EBITDA is a non-GAAP measure. The reconciliation to the comparable GAAP measure is included below under “Selected Operating Data.”
+ |  |  |  |  |  |  
+(2) During the three months ended June 30, 2025, our results include a $32 million net benefit to operating income and EBITDA due to a contingency payment related to our acquisition of Nanium in May 2017. Net income and earnings per diluted share also include a $16 million and $0.07 benefit, respectively.
+
+--------------------------------------------------------------------------------
+Tempus Reports Second Quarter 2026 Results | Tempus AI (https://investors.tempus.com/news-releases/news-release-details/tempus-reports-second-quarter-2026-results)
+citeturn177search1 [wordlim: 200] Published: 2 months ago; Crawled: last week; Tempus Reports Second Quarter 2026 Results ... These forward-looking statements are subject to risks and uncertainties related to: the intended use of Tempus’ products and services; Tempus’ financial performance; the ability to attract and retain customers and partners; managing Tempus’ growth and future expenses; competition and new market entrants; compliance with new laws, regulations and executive actions, including any evolving regulations in the artificial intelligence space; the ability to maintain, protect and enhance Tempus’ intellectual property; the ability to attract and retain qualified team members and key personnel; the ability to repay or refinance outstanding debt, or to access additional financing; future acquisitions, divestitures or investments, including Tempus' ability to consummate the acquisition of Personalis on the contemplated terms or at all and Tempus’ ability to realize the expected benefits of the acquisition of Paige AI, Ambry Genetics, Deep 6 AI and, if consummated, Personalis; the potential adverse impact of climate change, natural disasters, health epidemics, macroeconomic conditions, trade tensions and tariffs, and war or other armed conflict, as well as risks, uncertainties, and other factors described in the section titled “Risk Factors” in Tempus’ Form 10-K for the year ended December 31, 2025, filed with the Securities and Exchange Commission (“the SEC”) on February 24, 2026, as well as in other filings Tempus may make with the SEC from time to time.
+
+# Release Details
+
+## 
+
+Tempus Reports Second Quarter 2026 Results
+
+July 30, 2026
+
+PDF Version
+
+CHICAGO--(BUSINESS WIRE)--Jul. 30, 2026-- Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended June 30, 2026.
+
+“Q2 was another exceptional quarter for us,” said Eric Lefkofsky, Founder and CEO of Tempus. “Our strategy is working given the investments we have made in AI over the past several years are driving some of the best growth rates we have seen in our two largest businesses - Oncology Diagnostics and Data Licensing.”
+
+Second Quarter 2026 Highlights
+
+  * Total revenue of $382.5 million, up 22% year-over-year
+  * Oncology volume growth of 31% year-over-year, up from 28% last quarter
+  * Molecular residual disease (MRD) volume was 9,000 tests, up from 6,500 last quarter
+  * Data Licensing & Modeling (Insights) revenue up 36% year-over-year
+  * Signed ~$200 million in new Data and Applications licenses
+  * FDA approved xT Tumor Only which will migrate tissue testing to ADLT pricing
+  * Successfully delivered our first oncology foundation model to AstraZeneca
+  * Completed a $460 million offering of 0.0% convertible senior notes due 2032
+  * GAAP net income of $5.6 million and Adjusted EBITDA of $8.0 million
+  * Cash and marketable securities of $820.7 million as of June 30, 2026
+  * Increasing revenue guidance to $1.595 to $1.605 billion for 2026 and expect full year Adjusted EBITDA of ~$65 million
+
+On July 20, 2026, Tempus also announced an agreement to acquire Personalis, a leader in the tumor-informed MRD space. “Through our existing collaboration with Personalis, we have already demonstrated the strength of combining highly sensitive MRD technology with our commercial infrastructure,” said Mr. Lefkofsky. “With clinical adoption and reimbursement momentum building, we believe we are collectively well positioned to capture this opportunity, which makes this acquisition particularly exciting.”
+
+Second Quarter 2026 Summary Results
+
+  * Revenue increased 22% year-over-year to $382.5 million.
+    * Diagnostics generated $289.3 million of revenue, representing 20% year-over-year growth, driven by Oncology volume growth of 31%, offset by Hereditary revenue growth of 5%.
+    * Data and Applications generated $93.2 million of revenue, representing 28% year-over-year growth, with Insights growing 36%.
+  * Gross profit increased 26% year-over-year to $246.5 million, led by growth in Data and Applications.
+  * Net income was $5.6 million, which included $55.6 million of stock compensation expense and related employer payroll taxes and $98.5 million in unrealized gains on marketable securities, compared to a net loss of $(42.8 million) in Q2 of 2025.
+  * Adjusted EBITDA was $8.0 million, compared to ($5.6 million) in Q2 of 2025.
+  * $820.7 million in cash and marketable securities as of June 30, 2026.
+
+Recent Operational Highlights
+
+  * Entered into a definitive agreement to acquire Personalis for $16.25 per share (~$1.5 billion enterprise value), tightly integrating its ultrasensitive NeXT Personal® MRD technology into Tempus' diagnostic platform
+
+Second Quarter Financial Results
+
+   |    | Three Months Ended June 30,  |    |    |    |  
+   |    | 2026  |    |    | 2025  |    |    | Change  |  
+   |    | (in thousands, except percentages and per share amounts)  |    |    |    |  
+   |    | (unaudited)  |    |    |    |  
+Revenue  |    | $  | 382,486  |    |    | $  | 314,635  |    |    |    | 22  | %
+Gross profit  |    | $  | 246,498  |    |    | $  | 195,039  |    |    |    | 26  | %
+Loss from operations  |    | $  | (75,913  | )  |    | $  | (61,774  | )  |    |    | 23  | %
+Non-GAAP loss from operations  |    | $  | (2,708  | )  |    | $  | (17,036  | )  |    |    | (84  | )%
+Net income (loss)  |    | $  | 5,642  |    |    | $  | (42,843  | )  |    |    | 113  | %
+Non-GAAP net loss  |    | $  | (7,726  | )  |    | $  | (37,327  | )  |    |    | (79  | )%
+Adjusted EBITDA  |    | $  | 8,044  |    |    | $  | (5,580  | )  |    |    | 244  | %
+Net income (loss) per share, basic  |    | $  | 0.03  |    |    | $  | (0.25  | )  |    |    | 112  | %
+Non-GAAP net loss per share, basic  |    | $  | (0.04  | )  |    | $  | (0.22  | )  |    |    | (82  | )%
+
+--------------------------------------------------------------------------------
+Quarterly Results | Amkor Technology (https://ir.amkor.com/financial-information/quarterly-results)
+citeturn177search2 [wordlim: 200] Crawled: 5 days ago;   * Amkor Technology Reports Financial Results for the Second Quarter 2026 127.4 KB  * Amkor Technology Earnings Presentation 2Q 2026 1 MB
+
+## 2026 Results
+
+### Second Quarter
+
+  * Amkor Technology Reports Financial Results for the Second Quarter 2026 127.4 KB
+
+  * Amkor Technology Earnings Presentation 2Q 2026 1 MB
+
+  * 2026 2Q Amkor Transcript 9 MB
+
+  * Form 10-Q
+
+### First Quarter
+
+  * Amkor Technology Reports Financial Results for the First Quarter 2026 120.5 KB
+
+  * Amkor Technology Earnings Presentation 1Q 2026 1 MB
+
+  * 2026 1Q Amkor Transcript 212.6 KB
+
+  * Form 10-Q
+
+## 2025 Results
+
+### Fourth Quarter
+
+  * Amkor Technology Reports Financial Results for the Fourth Quarter 2025 117.6 KB
+
+  * Amkor Technology Earnings Presentation 4Q 2025 1 MB
+
+  * 2025 4Q Amkor Transcript 215.9 KB
+
+  * Form 10-K
+
+### Third Quarter
+
+  * Amkor Technology Reports Financial Results for the Third Quarter 2025 1.6 MB
+
+  * Amkor Technology Earnings Presentation 3Q 2025 907.1 KB
+
+  * 2025 3Q Amkor Transcript 11.7 MB
+--------------------------------------------------------------------------------
+Investor Relations | Tempus AI (https://investors.tempus.com/)
+citeturn177search3 [wordlim: 200] Crawled: yesterday; ## Q2 2026 Results ... Tempus Second Quarter 2026 Earnings Conference Call
+
+Tempus Next
+
+Next is an AI-enabled care pathway platform that helps providers deliver the next step in a patient’s care journey
+
+## Company Highlights
+
+Improving patient care through high-quality testing, clinical trial matching, and deep research data that powers scientific discovery
+
+~65%
+
+of US academic medical centers are connected to Tempus
+
+~55%
+
+of US oncologists are connected to Tempus
+
+45 M+
+
+research records to power scientific discovery
+
+45 K+
+
+patients identified for potential clinical trial matching
+
+500+
+
+petabytes of data stored in our cloud environment
+
+95%
+
+of top pharma companies (based on 2025 revenue data)
+
+## News Releases
+
+Tempus Receives FDA Clearance for its ECG-MR AI Product Designed to Identify Undiagnosed Mitral Regurgitation
+
+09/28/2026
+
+Read More
+
+Tempus and Recursion Extend Existing Data License Agreement and Enter New License Agreement for Recursion’s RNA Foundation Model
+
+09/21/2026
+
+Read More
+
+Tempus Launches Effort to Build the Largest Multimodal Whole-Genome Dataset to Advance AI-Driven Healthcare Innovation
+
+09/11/2026
+
+Read More
+
+## Recent Reports
+
+Tempus 2Q26 Corporate Deck 3 MB
+
+## Quarterly Results
+
+## Q2 2026 Results
+
+  * Webcast
+
+  * Q2 2026 Results
+
+  * Q2 2026 Overview 308.8 KB
+
+## Events
+
+More events are coming soon.
+
+### Past Events
+
+Morgan Stanley 24th Annual Global Healthcare Conference
+
+09/15/2026 8:30 AM EDT
+
+### Past Events
+
+Tempus Second Quarter 2026 Earnings Conference Call
+
+07/30/2026 4:30 PM EDT
+
+### Past Events
+
+Tempus AI Company Update
+
+07/20/2026 9:00 AM EDT
+
+## Investor Contact
+
+Elizabeth Krutoholow
+
+VP, Investor Relations and Competitive Intelligence
+
+drafts [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Nokia Corporation Report for Q2 and Half Year 2026 (https://www.nokia.com/newsroom/nokia-corporation-report-for-q2-and-half-year-2026/)
+citeturn177search4 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; We enter the second half with momentum and remain on track to deliver somewhat above the midpoint of our comparable operating profit guidance. ... FINANCIAL RESULTS ... ^{1 }Please refer to Alternative performance measures section in Nokia Corporation Report for Q2 and Half Year 2026 for a full explanation of how this term is defined. ... As a result Nokia's comparable operating profit guidance range is now EUR 2.1 to 2.6 billion (was EUR 2.0 to 2.5 billion).
+
+23
+
+July
+
+2026
+
+|
+
+05:00 AM
+
+Europe/Amsterdam
+
+# Nokia Corporation Report for Q2 and Half Year 2026
+
+Nokia Corporation
+Half Year financial report
+23 July 2026 at 08:00 EEST
+
+Nokia Corporation Report for Q2 and Half Year 2026
+
+Solid Q2 fueled by growing AI & Cloud demand
+
+  * Q2 net sales grew 9% y-o-y on a constant currency basis (+8% reported).
+  * Network Infrastructure net sales grew 12% y-o-y on a constant currency basis, led by Optical Networks growing 20% and IP Networks growing 16%. Net sales to AI & Cloud customers grew 105%.
+  * Mobile Infrastructure net sales grew with a stable year-on-year profit contribution driven by product mix.
+  * Q2 comparable gross margin expanded 70bps y-o-y to 46.0%. Reported gross margin rose 60bps to 44.6%.
+  * Q2 comparable operating margin increased 70bps y-o-y to 9.0%. Reported operating margin declined 430bps to (1.0)% due to a faster pace of restructuring.
+  * Q2 comparable diluted EPS for the period of EUR 0.07; reported diluted EPS for the period of EUR 0.00.
+  * Nokia has reclassified two businesses previously in its Portfolio Businesses segment into discontinued operations.
+--------------------------------------------------------------------------------
+Investor Relations | Amkor Technology (https://ir.amkor.com/)
+citeturn177search5 [wordlim: 200] Crawled: 5 days ago;   * Amkor Technology Reports Financial Results for the Second Quarter 2026 127.4 KB  * Amkor Technology Earnings Presentation 2Q 2026 1 MB
+
+## Investor Overview
+
+Amkor Technology, Inc. is one of the world’s largest providers of outsourced semiconductor packaging and test services. Founded in 1968, Amkor pioneered the outsourcing of IC packaging and test and is now a strategic manufacturing partner for the world’s leading semiconductor companies, foundries and electronics OEMs. Amkor’s operational base includes production facilities, product development centers and sales and support offices located in key electronics manufacturing regions in Asia, Europe and the USA.
+
+  * Day High
+  * Day Low
+  * Volume
+Sep 24, 2026 4:57 PM EDT
+
+Minimum 15 minutes delayed. Source: LSEG
+
+## Current Financial Reports
+
+  * Amkor Technology Reports Financial Results for the Second Quarter 2026 127.4 KB
+
+  * Amkor Technology Earnings Presentation 2Q 2026 1 MB
+
+  * 2026 2Q Amkor Transcript 9 MB
+
+  * Form 10-Q
+
+View All
+
+## Investor Relations Presentations
+
+Amkor Technology Overview 2026
+
+Amkor Technology Earnings Presentation 2Q 2026
+
+Amkor Technology 2026 Investor Day
+
+View All
+
+## Webcasts
+
+Goldman Sachs Communacopia + Technology Conference
+
+09/09/26 08:10 am PDT
+
+View All
+
+## Amkor Corporate Video
+
+Image: Wistia video thumbnail--------------------------------------------------------------------------------
+Tempus Reports Second Quarter 2026 Results (https://investors.tempus.com/node/10411/pdf)
+citeturn177search12 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Tempus Reports Second Quarter 2026 Results ... Second Quarter 2026 Summary Results
+TEMPUS
+
+Tempus Reports Second Quarter 2026 Results
+
+July 30, 2026
+
+CHICAGO--(BUSINESS WIRE)--Jul. 30, 2026-- Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended June 30, 2026.
+
+“Q2 was another exceptional quarter for us,” said Eric Lefkofsky, Founder and CEO of Tempus. “Our strategy is working given the investments we have made in AI over the past several years are driving some of the best growth rates we have seen in our two largest businesses - Oncology Diagnostics and Data Licensing.”
+
+Second Quarter 2026 Highlights
+
+- Total revenue of $382.5 million, up 22% year-over-year
+- Oncology volume growth of 31% year-over-year, up from 28% last quarter
+- Molecular residual disease (MRD) volume was 9,000 tests, up from 6,500 last quarter
+- Data Licensing & Modeling (Insights) revenue up 36% year-over-year
+- Signed ~$200 million in new Data and Applications licenses
+- FDA approved xT Tumor Only which will migrate tissue testing to ADLT pricing
+- Successfully delivered our first oncology foundation model to AstraZeneca
+- Completed a $460 million offering of 0.0% convertible senior notes due 2032
+- GAAP net income of $5.6 million and Adjusted EBITDA of $8.0 million
+- Cash and marketable securities of $820.7 million as of June 30, 2026
+- Increasing revenue guidance to $1.595 to $1.605 billion for 2026 and expect full year Adjusted EBITDA of ~$65 million
+
+On July 20, 2026, Tempus also announced an agreement to acquire Personalis, a leader in the tumor-informed MRD space. “Through our existing collaboration with Personalis, we have already demonstrated the strength of combining highly sensitive MRD technology with our commercial infrastructure,” said Mr. Lefkofsky. “With clinical adoption and reimbursement momentum building, we believe we are collectively well positioned to capture this opportunity, which makes this acquisition particularly exciting.”
+
+Second Quarter 2026 Summary Results
+
+- Revenue increased 22% year-over-year to $382.5 million.
+--------------------------------------------------------------------------------
+Press Releases | Investor Relations | Amkor Technology (https://ir.amkor.com/press-releases)
+citeturn177search6 [wordlim: 200] Crawled: last week; 07/27/26  | Amkor Technology Reports Financial Results for the Second Quarter 2026 ... 01/20/26  | Amkor Technology to Announce Fourth Quarter and Full Year 2025 Financial Results on February 9, 2026
+
+Press Releases
+
+Year [Select]
+
+[Input] [Input] [Input] [Input]
+
+Date  | Title
+--- | ---
+09/08/26  | Amkor Technology Announces Phase 2 of Arizona Advanced Packaging and Test Campus; Expands Investment to $12 Billion
+09/02/26  | Amkor Technology to Present at the Goldman Sachs Communacopia + Technology Conference
+08/12/26  | Amkor Technology Declares Quarterly Dividend
+07/27/26  | Amkor Technology Reports Financial Results for the Second Quarter 2026
+07/23/26  | Amkor Technology Announces Strategic Partnership with NVIDIA to Expand Advanced Packaging and Test for Next-Generation AI Infrastructure
+07/07/26  | Amkor Technology to Announce Second Quarter 2026 Financial Results on July 27, 2026
+06/16/26  | TSMC and Amkor Technology Announce Long Term Partnership to Accelerate Advanced Packaging in the United States
+05/21/26  | Amkor Technology to Host 2026 Investor Day and Ring Nasdaq Closing Bell
+05/19/26  | 【8†Amkor Technology Expands U.S. --------------------------------------------------------------------------------
+Reports and filings | Nokia.com (https://www.nokia.com/about-us/investors/results-reports/)
+citeturn177search7 [wordlim: 200] Crawled: 5 days ago; ### Q2 earnings release (PDF) ... Report for Q2 2026: Solid Q2 fueled by growing AI & Cloud demand ... ### Nokia provides recast comparative segment results for 2025 and 2024 reflecting new operating and financial reporting structure
+
+# Reports and filings
+
+Our latest financial performance and archive of past results
+
+Image: Hq
+
+### Q2 earnings release (PDF)
+
+Image: ribbon
+
+### Q2 presentation
+
+Image: roads
+
+### Q2 webcast
+
+Image: graph
+
+### Q2 tables (Excel)
+
+Image: colors
+
+### Q2 fact sheet (PDF)
+
+Report for Q2 2026: Solid Q2 fueled by growing AI & Cloud demand
+
+### Q2 highlights
+
+€4.8bn
+
+Net sales (comparable)
+
+46.0%
+
+Gross margin (comparable)
+
+9.0%
+
+Operating margin (comparable)
+
+€0.07
+
+EPS, diluted (comparable)
+
+€2.8bn
+
+Net cash and interest-bearing financial investments
+
+€5.2bn
+
+Total cash and interest-bearing financial investments
+
+Full details in the Q2 earnings release, available above.
+
+## Performance archive
+
+A full archive of our past quarterly results and annual reports for download, including our mandatory Sustainability Statement (prepared as of 2024 in accordance with the European Sustainability Reporting Standards), as well as our past voluntary sustainability reports under the name "People & Planet".
+--------------------------------------------------------------------------------
+Financial Information | Tempus AI (https://investors.tempus.com/financials/financial-information)
+citeturn177search8 [wordlim: 200] Crawled: 4 days ago;   * Q2 2026 Results ... drafts [REDACTED_EMAIL]
+
+# Financial Information
+
+Show all
+
+## 2026
+
+### Q2
+
+  * Webcast
+
+  * Q2 2026 Results
+
+  * Q2 2026 Overview 308.8 KB
+
+### Q1
+
+  * Webcast
+
+  * Q1 2026 Results
+
+  * Q1 2026 Overview 317.9 KB
+
+## 2025
+
+### Q4
+
+  * Webcast
+
+  * Q4 2025 Results
+
+  * Q4 2025 Overview 363 KB
+
+### Q3
+
+  * Webcast
+
+  * Q3 2025 Results
+
+  * Q3 2025 Overview 372.8 KB
+
+  * Form 10-Q
+
+### Q2
+
+  * Webcast
+
+  * Q2 2025 Results
+
+  * Q2 2025 Overview 355.2 KB
+
+  * Form 10-Q
+
+### Q1
+
+  * Webcast
+
+  * Q1 2025 Results
+
+  * Q1 2025 Overview 325.5 KB
+
+  * Form 10-Q
+
+## 2024
+
+### Q4
+
+  * Webcast
+
+  * Q4 2024 Results
+
+  * Q4 2024 Overview 292.5 KB
+
+  * Form 10-K
+
+### Q3
+
+  * Webcast
+
+  * Q3 2024 Results
+
+  * Q3 2024 Overview 212.5 KB
+
+  * Form 10-Q
+
+### Q2
+
+  * Webcast
+
+  * Q2 2024 Overview 134.8 KB
+
+  * Q2 2024 Results
+
+  * Form 10-Q
+
+## Investor Contact
+
+Elizabeth Krutoholow
+
+VP, Investor Relations and Competitive Intelligence
+
+drafts [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Events | Tempus AI (https://investors.tempus.com/news-events/investor-events)
+citeturn177search9 [wordlim: 200] Crawled: 5 days ago; Tempus Second Quarter 2026 Earnings Conference Call
+
+# Events
+
+## Upcoming Events
+
+More events are coming soon.
+
+## Past Events
+
+Morgan Stanley 24th Annual Global Healthcare Conference
+
+09/15/2026 8:30 AM EDT
+
+Click here for webcast
+
+Tempus Second Quarter 2026 Earnings Conference Call
+
+07/30/2026 4:30 PM EDT
+
+Click here for webcast
+
+Tempus 2Q26 Corporate Deck 3 MB
+
+Q2 2026 Overview 308.8 KB
+
+Tempus AI Company Update
+
+07/20/2026 9:00 AM EDT
+
+Click here for webcast
+
+Tempus Acquisition of PSNL Investor Deck 1.6 MB
+
+Goldman Sachs 47th Annual Global Healthcare Conference
+
+06/08/2026 2:00 PM EDT
+
+Click here for webcast
+
+Tempus AI Investor Day
+
+05/29/2026 9:00 AM EDT
+
+Click here for webcast
+
+Tempus AI Investor Day Presentation 26.7 MB
+
+Tempus First Quarter 2026 Earnings Conference Call
+
+05/05/2026 4:30 PM EDT
+--------------------------------------------------------------------------------
+News Releases | Tempus AI (https://investors.tempus.com/news-events/news-releases)
+citeturn177search10 [wordlim: 200] Crawled: yesterday; Tempus Reports Second Quarter 2026 Results
+
+ECG-PH clearance adds pulmonary hypertension to Tempus’ FDA -cleared AI products for atrial fibrillation and low ejection fraction CHICAGO --(BUSINESS WIRE)--Aug. 24, 2026-- Tempus AI, Inc. (NASDAQ: TEM) today announced it has received 510(k) clearance from the U.S.
+
+8/4/2026
+
+Tempus Study Published in Nature Medicine Demonstrates Best-in-Class Performance of PRISM2 Across Diagnostic and Prognostic Applications
+
+Tempus' multimodal foundation model offers diagnostic-grade precision for cancer detection and unlocks broader applications predicting biomarker status and patient prognosis CHICAGO --(BUSINESS WIRE)--Aug. 4, 2026-- Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to
+
+7/30/2026
+
+Tempus Reports Second Quarter 2026 Results
+
+CHICAGO --(BUSINESS WIRE)--Jul. 30, 2026-- Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended June 30, 2026. “Q2 was another exceptional quarter for us,” said Eric Lefkofsky, Founder
+
+7/22/2026
+
+Tempus Announces National Launch of OneOme Pharmacogenomics Testing, Advancing Patient Safety and Precision Medicine
+
+CHICAGO --(BUSINESS WIRE)--Jul. 22, 2026-- Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine and patient care, today announced the national launch of its OneOme pharmacogenomics (PGx) testing solution, delivering advanced genetic insights
+
+7/20/2026
+
+Tempus to Acquire Personalis, More Tightly Integrating Molecular Residual Disease (MRD) into Its AI-Enabled Precision Oncology Platform
+
+Acquisition brings together Personalis’ MRD technology with Tempus’ commercial scale, multimodal data and AI platform to advance cancer monitoring, deepen insights and accelerate growth Expands Tempus’ reach across the cancer care continuum and accelerates access to industry-leading technology--------------------------------------------------------------------------------
+AMKR 6.30.2026 ER EX-99.1 (https://ir.amkor.com/static-files/202be5d9-a98f-4eec-b33a-1ca37bbbfb29)
+citeturn177search13 [wordlim: 200] Published: 2 months ago; Amkor Technology Reports Financial Results for the Second Quarter 2026 ... “Amkor delivered record second quarter revenue and strong profitability, with record revenue in our Computing and Automotive & Industrial end markets," said Kevin Engel, president and chief executive officer.
+Amkor Technology Reports Financial Results for the Second Quarter 2026
+
+TEMPE, Ariz. -- July 27, 2026 -- Amkor Technology, Inc. (Nasdaq: AMKR), a leading provider of semiconductor packaging and test services, today announced financial results for the second quarter ended June 30, 2026.
+
+Record Second Quarter 2026 Highlights
+- Net sales $1.90 billion, up 26% year-on-year
+- Gross profit $319 million, operating income $200 million
+- Net income $174 million, earnings per diluted share $0.70
+- EBITDA $400 million
+
+“Amkor delivered record second quarter revenue and strong profitability, with record revenue in our Computing and Automotive & Industrial end markets," said Kevin Engel, president and chief executive officer. "During the first half of 2026, we expanded strategic partnerships across the semiconductor ecosystem, advanced key customer programs in AI and HPC, and continued the expansion of our Advanced packaging and test capacity. We expect these actions will strengthen our competitive position, increase our earnings power, and create sustainable shareholder value.”
+--------------------------------------------------------------------------------
+Investor relations | Nokia.com (https://www.nokia.com/about-us/investors/)
+citeturn177search11 [wordlim: 200] Crawled: 2 weeks ago; Nokia Q2 results on 23 July 2026 at approximately 8 a.m. and analyst webcast at 3:00 p.m. ... Nokia to webcast media, investor and analyst event from OFC 2026 on 18 March 2026 ... ### Q2 earnings release (PDF)
+
+# Investor relations
+
+Image: City
+
+Investor relations
+
+  * IR home
+  * IR events
+
+    * IR events
+    * Capital Markets Day
+
+  * Reports and filings
+
+    * Reports and filings
+    * Annual report 2025
+    * SEC filings
+
+  * Stock info
+
+    * Stock information
+    * Dividend
+    * Share repurchases
+    * Stock tools
+    * Consensus and analyst coverage
+    * Split history
+    * Management shareholding
+    * Number of shares
+    * Biggest shareholders
+    * IRS Form 8937
+    * Acquisitions and divestments
+
+  * Debt info
+
+    * Debt info
+    * Debt downloads
+
+  * News
+  * IR team
+
+## Nokia Q2 results
+
+Nokia Q2 results on 23 July 2026 at approximately 8 a.m. and analyst webcast at 3:00 p.m. Finnish time (EEST)
+
+Webcast
+
+--------------------------------------------------------------------------------
+TEM Q2'26 Financial Results (https://investors.tempus.com/static-files/feb11be8-6e62-4cdd-88c8-2cfdbb2156c3)
+citeturn177search14 [wordlim: 200] Crawled: last month; TEMPUSQ2’26 Financial ResultsJuly 30, 2026
+TEMPUS
+
+Q2’26 Financial Results
+
+July 30, 2026--------------------------------------------------------------------------------
+Q2 2026 Financial Results (https://ir.amkor.com/static-files/24ab31c3-a74b-4dde-8591-904204b5b0b9)
+citeturn177search15 [wordlim: 200] Published: 2 months ago; Q2 2026 Financial Results ... © 2026 Amkor Technology, Inc.
+--------------------------------------------------------------------------------
+Nokia_ Earnings_release_English (https://www.nokia.com/system/files/2026-04/nokia_results_2026_q1.pdf)
+citeturn177search16 [wordlim: 200] Published: 5 months ago; Financial Results ... On a constant currency and portfolio basis, Nokia's comparable net sales increased 4%, driven by 6% growth in Network Infrastructure. ... In Q1 2025, the difference between reported and comparable profit was mainly due to the change in fair value of Infinera convertible notes of negative EUR 29 million, the fair value reduction of current equity investments in Vodafone Idea of EUR 13 million, as well as the change in financial liability to acquire non-controlling interest in Nokia Shanghai Bell of negative EUR 7 million.**Earnings per share** ... During Q1 2026, net cash increased by EUR 410 million, resulting in an end-of-quarter net cash balance of EUR 3 788 million.
+

@@ -1,0 +1,159 @@
+nvt-20260630 (https://www.sec.gov/Archives/edgar/data/1720635/000162828026051428/nvt-20260630.htm)
+citeturn462view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn461view0","pattern":"Net sales"}); Total lines: 1664
+L1362:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L1363:  | Three months ended  |  |  |  | Six months ended  |  |
+L1364: In millions  | June 30,
+L1365: 2026  | June 30,
+L1366: 2025  |  | % / point change  |  | June 30,
+L1367: 2026  | June 30,
+L1368: 2025  |  | % / point change
+L1369: Net sales  | $  | 1,072.1   |  | $  | 632.0   |  |  | 69.6   | %  |  | $  | 1,966.9   |  | $  | 1,140.2   |  |  | 72.5  | %
+L1370: Segment income  | 248.2   |  | 137.1   |  |  | 81.0   | %  |  | 451.3   |  | 241.3   |  |  | 87.0  | %
+L1371:       % of net sales  | 23.2   | %  | 21.7   | %  |  | 1.5   |  pts  |  | 22.9   | %  | 21.2   | %  |  | 1.7   |  pts
+L1372: Net sales
+L1373: 
+L1374: The components of the change in Systems Protection net sales from the prior period were as follows:
+L1375: 
+L1376:  |  |  |  |  |  |  |  |
+L1377:  | Three months ended June 30, 2026  | Six months ended June 30, 2026
+L1378:  | over the prior year period  | over the prior year period
+L1379:  |  |
+L1380:  |  |
+L1381: Organic growth  | 62.0   | %  | 56.7   | %
+L1382: Acquisition  | 7.2   |  | 14.6  |
+L1383: Currency  | 0.4   |  | 1.2   |
+L1384: Total  | 69.6   | %  | 72.5  | %
+L1385: The 69.6 and 72.5 percent increases in Systems Protection net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+L1386: 
+L1387: •organic sales growth contribution of approximately 62.5% and 55.0% from our infrastructure business in the second quarter and first half of 2026 from 2025, respectively, which includes selective increases in selling prices and growth in the data centers business; and
+L1388: •sales of $45.2 million and $166.2 million in the second quarter and first half of 2026, respectively, as a result of the Electrical Products Group acquisition.
+L1389: 
+L1390: Segment income
+L1391: 
+L1392: The 1.5 and 1.7 percentage point increases in segment income for Systems Protection as a percentage of net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+L1393: 
+L1394: •organic sales growth resulting in increased leverage on fixed expenses; and
+L1395: •increased productivity as a result of supply chain management and manufacturing efficiencies.
+L1396: 
+L1397: 29
+L1398: 
+L1399: * * *
+L1400: 
+L1401: These increases were partially offset by:
+L1402: 
+L1403: •inflationary increases, including the impacts related to tariffs, primarily related to labor costs and raw materials, compared to 2025;
+L1404: 
+L1405: •unfavorable product mix; and
+L1406: 
+L1407: •investments in capacity, new products and digital to drive growth.
+L1408: 
+L1409: Electrical Connections
+L1410: The net sales, segment income and segment income as a percentage of net sales for Electrical Connections were as follows:
+L1411:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L1412:  | Three months ended  |  |  |  | Six months ended  |  |
+L1413: In millions  | June 30,
+L1414: 2026  | June 30,
+L1415: 2025  |  | % / point change  |  | June 30,
+L1416: 2026  | June 30,
+L1417: 2025  |  | % / point change
+L1418: Net sales  | $  | 399.2   |  | $  | 331.1   |  |  | 20.6   | %  |  | $  | 746.4   |  | $  | 632.2   |  |  | 18.1   | %
+L1419: Segment income  | 108.8   |  | 94.9   |  |  | 14.6   | %  |  | 193.6   |  | 180.0   |  |  | 7.6   | %
+L1420:       % of net sales  | 27.3   | %  | 28.7  | %  |  | (1.4)  |  pts  |  | 25.9  | %  | 28.5  | %  |  | (2.6)  |  pts
+L1421:  |  |  |  |  |  |  |  |  |
+L1422: Net sales
+L1423: 
+L1424: The components of the change in Electrical Connections net sales from the prior period were as follows:
+L1425: 
+L1426:  |  |  |  |  |  |  |  |
+L1427:  | Three months ended June 30, 2026  | Six months ended June 30, 2026
+L1428:  | over the prior year period  | over the prior year period
+L1429:  |  |
+L1430:  |  |
+L1431: Organic growth  | 17.9   | %  | 13.1   | %
+L1432: Acquisition  | 1.9   |  | 3.7   |
+L1433: Currency  | 0.8   |  | 1.3   |
+L1434: Total  | 20.6   | %  | 18.1   | %
+L1435: The 20.6 and 18.1 percent increases in Electrical Connections net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+--------------------------------------------------------------------------------
+nvt-20260630 (https://www.sec.gov/Archives/edgar/data/1720635/000162828026051428/nvt-20260630.htm)
+citeturn462view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn461view0","pattern":"Net cash provided"}); Total lines: 1664
+L249: Net cash provided by (used for) operating activities of continuing operations  | 278.7   |  | 154.9   |
+L250: Net cash provided by (used for) operating activities of discontinued operations  | (10.0)  |  | (111.6)  |
+L251: Net cash provided by (used for) operating activities  | 268.7   |  | 43.3   |
+L252: Investing activities  |  |
+L253: Capital expenditures  | (57.6)  |  | (38.0)  |
+L254: Proceeds from sale of property and equipment  | —   |  | 1.6   |
+L255:  |  |
+L256:  |  |
+L257:  |  |
+L258: Acquisitions, net of cash acquired  | —   |  | (971.6)  |
+L259:  |  |
+L260: Net cash provided by (used for) investing activities of continuing operations  | (57.6)  |  | (1,008.0)  |
+L261: Net cash provided by (used for) investing activities of discontinued operations  | 1.7   |  | 1,584.6   |
+L262: Net cash provided by (used for) investing activities  | (55.9)  |  | 576.6   |
+L263: Financing activities  |  |
+L264: Net receipts of revolving credit facility  | —   |  | 200.0   |
+L265:  |  |
+L266:  |  |
+L267: Proceeds from long-term debt  | —   |  | 275.0   |
+L268: Repayments of long-term debt  | (68.3)  |  | (866.3)  |
+L269:  |  |
+L270:  |  |
+L271:  |  |
+L272: Debt issuance costs  | —   |  | (1.9)  |
+L273:  |  |
+L274: Dividends paid  | (68.2)  |  | (65.7)  |
+L275: Shares issued to employees, net of shares withheld  | (9.6)  |  | (2.0)  |
+L276: Repurchases of ordinary shares  | (50.4)  |  | (253.1)  |
+L277:  |  |
+L278: Net cash provided by (used for) financing activities  | (196.5)  |  | (714.0)  |
+L1463: Net cash provided by operating activities from continuing operations was $154.9 million in the first six months of 2025, which primarily reflects net income, net of non-cash depreciation, amortization and changes in deferred taxes, of $288.0 million, partially offset by a $154.6 million increase in net working capital.
+L1464: 
+L1465: Investing activities
+L1466: 
+L1467: Net cash used for investing activities from continuing operations of $57.6 million in the first six months of 2026 relates to capital expenditures.
+L1468: Net cash used for investing activities from continuing operations of $1,008.0 million in the first six months of 2025 relates primarily to cash paid for the Electrical Products Group acquisition of $975.4 million and capital expenditures of $38.0 million. Net cash provided by investing activities from discontinued operations of $1,584.6 million in the first six months of 2025 primarily relates to the proceeds from the sale of the Thermal Management business, net of transaction costs and cash transferred.
+--------------------------------------------------------------------------------
+nvt-20260630 (https://www.sec.gov/Archives/edgar/data/1720635/000162828026051428/nvt-20260630.htm)
+citeturn462view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn461view0","pattern":"Maverick"}); Total lines: 1664
+No matching text found for "Maverick"--------------------------------------------------------------------------------
+INNODATA INC._June 30, 2026 (https://www.sec.gov/Archives/edgar/data/903651/000110465926092021/inod-20260630x10q.htm)
+citeturn462view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn461view1","pattern":"prepayments"}); Total lines: 1746
+L651: ​
+L652: 
+L653: ​
+L654: 
+L655: 4.Prepaid and Other Current Assets
+L656: 
+L657: Prepaid and other current assets consist of the following (in thousands):
+L658: 
+L659: ​
+L660: 
+L661: ​  | ​  | ​  | ​  | ​  | ​  | ​
+L662: ​  |   ​ ​ ​  | June 30,  |   ​ ​ ​  | December 31,
+L663: ​  | ​  | 2026  | ​  | 2025
+L664: ​  | ​  | ​  | ​  | ​  | ​  | ​
+L665: Advance to Supplier  | ​  | $  | 14,049  | ​  | $  | 409
+L666: Advance Income Taxes (net of liabilities)  | ​  |    | 2,734  | ​  |    | 1,194
+L667: Prepayments and others  | ​  |    | 6,050  | ​  |    | 5,051
+L668: Total  | ​  | $  | 22,833  | ​  | $  | 6,654
+L669: 
+L670: ​
+--------------------------------------------------------------------------------
+POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth | POET Technologies (https://www.poet-technologies.com/news/poet-technologies-reports-second-quarter-2026-results-revenue-up-112-year-over-year-in-sixth-consecutive-quarter-of-sequential-growth)
+citeturn462view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn456view0","pattern":"Revenue"}); Total lines: 216
+L11: Revenue was $569,925, up 13% from the first quarter and 112% from the second quarter of 2025 — the Company’s sixth consecutive quarter of sequential revenue growth. Net loss narrowed to $11.3 million, or ($0.07) per share, from $12.3 million in the first quarter. The Company ended the quarter with $796.3 million in cash and short-term investments following completion of its $400 million financing in May.
+L13: Management Commentary:
+L14: 
+L15: “The second quarter showed POET’s transition from development to revenue taking hold: our sixth consecutive quarter of sequential revenue growth, a narrowing net loss, and our optical engine production ramp remaining on schedule for the second half of 2026,” said Dr. Suresh Venkatesan, Chairman & CEO of POET Technologies.
+L141: Revenue was $569,925, up 13% from the first quarter and 112% from the second quarter of 2025 — the Company’s sixth consecutive quarter of sequential revenue growth. Net loss narrowed to $11.3 million, or ($0.07) per share, from $12.3 million in the first quarter. The Company ended the quarter with $796.3 million in cash and short-term investments following completion of its $400 million financing in May.
+L143: Management Commentary:
+L144: 
+L145: “The second quarter showed POET’s transition from development to revenue taking hold: our sixth consecutive quarter of sequential revenue growth, a narrowing net loss, and our optical engine production ramp remaining on schedule for the second half of 2026,” said Dr. Suresh Venkatesan, Chairman & CEO of POET Technologies.
+--------------------------------------------------------------------------------
+POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth | POET Technologies (https://www.poet-technologies.com/news/poet-technologies-reports-second-quarter-2026-results-revenue-up-112-year-over-year-in-sixth-consecutive-quarter-of-sequential-growth)
+citeturn462view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn456view0","pattern":"cash"}); Total lines: 216
+L39: The Company had non-cash finance costs of $68,000 in the second quarter of 2026 compared to non-cash finance costs of $31,000 in the second quarter of 2025 and non-cash costs of $47,000 in the first quarter of 2026.
+L168: Other non-cash expenses in the second quarter of 2026 included stock-based compensation of $3.8 million and depreciation and amortization of $1.0 million. Non-cash stock-based compensation and depreciation and amortization in the same period of 2025 were $1.2 million and $0.8 million, respectively. First quarter 2026 stock-based compensation and depreciation and amortization were $3.5 million and $1.0 million, respectively.
+L169: The Company had non-cash finance costs of $68,000 in the second quarter of 2026 compared to non-cash finance costs of $31,000 in the second quarter of 2025 and non-cash costs of $47,000 in the first quarter of 2026.
+

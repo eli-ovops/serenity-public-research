@@ -1,0 +1,130 @@
+AAON Reports Record Second Quarter 2026 Results Driven by Strong Demand, Accelerating Throughput, and Improved Operating Execution (https://investors.aaon.com/investor-news/aaon-reports-record-second-quarter-2026-results-driven-by-strong-demand-accelerating-throughput-and-improved-operating-execution)
+citeturn377view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn376view3","pattern":"2026 Outlook"}); Total lines: 184
+L26: # AAON Reports Record Second Quarter 2026 Results Driven by Strong Demand, Accelerating Throughput, and Improved Operating Execution
+L27: 
+L28:   * cite9†Press Release PDF L29:   * cite10†Webinar†app.webinar.net L30:   * cite11†Presentation L31: 
+L32: ### Net sales increased 101%, Operating income increased 192%, Diluted EPS increased 258%
+L33: ### Raises Full-Year Outlook
+L34: 
+L35: 
+L36: 
+L37: Second Quarter 2026 Highlights
+L38: (All comparisons are year-over-year, unless otherwise noted)
+L39: 
+L40:   * Delivered record quarterly net sales and significant earnings growth as expanded capacity and improved execution accelerated backlog conversion
+L41: 
+L42:   * Net sales increased 101.2% to a record $627.0 million
+L43: 
+L44:   * Gross profit increased 84.3% to $152.5 million
+L45:   * Operating income increased 192.1% to 68.9 million, reflecting strong net sales growth, improved overhead leverage, and disciplined SG&A management
+L46: 
+L47:   * GAAP diluted EPS increased 257.9% to $0.68, Non-GAAP adjusted EPS increased 213.6% to $0.69
+L48: 
+L49:   * Total backlog increased 98.0% year-over-year to $2.0 billion, remaining nearly double the prior-year level despite record quarterly net sales and significantly higher production rates
+L50:   * Year-to-date, operating cash flow improved to $55.0 million, compared with negative $31.0 million a year ago
+L51: 
+L52: Raises 2026 Outlook
+L53: 
+L54:   * 2026 outlook now reflects net sales growth of 55%-60%, gross margins of approximately 25-26%, and SG&A as a percent of sales of 13%-14%, supported by strong backlog, expanded capacity, and improving operational execution
+L55: 
+L56: * * *
+L57: TULSA, Okla., August 10, 2026 - AAON, INC. (NASDAQ-AAON), a leader in high-performing, energy-efficient HVAC solutions that bring long-term value to customers and owners, today announced its results for the second quarter of 2026.
+L58: “Our second quarter results demonstrate the continued strength of demand for our solutions and the progress we are making scaling the company to meet that demand," said Matt Tobolski, President and CEO of AAON. "Net sales increased 101.2% to a fourth consecutive quarterly record, operating income increased 192.1%, and diluted EPS increased 257.9%, reflecting the power of higher throughput, strong backlog conversion, and continued execution across the business.
+L59: “The investments we have made in capacity, leadership, supply chain, and manufacturing infrastructure are translating into measurable operating progress. Production increased across the enterprise, lead times are improving in key areas, and we are converting backlog at a much faster pace while continuing to see strong customer engagement. This is clear evidence that the operating foundation we have been building is working.
+L60: “The long-term market opportunity remains compelling across both brands. The BASX brand continues to benefit from significant data center investment activity, a healthy customer pipeline, and strong engagement with strategic customers. The AAON brand continues to gain share despite a softer commercial HVAC market. Both businesses are well positioned, supported by differentiated products, highly engineered solutions, and strong customer relationships.
+L61: “We are also clear-eyed about the margin work ahead. The pace of growth and capacity ramp is creating near-term margin pressure, but the drivers are known, the actions are underway, and the path to improvement is clear: higher utilization, productivity improvements, sourcing initiatives, pricing actions, and a more favorable backlog profile. We are not simply growing revenue.
+L62: We are building a stronger operating company with the scale, systems, and discipline to deliver improved margins, stronger cash generation, and durable earnings power over time.”
+L63: ###
+L64: ##### Second Quarter 2026 Results
+L65: 
+L66: Net sales for the second quarter of 2026 increased 101.2% to a record $627.0 million, compared with $311.6 million in the second quarter of 2025. Growth reflected strong demand across both the AAON and BASX brands, improved manufacturing throughput, and increased utilization of recently added production capacity.
+L67: BASX-branded sales grew 216.2% to a record $345 million, reflecting momentum in data center demand, higher production output, and greater utilization of recently added manufacturing capacity. AAON-branded sales also increased to a record level, growing 39.3% to $282.2 million, benefitting by a healthy backlog and continued progress in production throughput. Booking activity remained solid across both brands, contributing to market share gains and elevated backlog levels.
+L69: Gross profit increased 84.3% to $152.5 million, compared with $82.7 million in the second quarter of 2025. Gross profit margin was 24.3%, compared with 26.6% in the prior-year period. Results reflected the impact of ramping recently added manufacturing capacity, including the Memphis facility, the use of outsourced components to support accelerated growth, and inflationary cost pressures.
+L71: These costs are being addressed through a combination of pricing, sourcing, productivity, and operational initiatives. Management expects margin performance to improve as production volumes increase, recently added capacity utilization increases, and backlog with improved pricing converts to revenue.
+L72: Selling, general and administrative expenses as a percent of sales declined 570 basis points to 13.3%, reflecting continued operating leverage and disciplined cost management as revenue growth outpaced overhead investments.
+L73: Operating income increased 192.1% to $68.9 million, compared with $23.6 million in the prior-year period. Diluted earnings per share were $0.68, an increase of 257.9% from $0.19 in the second quarter of 2025. Adjusted non-GAAP EPS increased 213.6% to $0.69, which includes a $1.4 million infrequent expense related to an incentive fee associated with our Memphis, Tenn. facility, net of the profit sharing and tax effect.
+L74: 
+L75: 
+L76: 
+L77: Backlog
+L78: 
+L79: cite12†Image: Backlog L80: Total backlog increased 98.0% year-over-year to $2.0 billion, compared to $995.3 million the prior year. Backlog remained nearly double the prior-year level even as the Company converted backlog into record quarterly revenue at significantly higher production rates. BASX-branded backlog increased 185.4% year-over-year, reflecting continued customer investment activity in data center infrastructure and the value customers place on BASX's custom-engineered solutions.
+L81: AAON-branded backlog increased 9.4% year-over-year, supported by strong order activity despite soft end-market conditions.
+L82: Compared to the first quarter of 2026, total backlog decreased 7.4%, primarily reflecting accelerated backlog conversion into record revenue and the inherent timing variability of large BASX project awards. We continue to see strong customer engagement and a healthy pipeline of opportunities across the data center market. As is typical with large, highly engineered projects, the timing of customer awards and order conversion can vary from quarter to quarter.
+L83: We remain encouraged by the volume of opportunities under discussion and our position with key customers. AAON-branded backlog increased 6.0% sequentially, reflecting strong order activity and continued share gains despite a soft commercial HVAC market backdrop.
+L84: 
+L85: 
+L86: 2026 Outlook
+L87: 
+L88: Based on strong backlog, accelerating production throughput, expanded capacity, and current expectations for customer project timing, we are updating our full-year 2026 outlook as follows:
+L89: 
+L90: cite13†Image: 2026 Outlook-2 L91: “Our updated outlook reflects the strength of our backlog positions, continued customer activity across our end markets, and the significant progress we are making increasing throughput and converting backlog into revenue,” said Matt Tobolski. "At the same time, the revised gross margin outlook reflects the near-term cost of scaling rapidly while we bring new capacity to higher utilization and work through price-cost timing.
+L92: “The direction is clear. We expect sequential margin improvement in the second half of the year as higher production volumes, better utilization, pricing actions, sourcing initiatives, and continued operational discipline begin to show more clearly in reported results. We remain confident in the long-term earnings power of the business and believe the progress we are making today positions AAON for improved profitability and stronger cash generation as the year progresses.”
+L93: #### Segment Results
+L94: 
+L95: AAON Oklahoma
+L96: 
+L97: cite14†Image: AAON Oklahoma L98: AAON Oklahoma generated net sales of $262.3 million, an increase of 41.7% from the prior-year period. Growth was driven by stronger execution against a robust backlog, supported by ongoing production improvements that accelerated backlog conversion. Performance also benefited from favorable price realization and a more normalized operating environment relative to the prior year, when the industry refrigerant transition and company-specific operational challenges weighed on results.
+L99: Gross profit increased 18.9% to $63.6 million compared with $53.5 million in the prior-year period. Gross margin was 24.3%, compared to 28.9% in the second quarter of 2025. Segment profitability was impacted by $18.1 million of overhead expenses associated with the Memphis facility, compared with $3.0 million in the prior-year period. Excluding these costs, segment margins expanded 70 basis points to 31.2%, compared to 30.5% in the prior-year period.
+L100: The year-over-year improvement excluding Memphis overhead reflects higher production rates, improved throughput, and favorable pricing, partially offset by elevated outsourcing levels and inflationary cost pressures. These pressures are being addressed through pricing and operational initiatives and are not expected to change the long-term margin profile of the segment.
+L101: 
+L102: AAON Coil Products
+L103: 
+L104: cite15†Image: AAON Coil Products-1 L105: AAON Coil Products generated net sales of $146.7 million, an increase of 150.9% from the prior-year period. Growth was driven primarily by BASX-branded liquid cooling sales of $126.6 million, up 208.4% during the period.
+--------------------------------------------------------------------------------
+AAON Reports Record Second Quarter 2026 Results Driven by Strong Demand, Accelerating Throughput, and Improved Operating Execution (https://investors.aaon.com/investor-news/aaon-reports-record-second-quarter-2026-results-driven-by-strong-demand-accelerating-throughput-and-improved-operating-execution)
+citeturn377view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn376view3","pattern":"55%"}); Total lines: 184
+L26: # AAON Reports Record Second Quarter 2026 Results Driven by Strong Demand, Accelerating Throughput, and Improved Operating Execution
+L27: 
+L28:   * cite9†Press Release PDF L29:   * cite10†Webinar†app.webinar.net L30:   * cite11†Presentation L31: 
+L32: ### Net sales increased 101%, Operating income increased 192%, Diluted EPS increased 258%
+L33: ### Raises Full-Year Outlook
+L34: 
+L35: 
+L36: 
+L37: Second Quarter 2026 Highlights
+L38: (All comparisons are year-over-year, unless otherwise noted)
+L39: 
+L40:   * Delivered record quarterly net sales and significant earnings growth as expanded capacity and improved execution accelerated backlog conversion
+L41: 
+L42:   * Net sales increased 101.2% to a record $627.0 million
+L43: 
+L44:   * Gross profit increased 84.3% to $152.5 million
+L45:   * Operating income increased 192.1% to 68.9 million, reflecting strong net sales growth, improved overhead leverage, and disciplined SG&A management
+L46: 
+L47:   * GAAP diluted EPS increased 257.9% to $0.68, Non-GAAP adjusted EPS increased 213.6% to $0.69
+L48: 
+L49:   * Total backlog increased 98.0% year-over-year to $2.0 billion, remaining nearly double the prior-year level despite record quarterly net sales and significantly higher production rates
+L50:   * Year-to-date, operating cash flow improved to $55.0 million, compared with negative $31.0 million a year ago
+L51: 
+L52: Raises 2026 Outlook
+L53: 
+L54:   * 2026 outlook now reflects net sales growth of 55%-60%, gross margins of approximately 25-26%, and SG&A as a percent of sales of 13%-14%, supported by strong backlog, expanded capacity, and improving operational execution
+L55: 
+L56: * * *
+L57: TULSA, Okla., August 10, 2026 - AAON, INC. (NASDAQ-AAON), a leader in high-performing, energy-efficient HVAC solutions that bring long-term value to customers and owners, today announced its results for the second quarter of 2026.
+L58: “Our second quarter results demonstrate the continued strength of demand for our solutions and the progress we are making scaling the company to meet that demand," said Matt Tobolski, President and CEO of AAON. "Net sales increased 101.2% to a fourth consecutive quarterly record, operating income increased 192.1%, and diluted EPS increased 257.9%, reflecting the power of higher throughput, strong backlog conversion, and continued execution across the business.
+L59: “The investments we have made in capacity, leadership, supply chain, and manufacturing infrastructure are translating into measurable operating progress. Production increased across the enterprise, lead times are improving in key areas, and we are converting backlog at a much faster pace while continuing to see strong customer engagement. This is clear evidence that the operating foundation we have been building is working.
+L60: “The long-term market opportunity remains compelling across both brands. The BASX brand continues to benefit from significant data center investment activity, a healthy customer pipeline, and strong engagement with strategic customers. The AAON brand continues to gain share despite a softer commercial HVAC market. Both businesses are well positioned, supported by differentiated products, highly engineered solutions, and strong customer relationships.
+L61: “We are also clear-eyed about the margin work ahead. The pace of growth and capacity ramp is creating near-term margin pressure, but the drivers are known, the actions are underway, and the path to improvement is clear: higher utilization, productivity improvements, sourcing initiatives, pricing actions, and a more favorable backlog profile. We are not simply growing revenue.
+L62: We are building a stronger operating company with the scale, systems, and discipline to deliver improved margins, stronger cash generation, and durable earnings power over time.”
+L63: ###
+L64: ##### Second Quarter 2026 Results
+L65: 
+L66: Net sales for the second quarter of 2026 increased 101.2% to a record $627.0 million, compared with $311.6 million in the second quarter of 2025. Growth reflected strong demand across both the AAON and BASX brands, improved manufacturing throughput, and increased utilization of recently added production capacity.
+L113: Gross profit increased 244.2% to $65.3 million, compared with $19.0 million in the prior-year period. Gross margin was 30.0%, up from 27.9% in the second quarter of 2025. The year-over-year margin improvement reflected substantial volume growth, partially offset by incremental resources and investments required to support future growth, customer delivery, and continued share gains.
+L114: 
+L115: Balance Sheet & Cash Flow
+L116: As of June 30, 2026, the Company had cash, cash equivalents and restricted cash of $12.7 million and a balance on its revolving credit facility of $435.0 million.
+L117: Andy Cheung, CFO and Treasurer, commented, “Our strong earnings performance and disciplined working capital initiatives have driven meaningful improvement in both financial leverage and operating cash flow generation through the first half of 2026. Operating cash flow totaled $55.0 million for the six-month period, a significant improvement compared with a $31.0 million use of cash in the first six months of 2025.
+L118: As we move through the second half, we remain focused on productivity, margin improvement and working capital efficiency. These actions are expected to support stronger cash flow generation and continued balance sheet improvement over the long term.”
+L119: Supplemental financial tables are available in PDF version of this cite9†press release .
+L120: 
+L121: 
+L122: 
+L123: Conference Call
+L124: The Company will host a conference call and webcast this afternoon at 5:00 p.m. EDT to discuss the second quarter of 2026 results and outlook. The conference call will be accessible via dial-in for those who wish to participate in Q&A as well as a listen-only webcast. The dial-in is accessible at 1-888-880-3330. To access the listen-only webcast, please register at cite10†https://app.webinar.net/8K3oQEbJrgq†app.webinar.net .
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/67347/000110465926114220/mod-ex99d1.htm)
+citeturn377view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn376view2","pattern":"300.0"}); Total lines: 313
+No matching text found for "300.0"

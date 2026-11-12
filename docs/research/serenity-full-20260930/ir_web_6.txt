@@ -1,0 +1,728 @@
+Investors | ASML - Supplying the semiconductor industry (https://investor.asml.com/)
+citeturn179search0 [wordlim: 200] Crawled: yesterday; Q4 2026 ... Participate in events for ASML investors and analysts – including earnings announcements, conferences and Capital Markets Days.View financial calendar ... Read the latest ASML news, business updates and financial information, and stay up to date on events. ... Find out who to contact in the Investor Relations team for Europe, Asia, and the US.
+
+We play a critical role in enabling the semiconductor industry with innovations that deliver value to customers and shareholders.
+
+  * Extreme ultraviolet (EUV) pioneer
+
+ASML leads the way with EUV lithography, allowing chipmakers to produce smaller, faster chips with lower power consumption thanks to EUV’s higher resolution.
+
+  * ESG sustainability
+
+Sustainability is an integral part of ASML’s approach to long-term value creation. We’re taking action together with our customers, suppliers and partners.
+
+  * Balanced capital allocation
+
+ASML follows a balanced capital allocation approach. We aim to return excess cash to shareholders through dividends and share buybacks.
+
+## Upcoming events
+
+  * Oct 14, 2026
+
+Q3 2026
+
+Quarterly results
+
+  * Jan 27, 2027
+
+Q4 2026
+
+Quarterly and full-year results
+
+  * Apr 28, 2027
+
+Q1 2027
+
+Quarterly results
+
+Participate in events for ASML investors and analysts – including earnings announcements, conferences and Capital Markets Days.
+
+View financial calendar
+
+## Stay in the loop
+
+### Press releases and news alerts
+
+Read the latest ASML news, business updates and financial information, and stay up to date on events. Sign up to receive news alerts directly in your inbox.
+
+Read more
+
+Image
+
+### Analyst coverage
+
+Find out which sell-side analyst brokerage firms currently follow ASML.
+
+Read more
+
+Image
+
+### Mergers and acquisitions
+
+Explore the strategic mergers and acquisitions we've completed over recent years to further support our company's growth.
+
+Explore our history
+
+Image
+
+### Questions about investment topics
+
+We're happy to answer questions related to ASML shares and other capital market-related questions. Find out who to contact in the Investor Relations team for Europe, Asia, and the US.
+
+Contact us--------------------------------------------------------------------------------
+ASML reports €9.3 billion total net sales and €2.9 billion net income in Q2 2026 | Wed, 07/15/2026 - 08:00 (https://investor.asml.com/news-releases/news-release-details/q2-2026-financial-results)
+citeturn179search1 [wordlim: 200] Published: 2 months ago; Crawled: today; Private Securities Litigation Reform Act of 1995, including statements with respect to plans, strategies, expected trends, including expected trends in the semiconductor industry and end markets, business dynamics and business environment trends, the expected impact of AI investments and progress in AI technologies on demand for chips and semiconductor growth outlook and impact on our customers and our business, increasing intensity of lithography, plans and capability to increase capacity and output and expected capacity, customer plans including with respect to capacity additions, our product portfolio and portfolio roadmaps, backlog, technological developments expected shipment of systems, supply and demand trends, orders and order intake and momentum, increased visibility into longer-term demand, gross margin growth plans, outlook including expected sales of market segments and geographies, outlook and expected financial results including outlook and expected results for Q3 2026, including net sales, IBM sales, gross margin, R&D costs, SG&A costs, outlook and expectations with respect to full year 2026 including expected full year 2026 total net sales, gross margin, annualized effective tax rate and IBM sales, expectations with respect to EUV, DUV and metrology in 2026, expectations with respect to 2027 and 2028 including expected increase in wafer capacity of customers and investigation of increasing capability to add wafer capacity and system output capacity, statements made at our 2024 Investor Day, including investor key messages, our expectation to continue to return significant amounts of cash to shareholders through growing dividends and share buybacks and statements with respect to dividends, expected performance and capabilities of our systems and product roadmaps, customer outlook and plans including customer roadmaps, capital expenditures and capacity expansion plans, ESG strategy and commitments and other non-historical statements.
+
+Press release - July 15, 2026
+
+ASML increases outlook, expects 2026 total net sales to be between €43 billion and €45 billion, with a gross margin between 54% and 56%
+
+Veldhoven, the Netherlands
+
+Today, ASML Holding NV (ASML) has published its 2026 second-quarter results
+
+  * Q2 total net sales of €9.3 billion, gross margin of 54.0%, net income of €2.9 billion
+  * ASML expects Q3 2026 total net sales between €11.0 billion and €12.0 billion, and a gross margin between 55% and 57%
+  * ASML now expects 2026 total net sales to be between €43 billion and €45 billion, with a gross margin between 54% and 56%
+
+(Figures in millions of euros unless otherwise indicated)  | Q1 2026  | Q2 2026
+--- | --- | ---
+Total net sales  | 8,767  | 9,326
+...of which Installed Base Management sales^{ 1}  | 2,488  | 2,762
+   |    |  
+New lithography systems sold (units)  | 67  | 86
+Used lithography systems sold (units)  | 12  | 5
+   |    |  
+Gross profit  | 4,645  | 5,035
+Gross margin (%)  | 53.0  | 54.0
+   |    |  
+Net income  | 2,757  | 2,918
+EPS (basic; in euros)  | 7.15  | 7.59
+   |    |  
+End-quarter cash and cash equivalents and short-term investments  | 8,376  | 7,582
+
+_{(1) Installed Base Management sales equals our net service and field option sales.}
+
+## CEO statement and outlook
+
+"Our second-quarter total net sales were €9.3 billion and gross margin came in at 54.0%, both above guidance, driven primarily by higher than expected Installed Base Management sales.
+
+"Ongoing AI-related investments and continued progress in AI technologies are driving demand for advanced Logic and Memory chips, further strengthening the semiconductor industry's growth outlook. Our customers, in turn, continue to accelerate their capacity expansion plans. This is translating into customer commitments across our product portfolio, providing ASML with increased visibility into longer-term demand. Our order intake remained extremely strong in the first half of the year. Based on this momentum, we are planning to add 30% to our 2026 low NA EUV capacity of around 65 for 2027, and we are investigating to increase capacity with another 30% for 2028. Similarly, we plan to add 30% to our 2026 DUV immersion capacity of around 130 for 2027, and we are investigating to increase capacity with another 30% in 2028. In addition, we are continuing to significantly expand our upgrade portfolio.
+
+"We expect third-quarter 2026 total net sales between €11.0 billion and €12.0 billion, with a gross margin between 55% and 57%. We expect R&D costs of around €1.2 billion and SG&A costs of around €0.4 billion. Given the business dynamics discussed above, we now expect total net sales for 2026 to be between €43 billion and €45 billion, with a gross margin between 54% and 56%. At our next Capital Markets Day, which will be held on June 10, 2027, we will update our longer-term views to reflect the market and technology dynamics since our last Capital Markets Day," said ASML President and Chief Executive Officer Christophe Fouquet.
+
+## Update share buyback program and dividend
+
+In the second quarter, we purchased around €1.1 billion worth of shares under the current 2026–2028 share buyback program.
+
+An interim dividend over 2026 of €1.88 per ordinary share will be made payable on August 5, 2026.
+
+Details of the share buyback program as well as transactions pursuant thereto, and details of the dividend are published on ASML's website.
+
+## Quarterly video interview and investor call
+
+With this press release, ASML is publishing a video interview in which CEO Christophe Fouquet and CFO Roger Dassen discuss the 2026 second-quarter results and outlook for 2026. This video and the video transcript can be viewed on www.asml.com shortly after the publication of this press release.
+
+An investor call for both investors and the media will be hosted by CEO Christophe Fouquet and CFO Roger Dassen on July 15, 2026 at 15:00 Central European Time / 09:00 US Eastern Time. Details can be found on our website.
+Quarterly US GAAP Consolidated Statements of Operations, Consolidated Statements of Cash Flows and Consolidated Balance Sheets are available on www.asml.com.
+
+The Consolidated Balance Sheets of ASML Holding N.V. as of June 28, 2026, the related Consolidated Statements of Operations and Consolidated Statements of Cash Flows for the quarter and six months ended June 28, 2026, as presented in this press release, are unaudited.
+
+Today, July 15, 2026, ASML also published its Statutory Interim Report for the six-month period ended June 28, 2026. The Statutory Interim Report is available on our website.
+
+#### Regulated information
+
+This press release contains inside information within the meaning of Article 7(1) of the EU Market Abuse Regulation.
+
+#### Forward Looking Statements
+
+This document and related discussions contain statements that are forward-looking within the meaning of the U.S. Private Securities Litigation Reform Act of 1995, including statements with respect to plans, strategies, expected trends, including expected trends in the semiconductor industry and end markets, business dynamics and business environment trends, the expected impact of AI investments and progress in AI technologies on demand for chips and semiconductor growth outlook and impact on our customers and our business, increasing intensity of lithography, plans and capability to increase capacity and output and expected capacity, customer plans including with respect to capacity additions, our product portfolio and portfolio roadmaps, backlog, technological developments expected shipment of systems, supply and demand trends, orders and order intake and momentum, increased visibility into longer-term demand, gross margin growth plans, outlook including expected sales of market segments and geographies, outlook and expected financial results including outlook and expected results for Q3 2026, including net sales, IBM sales, gross margin, R&D costs, SG&A costs, outlook and expectations with respect to full year 2026 including expected full year 2026 total net sales, gross margin, annualized effective tax rate and IBM sales, expectations with respect to EUV, DUV and metrology in 2026, expectations with respect to 2027 and 2028 including expected increase in wafer capacity of customers and investigation of increasing capability to add wafer capacity and system output capacity, statements made at our 2024 Investor Day, including investor key messages, our expectation to continue to return significant amounts of cash to shareholders through growing dividends and share buybacks and statements with respect to dividends, expected performance and capabilities of our systems and product roadmaps, customer outlook and plans including customer roadmaps, capital expenditures and capacity expansion plans, ESG strategy and commitments and other non-historical statements. --------------------------------------------------------------------------------
+Statutory Interim Report 2025 (https://ourbrand.asml.com/m/35105224f04184ea/original/Statutory-Interim-Report-2025.pdf)
+citeturn179search12 [wordlim: 200] Published: 1.2 years ago; Financial calendar and investor relations ... - January 28, 2026 ... ASML Investor Relations supplies information regarding the company and its business opportunities to investors and financial analysts.
+ASML STATUTORY INTERIM REPORT 2025 | INTERIM MANAGEMENT REPORT | CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS | 26
+
+Other Information (continued)
+
+Financial calendar and investor relations
+
+Financial calendar
+- October 15, 2025  
+  Announcement of third quarter results for 2025
+- December 31, 2025  
+  End of ASML's 2025 fiscal year
+- January 28, 2026  
+  Announcement of fourth quarter and annual results for 2025
+- February 25, 2026  
+  Publication of Annual Report 2025
+- April 22, 2026  
+  Annual General Meeting of Shareholders
+
+Investor relations
+ASML Investor Relations supplies information regarding the company and its business opportunities to investors and financial analysts. Annual reports, quarterly releases and other information are also available on our website (www.asml.com).
+
+ASML worldwide contact information
+
+Corporate headquarters
+De Run 6501
+5504 DR Veldhoven
+The Netherlands
+
+Mailing address
+P.O. Box 324
+5500 AH Veldhoven
+The Netherlands
+
+Investor Relations
+Phone: +31 40 268 3938
+Email: [REDACTED_EMAIL]
+For additional contact information please visit asml.com--------------------------------------------------------------------------------
+Financial results | ASML - Supplying the semiconductor industry (https://www.asml.com/investors/financial-results)
+citeturn179search2 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; ##### To ensure our continued commitment to full transparency and accountability with our investors and the general public, we release complete financial results each quarter as well as a full annual report at the end of the year.## Q2 2026 financial results
+
+##### To ensure our continued commitment to full transparency and accountability with our investors and the general public, we release complete financial results each quarter as well as a full annual report at the end of the year.
+
+## Q2 2026 financial results
+
+Our latest quarterly results were published on July 15, 2026.
+
+View quarterly results
+
+Image: Christophe Fouquet
+
+## 2025 Annual Report
+
+Take a tour of the highlights to find out more about our performance and achievements, or download the full report.
+
+Go to 2025 Annual Report
+
+Image: Abstract close‑up of semiconductor chip patterns
+
+#### Financial overview
+
+See five-year overview of financial results
+
+#### Quarterly results 2025
+
+Q4 and full-year 2025 January 28, 2026Q3 2025 October 15, 2025Q2 2025 July 16, 2025Q1 2025 April 16, 2025
+
+#### Quarterly results 2024
+
+Q4 and full-year 2024 January 29, 2025Q3 2024 October 15, 2024Q2 2024 July 17, 2024Q1 2024 April 17, 2024
+
+#### Quarterly results 2023
+
+Q4 and full-year 2023 January 24, 2024Q3 2023 October 18, 2023Q2 2023 July 19, 2023Q1 2023 April 19, 2023
+
+#### Quarterly results 2022
+
+Q4 and full-year 2022 January 25, 2023Q3 2022 October 19, 2022Q2 2022 July 20, 2022Q1 2022 April 20, 2022
+
+#### Quarterly results 2021
+
+Q4 and full-year 2021 January 19, 2022Q3 2021 October 20, 2021Q2 2021 July 21, 2021Q1 2021 April 21, 2021--------------------------------------------------------------------------------
+Financial calendar | ASML - Supplying the semiconductor industry (https://www.asml.com/en/investors/financial-calendar)
+citeturn179search3 [wordlim: 200] Crawled: 2 days ago; ASML regularly hosts and participates in financial events – both local and global – throughout the year to ensure current and potential investors have the most up-to-date information about our ongoing and planned activities. ... https://tools.eurolandir.com/tools/fincalendar2/?
+
+### Our financial events
+
+ASML regularly hosts and participates in financial events – both local and global – throughout the year to ensure current and potential investors have the most up-to-date information about our ongoing and planned activities.
+
+Among our recurring events are the Annual General Meeting of Shareholders and quarterly and annual financial results, which are always available to our investors.
+
+One of our most important events for current and potential investors, Investor Day brings together shareholders, other investors and analysts for a wide-ranging event that covers ASML’s current activities and strategy outlook.
+
+https://tools.eurolandir.com/tools/fincalendar2/?companycode=nl-asml&lang=en-GB--------------------------------------------------------------------------------
+Q2 2026 financial results (https://www.asml.com/en/investors/financial-results/q2-2026)
+citeturn179search4 [wordlim: 200] Crawled: 4 days ago; > Investor call webcast replay ...   * Financial statements US GAAP Excel Excel ...   * Statutory Interim Report 2026 PDF
+
+€9.3bn
+
+Total net sales
+
+54.0%
+
+Gross margin
+
+€1.3bn
+
+R&D costs
+
+€7.59
+
+Earnings per share (basic)
+
+Based on US GAAP
+
+##### Read
+
+> Press release
+
+##### 
+Listen
+
+> Investor call webcast replay
+
+Image
+
+### Watch the video interview with Christophe Fouquet and Roger Dassen
+
+ 
+
+In case you can't access the video here, you can watch it on our YouTube playlist    .
+
+  * Entire results package ZIP
+
+  * Financial statements US GAAP Excel Excel
+
+  * Financial statements US GAAP PDF PDF
+
+  * Press Release Quarterly Results PDF
+
+  * ASML Transcript video PDF
+
+  * Presentation Investor Relations PDF
+
+  * Statutory Interim Report 2026 PDF
+
+  * Investor call prepared remarks PDF
+
+##### Listen here to the webcast
+
+iframe
+
+##### Speakers
+
+  * Image
+
+Christophe Fouquet
+
+President and Chief Executive Officer
+
+  * Image
+
+Roger Dassen
+
+Executive Vice President and Chief Financial Officer--------------------------------------------------------------------------------
+Quarterly results | ASML - Supplying the semiconductor industry (https://investor.asml.com/quarterly-results)
+citeturn179search5 [wordlim: 200] Published: 2 months ago; Crawled: today; ASML Holding NV announced its 2026 second-quarter financial results on July 15, 2026. ...   * PDF - Presentation Investor Relations 749.6 KB
+
+## Q2 2026 financial results
+
+ASML Holding NV announced its 2026 second-quarter financial results on July 15, 2026.
+
+## Video: Q2 results
+
+In case you can’t access the video here, you can watch it on our YouTube playlist.
+
+iframe
+
+## Investor call webcast replay
+
+iframe
+
+Read the press release
+
+### Downloads
+
+  * Entire results package
+
+ZIP
+
+  * Financial statements US GAAP Excel
+
+Excel
+
+  * Financial statements US GAAP PDF
+
+PDF
+
+  * Press Release Quarterly Results
+
+PDF
+
+  * Video transcript
+
+PDF
+
+  * Presentation Investor Relations
+
+PDF
+
+  * Statutory Interim Report 2026
+
+PDF
+
+  * Investor call prepared remarks
+
+PDF
+
+## Speakers
+
+Image: Christophe Fouquet
+
+Christophe Fouquet
+
+President and Chief Executive Officer
+
+Image: Roger Dassen
+
+Roger Dassen
+
+Executive Vice President and Chief Financial Officer
+
+## Quarterly results archive
+
+### 2026
+
+### Q2
+
+#### Watch, listen, read
+
+  * Press release
+
+  * CEO/CFO video
+
+  * Investor call webcast
+
+#### Downloads
+
+  * ZIP - Entire Results Package 9.2 MB
+
+  * PDF - Financial statement US GAAP 1.3 MB
+
+  * Excel - Financial statement US GAAP 29 KB
+
+  * PDF - Press Release Quarterly Results 150.1 KB
+
+  * PDF - Video Transcript 246.6 KB
+
+  * PDF - Presentation Investor Relations 832.2 KB
+
+  * PDF - Statutory Interim Report 2026 8.4 MB
+
+  * PDF - Investor call prepared remarks 200.3 KB
+
+### Q1
+
+#### Watch, listen, read
+
+  * Press release
+
+  * CEO/CFO Video
+
+  * Investor call webcast
+
+#### Downloads
+
+  * ZIP - Entire Results Package 12.5 MB
+
+  * Excel - Financial statement US GAAP 29 KB
+
+  * PDF - Financial statement US GAAP 11.5 MB
+
+  * PDF - Press Release Quarterly Results 133.7 KB
+
+  * PDF - Video Transcript 246.2 KB
+
+  * PDF - Presentation Investor Relations 1 MB
+
+  * PDF - Investor call prepared remarks 178.2 KB
+
+--------------------------------------------------------------------------------
+Investors | ASML - Supplying the semiconductor industry (https://www.asml.com/en/investors)
+citeturn179search6 [wordlim: 200] Crawled: 4 days ago;   * Financial calendar Join ASML at one of our many financial events throughout the year, learning more about our place in the industry and how we're growing in it. ...   * Investor days At our investor days, we keep current shareholders and prospective investors informed about the future of our industry and our role in it.
+
+#### Explore our financial results, share information, and strategy for growth as a leader in the competitive semiconductor industry.
+
+Fact Sheet
+
+  * Annual reports ASML files its annual report with the US Securities Exchange Commission each year. Explore the results and download the complete report.
+  * Latest financial results We release annual and quarterly financial results to ensure investors, both current and potential, are kept informed.
+  * Financial strategy ASML plans for the road ahead. Read about our long-term financial strategy and expectations for growth in the industry.
+  * Financial calendar Join ASML at one of our many financial events throughout the year, learning more about our place in the industry and how we're growing in it.
+  * Capital return and financing Read about our capital return policy as well as our current outstanding publicly traded bonds, credit ratings and standby facility.
+  * Share buyback ASML returns cash to shareholders on a regular basis through share buybacks or capital repayment.
+  * Shareholder meetings Information and downloads from our most recent AGMs.
+  * Investor days At our investor days, we keep current shareholders and prospective investors informed about the future of our industry and our role in it.
+  * Share price Data from our Euronext and NASDAQ listings.
+  * Analyst coverage Find out which sell-side analysts currently follow ASML.
+  * Contact Investor Relations Find out who to contact for Investor Relations related questions in Europe, Asia, and the Americas.
+
+## Why invest in ASML?
+
+We're technology trailblazers and strategic thinkers, creating value and new opportunities
+
+Learn more--------------------------------------------------------------------------------
+Events | Applied Materials (https://ir.appliedmaterials.com/events)
+citeturn179search7 [wordlim: 200] Crawled: last week; Fiscal Calendar 2026 ... Oct 13, 2026 ... Doubling Down on Collaboration at SEMICON West 2023
+
+Print RSS Feeds Sign Up for Alerts
+
+Fiscal Calendar 2026
+
+Quarter  | Fiscal Quarter End  | Earnings Call
+--- | --- | ---
+Q1  | January 25  | February 12
+Q2  | April 26  | May 14
+Q3  | July 26  | August 13
+Q4  | October 25  | Projected - November 12
+
+Events
+
+[Input] Upcoming Events [Input] Recent Events [Input] Master Classes
+
+Oct 13, 2026
+
+Investor Breakfast Presentation
+
+Supporting Materials
+
+Sep 9, 2026
+
+Goldman Sachs Communacopia + Technology Conference
+
+Supporting Materials
+
+Sep 8, 2026
+
+Citi 2026 Global TMT Conference
+
+Supporting Materials
+
+Aug 13, 2026
+
+Q3 2026 Applied Materials Earnings Conference Call
+
+Supporting Materials
+
+Supporting Materials
+
+Q326 News Release 276.6 KB
+
+Q326 Non-GAAP Reconciliation 285.4 KB
+
+Jun 2, 2026
+
+BofA Securities Global Technology Conference
+
+Supporting Materials
+
+May 28, 2026
+
+Bernstein Strategic Decisions Conference
+
+Supporting Materials
+
+May 20, 2026
+
+J.P. Morgan Global Technology, Media and Communications Conference
+
+Supporting Materials
+
+May 14, 2026
+
+Q2 2026 Applied Materials Earnings Conference Call
+
+Supporting Materials
+
+Supporting Materials
+
+Q226 News Release 275.9 KB
+
+Q226 Non-GAAP Reconciliation 285.4 KB
+
+Jun 25, 2026
+
+2026 DRAM and Advanced Packaging Master Class
+
+Supporting Materials
+
+Supporting Materials
+
+2026 DRAM and Advance Packaging Master Class Presentation 9.6 MB
+
+2026 DRAM and Advance Packaging Master Class Prepared Remarks 3.3 MB
+
+2026 DRAM and Advance Packaging Master Class Speaker Bios 331.6 KB
+
+2026 DRAM and Advance Packaging Master Class Press Release 174.3 KB
+
+2026 DRAM and Advanced Packaging Master Class Replay
+
+Apr 8, 2026
+
+2026 Logic Master Class
+
+Supporting Materials
+
+Supporting Materials
+
+2026 Logic Master Class Presentation 8.9 MB
+
+--------------------------------------------------------------------------------
+KLA Announces Upcoming Investor Webcasts :: KLA Corporation (KLAC) (https://ir.kla.com/news-events/press-releases/detail/521/kla-announces-upcoming-investor-webcasts)
+citeturn179search8 [wordlim: 200] Published: last month; Crawled: yesterday;   * Investor Day 2026 ... The live webcasts will be available on KLA’s Investor Relations page: http://ir.kla.com/ and a replay of the webcasts will be posted after the event. ... In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward.
+
+News & Events
+
+### News & Events
+
+  * Overview
+  * Press Releases
+  * IR Calendar
+  * Presentations
+  * Email Alerts
+  * Investor Day 2026
+
+# KLA Announces Upcoming Investor Webcasts
+
+MILPITAS, Calif., August 20, 2026 -- KLA Corporation (NASDAQ: KLAC) today announced webcasts for upcoming investor conferences:
+
+  * Wednesday, September 9, 2026 – Citi's 2026 Global TMT Conference at 9:30AM ET
+  * Friday, September 11, 2026 - Goldman Sachs Communacopia + Technology Conference 2026 at 9:30AM PT
+
+The live webcasts will be available on KLA’s Investor Relations page: http://ir.kla.com/ and a replay of the webcasts will be posted after the event.
+
+About KLA:
+
+KLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (ir.kla.com). Additional information may be found at: www.kla.com.
+
+Released August 20, 2026--------------------------------------------------------------------------------
+IR Calendar :: KLA Corporation (KLAC) (https://ir.kla.com/news-events/ir-calendar)
+citeturn179search9 [wordlim: 200] Crawled: yesterday; Nov 4, 2026 12:00 pm EDT## 2026 Annual Meeting of Stockholders
+
+Stock Split Frequently Asked Questions View FAQ
+
+News & Events
+
+### News & Events
+
+## Upcoming Events
+
+Nov 4, 2026 12:00 pm EDT
+
+## 2026 Annual Meeting of Stockholders
+
+Milpitas, California
+
+## Past Events
+
+Sep 11, 2026 12:30 pm EDT
+
+## Goldman Sachs Communacopia + Technology Conference 2026
+
+Sep 9, 2026 9:30 am EDT
+
+## Citi's 2026 Global TMT Conference
+
+Jul 28, 2026 2:00 pm PDT
+
+## Fourth Quarter Fiscal Year 2026 Earnings Call
+
+Jun 3, 2026 9:20 am PDT
+
+## BofA Securities 2026 Global Technology Conference
+
+May 19, 2026 9:25 am EDT
+
+## J.P. Morgan 2026 Global Technology, Media and Communications Conference
+
+Apr 29, 2026 2:00 pm PDT
+
+## Third Quarter Fiscal Year 2026 Earnings Call
+
+View All Past Events--------------------------------------------------------------------------------
+Lam Research Investor Relations - Events & Presentations (https://investor.lamresearch.com/events?EventID=185315)
+citeturn179search10 [wordlim: 200] Crawled: last week; Webcasts and presentations that have been archived are available by viewing historical event details. ... Goldman Sachs Communicopia + Technology Conference 2026 ... Lam Research Corporation's June 2026 Earnings conference call
+
+## Upcoming Events
+
+Upcoming Events
+
+No events to display
+
+Browse the calendar to view Investor related events and announcements.  Webcasts and presentations that have been archived are available by viewing historical event details.
+
+[Select] [Select] [Button: GO]
+
+  *  Upcoming Events
+  *  Past Events
+
+Goldman Sachs Communicopia + Technology Conference 2026
+
+Sep 10, 2026 at 9:30am
+
+Citi 2026 Global TMT Conference
+
+Sep 9, 2026 at 7:10am
+
+Lam Research Corporation's June 2026 Earnings conference call
+
+Jul 29, 2026 at 2:00pm
+
+VIEW EVENT DETAILS >>
+
+Bank of America Global Technology Conference
+
+Jun 2, 2026 at 9:20am
+
+Bernstein Strategic Decisions Conference
+
+May 27, 2026 at 7:00am
+
+Lam Research Corporation's March 2026 Earnings Conference Call
+
+Apr 22, 2026 at 2:00pm
+
+Cantor Global Technology & Industrial Growth Conference
+
+Mar 11, 2026 at 7:40am
+
+Morgan Stanley TMT Conference
+
+Mar 3, 2026 at 9:15am
+
+Lam Research Corporation's December 2025 Earnings Conference Call
+
+Jan 28, 2026 at 2:00pm
+
+UBS Global Technology and AI Conference
+
+Dec 2, 2025 at 9:55am
+
+VIEW EVENT DETAILS >>
+
+No events to display
+
+ Load More Events--------------------------------------------------------------------------------
+KLA CORPORATION REPORTS FISCAL 2026 FOURTH QUARTER AND FULL YEAR RESULTS :: KLA Corporation (KLAC) (https://ir.kla.com/news-events/press-releases/detail/518/kla-corporation-reports-fiscal-2026-fourth-quarter-and-full)
+citeturn179search11 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; For the fiscal year ended June 30, 2026, KLA reported GAAP net income of $4.83 billion and GAAP diluted EPS of $3.66 on total revenues of $13.58 billion. ... (In thousands)  | June 30, 2026  |  | June 30, 2025
+
+# KLA CORPORATION REPORTS FISCAL 2026 FOURTH QUARTER AND FULL YEAR RESULTS
+
+  * For the quarter, total revenues were $3.66 billion, above the midpoint of the guidance range;
+  * GAAP diluted EPS was $1.04, at the upper end of the guidance range, and non-GAAP diluted EPS was $1.05, at the upper end of the guidance range;
+  * Cash flow from operating activities for the quarter and fiscal year was $906.4 million and $4.14 billion, respectively, and free cash flow was $817.1 million and $3.77 billion, respectively;
+  * Capital returns for the quarter and fiscal year were $876.3 million and $3.35 billion, respectively; and
+  * On June 11, 2026, after the market close, the company effected a ten-for-one stock split of its common stock and a proportional increase in the number of authorized shares of common stock. Share and per share information throughout this press release have been retroactively adjusted to reflect the stock split.
+
+MILPITAS, Calif., July 28, 2026 /PRNewswire/ -- KLA Corporation (NASDAQ: KLAC) today announced financial and operating results for its fourth quarter and fiscal year ended June 30, 2026. --------------------------------------------------------------------------------
+ASML
+
+*Beyond 2026*
+
+**Christophe, looking at a li (https://ourbrand.asml.com/asset/be8d6ecd-965d-41d6-bb84-b1d9da7a645a/ASML-Transcript-video-Q2-2026.pdf)
+citeturn179search13 [wordlim: 200] Published: 2 months ago; *Beyond 2026* ... We like to welcome all our investors on June 10th, next year 2027, for the next Capital Markets Day.
+--------------------------------------------------------------------------------
+Logic Master Class (https://ir.appliedmaterials.com/static-files/109fae11-37aa-4eb4-993a-f82f880dfc3b)
+citeturn179search14 [wordlim: 200] Published: 5 months ago; PREPARED REMARKS | April 8, 2026 ... It lists events and dates on the left beside a calendar image: APRIL 8 | 9AM PT Logic Master Class (Webcast); JUNE 25 | 9AM PT DRAM and Advanced Packaging Master Class (Webcast); OCTOBER 12 Investor Open House at the New EPIC Center Silicon Valley, Sunnyvale, CA; OCTOBER 13 Investor Breakfast, San Francisco, CA | Webcast. ... • Today’s event is focused on transistors and on-chip wiring.
+--------------------------------------------------------------------------------
+Q2 2026 Earnings Call Published Script (https://ir.appliedmaterials.com/static-files/28ef7eff-8b4d-418e-999a-dbfa403ce6f3)
+citeturn179search15 [wordlim: 200] Published: 4 months ago; Crawled: 4 months ago; Q2 Fiscal 2026 Earnings Call ... I’m pleased to announce the second event in our 2026 Master Class series.
+--------------------------------------------------------------------------------
+8-K - 08/06/2026 - KLA Corporation (https://ir.kla.com/sec-filings/all-sec-filings/content/0001193125-26-338242/0001193125-26-338242.pdf)
+citeturn179search16 [wordlim: 200] Published: last month; On August 6, 2026, KLA Corporation (the “Company”) issued a press release announcing that the Company’s Board of Directors declared a cash dividend of $0.23 per share on the Company’s common stock.Such dividend shall be payable on September 1, 2026 to stockholders of record as of the close of business on August 17, 2026.
+--------------------------------------------------------------------------------
+Press Release Financial Results Q1 2026 (https://ourbrand.asml.com/asset/6ec62875-6d6a-4ec5-a4d7-43f59ce8e5c5/ASML-Press-Release-Financial-Results-Q1-2026.pdf)
+citeturn179search17 [wordlim: 200] Published: 5 months ago; In the first quarter, we purchased around €1.1 billion worth of shares under the 2026–2028 share buyback program. ... An investor call for both investors and the media will be hosted by CEO Christophe Fouquet and CFO Roger Dassen on April 15, 2026 at 15:00 Central European Time / 09:00 US Eastern Time. ... US GAAP Financial Reporting
+

@@ -1,0 +1,120 @@
+8-K
+RAMBUS INC
+false
+0000917273
+0000917273
+2026-08-04
+2026-08-04
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+August 4, 2026
+Rambus Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+000-22339
+94-3112828
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I. R. S. Employer
+Identification No.)
+4453 North First Street
+,
+Suite 100
+San Jose
+,
+California
+95134
+(Address of principal executive offices)
+(408)
+462-8000
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+☐
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+☐
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading
+Symbol
+Name of Each Exchange
+on Which Registered
+Common Stock, $.001 Par Value
+RMBS
+The NASDAQ Stock Market LLC
+(The NASDAQ Global Select Market)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 1.01.
+Entry into a Material Definitive Agreement.
+On August 4, 2026, Rambus Inc. (NASDAQ: RMBS) (the “Company”) entered into a Supplemental Confirmation under the Master Confirmation (the “Master Agreement,” and together with the Supplemental Confirmation, the “ASR Agreement”) with Mizuho Markets Americas LLC, through its agent Mizuho Securities USA LLC (“Dealer”), pursuant to an accelerated share repurchase program (the “ASR Program”) under which the Company will repurchase shares of the Company’s common stock for an aggregate purchase price of approximately $100 million (the “Shares”). The ASR Program is part of a broader share repurchase program previously authorized by the board of directors of the Company.
+Under the ASR Agreement, the Company will
+pre-pay
+$100 million to Dealer and will receive an initial delivery of approximately 796,000 of the Shares. The final number of Shares to be repurchased by the Company under the ASR Program will be determined based on the volume-weighted average price of the Company’s common stock during the term of the transaction, less a discount. The ASR Program is expected to be completed by the end of the third quarter of 2026.
+The description of the ASR Agreement contained herein is qualified in its entirety by reference to the form of the ASR Agreement that is filed as Exhibit 10.1 to this Current Report on Form
+8-K
+and incorporated herein by reference. The ASR Agreement contains other terms governing the ASR Program, including, but not limited to, the mechanism used to determine the final settlement of the repurchase of the Shares, the method of such settlement, the circumstances under which Dealer is permitted to make adjustments to the terms of the ASR Agreement, the circumstances under which the ASR Agreement may be terminated early, and various acknowledgements, representations and warranties made by the Company and Dealer.
+On August 5, 2026, the Company issued a press release announcing its entry into the ASR Agreement. A copy of this press release is attached as Exhibit 99.1 to this Current Report on Form
+8-K
+and incorporated herein by reference.
+The information in the press release that is an exhibit to this Current Report on Form
+8-K
+shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or otherwise subject to the liabilities of that section, nor shall the press release be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing.
+Item 2.03.
+Creation of Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+The information called for by this item is contained in Item 1.01 of this Current Report on Form
+8-K,
+which is incorporated herein by reference.
+Item 9.01.
+Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit
+No.
+Description
+10.1
+Form of ASR Agreement.
+99.1
+Press Release of Rambus Inc. Announcing its Entry into the ASR Agreement, issued on August 5, 2026.
+104
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: August 5, 2026
+Rambus Inc.
+/s/ Sumeet Gagneja
+Sumeet Gagneja, Senior Vice President and Chief Financial Officer

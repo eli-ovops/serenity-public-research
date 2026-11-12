@@ -1,0 +1,424 @@
+Innodata (INOD) Stock Price & Overview (https://stockanalysis.com/stocks/inod/)
+citeturn383view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/inod/","lineno":null}); Total lines: 352
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†By Country L15:   * cite8†Comparison Tool L16:   * cite9†Earnings Calendar L17:   * cite10†By Industry L18:   * cite11†Stock Lists L19:   * cite12†Top Stocks L20:   * cite13†Corporate Actions L21: 
+L22: cite14†IPOs L23: 
+L24:   * cite14†Recent IPOs L25:   * cite15†IPO Calendar L26:   * cite16†IPO Lockups L27:   * cite17†IPO Statistics L28:   * cite18†IPO News L29:   * cite19†IPO Screener L30: 
+L31: cite20†ETFs L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: # Innodata Inc. (INOD)
+L66: 
+L67: NASDAQ: INOD · Real-Time Price · USD
+L68: 
+L69: 59.87
+L70: 
+L71: -0.04 (-0.07%)
+L72: 
+L73: Oct 13, 2026, 9:42 AM EDT - Market open
+L74: 
+L75:   * cite42†Overview L76:   * cite43†Financials L77:   * cite44†Forecast L78:   * cite45†Statistics L79:   * cite46†Metrics L80:   * cite47†History L81:   * cite48†Profile L82:   * cite49†Chart L83: 
+L84:   * 1D
+L85:   * 5D
+L86:   * 1M
+L87:   * YTD
+L88:   * 3M
+L89:   * 6M
+L90:   * 1Y
+L91:   * 5Y
+L92:   * Max
+L93: 
+L94: Full Chart Watchlist Alerts Compare
+L95: cite50†Market Cap | 2.06B -30.6%
+L96: cite51†Revenue (ttm) | 317.16M +39.0%
+L97: Net Income  | 46.49M +8.9%
+L98: EPS  | 1.35 +5.1%
+L99: Shares Out  | 34.38M
+L100: PE Ratio  | 44.44
+L101: Forward PE  | 53.69
+L102: Dividend  | n/a
+L103: Ex-Dividend Date  | n/a
+L104: Volume  | 100,309
+L105: Open  | 58.84
+L106: Previous Close  | 59.91
+L107: Day's Range  | 58.84 - 59.94
+L108: 52-Week Range  | 34.23 - 125.14
+L109: Beta  | 2.98
+L110: Analysts  | Strong Buy
+L111: cite44†Price Target | 122.75 (+105.03%)
+L112: Est. Earnings  | Nov 5, 2026
+L113: ## About INOD
+L114: Innodata Inc. operates as a data engineering company in the United States, the United Kingdom, the Netherlands, Canada, Germany, Belgium, and internationally. The company operates through three segments: Digital Data Solutions (DDS), Synodex, and Agility. The DDS segment engages in the provision of artificial intelligence (AI) training and post-training data, model evaluation, alignment, safety, AI model deployment and integration, and AI-enabled platforms.
+L115: The Synodex segment offers an industry platform that transforms medical records into str... cite48†[Read more] L116: Industry cite52†Information Technology Services L117: 
+L118: Sector cite53†Technology L119: 
+L120: IPO Date Aug 10, 1993
+L121: 
+L122: Employees cite54†10,107 L123: 
+L124: Stock Exchange Nasdaq
+L125: 
+L126: Ticker Symbol INOD
+L127: 
+L128: Website cite55†https://www.innodata.com†www.innodata.com L129: 
+L130: cite48†Full Company Profile L131: ## Financial Performance
+L132: 
+L133: In 2025, Innodata's revenue was $251.66 million, an increase of 47.64% compared to the previous year's $170.46 million. Earnings were $32.18 million, an increase of 12.29%.
+L134: 
+L135: cite43†Financial Statements L136: ## Analyst Summary
+L137: 
+L138: According to 4 analysts, the average rating for INOD stock is "Strong Buy." The 12-month stock price target is $122.75, which is an increase of 105.03% from the latest price.
+L139: 
+L140: Price Target
+L141: 
+L142: $122.75
+L143: 
+L144: (105.03% upside)
+L145: 
+L146: Analyst Consensus: Strong Buy
+L147: 
+L148: cite44†Stock Forecasts L149: 
+L150: ## News
+L151: 
+L152:   * [Button: All]
+L153:   *   * Press
+L154:   * [Button: Transcripts]
+L155:   * [Button: Filings]
+L156:   * Chat
+L157: ### cite56†Innodata Opens Motion-Capture AI Lab to Help Humanoids Move Like Humans†www.accessnewswire.com L158: 
+L159: Lab features Vicon optical motion capture cameras to measure subtle movements with sub-millimeter accuracy NEW YORK, NY / ACCESS Newswire / September 30, 2026 / Innodata Inc. (Nasdaq:INOD) today annou...
+L160: 
+L161: 12 days ago - Accesswire
+L162: ### cite57†Hunterbrook says Meta’s Muse could be big win for Innodata†www.tipranks.com L163: 
+L164: Meta’s (META) $200B bet on AI already transformed an obscure New Jersey-based data company called Innodata (INOD), Hunterbrook’s Sam Koppelman, Michelle Cera and Matthew Termine say in a recently publ...
+L165: 
+L166: Other symbols: cite58†META L167: 
+L168: 20 days ago - TheFly
+L169: ### cite59†Innodata appoints Michael Rogers to board of directors†www.tipranks.com L170: 
+L171: INNODATA (INOD) announced the appointment of Admiral Michael Rogers, U.S. Navy, the former Director of the National Security Agency and Commander of U.S. Cyber Command, to its Board of Directors.
+L172: 
+L173: 27 days ago - TheFly
+L174: ### cite60†Innodata Appoints Admiral Michael S. Rogers, Former NSA Director and Commander of U.S. Cyber Command, to Its Board of Directors†www.accessnewswire.com L175: 
+L176: One of the nation's most senior cyber and intelligence leaders will help guide Innodata's strategy as it accelerates Federal and cyber-related AI initiatives. NEW YORK, NY / ACCESS Newswire / Septembe...
+L177: 
+L178: 27 days ago - Accesswire
+L179: ### cite61†Innodata falls -9.0%†www.tipranks.com L180: 
+L181: Innodata (INOD) is down -9.0%, or -$5.81 to $58.40.
+L182: 
+L183: 7 weeks ago - TheFly
+L184: 
+L185: ### cite62†3 ‘Strong Buy’ Data Center Stocks That Are Hard to Ignore (50%+ Upside) — 8/14/26†www.tipranks.com L186: 
+L187: Analysts on Wall Street are currently speechless about data center-related names: Innodata ($INOD), Vicor Corporation ($VICR), and Modine ($MOD). The stocks all carry a Strong Buy consensus rating fro...
+L188: 
+L189: Other symbols: cite63†MOD cite64†VICR L190: 
+L191: 1 month ago - TipRanks
+L192: ### cite65†Innodata Earnings Call Transcript: Q2 2026 L193: 
+L194: Q2 2026 delivered record revenue, margin, and cash, with 58% year-over-year growth and strong diversification of the customer base. Leadership transitions and innovation in AI benchmarks and agentic capabilities position the company for continued high-quality growth.
+L195: 
+L196: 2 months ago - Transcripts
+L197: 
+L198: ### cite66†Innodata Quarterly report: Q2 2026 L199: 
+L200: Innodata has published its Q2 2026 quarterly earnings report on August 6, 2026.
+L201: 
+L202: 2 months ago - Filings
+L203: ### cite67†Innodata Earnings release: Q2 2026 L204: 
+L205: Innodata released its Q2 2026 earnings on August 6, 2026, summarizing the period's financial results.
+L206: 
+L207: 2 months ago - Filings
+L208: 
+L209: ### cite68†Innodata files automatic mixed securities shelf†www.tipranks.com L210: 
+L211: 16:52 EDT Innodata (INOD) files automatic mixed securities shelf
+L212: 
+L213: 2 months ago - TheFly
+L214: ### cite69†Innodata Reports Record Second Quarter 2026 Results†www.accessnewswire.com L215: 
+L216: Revenue Up 58% Year-Over-Year, Beats Consensus by 7% Adjusted EBITDA of $25.4 Million, Beats Consensus by 50% Adjusted Gross Margin Expands to 49% Announces Planned Leadership Transition Effective Sep...
+L217: 
+L218: 2 months ago - Accesswire
+L219: ### cite70†Innodata releases first stage of AI Cyber Training Suite†www.tipranks.com L220: 
+L221: INNODATA (INOD) released the first stage of its AI Cyber Training Suite – twelve datasets and evaluation systems that train AI coding agents to write code that avoids known security…
+L222: 
+L223: 2 months ago - TheFly
+L224: ### cite71†Innodata Releases the First Stage of Its AI Cyber Training Suite to Enable AI Coding Agents to Write - and Repair - Secure Code†www.accessnewswire.com L225: 
+L226: Twelve datasets and evaluation systems, built by hand from thousands of real-world security flaws, give model builders and enterprises a proven way to keep AI-generated code from introducing vulnerabi...
+L227: 
+L228: 2 months ago - Accesswire
+L229: ### cite72†Forget AI Chip Stocks. Here Are 3 ‘Strong Buy’ Data Center Picks with 50%+ Upside†www.tipranks.com L230: 
+L231: Shares of artificial intelligence semiconductor companies are currently under pressure. However, Wall Street analysts are very bullish on three data center-related names: Innodata ($INOD), Vicor Corpo...
+L232: 
+L233: Other symbols: cite73†DY cite64†VICR L234: 
+L235: 2 months ago - TipRanks
+L236: ### cite74†Innodata to Report Second Quarter 2026 Results†www.accessnewswire.com L237: 
+L238: NEW YORK CITY, NY / ACCESS Newswire / July 15, 2026 / INNODATA INC. (NASDAQ:INOD) today announced that it will report Second Quarter 2026 results after the market closes on Thursday, August 6, 2026.
+L239: 
+L240: 3 months ago - Accesswire
+L241: ### cite75†3 Hidden ‘Strong Buy’ Data Center Stocks with 40%+ Upside, 7/6/2026†www.tipranks.com L242: 
+L243: Bitdeer Technologies ($BTDR), Innodata ($INOD), and Vicor Corporation ($VICR) are three data center-related companies that offer at least 43% upside. These stocks are also rated a Strong Buy by Wall…
+L244: 
+L245: Other symbols: cite76†BTDR cite64†VICR L246: 
+L247: 3 months ago - TipRanks
+L248: ### cite77†Innodata names Jayant Chauhan CFO†www.tipranks.com L249: 
+L250: Innodata (INOD) announced that it has appointed Jayant Chauhan as Executive Vice President and Chief Financial Officer, effective July 6, 2026. At that time, Marissa Espineli, who is serving as…
+L251: 
+L252: 3 months ago - TheFly
+L253: ### cite78†Innodata Appoints Jayant Chauhan as Chief Financial Officer†www.accessnewswire.com L254: 
+L255: Brings More Than Two Decades of Experience in Finance and Scaling High-Growth Technology Companies, Effective July 6, 2026 Interim CFO Marissa Espineli to Transition to Chief Accounting Officer NEW YO...
+L256: 
+L257: 3 months ago - Accesswire
+L258: 
+L259: ### cite79†Innodata rises 12.4%†www.tipranks.com L260: 
+L261: Innodata (INOD) is up 12.4%, or $12.31 to $111.97.
+L262: 
+L263: 3 months ago - TheFly
+L264: ### cite80†Innodata rises 11.1%†www.tipranks.com L265: 
+L266: Innodata (INOD) is up 11.1%, or $11.10 to $110.76.
+L267: 
+L268: 3 months ago - TheFly
+L269: 
+L270: ### cite81†Innodata price target raised to $140 from $110 at BWS Financial†www.tipranks.com L271: 
+L272: BWS Financial raised the firm’s price target on Innodata (INOD) to $140 from $110 and keeps a Buy rating on the shares. The firm upped the company’s 2027 estimates on…
+L273: 
+L274: 4 months ago - TheFly
+L275: ### cite82†Innodata price target raised to $120 from $100 at Wedbush†www.tipranks.com L276: 
+L277: Wedbush analyst Daniel Ives raised the firm’s price target on Innodata (INOD) to $120 from $100 and keeps an Outperform rating on the shares. The firm cites incremental confidence in…
+L278: 
+L279: 4 months ago - TheFly
+L280: ### cite83†Innodata Transcript: AGM 2026 L281: 
+L282: The meeting covered director elections, auditor ratification, executive compensation, and equity plan approval, with all proposals passing by majority vote. No shareholder questions were submitted during the Q&A session.
+L283: 
+L284: 4 months ago - Transcripts
+L285: ### cite84†Innodata price target raised to $120 from $100 at Wedbush†www.tipranks.com L286: 
+L287: Wedbush raised the firm’s price target on Innodata (INOD) to $120 from $100 and keeps an Outperform rating on the shares. The firm cites incremental confidence in the company’s ability…
+L288: 
+L289: 4 months ago - TheFly
+L290: ### cite85†Innodata stock: why it may fail to sustain its post-earnings gains†invezz.com L291: 
+L292: Innodata (INOD) shares nearly doubled on May 8 after the data engineering company delivered a “triple-threat” Q1 that obliterated Wall Street expectations. Revenue rocketed 54% year-over-year to $90.1...
+L293: 
+L294: 5 months ago - Invezz
+L295: 
+L296: [Button: Load More News]
+L297: 
+L298: Data Sources: cite86†S&P Global Market Intelligence†www.spglobal.com , cite87†CBOE†www.cboe.com , and more
+L299: Fundamental and historical data is provided by cite86†S&P Global Market Intelligence†www.spglobal.com . Real-time stock price data is provided by cite87†CBOE†www.cboe.com and 15-minute delayed consolidated tape pricing data is provided by cite88†Nasdaq UTP†www.utpplan.com .
+L300: 
+L301: Last checked:
+L302:     Oct 13, 2026
+L303: 
+L304: cite89†Data Sources cite90†Report a data error L305: #### Install The App
+L306: 
+L307: cite91†4.9 7.1K†apps.apple.com cite92†4.9 7.8K†play.google.com L308: 
+L309: #### Sections
+L310: 
+L311:   * cite4†Stocks L312:   * cite14†IPOs L313:   * cite20†ETFs L314:   * cite28†Private Companies L315: 
+L316: #### Services
+L317: 
+L318:   * cite38†Stock Analysis Pro L319:   * cite37†Free Newsletter L320:   * cite93†Get Support L321:   * cite94†Install The App L322: 
+L323: #### Website
+L324: 
+L325:   * cite40†Login L326:   * cite95†Create Account L327:   * cite96†Changelog L328:   * cite89†Data Sources L329:   * cite97†Advertise L330:   * cite41†Help Center L331: #### Company
+L332: 
+L333:   * cite98†About L334:   * cite99†Contact Us L335:   * cite100†Terms of Use L336:   * cite101†Privacy Policy L337:   * cite102†Affiliate Program L338: 
+L339: #### Market Newsletter
+L340: 
+L341: Daily market news in bullet point format.
+L342: 
+L343: [Input: Enter your email]
+L344: 
+L345: [Button: Subscribe]
+L346: 
+L347: #### Site Theme
+L348: 
+L349: Light Dark
+L350: 
+L351: © 2026 StockAnalysis.com. All rights reserved.
+--------------------------------------------------------------------------------
+Recursion Pharmaceuticals (RXRX) Stock Price & Overview (https://stockanalysis.com/stocks/rxrx/)
+citeturn383view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/rxrx/","lineno":null}); Total lines: 345
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†By Country L15:   * cite8†Comparison Tool L16:   * cite9†Earnings Calendar L17:   * cite10†By Industry L18:   * cite11†Stock Lists L19:   * cite12†Top Stocks L20:   * cite13†Corporate Actions L21: 
+L22: cite14†IPOs L23: 
+L24:   * cite14†Recent IPOs L25:   * cite15†IPO Calendar L26:   * cite16†IPO Lockups L27:   * cite17†IPO Statistics L28:   * cite18†IPO News L29:   * cite19†IPO Screener L30: 
+L31: cite20†ETFs L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: # Recursion Pharmaceuticals, Inc. (RXRX)
+L66: 
+L67: NASDAQ: RXRX · Real-Time Price · USD
+L68: 
+L69: 3.960
+L70: 
+L71: -0.050 (-1.25%)
+L72: 
+L73: Oct 13, 2026, 9:50 AM EDT - Market open
+L74: 
+L75:   * cite42†Overview L76:   * cite43†Financials L77:   * cite44†Forecast L78:   * cite45†Statistics L79:   * cite46†History L80:   * cite47†Profile L81:   * cite48†Chart L82: 
+L83:   * 1D
+L84:   * 5D
+L85:   * 1M
+L86:   * YTD
+L87:   * 3M
+L88:   * 6M
+L89:   * 1Y
+L90:   * 5Y
+L91:   * Max
+L92: 
+L93: Full Chart Watchlist Alerts Compare
+L94: cite49†Market Cap | 2.12B -20.2%
+L95: cite50†Revenue (ttm) | 54.86M -15.1%
+L96: Net Income  | -518.88M
+L97: EPS  | -1.02
+L98: Shares Out  | 536.27M
+L99: PE Ratio  | n/a
+L100: Forward PE  | n/a
+L101: Dividend  | n/a
+L102: Ex-Dividend Date  | n/a
+L103: Volume  | 2,607,715
+L104: Open  | 4.010
+L105: Previous Close  | 4.010
+L106: Day's Range  | 3.840 - 4.010
+L107: 52-Week Range  | 2.770 - 7.180
+L108: Beta  | 1.03
+L109: cite51†Analysts | Buy
+L110: cite44†Price Target | 7.22 (+82.32%)
+L111: Est. Earnings  | Nov 4, 2026
+L112: ## About RXRX
+L113: Recursion Pharmaceuticals, Inc., a clinical-stage biotechnology company, engages in the decoding biology and chemistry by integrating technological innovations across biology, chemistry, automation, data science, and engineering to industrialize drug discovery in the United States and the United Kingdom.
+L114: The company develops REC-4881, which is in Phase 1b/2 clinical trial to treat familial adenomatous polyposis; REC-617, which is in Phase 1/2 clinical trial to treat advanced solid tumors; REC-1245, which is in Phase 1/2 clinical trial to treat ... cite47†[Read more] L115: Industry cite52†Biotechnology L116: 
+L117: Sector cite53†Healthcare L118: 
+L119: IPO Date Apr 16, 2021
+L120: 
+L121: Employees cite54†600 L122: 
+L123: Stock Exchange Nasdaq
+L124: 
+L125: Ticker Symbol RXRX
+L126: 
+L127: Website cite55†https://www.recursion.com†www.recursion.com L128: 
+L129: cite47†Full Company Profile L130: ## Financial Performance
+L131: 
+L132: In 2025, Recursion Pharmaceuticals's revenue was $74.68 million, an increase of 26.92% compared to the previous year's $58.84 million. Losses were -$644.76 million, 39.1% more than in 2024.
+L133: 
+L134: cite43†Financial Statements L135: ## Analyst Summary
+L136: 
+L137: According to 7 analysts, the average rating for RXRX stock is "Buy." The 12-month stock price target is $7.22, which is an increase of 82.32% from the latest price.
+L138: 
+L139: Price Target
+L140: 
+L141: $7.22
+L142: 
+L143: (82.32% upside)
+L144: 
+L145: Analyst Consensus: Buy
+L146: 
+L147: cite44†Stock Forecasts L148: 
+L149: ## News
+L150: 
+L151:   * [Button: All]
+L152:   *   * Press
+L153:   * [Button: Transcripts]
+L154:   * [Button: Filings]
+L155:   * Chat
+L156: ### cite56†Cathie Wood’s ARK Investment buys 1.9M shares of Recursion Pharmaceuticals today†www.tipranks.com L157: 
+L158: 20:03 EDT Cathie Wood’s ARK Investment buys 1.9M shares of Recursion Pharmaceuticals (RXRX) today
+L159: 
+L160: 5 days ago - TheFly
+L161: 
+L162: ### cite57†Cathie Wood’s ARK Investment buys 1.5M shares of Recursion Pharmaceuticals today†www.tipranks.com L163: 
+L164: 20:24 EDT Cathie Wood’s ARK Investment buys 1.5M shares of Recursion Pharmaceuticals (RXRX) today
+L165: 
+L166: 7 days ago - TheFly
+L167: ### cite58†Tempus AI, Recursion extend data license agreement, enter new license agreement†www.tipranks.com L168: 
+L169: Tempus AI (TEM) announced an extension of its data license agreement with Recursion Pharmaceuticals (RXRX). Additionally, the two companies have entered into a new agreement under which Tempus will li...
+L170: 
+L171: Other symbols: cite59†TEM L172: 
+L173: 22 days ago - TheFly
+L174: ### cite60†Tempus and Recursion Extend Existing Data License Agreement and Enter New License Agreement for Recursion's RNA Foundation Model†www.businesswire.com L175: 
+L176: CHICAGO--(BUSINESS WIRE)--Tempus AI, Inc. (NASDAQ: TEM) today announced an extension of its data license agreement with Recursion Pharmaceuticals, Inc. (NASDAQ: RXRX). Additionally, the two companies ...
+L177: 
+L178: Other symbols: cite59†TEM L179: 
+L180: 22 days ago - Business Wire
+L181: ### cite61†Recursion Pharmaceuticals Transcript: Morgan Stanley 24th Annual Global Healthcare Conference L182: 
+L183: The company has transformed into an end-to-end AI-driven drug discovery leader, achieving significant cost reductions and clinical progress with first-in-class assets like REC-4881 and REC-1245. Strategic partnerships with Genentech and Sanofi have generated over $525 million in milestones, while a proprietary data factory and integrated AI platform drive repeatable innovation.
+L184: 4 weeks ago - Transcripts
+L185: ### cite62†Recursion Pharmaceuticals price target lowered to $5.30 from $5.50 at Morgan Stanley†www.tipranks.com L186: 
+L187: Morgan Stanley lowered the firm’s price target on Recursion Pharmaceuticals (RXRX) to $5.30 from $5.50 and keeps an Equal Weight rating on the shares.
+L188: 
+L189: 1 month ago - TheFly
+L190: ### cite63†Recursion Pharmaceuticals Transcript: Bank of America SMID Cap Virtual Conference L191: 
+L192: Upstart Holdings presented at a major mid-cap conference, outlining its AI-driven lending platform, recent record profitability, and strategic focus on capital efficiency and product expansion. Leadership highlighted strong Q2 results, ongoing innovation, and a commitment to sustainable, profitable growth despite investor caution.
+L193: 
+L194: 2 months ago - Transcripts
+L195: ### cite64†Recursion Pharmaceuticals Earnings Call Transcript: Q2 2026 L196: 
+L197: Reached a pivotal stage with five clinical programs and over $500M in partnership inflows. Lowered 2026 OpEx guidance by 40% and ended the quarter with $557M in cash, ensuring runway through early 2028. Key milestones include REC-4881 phase II data and a first-in-class neuroscience target with Roche Genentech.
+L198: 
+L199: 2 months ago - Transcripts
+L200: ### cite65†Recursion Pharmaceuticals Quarterly report: Q2 2026 L201: 
+L202: Recursion Pharmaceuticals has published its Q2 2026 quarterly earnings report on August 5, 2026.
+L203: 
+L204: 2 months ago - Filings
+L205: 
+L206: ### cite66†Recursion Pharmaceuticals Earnings release: Q2 2026 L207: 
+L208: Recursion Pharmaceuticals released its Q2 2026 earnings on August 5, 2026, summarizing the period's financial results.
+L209: 
+L210: 2 months ago - Filings
+L211: ### cite67†Recursion Pharmaceuticals Slides: Q2 2026 L212: 
+L213: Recursion Pharmaceuticals has posted slides in relation to its Q2 2026 quarterly earnings report, which was published on August 5, 2026.
+L214: 
+L215: 2 months ago - Filings
+L216: ### cite68†Recursion Pharmaceuticals reports Q2 EPS (25c), consensus (23c)†www.tipranks.com L217: 
+L218: Reports Q2 revenue $7.7M, consensus $11.96M. Cash, cash equivalents and restricted cash were $556.8M as of June 30, compared to $753.9M as of December 31, 2025. Based on current operating…
+L219: 
+L220: 2 months ago - TheFly
+L221: ### cite69†Recursion Reports Second Quarter Financial Results; Genentech Options First Neuroscience Target into Early Discovery Program†www.globenewswire.com L222: 
+L223: Genentech advanced the collaboration's first neuroscience target into a joint early discovery program, providing early evidence that Recursion's platform can generate novel, biologically validated tar...
+L224: 
+L225: 2 months ago - GlobeNewsWire
+L226: ### cite70†Recursion to Participate in Upcoming Investor Conferences†www.globenewswire.com L227: 
+L228: Salt Lake City, UT, Aug. 04, 2026 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical-stage TechBio company decoding biology to radically improve lives, today announced its participation ...
+L229: 
+L230: 2 months ago - GlobeNewsWire
+L231: ### cite71†Recursion Reports Grant of Inducement Awards as Permitted by the Nasdaq Listing Rules†www.globenewswire.com L232: 
+L233: Salt Lake City, UT, July 31, 2026 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical stage TechBio company decoding biology to radically improve lives, announced that on July 27, 2026, t...
+L234: 
+L235: 2 months ago - GlobeNewsWire
+L236: ### cite72†Recursion to Report Second Quarter 2026 Business Updates and Financial Results on August 5th†www.globenewswire.com L237: 
+L238: Salt Lake City, UT, July 29, 2026 (GLOBE NEWSWIRE) -- Salt Lake City, UT, July 29, 2026 (GLOBE NEWSWIRE) – Recursion (Nasdaq: RXRX), a leading clinical stage TechBio company decoding biology to radica...
+L239: 
+L240: 2 months ago - GlobeNewsWire
+L241: ### cite73†Cathie Wood’s ARK Investment buys 260K shares of Recursion Pharmaceuticals today†www.tipranks.com L242: 
+--------------------------------------------------------------------------------
+FormFactor (FORM) Stock Price & Overview (https://stockanalysis.com/stocks/form/)
+citeturn383view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/form/","lineno":null}); Total lines: 383
+--------------------------------------------------------------------------------
+AAON, Inc. (AAON) Stock Price & Overview (https://stockanalysis.com/stocks/aaon/)
+citeturn383view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aaon/","lineno":null}); Total lines: 345
+--------------------------------------------------------------------------------
+QQQ ETF Stock Price & Overview (https://stockanalysis.com/etf/qqq/)
+citeturn383view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/etf/qqq/","lineno":null}); Total lines: 385
+

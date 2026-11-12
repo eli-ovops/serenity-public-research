@@ -1,0 +1,1689 @@
+Page 1 of 35 
+ 
+ 
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take 
+no responsibility for the contents of this announcement, make no representation as to its accuracy 
+or completeness and expressly disclaim any liability whatsoever for any loss howsoever arising 
+from or in reliance upon the whole or any part of the contents of this announcement. 
+ 
+ 
+ASMPT LIMITED 
+(Incorporated in the Cayman Islands with limited liability) 
+(Stock Code: 0522) 
+ 
+Announcement Of 2022 Audited Results For 
+The Year Ended 31 December 2022 
+ 
+ 
+Q4 2022 Revenue Above Guidance 
+7th Consecutive Quarter Of >40% Gross Margin 
+ 
+ 
+Group Financial Highlights for Q4 of 2022 
+ Revenue of HK$4.33 billion (US$553.1 million), -30.2% YoY and -5.1% QoQ  
+ Bookings of HK$3.12 billion (US$398.0 million), -40.6% YoY and -14.0% QoQ  
+ Gross margin of 41.4%, +8 bps YoY and +55 bps QoQ  
+ Operating margin of 13.7%, -633 bps YoY and -74 bps QoQ 
+ Net profit of HK$266.6 million, -70.7% YoY and -56.8% QoQ  
+ Basic earnings per share of HK$0.65, -70.7% YoY and -56.7% QoQ 
+ 
+ 
+Group Financial Highlights for FY 2022 
+ Revenue of HK$19.36 billion (US$2.47 billion), -11.8% YoY    
+ Bookings of HK$18.44 billion (US$2.36 billion), -29.4% YoY   
+ Gross margin of 41.1%, +55 bps YoY   
+ Operating margin of 16.7%, -216 bps YoY   
+ Net profit of HK$2.62 billion, -17.5% YoY 
+ Basic earnings per share of HK$6.36, -17.6% YoY   
+ Order backlog of HK$8.98 billion (US$1.15 billion) as of 31 December 2022 
+ Full Year 2022 dividend per share of HK$3.20, -17.9% YoY   
+ 
+ 
+Revenue Guidance for Q1 2023 
+ US$455 million to US$525 million  
+ 
+ 
+
+Page 2 of 35 
+ 
+ 
+The Directors of ASMPT Limited are pleased to deliver the following announcement of audited 
+results for the year ended 31 December 2022: 
+ 
+RESULTS SUMMARY 
+ASMPT Limited and its subsidiaries (the “Group” or “ASMPT”) delivered revenue of HK$ 19.36 
+billion (US$2.47 billion) for the fiscal year ended 31 December 2022, which was 11.8% lower year-
+on-year (“YoY”) than the preceding year’s revenue. The Group’s consolidated profit after taxation 
+for the year was HK$2.62 billion, a decrease of 17.5% YoY. Basic earnings per share (“EPS”) for 
+the year amounted to HK$6.36 (2021: HK$7.72). 
+ 
+ 
+DIVIDEND AND CLOSURES OF REGISTER OF MEMBERS 
+The Group has a dividend policy of giving around 50% of its annual profits as dividends and firmly 
+believes in returning excess cash to its shareholders. After considering its short -term needs and 
+cash on hand, the Board of Directors has resolved to recommend to shareholders the payment of 
+a final dividend of HK$1.90 (2021: final dividend of HK$2.60) per share. Together with the interim 
+dividend of HK$1.30 (2021: HK$1.30) per share paid in August 2022, the total dividend payment 
+for year 2022 will be HK$3.20 (2021: HK$3.90) per share. 
+ 
+The proposed final dividend of HK$ 1.90 per share, the payment of which is subject to approval 
+by the shareholders at the forthcoming annual general meeting of the Company to be held on 
+Tuesday, 9 May 2023 (“2023 AGM”), is to be payable on 31 May 2023 to shareholders whose 
+names appear on the Register of Members of the Company on 17 May 2023. 
+ 
+The Register of the Members of the Company will be closed during the following periods: 
+ 
+(i) from 5 to 9 May 2023, both days inclusive, during which  period no transfer of shares will 
+be registered for the purpose of ascertaining shareholders’  entitlement to attend and vote 
+at the 2023 AGM. In order to be eligible to attend and vote  at the 2023 AGM, all transfers 
+accompanied by the relevant share certificates must be lodged with the Company’s Share 
+Registrar in Hong Kong, Tricor Secretaries Limited at  17/F, Far East Finance Centre, 16 
+Harcourt Road, Hong Kong, not later than 4:00 p.m. on 4 May 2023; and 
+ 
+(ii) from 16 to 17 May 2023, both days inclusive, during which period no transfer of shares will 
+be registered for the purpose of ascertaining shareholders’  entitlement to the proposed 
+final dividend. In order to qualify for the proposed final dividend, all transfers accompanied 
+by the relevant share certificate s must be lodged with the  Company’s Share Registrar in 
+Hong Kong, Tricor Secretaries Limited at the abovementioned address, not later than 4:00 
+p.m. on 15 May 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Page 3 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS 
+ 
+Group Business Review  
+Before diving into our review of financial year 2022, it is necessary to acknowledge the collective 
+contribution from the entire ASMPT team around the world. With their dedication, commitment, 
+perseverance, and focus on customers, the Group managed to record its second-highest annual 
+revenue and bookings1, coming on the heels of the record performance during the ‘super -cycle’ 
+of 2021. This commendable performance was achieved despite challenging macroeconomic 
+conditions that characterised 2022.  
+ 
+Our 2022 review will begin with a commentary on noteworthy b usiness highlights. This will be 
+followed by a financial review of the Group and its Segments, namely the Semiconductor 
+Solutions Segment (“SEMI”) and SMT Solutions Segment (“SMT”). 
+ 
+Unique, Broad-based Portfolio Mitigates Macroeconomic and Semiconductor D owncycle 
+Impact 
+In 2022, the combined impact from geopolitical conflicts, ongoing trade tensions, sporadic COVID-
+19 restrictions, and persistent inflationary pressure served to also drive a steeper than anticipated 
+semiconductor downcycle as overall consum er sentiment became dampened. Despite this, the 
+Group’s unique broad -based portfolio enabled the Group to partially mitigate decline in SEMI 
+revenue via growth in SMT revenue. The Group’s SMT business in 2022 achieved a record for 
+annual revenue, powered b y strong demand in the Automotive and Industrial markets. SMT’s 
+annual percentage share of Group bookings also achieved a record in 2022, reflecting the Group’s 
+resilience in a semiconductor down-cycle. 
+ 
+SMT – Stellar Performance  
+SMT’s record annual revenue performance in 2022 was due to its strong presence in the 
+Automotive and Industrial end market applications. SMT’s Automotive and Industrial end markets 
+contributed close to half of SMT’s total revenue for 2022, fuelled in no sm all measure by strong 
+demand for its high-end placement and printing tools, mostly from Europe and the Americas. This 
+stellar performance gives the Group confidence that its SMT market share surpassed its 
+competitors in 2022.    
+ 
+Automotive – Record Revenue  
+The Group’s comprehensive range of Automotive solutions are gaining traction by addressing 
+both current and future market needs.  
+ 
+In terms of solutions, the Group’s laser singulation, sintering and SMT placement solutions saw 
+demand growth with more to p-tier customers added. Notably, the Group’s laser singulation and 
+sintering solutions are the process of record (“POR”) for Silicon Carbide (“SiC”) related 
+applications in the Automotive market.  
+ 
+The Group’s solutions have been increasingly serving pure Electric Vehicle (“EV”) players, 
+including fast-growing Chinese EV players with its relevant suite of solutions.   
+ 
+ 
+  
+ 
+ 
+1 Excludes contribution from Materials business, which has been deconsolidated and equity accounted for since 29 December 2020 
+ 
+Page 4 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+On the back of fast-growing Automotive electrification trends, the Group’s Automotive end market 
+applications contributed a record of approximately US$515 million to its 2022 revenue, a growth 
+of about 20% YoY. Automotive end market applications also registered the highest proportion of 
+Group revenue at about 21%.  
+ 
+Looking ahead, the Group estimate s that the addressable market for Automotive end market 
+applications will grow from  approximately US$2.0 billion in 2023 to US $2.9 billion in 2027, 
+representing a compounded annual growth rate (“CAGR”) of about 10%.  
+ 
+Advanced Packaging – Packing A Punch  
+The Group has possibly the industry’s most comprehensive suite of Advanced Packaging (“AP”) 
+solutions spanning both SEMI and SMT. The Group’s AP solutions enjoyed robust demand 
+through 2022, contributing approximately US$500 million, or about 20% of the Group’s overall 
+revenue. This proportion has held steady YoY. In the longer term, the Group estimates that its 
+addressable market for AP will progressively expand from approximately US$1.5 billion in 2023 
+to US$2.5 billion in 2027, a CAGR of  about 13%. Over the same period, Group is confident of 
+gradually growing its market share of this expanding addressable market.  
+ 
+Some meaningful developments within the Group’s diverse AP solutions are highlighted below: 
+ 
+Thermo-Compression Bonding (“TCB”) – Continued Upside Momentum   
+As the established market leader for TCB, the Group is expected to convert a significant 
+proportion of its more than US$100 million TCB order backlog in 2023.  The Group has received 
+repeat TCB orders for High Bandwidth Memory ( “HBM”) with a healthy demand forecast going 
+forward. 
+ 
+Looking ahead, the Group is deep into the development of the next generation of green, ultra-fine 
+pitch, chip -to-wafer TCB tools, with strong support from its leading logic IDM and foundry 
+customers. The green  innovations involve developing environmentally friendlier processes; 
+collectively these advancements will expand the served available market for leading -edge 
+advanced nodes and Heterogeneous Chiplet Integration in the semiconductor packaging and 
+assembly market. The Group expects these advanced TCB tools to be delivered starting from first 
+quarter of 2023  for customers’ qualification .  In terms of a competitive edge, the Group’s TCB 
+solution can achieve high placement accuracy below 1 micron.   
+ 
+These advanced TCB tools will also address total cost of ownership (“TCO”) challenges in the 
+domain being served by nascent Hybrid Bonding (“HB”) technology. Basically, the TCO for TCB 
+processes significantly outperforms HB in many niche applications. For such applications, TCB 
+technology can fill this ‘sweet spot’ for bump pitch requirements (generally close to 10 microns). 
+Looking ahead, the Group is confident that its TCB  tools will experience long -term structural 
+growth amid heightened demand for heterogeneous integration (“HI”) requirements in the industry. 
+ 
+HB Tools – Developments on Track 
+Based on the industry’s application and process learning thus far, the market demand and 
+requirements for HB tools are still evolving, with more stringent requirements for higher yields, 
+throughput, and placement accuracy. The Group’s HB development roadmap is factoring in these 
+evolving dynamics to develop and deliver leading edge solutions that are aligned with its 
+customers’ HVM ramp-up. Bearing this in mind, the Group’s HB tools remain on track to deliver 
+qualification tools to leading customers in US and Asia for logic and other types of applications.   
+Page 5 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+Panel Electrochemical Deposition (“ECD”) Tools – Leading the Pack 
+The Group has a dominant market share of the panel ECD tools market, with worldwide 
+deployment of multiple panel ECD tools in several High Volume Manufacturing (“HVM”) sites  
+driven primarily by High Performance Computing (“HP C”) needs. Notably, the Group’s Malaysia 
+operations for these tools have started shipping modules, bringing these operations closer to the 
+Group’s customers in Asia.  
+ 
+As large and sophisticated chip architectures proliferate, there is a growing demand for advanced 
+substrates with larger form factors and finer line/space. With these substrate panels several times 
+the size of wafer sized carriers, more productive and cost competitive fan out packaging options  
+become possible. The Group’s leading panel ECD tools are used in Panel Level Packaging and 
+panel plating for HI packaging, with these tools also providing a unique plating advantage that 
+enables line /space below 10 microns. 
+ 
+Advanced Display and Silicon Photonics (“SiPh”) Tools – Gaining Tract ion Through 
+Innovation 
+Supported by the growing demand for seamless, large -sized displays, the Mini and Micro LED 
+RGB display market is expanding. Here, the Group’s advanced display tools continue to make 
+inroads. The Group’s Mini LED solutions have helped speed up mass market p enetration for 
+advanced displays, while its Micro LED solutions are edging closer to eventual mass market 
+adoption, with promising new areas of opportunity including AR and ‘near-eye’ displays. Here, the 
+Group’s leading-edge advanced display solution boasting ‘fungibility’ between mass transfer and 
+mass bonding capabilities is already primed to meet the HVM needs for Micro LED. Overall, the 
+Group is well-positioned to gain market share in advanced displays.  
+ 
+SiPh has enabled solutions offering high data-rate advancement and power effectiveness for 
+cloud computing using laser -optical-fibres. The Group’s AMICRA tools are the market leading 
+system with 0.2-micron placement capability and suitability for all high-end manufacturing needs 
+for both SiPh and Co-Packaged Optic devices such as optical transceivers and photonic engines. 
+Such tools are also being utili sed by leading tier -one players for optical communication and the 
+Group is confident of continued market traction in this growing segment. 
+ 
+System-in-Package (“SiP”) SMT Printing & Placement – Dominating the Market  
+Fuelled by the proliferation of 5G , smartphones and high-end wearables, the Group’s market -
+leading SiP placement tools experienced robust demand. Secular trends are expected to continue 
+driving customers’ long term capital investment plans in this important area for SiP applications. 
+Looking ahead, a new chip assembly solution will be introduced to the market in 2023 in response 
+to customer requirements for high-speed and high-accuracy die placement solutions. 
+ 
+Laser Singulation – On Strong Growth Path  
+The Group’s laser singulation market share gains have been gathering pace over the last few 
+years, fuelle d by accelerating demand for more complex chip architectures with challenging 
+requirements. These have rendered laser singulation tools increasingly the POR, replacing 
+conventional blade dicing processes.  
+ 
+The Group’s product and technology roadmap for laser singulation is closely aligned with leading 
+IDMs and it believes its next generation laser singulation tools will deliver longer term revenue 
+contribution of at least US$100 million annually. Also, in line with strong market demand signals, 
+the Group has ramped up its production capacity to deliver tools from  its Singapore operations, 
+thus bringing production closer to many of its key customers.  
+ 
+  
+Page 6 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+Continued Growth From AAMI (JV) 
+Advanced Assembly Materials International Limited (“AAMI”) delivered a record performance in 
+2022. AAMI is on track to meet certain mutually-agreed profitability targets from 2021 to 2023 set 
+out in the shareholders' agreement, which if met, will trigger an increase in the Group’s ownership 
+in AAMI from 44.44% to 49% in 2024. AAMI is in the process of ramping up its capacity to continue 
+driving long-term growth and market expansion. 
+ 
+Group Financial Review  
+(in HK$ million) Q4 2022 QoQ YoY FY 2022 YoY 
+Bookings 
+3,116.6 
+(US$398.0 
+million) 
+-14.0% -40.6% 
+18,435.3 
+(US$2,355.6 
+million) 
+-29.4% 
+Revenue 
+4,330.4 
+(US$553.1 
+million) 
+-5.1% -30.2% 
+19,363.5 
+(US$2,472.7 
+million) 
+-11.8% 
+Gross Margin 41.4% +55 bps +8 bps 41.1% +55 bps 
+Operating Margin  13.7% -74 bps -633 bps 16.7% -216 bps 
+Net Profit 266.6 -56.8% -70.7% 2,618.1 -17.5% 
+Net Profit Margin  6.2% -737 bps -853 bps 13.5% -95 bps 
+ 
+FY 2022 Group Financial Review  
+The Group delivered a resilient performance compared with the super-cycle year of 2021, in spite 
+of dampened consumer sentiment and the industry downcycle . The Group registered full -year 
+revenue performance of HK$19.36 billi on (US$2.47 billion), representing YoY decline of 11.8%. 
+The Group’s segments follow different business cycles and that shielded the Group as the 25.2% 
+YoY decline in SEMI segment revenue was partially offset by 9.8% revenue growth from the SMT 
+segment, which achieved its highest yearly revenue. Looking at the end -markets, the Group’s 
+revenue performance was impacted by the following developments:  
+ 
+(i) Automotive market registered strong growth of about 20% YoY and had the highest 
+contribution to Group revenue at about 21% boosted by structural electrification trends 
+globally and expansion of customer base;  
+(ii) Industrial market witnessed strong growth of around 32% YoY and contributed about 
+16% to Group revenue, up from 1 1% in 2021. The boost in demand  was augmented 
+mainly by power-related applications; and 
+(iii) Consumer, Communication and Computers markets combined witnessed a slowdown 
+due to weak market sentiment.  
+ 
+In terms of geographical breakdown, China (including Hong Kong) witnessed a decline in revenue 
+YoY and its share of Group revenue reduced from 52% to 42%. This reduction was compensated 
+by revenue growth from Europe, the Americas and Malaysia markets. In 2022, the Group  
+continued to  experience a low degree of customer revenue concentration , with its top five 
+customers accounting for only about 12.8% of total revenue.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+For bookings, the Group witnessed a decline of 29.4% YoY to HK$18.44 billion (US$2.36 billion) 
+due to a high base effect in 2021. The SEMI business saw a sharp decline of 44.4% YoY due to 
+the impact of the downcycle and weak consumer sentiment, while t he SMT segment held 
+relatively firm with only a 5.9% YoY reduction in bookings  due to strength in Industrial and 
+Automotive markets. This is a testimony to the effect of the Group’s unique, broad-based portfolio. 
+From an end-market perspective, AP, Automotive and Industrial combined contributed about 60% 
+of Group bookings for 2022. The Group ended the year with a strong backlog of HK$8.98 billion 
+(US$1.15 billion), and a book-to-bill ratio of 0.95.    
+ 
+Group’s gross margin imp roved by 5 5 bps YoY to 41. 1%, driven by both the SEMI and SMT 
+segments due to a favourable product mix, targeted pricing adjustments and ongoing strategic 
+initiatives.  
+ 
+However, some of these improvements were partially offset by higher material and logistics costs 
+due to tight global supply chains. 
+ 
+The Group’s operating margin was down 2 16 bps YoY to 16.7% due to lower sales volume and 
+an increase in operating costs mainly due to inflation ary pressure from material and personnel 
+costs. 
+ 
+In line with reduced revenue and operating margin, the Group’s net profit (including share of 
+results from AAMI) declined 17.5% YoY to HK$2.62 billion.  
+ 
+The Group recorded robust cash and bank deposits of HK$4.42 billion at the end of 2022 (versus 
+2021’s HK$4.88 billion), even after bumper dividends paid in 2022 for the super -cycle year 2021 
+and share buybacks. 
+ 
+Q4 2022 Group Financial Review 
+The Group outperformed the market consensus, delivering revenue of HK$4.33 billion (US$553.1 
+million), a decline of just 5.1% QoQ and  exceeding the top end of the revenue guidance of 
+between US$455 million to US$525 million issued in the previous quarter’s results announcement. 
+ 
+The Group’s bookings of HK$ 3.12 billion (US$398.0 million) decreased by 4 0.6% YoY due to a 
+high base effect in 2021. Bookings declined 14.0% QoQ due to general seasonality trends. 
+ 
+The Group delivered a gross margin of above 40% for the 7th consecutive quarter. Gross margin 
+of 41.4% represented a YoY and QoQ improvement of 8 bps and 55 bps respectively. YoY growth 
+was mainly due to better gross margin performance across both SEMI and SMT segments  and 
+QoQ growth was mostly contributed by the SMT segment. 
+ 
+The Group’s operating margin of 13. 7% declined 633 bps YoY mainly due to a high base effect 
+and lower sales volume.  
+ 
+The Group’s net profit of HK$2 66.6 million declined 70.7% YoY and 5 6.8% QoQ. This included 
+net foreign exchange losses of approximately HK$200 million. 
+  
+Page 8 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+Semiconductor Solutions Segment Financial Review 
+(in HK$ million) Q4 2022 QoQ YoY FY 2022 YoY 
+Bookings 
+1,124.8 
+(US$143.6 
+million) 
+-24.4% -59.6% 
+8,860.3 
+(US$1,132.5 
+million) 
+-44.4% 
+Revenue 
+1,882.7 
+(US$240.6 
+million) 
+-14.7% -54.0% 
+10,104.8 
+(US$1,290.5 
+million) 
+-25.2% 
+Gross Margin 44.4% -15 bps +74 bps 44.6% +87 bps 
+Segment Profit 114.1 -61.6% -88.5% 1,652.6 -45.4% 
+Segment Profit 
+Margin 6.1% -739 bps -1,820 bps 16.4% -604 bps 
+ 
+The SEMI segment registered Q4 2022 revenue of HK$1.88 billion (US$240.6 million), 
+representing 43.5% of Group revenue, a decrease of 54.0% YoY and 14.7% QoQ.  
+ 
+Each of its Business Units (“BU”s) registered YoY and QoQ revenue declines. The revenue 
+performance was driven by the following developments within each of the BU’s: 
+ 
+(i) The IC/Discrete BU’s mainstream tools, such as die attach and wire bonders, continued 
+to experience weak demand. However, tools serving the Automotive and AP markets 
+largely increased QoQ. 
+ 
+(ii) The Optoelectronics BU revenue was driven by  demand for its more advanced tools 
+serving ultra-fine pitch Mini LED displays and Silicon Photonics applications.  
+ 
+(iii) The CIS BU continued to experience weakness mainly due to ongoing softness in the 
+global smartphone market. 
+ 
+The segment reco rded Q4 2022 bookings of HK$ 1.12 billion (US$14 3.6 million), a decline of 
+59.6% YoY due mainly to a high base effect. Bookings declined 24 .4% QoQ  due to ongoing 
+semiconductor downcycle and seasonality. 
+ 
+Segment Q4 2022 gross margin was 44.4%, an increase of 74 bps YoY and a decline of 15 bps 
+QoQ. The YoY margin enhancement was mainly due to increased revenue contributions from 
+Automotive and AP end markets and cost control measures.  
+ 
+Segment profit was HK$114.1 million in Q4 2022, a decrease of 88.5% YoY and 61.6% QoQ. 
+  
+Page 9 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+SMT Solutions Segment Financial Review 
+(in HK$ million) Q4 2022 QoQ YoY FY 2022 YoY 
+Bookings 
+1,991.8 
+(US$254.4 
+million) 
+-6.8% -19.1% 
+9,574.9 
+(US$1,223.0 
+million) 
+-5.9% 
+Revenue 
+2,447.8 
+(US$312.5 
+million) 
++4.0% +16.4% 
+9,258.7 
+(US$1,182.2 
+million) 
++9.8% 
+Gross Margin 39.1% +171 bps +235 bps 37.3% +183 bps 
+Segment Profit 526.8 +14.3% +61.7% 1,825.6 +32.5% 
+Segment Profit Margin 21.5% +194 bps +603 bps 19.7% +339 bps 
+ 
+The SMT segment continued to deliver stellar performance and recorded Q4 2022 revenue of 
+HK$2.45 billion (US$312.5 million), which accounted for 56.5% of the Group’s revenue. This was 
+an increase of 16.4% YoY and 4.0% QoQ. Revenue growth was boosted by strong contributions 
+from segment’s high -end placement and printing tools for mainly Industrial and Automotive 
+applications. These two end markets contributed more than half of the segment’s revenue.  
+ 
+The segment achieved Q4 2022 bookings of HK$ 1.99 billion (US$254 .4 million), a decline of 
+19.1% YoY and 6.8% QoQ, mainly due to seasonality and continued weakness in the Consumer, 
+Communication and Computers end markets. Bookings from the Industrial and Automotive end 
+markets continued their strong contribution to the segment.  
+ 
+Segment Q4 2022 gross margin was 39.1%, an increase of 235 bps YoY and 171 bps QoQ. The 
+margin improvement was mainly due to a favourable product mix. 
+ 
+Segment profit was HK$526.8 million in Q4 2022, an improvement of 61.7% YoY and 14.3% QoQ. 
+ 
+ 
+2023 PROSPECTS AND Q1 2023 REVENUE GUIDANCE  
+Feedback from the Group’s customers and insights from industry watchers indicate a general 
+market consensus that the semiconductor sector could begin its recovery in the second half of 
+2023.  
+ 
+Looking at the Group’s business, there are some encouraging factors. For one, the Group entered 
+2023 with a sizeable order backlog and it expects the majority of this backlog to be delivered in 
+2023. On another front, the Group continues to see strength  in the Automotive, Industrial and 
+Advanced Packaging markets, supported by longer-term secular trends and continued efforts by 
+many players to build supply chain resilience. Last but not least, the Group’s unique, broad-based 
+portfolio provides a strong foundation and key competitive advantages. All these should help drive 
+the Group’s performance in 2023. 
+ 
+Looking at the near team, with the ongoing semiconductor downcycle and macroeconomic 
+uncertainties, the Group expects revenue for Q1 2023 to be between US$455 million to US$525 
+million, a decline of 27.4% YoY and 11.4% QoQ at mid-point.     
+ 
+  
+Page 10 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+LEADING EDGE RESEARCH AND DEVELOPMENT 
+Sustained Research and Development (“R&D”) investment is critical for delivering the required 
+semiconductor and technology breakthroughs that will tap secular growth opportunities and create 
+value for customers and shareholders. The Group’s R&D framework bears witness to this, 
+consisting of developing robust R&D Infrastructure and the  capabilities of its unique Enabling 
+Technologies Group (“ETG”) to effectively enable and support innovation across the entire Group. 
+ 
+With a total staff strength of more than 2, 500, the Group’s global R&D team remains focused on 
+delivering highly innovative and market relevant products from several R&D centres across the 
+world: the Americas (Boston), Asia (Chengdu, Hong Kong, Huizhou, Shenzhen, Singapore , 
+Suzhou and Taoyuan) and Europe (Beuningen, Munich, Porto, Regensburg and Weymouth). The 
+Group has a longstanding practice of allocating a significant amount of its annual revenue to R&D 
+in order to consistently generate a pipeline of new products (2022: HK$2.03 billion versus 2021: 
+HK$1.95 billion). The Group has also delivered about 2,000 patents and patent applications to-
+date. 
+ 
+Unique Enabling Technology Group 
+The ETG is a unique competitive advantage for the Group that is focused on building core 
+competencies to address a broad array of critical technologies, including advanced motor, 
+advanced process, metrology, motion system and control, precision design, software systems, 
+thermal control, vibration control and vision technology.  
+ 
+The global ETG team is more than 500 -strong. They enable the Group to rapidly harness the 
+potential of dynamic technology developments. Crucially, the ETG’s technology experts efficiently 
+connect and collaborate with other technology leaders on advanced developments for the Group’s 
+applications. This provides some significant capabilities for the Group, such as a consistent on -
+schedule delivery of innovative solutions for both mainstream and advanced packaging, and the 
+ability to regularly bring ‘frontier’ solutions to customers at a much faster pace than  the 
+competition.  
+ 
+ 
+LIQUIDITY AND FINANCIAL RESOURCES 
+Cash and bank deposits as of 31 December 2022 was HK$4.42 billion (2021: HK$4.88 billion). 
+During 2022, HK$1.61 billion was paid as dividends (2021: HK$1.36 billion). Capital additions 
+during the year amounted to HK$463.1 million (2021: HK$369.3 million), which was fully funded 
+by the year’s depreciation and amortization of HK$507.7 million (2021: HK$526.2 million), 
+excluding the depreciation of right -of-use assets of HK$230.9 million (2021: HK$216.6 mi llion) 
+due to application of HKFRS 16.  
+  
+Page 11 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+LIQUIDITY AND FINANCIAL RESOURCES - continued 
+As of 31 December 2022, the debt-to-equity ratio was 0.142 (2021: 0.175). Debts include all bank 
+borrowings. The Group h ad available banking facilities of HK$3.41 billion (US$4 37.1 million) 
+(2021: HK$3.34 billion (US$428.2 million)) in the form of bank loans and overdraft facilities, of 
+which HK$1.86 billion (US$238.5 million) (2021: HK$1.86 billion (US$238.5 million)) were 
+committed borrowing facilities. Bank borrowings, which are mainly arr anged to support day -to-
+day operations and capital expenditure, are denominated in Hong Kong dollars.  
+ 
+The Group had unsecured bank borrowings of HK$2.25 billion as of 31 December 2022 (2021: 
+HK$2.70 billion), consisting of variable-rate syndicated loan (2021: variable-rate syndicated loan 
+and other bank borrowings). Other than the syndicated loan, all the other borrowings were fully 
+repaid during the year ended 31 December 2022. The syndicated loan is repayable by instalments 
+from March 2022 to March 2024. The Group uses interest rate swaps to mitigate its exposure of 
+the cash flow changes of the variable -rate syndicated loan by swapping HK$1.75 billion (2021: 
+HK$1.75 billion) of the syndicated loan from variable rates to fixed rates. The Group’s equity 
+attributable to owners of the Company was HK$15.74 billion (2021: HK$15.28 billion) as at 31 
+December 2022. 
+ 
+As of 31 December 2022, cash holdings of the Group were mainly in US dollars, Euros and 
+Chinese RMB. The Group’s SMT Solutions Segment entered into U S dollar and Euro hedging 
+contracts to mitigate foreign currency risks, as a significant portion of the production of SMT 
+equipment and its suppliers are located in Europe, while a substantial part of the Group’s revenue 
+for SMT equipment is denominated in  US dollars. In terms of currency exposure, the majority of 
+the Group’s sales and disbursements in respect of operating expenses and purchases were 
+mainly in US dollars, Euros and Chinese RMB. 
+ 
+ 
+SIGNIFICANT INVESTMENT 
+As of 31 December 2022, AAMI was regarded as a significant investment of the Group as the 
+value of the Group’s investment in AAMI comprised 5% or more of the Group’s total assets. 
+Information pursuant to paragraph 32(4A) of Appendix 16 to the Rules Governing th e Listing of 
+Securities on The Stock Exchange of Hong Kong Limited (“Listing Rules”) in relation to the 
+Group’s investment in AAMI is as follows: 
+ 
+(i) Details of the investment in 
+AAMI: 
+4,444 ordinary shares in AAMI, representing 44.44% 
+equity interests in  AAMI. The carrying value of the 
+Group’s investment in AAMI is HK$1,516 million 
+(ii) Fair value of the investment in 
+AAMI: 
+HK$1,523 million 
+(iii) The investment’s size relative 
+to the Group’s total assets: 
+6.1% 
+(iv) The performance of the 
+investment in AAMI: 
+For the year ended 31 December 2022, the share of 
+results of AAMI was HK$163 million, and no dividend 
+was received from AAMI 
+(v) Principal activity of AAMI and its 
+subsidiaries: 
+Manufacturing and trading of materials products 
+(vi) The Group’s investment 
+strategy: 
+Long-term investment in the materials business 
+ 
+  
+Page 12 of 35 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS - continued 
+ 
+ENVIRONMENTAL, SOCIAL & GOVERNANCE (“ESG”)  
+The Group has dedicated itself to becoming an ESG leader in the semiconductor industry. To that 
+end, a comprehensive ESG framework and action plan was implemented in 2022 throughout 
+ASMPT’s operations worldwide. The key environmental focus is on eliminating the Group’s 
+emissions footprint, with a commitment to reducing its Scope 1 & 2 emissions to net-zero by 2035. 
+ 
+On the social side, diversity, equality and inclusivity is the Group’s topmost priority, with the 
+current focus on increasing gender diversity within ASMPT and the indus try as a whole. As part 
+of the Group’s governance framework, effective climate risk identification and management 
+protocols are key to protecting the Group’s interests and ensuring the long -term sustainability of 
+its business. 
+  
+More details on the Group’s sustainability initiatives and targets will be highlighted in the 2022 
+ESG Report that will be released simultaneously with the Group’s Annual Report. 
+  
+Page 13 of 35 
+ 
+ 
+FINANCIAL HIGHLIGHTS 
+ 
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS 
+ 
+     Three months ended 31 Dec Year ended 31 Dec 
+  2022 2021 2022 2021 
+  HK$'000 HK$'000 HK$'000 HK$'000 
+  (unaudited) (unaudited) (audited) (audited) 
+ Notes     
+Revenue 2  4,330,434  6,200,737 19,363,495 21,947,637 
+Cost of sales  (2,537,471) (3,638,270) (11,397,547) (13,040,030) 
+Gross profit  1,792,963 2,562,467 7,965,948 8,907,607 
+Other income  27,833 21,754 122,528 133,384 
+Selling and distribution expenses  (415,940) (485,480) (1,705,253) (1,802,229) 
+General and administrative expenses  (259,208) (291,694) (997,654) (1,009,395) 
+Research and development   
+expenses  (524,467) (543,451) (2,026,478) (1,954,394) 
+Other gains and losses 4 (196,762) (19,905) 86,546 (43,006) 
+Other expenses 5 (31,695) (87,909) (76,048) (158,805) 
+Finance costs 6 (29,555) (30,104) (119,936) (118,422) 
+Share of result of a joint venture  13,367 48,431 163,338 137,719 
+Profit before taxation  376,536 1,174,109 3,412,991 4,092,459 
+Income tax expense 7 (109,970) (263,288) (794,924) (917,279) 
+Profit for the period  266,566 910,821 2,618,067 3,175,180 
+      
+Profit (loss) for the period,  
+  attributable to:      
+Owners of the Company  266,876 913,006 2,620,251 3,168,976 
+Non-controlling interests  (310) (2,185) (2,184) 6,204 
+  266,566 910,821 2,618,067 3,175,180 
+      
+Earnings per share  9     
+   - Basic  HK$0.65 HK$2.22 HK$6.36 HK$7.72 
+   - Diluted  HK$0.65 HK$2.21 HK$6.33 HK$7.69 
+    
+ 
+  
+Page 14 of 35 
+ 
+ 
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER 
+COMPREHENSIVE INCOME 
+ 
+ 
+ Three months ended 31 Dec Year ended 31 Dec 
+ 2022 2021 2022 2021 
+ HK$'000 HK$'000 HK$'000 HK$'000 
+ (unaudited)  (unaudited) (audited) (audited) 
+     
+Profit for the period 266,566 910,821 2,618,067 3,175,180 
+Other comprehensive income 
+(expense)      
+Items that will not be reclassified to 
+profit or loss:     
+- remeasurement of defined benefit 
+retirement plans, net of income 
+tax 75,403 41,012 75,403 41,012 
+- net fair value loss on 
+investments in equity 
+instruments at fair value 
+through other comprehensive 
+income (35,279) - (35,279) (49,735) 
+ 40,124 41,012 40,124 (8,723) 
+     
+Items that may be reclassified 
+subsequently to profit or loss:     
+- exchange differences on 
+translation of foreign operations     
+- subsidiaries 514,819 (9,624) (657,999) (207,826) 
+- a joint venture 1,319 5,492 (33,576) 8,484 
+- fair value (loss) gain on hedging 
+instruments designated as cash 
+flow hedges (9,735) 17,782 77,513 37,011 
+ 506,403 13,650 (614,062) (162,331) 
+Other comprehensive income 
+(expense) for the period   546,527  54,662 (573,938) (171,054) 
+Total comprehensive income for the 
+period 813,093 965,483 2,044,129 3,004,126 
+     
+Total comprehensive income 
+(expense) for the period 
+attributable to:     
+Owners of the Company 811,364 964,282 2,061,367 2,997,603 
+Non-controlling interests 1,729 1,201 (17,238) 6,523 
+ 813,093 965,483 2,044,129 3,004,126 
+     
+     
+ 
+  
+Page 15 of 35 
+ 
+ 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION 
+ 
+ 
+                      At 31 December 
+   2022 2021 
+   HK$'000 HK$'000 
+     
+  Notes   
+Non-current assets      
+Property, plant and equipment   2,230,635 2,337,048 
+Right-of-use assets   1,553,341 1,600,467 
+Investment properties   69,485 80,451 
+Goodwill   928,313 926,531 
+  Intangible assets   1,041,763 1,034,999 
+  Other investments   38,051 64,202 
+Interest in a joint venture   1,515,966 1,386,204 
+Other financial assets   39,765 39,775 
+  Deposits paid for acquisition of property,     
+    plant and equipment   31,529 13,422 
+  Rental deposits paid   30,798 32,510 
+  Derivative financial instruments   215,020 144,386 
+  Deferred tax assets   529,223 565,883 
+  Long-term bank deposits   14,450 - 
+  Other non-current assets   22,762 23,942 
+   8,261,101 8,249,820 
+     
+Current assets     
+  Inventories   7,450,163 7,455,775 
+  Trade and other receivables  10 4,543,672 5,875,862 
+  Amounts due from a joint venture and its 
+affiliates   21,111 11,328 
+  Derivative financial instruments   49,479 1,482 
+  Income tax recoverable   39,989 23,638 
+Pledged bank deposits   570 1,223 
+  Bank deposits with original maturity of more     
+     than three months   147,560 200,573 
+  Cash and cash equivalents   4,262,886 4,681,090 
+   16,515,430 18,250,971 
+     
+Current liabilities     
+  Trade liabilities and other payables  11 2,879,409 3,608,392 
+  Advance payments from customers   1,093,944 1,779,304 
+  Amounts due to a joint venture and its 
+affiliates   13,431 10,629 
+  Derivative financial instruments   14,253 41,585 
+  Lease liabilities   188,807 197,378 
+  Provisions   333,537 351,944 
+  Income tax payable   473,212 451,489 
+  Bank borrowings   250,000 448,588 
+   5,246,593 6,889,309 
+Net current assets   11,268,837 11,361,662 
+   19,529,938 19,611,482 
+Page 16 of 35 
+ 
+ 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION - continued 
+ 
+ 
+                     At 31 December 
+   2022 2021 
+   HK$'000 HK$'000 
+     
+Capital and reserves     
+  Share capital   41,287 41,270 
+  Dividend reserve   783,758 1,073,034 
+  Other reserves   14,913,461 14,161,122 
+Equity attributable to owners of the Company   15,738,506 15,275,426 
+Non-controlling interests   119,025 136,263 
+Total equity   15,857,531 15,411,689 
+     
+Non-current liabilities     
+  Bank borrowings   2,000,000 2,250,000 
+  Lease liabilities   1,320,395 1,348,989 
+  Retirement benefit obligations   98,787 234,643 
+  Provisions   54,453 53,005 
+  Derivative financial instruments   - 18,793 
+  Deferred tax liabilities   148,188 180,674 
+  Other liabilities and accruals   50,584 113,689 
+   3,672,407 4,199,793 
+   19,529,938 19,611,482 
+     
+ 
+  
+Page 17 of 35 
+ 
+ 
+Notes: 
+ 
+1. PRINCIPAL ACCOUNTING POLICIES 
+ 
+The consolidated financial statements have been prepared in accordance with Hong Kong 
+Financial Reporting Standards ( “HKFRSs”) issued by the Hong Kong Institute of Certified 
+Public Accountants (the “HKICPA”). In addition, the consolidated financial statements include 
+applicable disclosures required by the Rules Governing the Listing of Securities on The Stock 
+Exchange (“Listing Rules”) and by the Hong Kong Companies Ordinance. 
+ 
+The consolidated financial statements have been prepared on the historical cost basis except 
+for certain financial instruments which are measured at fair value at the end of each reporting 
+period. Historical cost is generally based on the fair value of the  consideration given in 
+exchange for goods and services. 
+ 
+Amendments to HKFRSs that are mandatorily effective for the current year 
+ 
+In the current year, the Group has applied the following amendments to HKFRSs issued by 
+the HKICPA for the first time, which are mandatorily effective for the Group’s annual period 
+beginning on 1 January 2022 for the preparation of the consolidated financial statements: 
+         
+ Amendments to HKFRS 3 Reference to the Conceptual Framework 
+ Amendment to HKFRS 16 COVID-19-Related Rent Concessions beyond  
+30 June 2021 
+ Amendments to HKAS 16 Property, Plant and Equipment – Proceeds before 
+Intended Use 
+ Amendments to HKAS 37 Onerous Contracts – Cost of Fulfilling a Contract 
+ Amendments to HKFRSs Annual Improvements to HKFRSs 2018 - 2020 
+ 
+Except as described below, the application of the amendments to HKFRSs in the current year 
+has had no material impact on the Group’s financial positions and performance for the current 
+and prior years and/or on the disclosures set out in these consolidated financial statements. 
+ 
+Impacts on application of Amendments to HKFRS 3 Reference to the Conceptual 
+Framework 
+ 
+The Group has applied the amendments to business combinations for which the acquisition 
+date was on or after  1 January 2022. The amendments update a reference in HKFRS 3 
+Business Combinations so that it refers to the Conceptual Framework for Financial Reporting 
+2018 issued in June 2018 (the “Conceptual Framework ”) instead of Framework for the 
+Preparation and Presentation of Financial Statements  (replaced by the Conceptual 
+Framework for Financial Reporting 2010 issued in October 2010), add a requirement that, for 
+transactions and events within the scope of HKAS 37 Provisions, Contingent Liabilities and 
+Contingent Assets (“HKAS 37”) or HK(IFRIC)-Int 21 Levies (“HK(IFRIC)-Int 21”), an acquirer 
+applies HKAS 37 or HK(IFRIC) -Int 21 instead of the Conceptual Framework to identify the 
+liabilities it has assumed in a business combination and add an expli cit statement that an 
+acquirer does not recogni ze contingent assets acquired in a business combination. The 
+application of the amendments in the current year has had no impact on the Group ’s 
+consolidated financial statements.   
+  
+Page 18 of 35 
+ 
+ 
+2. SEGMENT INFORMATION 
+ 
+The Group has two (2021: two) operating segments: development, production and sales of 
+(1) semiconductor solutions and (2) surface mount technology solutions. They represent two 
+(2021: two) major types of products manufactured by the Group. The operating segments are 
+identified on the basis of internal reports about components of the Group that are regularly 
+reviewed by Company’s Chief Executive Officer, the chief operating decision maker 
+(“CODM”), for the purpose of allocating resources to segments and ass essing their 
+performance. The Group is organized and managed around the two (2021: two) major types 
+of products manufactured by the Group. No operating segments have been aggregated in 
+arriving at reportable segments of the Group.  
+ 
+Segment revenues and results 
+ 
+An analysis of the Group’s revenue and results by operating and reportable segment is as 
+follows: 
+ Three months ended 31 Dec Year ended 31 Dec 
+ 2022 2021 2022 2021 
+ HK$'000 HK$'000 HK$'000 HK$'000 
+ (unaudited)  (unaudited) (audited) (audited) 
+Segment revenue from external 
+customers     
+Semiconductor solutions 1,882,683 4,097,020 10,104,838 13,513,918 
+Surface mount technology 
+solutions  2,447,751 2,103,717 9,258,657 8,433,719 
+ 4,330,434 6,200,737 19,363,495 21,947,637 
+Segment profit     
+Semiconductor solutions 114,127 994,151 1,652,629 3,025,876 
+Surface mount technology 
+solutions 526,794 325,846 1,825,566 1,377,284 
+ 640,921 1,319,997 3,478,195 4,403,160 
+Interest income 15,156 6,012 32,248 12,355 
+Finance costs (29,555) (30,104) (119,936) (118,422) 
+Share of result of a joint venture 13,367 48,431 163,338 137,719 
+Unallocated other income  5,257 8,532 24,162 79,980 
+Unallocated net foreign exchange 
+(losses) gain and fair value 
+change of foreign currency 
+forward contracts (197,666) (1,072) 84,995 37,912 
+Unallocated general and 
+administrative expenses (41,815) (69,084) (177,185) (212,401) 
+Unallocated impairment loss 
+recognized in respect of goodwill - (224,824) - (224,824) 
+Unallocated other gains  2,566 204,130 3,222 135,785 
+Other expenses (31,695) (87,909) (76,048) (158,805) 
+Profit before taxation 376,536 1,174,109 3,412,991 4,092,459 
+     
+Segment profit %     
+Semiconductor solutions 6.1% 24.3% 16.4% 22.4% 
+Surface mount technology 
+solutions 21.5% 15.5% 19.7% 16.3% 
+Page 19 of 35 
+ 
+ 
+2.    SEGMENT INFORMATION – continued 
+ 
+Segment revenues and results – continued 
+ 
+No analysis of the Group ’s assets and liabilities (except for additions to property, plant and 
+equipment, right-of-use assets and intangible assets) by operating segments is disclosed as 
+they are not regularly provided to the CODM for review. 
+ 
+The accounting policies of the operating segments are the same as the Group ’s accounting 
+policies. Segment results represent the profit before taxation earned by each segment without 
+allocation of interest income, finance costs, share of result of a joint venture, unallocated other 
+income, unallocated net foreign exchange  gain and fair value change of foreign c urrency 
+forward contracts, unallocated general and administrative expenses, unallocated impairment 
+loss recognized in respect of goodwill, unallocated other gains, and other expenses. 
+ 
+All of the segment revenue derived by the segments is from external customers. 
+ 
+Other segment information (included in the segment profit or loss or regularly 
+provided to the CODM) 
+ 
+ 
+ 
+ 
+ 
+ 
+Year ended  
+31 December 2022 
+Semiconductor 
+solutions 
+Surface 
+mount 
+technology 
+solutions 
+Unallocated 
+general and 
+administrative 
+expenses Total 
+ HK$'000 HK$'000 HK$'000 HK$'000 
+Amounts regularly provided to 
+CODM:     
+  Additions of property, plant 
+and equipment and right-of-
+use assets 329,695 313,072 - 642,767 
+Additions of intangible assets  40,469 597 - 41,066 
+     
+Amounts included in the 
+measure of segment profit:      
+Amortization for intangible 
+assets 57,406 56,606 - 114,012 
+Depreciation for property, 
+plant and equipment and       
+right-of-use assets 414,911 203,403 1,283 619,597 
+Depreciation for investment 
+properties - - 4,990 4,990 
+(Gains) losses on 
+disposal/write-off of property, 
+plant and equipment (676) 347 (1,016) (1,345) 
+Research and development 
+expenses 1,327,404 699,074 - 2,026,478 
+  Share-based payments 157,357 22,977  32,409 212,743 
+     
+Page 20 of 35 
+ 
+ 
+2.    SEGMENT INFORMATION – continued 
+ 
+Other segment information (included in the segment profit or loss or regularly 
+provided to the CODM) – continued 
+ 
+ 
+Other segment information (regularly provided to the CODM but not included in the 
+measurement of segment profit or loss)  
+ 
+There is no impairment loss recognized in respect of goodwill for the year ended 31 December 
+2022. 
+ 
+ 
+Year ended  
+31 December 2021 
+Semiconductor 
+solutions 
+Surface 
+mount 
+technology 
+solutions 
+Unallocated 
+general and 
+administrative 
+expenses Total 
+ HK$'000 HK$'000 HK$'000 HK$'000 
+Amounts regularly provided to 
+CODM:     
+  Additions of property, plant 
+and equipment and right-of-
+use assets 413,368 196,668 - 610,036 
+Additions of intangible assets  - 3,459 - 3,459 
+     
+Amounts included in the 
+measure of segment profit:      
+Amortization for intangible 
+assets 41,687 60,081 - 101,768 
+Depreciation for property, 
+plant and equipment and       
+right-of-use assets 422,991 211,483 1,268 635,742 
+Depreciation for investment 
+properties - - 5,273 5,273 
+(Gains) losses on 
+disposal/write-off of property, 
+plant and equipment (7,715) (406) 17,544 9,423 
+Research and development 
+expenses 1,257,127 697,267 - 1,954,394 
+  Share-based payments 160,987 21,196  28,072 210,255 
+     
+Year ended  
+31 December 2021 
+Semiconductor 
+solutions 
+Surface 
+mount 
+technology 
+solutions 
+Unallocated 
+general and 
+administrative 
+expenses Total 
+ HK$'000 HK$'000 HK$'000 HK$'000 
+Impairment loss recognized in 
+respect of goodwill (included 
+in other gains and losses) 224,824 - - 224,824 
+Page 21 of 35 
+ 
+ 
+2. SEGMENT INFORMATION – continued 
+ 
+Geographical information 
+ 
+The information of the Group ’s non-current assets by geographical location of assets are 
+detailed below: 
+ 
+           Non-current assets 
+          At 31 December 
+ 2022 2021 
+ HK$'000 HK$'000 
+   
+Mainland China 1,393,670 1,455,226 
+Europe 1,027,843 1,014,187 
+ - Germany 704,322 653,601 
+ - Portugal 121,549 147,542 
+ - United Kingdom 151,684 161,717 
+ - Others 50,288 51,327 
+Singapore 894,186 913,088 
+Hong Kong 716,506 799,067 
+Malaysia 452,058 492,019 
+Americas 438,871 390,436 
+ - United States of America (“USA”) 430,921 386,588 
+ - Others 7,950 3,848 
+Taiwan 21,810 28,197 
+Korea 13,314 16,464 
+Others 22,055 14,155 
+ 4,980,313 5,122,839 
+ 
+Note: Non-current assets excluded goodwill, other investments, interest in a joint venture, 
+other financial assets, derivative financial instruments, deferred tax assets and long -
+term bank deposits. 
+ 
+  
+Page 22 of 35 
+ 
+ 
+2.    SEGMENT INFORMATION – continued 
+ 
+Geographical information - continued 
+ 
+The Group’s revenue from external customers by location of customers are detailed below: 
+ 
+ Revenue from external customers 
+      Year ended 31 December 
+ 2022 2021 
+ HK$'000 HK$'000 
+   
+Mainland China 6,882,685 10,495,049 
+Europe 3,441,866 2,710,008 
+ - Germany 1,110,151 844,514 
+ - Hungary 355,720 230,216 
+ - Romania 251,451 277,142 
+ - France 210,425 139,776 
+ - Poland 191,294 110,802 
+ - Others 1,322,825 1,107,558 
+Americas 2,242,479 1,652,601 
+ - USA 1,585,292 1,062,917 
+ - Mexico 271,310 172,689 
+ - Canada 93,901 95,383 
+ - Others 291,976 321,612 
+Malaysia 1,763,446 1,076,308 
+Hong Kong 1,198,993 962,350 
+Taiwan 1,171,404 1,661,671 
+Japan 652,903 659,576 
+Korea 581,579  1,028,433  
+Thailand 487,428  818,292  
+Vietnam 307,701 249,995 
+Philippines 278,765 274,049 
+India 185,843 87,394 
+Singapore 116,571  225,094  
+Others 51,832 46,817 
+ 19,363,495 21,947,637 
+ 
+No individual customer contributes to more than 10% of the total revenue of the Group for 
+both years. 
+ 
+ 
+  
+Page 23 of 35 
+ 
+ 
+3. ANALYSIS OF QUARTERLY SEGMENT REVENUE AND RESULTS 
+ 
+    Three months ended 
+ 
+31 December 
+2022 
+30 September 
+2022 
+30 June 
+2022 
+31 March 
+2022 
+ HK$'000 HK$'000 HK$'000 HK$'000 
+ (unaudited) (unaudited) (unaudited) (unaudited) 
+     
+Segment revenue from  
+external customers   
+ 
+Semiconductor solutions 1,882,683 2,207,835  3,071,737  2,942,583 
+Surface mount technology  
+solutions 2,447,751 2,354,121  2,131,954  2,324,831 
+ 4,330,434 4,561,956 5,203,691 5,267,414 
+     
+Segment profit      
+Semiconductor solutions 114,127 297,000  616,840  624,662 
+Surface mount technology 
+solutions 526,794 460,885  400,057  437,830 
+ 640,921 757,885 1,016,897 1,062,492 
+     
+Segment profit %     
+Semiconductor solutions 6.1% 13.5% 20.1% 21.2% 
+Surface mount technology 
+solutions 21.5% 19.6% 18.8% 18.8% 
+ 
+ 
+ 
+  
+Page 24 of 35 
+ 
+ 
+3.    ANALYSIS OF QUARTERLY SEGMENT REVENUE AND RESULTS - continued 
+ 
+    Three months ended 
+ 
+31 December 
+2021 
+30 September 
+2021 
+30 June 
+2021 
+31 March 
+2021 
+ HK$'000 HK$'000 HK$'000 HK$'000 
+ (unaudited) (unaudited) (unaudited) (unaudited) 
+     
+Segment revenue from  
+external customers 
+ 
+ 
+ 
+Semiconductor solutions 4,097,020 3,547,706 3,165,250 2,703,942 
+Surface mount technology 
+solutions 2,103,717 2,685,040 2,011,982 1,632,980 
+ 6,200,737 6,232,746 5,177,232 4,336,922 
+     
+Segment profit      
+Semiconductor solutions 994,151 799,061 681,004 551,660 
+  Surface mount technology 
+solutions 325,846 571,961 314,347 165,130 
+ 1,319,997 1,371,022 995,351 716,790 
+     
+Segment profit %     
+Semiconductor solutions 24.3% 22.5% 21.5% 20.4% 
+Surface mount technology 
+solutions 15.5% 21.3% 15.6% 10.1% 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Page 25 of 35 
+ 
+ 
+4. OTHER GAINS AND LOSSES 
+ 
+        Year ended 31 December 
+   2022 2021 
+   HK$'000 HK$'000 
+The gains and losses comprise:     
+     
+Net foreign exchange gain    167,261 115,206 
+Loss on fair value change of foreign 
+currency forward contracts   (82,266) (77,294) 
+Gain (loss) on disposal/write -off of 
+property, plant and equipment   1,345 (9,423) 
+Gain on fair value change of derivative 
+relating to share adjustment on  
+  earn-out clause in a joint venture    11,953 144,386 
+Gain on fair value change of contingent 
+consideration receivable from 
+shareholders of a joint venture   - 39,775 
+Impairment loss recognized in respect of 
+goodwill    - (224,824) 
+Others   (11,747) (30,832) 
+    86,546 (43,006) 
+ 
+5. OTHER EXPENSES 
+ 
+   Year ended 31 December 
+   2022 2021 
+   HK$'000 HK$'000 
+     
+Provision in relation to the litigation   - 21,717 
+Restructuring costs (Note a)   - 24,413 
+Other expenses (Note b)   76,048 112,675 
+   76,048 158,805 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Page 26 of 35 
+ 
+ 
+5.    OTHER EXPENSES – continued 
+ 
+Notes:  
+ 
+(a) During the year ended 31 December 2021, supplier contracts termination costs of 
+HK$24,413,000 (2022: nil), was charged to restructuring costs resulted from the 
+product portfolio simplification of the Group. 
+ 
+(b) During the year ended 31 December 2022, consultancy costs of HK$49.6 million (2021: 
+HK$90.6 million) relating to the progressive implementation of several strategic 
+initiatives across the Group were charged to other expenses.  The key objective of 
+these strategic initiatives is to drive the Group ’s long term o rganizational efficiency, 
+along with strengthening its overall agility, resilience, and sustainability.  As such, the 
+Group is confident that these strategic initiatives will deliver long term value creation.  
+These consultancy costs were assessed by the m anagement as incurred outside of 
+core operations of the Group and not related to other function of expenses in the 
+consolidated statement of profit or loss. 
+ 
+6. FINANCE COSTS 
+ 
+        Year ended 31 December 
+   2022 2021 
+   HK$'000 HK$'000 
+     
+Interest on bank borrowings   61,123 36,986 
+Interest on lease liabilities   49,664 53,179 
+Others   9,441 8,038 
+    120,228 98,203 
+Net (gain) loss on interest rate swaps 
+designated as cash flow hedges   (292) 20,219 
+   119,936 118,422 
+ 
+ 
+ 
+ 
+  
+Page 27 of 35 
+ 
+ 
+7. INCOME TAX EXPENSE 
+ 
+   Year ended 31 December 
+   2022 2021 
+   HK$'000 HK$'000 
+The charge (credit) comprises:     
+     
+Current tax:       
+  Hong Kong   43,728 56,393 
+People’s Republic of China (“PRC”) 
+   Enterprise Income Tax   97,149 150,089 
+Germany   409,901 386,307 
+  Other jurisdictions   214,273 215,556 
+    765,051 808,345 
+(Over) under-provision in prior years:     
+Hong Kong   (781) (40) 
+PRC Enterprise Income Tax   18,310 142,004 
+Germany   2,692 15,841 
+Other jurisdictions   64,002 28,292 
+   84,223 186,097 
+     
+Deferred tax credit   (54,350) (77,163) 
+    794,924 917,279 
+ 
+(a) Under the two-tiered profits tax rates regime of Hong Kong Profits Tax, the first HK$2 
+million of profits of the qualifying group entity will be taxed at 8.25%, and profits above 
+HK$2 million will be taxed at 16.5%. The profits of group entities in Hong Ko ng not 
+qualifying for the two-tiered profits tax rates regime will continue to be taxed at the flat 
+rate of 16.5%. The Hong Kong profits tax is calculated at 8.25% on the first HK$2 
+million of the estimated assessable profits for the qualifying group entity and at 16.5% 
+on the estimated assessable profits above HK$2 million for the years ended 31 
+December 2022 and 2021. 
+ 
+(b) Under the Law of the PRC on Enterprise Income Tax (the “EIT Law”) and 
+Implementation Regulations of the EIT Law, the Enterprise Income Tax  rate of the 
+Group’s subsidiaries in the PRC is 25% (2021: 25%), except for ASMPT Technology 
+(China) Co., Ltd. (formerly known as ASM Technology (China) Co., Ltd.) ("ATC"). ATC 
+obtained a new advanced technology service enterprise ("ATSE") Certificate in J uly 
+2018. According to the tax circular Caishui [2017] No. 79, ATC, as an ATSE, is subject 
+to Enterprise Income Tax at a reduced income tax rate of 15%. Based on local 
+regulations, starting from 2022, ATC ’s ATSE recognition is subject to annual review 
+and re-accreditation every three years. ATC ’s re-accreditation of ATSE recognition 
+has been approved in October 2022 and the renewed ATSE certificate is obtained 
+with validation till October 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Page 28 of 35 
+ 
+ 
+7.    INCOME TAX EXPENSE - continued 
+ 
+(c) ASMPT Singapore Pte. Ltd. (formerly known as ASM Technology Singapore Pte Ltd.) 
+("ATS") has been granted a Pioneer Certificate ("PC") to the effect that profits arising 
+from the manufacture of certain semiconductor products are exempted from tax for a 
+period of 10 years effective from 1 January 2022 to 31 December 2031 across 
+specified products, subject to fulfillment of certain criteria during the relevant periods. 
+ 
+ATS has also been granted a Development and Expansion Incentive ("DEI") to the 
+effect that certain income arising from qualifying activities conducted by ATS, are 
+subject to a concessionary tax rate for a period of 10 years from 1 January 2021 to 
+31 December 2030, subject to fulfillment of certain criteria during the relevant period. 
+ 
+Income of ATS arising from activities not covered under the PC or DEI are taxed at 
+the prevailing corporate tax rate in Singapore of 17% (2021: 17%). 
+ 
+(d) The calculation of current tax of the Group ’s subsidiaries in Germany is based on a 
+corporate income tax rate o f 15.00% (2021: 15.00%) plus 5.50% (2021: 5.50%) 
+solidarity surcharge on the corporate income tax for the assessable profit for the year, 
+which derives at a tax rate of 15.825% (2021: 15.825%). In addition to corporate 
+income tax, trade tax is levied on ta xable income. The applicable German trade tax 
+(local income tax) rates for the Group’s subsidiaries in Germany vary from 12.013% 
+to 17.150% (2021: 14.123% to 17.150%) according to the municipal in which the entity 
+resides. Thus the aggregate tax rates are between 27.838% and 32.975% (2021: 
+between 29.948% and 32.975%). 
+  
+(e) Taxation for other jurisdictions is calculated at the rates prevailing in the relevant 
+jurisdictions. 
+ 
+ 
+  
+Page 29 of 35 
+ 
+ 
+8. DIVIDENDS 
+ 
+       Year ended 31 December 
+  2022 2021 
+  HK$'000 HK$'000 
+Dividend recognized as distribution during the year   
+Interim dividend for 2022 paid of HK$1.30 (2021: HK$1.30) 
+per share on 412,705,333 (2021: 410,796,133) shares          536,517 534,035 
+Final dividend for 2021 paid of HK$2.60 (2021: final 
+dividend for 2020 paid of HK$2.00) per share on 
+412,705,333 (2021: 410,796,133) shares   1,073,034 821,592 
+    1,609,551  1,355,627 
+    
+ 
+Subsequent to  the end of the reporting period, a final dividend of HK$ 1.90 (2021: final 
+dividend of HK$2.60) per share in respect of the year ended 31 December 2022 has been 
+proposed by the directors of the Company and is subject to approval by the shareholders in 
+the forthcoming annual general meeting. 
+ 
+  Year ended 31 December 
+  2022 2021 
+  HK$'000 HK$'000 
+Dividend proposed subsequent to the end of the reporting 
+period    
+Proposed final dividend for 2022 of HK$1.90            
+  (2021: HK$2.60) per share on 412,504,333                          
+  (2021: 412,705,333) shares  783,758 1,073,034 
+    
+ 
+ 
+ 
+Page 30 of 35 
+ 
+ 
+9. EARNINGS PER SHARE 
+ 
+The calculation of the basic and diluted earnings per share attributable to owners of the 
+Company is based on the following data: 
+  
+ Three months ended 31 Dec Year ended 31 Dec 
+ 2022 2021 2022 2021 
+ HK$'000 HK$'000 HK$'000 HK$'000 
+ (unaudited) (unaudited) (audited) (audited) 
+Earnings for the purpose of 
+calculating basic and 
+diluted earnings per 
+share (Profit for the 
+period attributable to 
+owners of the Company) 266,876 913,006 2,620,251 3,168,976 
+     
+ Three months ended 31 Dec Year ended 31 Dec 
+ 2022 2021 2022 2021 
+ Number of shares Number of shares 
+ (in thousands) (in thousands) 
+ (unaudited) (unaudited) (audited) (audited) 
+Weighted average number 
+of ordinary shares for the 
+purpose of calculating 
+basic earnings per share 410,126 410,899 411,667 410,678 
+Effect of dilutive potential 
+shares:       
+- Employee Share        
+Incentive Scheme 2,555 1,847 2,369 1,656 
+Weighted average number 
+of ordinary shares for the 
+purpose of calculating 
+diluted earnings per 
+share 412,681 412,746 414,036 412,334 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 31 of 35 
+ 
+ 
+10. TRADE AND OTHER RECEIVABLES 
+ 
+          At 31 December 
+ 2022 2021 
+ HK$'000 HK$'000 
+   
+Trade receivables (Note) 4,114,370 5,375,584 
+Value-added tax recoverable 225,657 324,017 
+Other receivables, deposits and prepayments 203,645 176,261 
+ 4,543,672 5,875,862 
+ 
+ 
+The following is an aging analysis of trade receivables net of allowance for credit losses 
+presented based on the due date at the end of the reporting period: 
+ 
+       At 31 December 
+ 2022 2021 
+ HK$'000 HK$'000 
+   
+Not yet due (Note) 2,951,052 4,466,823 
+Overdue within 30 days 450,613 597,586 
+Overdue 31 to 60 days 160,510 174,483 
+Overdue 61 to 90 days 212,935 60,948 
+Overdue over 90 days 339,260 75,744 
+ 4,114,370 5,375,584 
+ 
+Note: The amount included notes receivables amounting to HK$144,179,000 (2021: 
+HK$1,344,979,000) are held by the Group for future settlement of trade receivables. 
+All notes receivables received by the Group are with a maturity period of less than one 
+year. 
+ 
+As at 1 January 2021, trade receivables amounted to HK$3,807,458,000. 
+ 
+Credit policy: 
+ 
+Before accepting any new customer, the Group assesses the potential customer’s credit 
+quality and pre -sets maximum credit limit for each customer. Limits and credit quality 
+attributed to customers are reviewed regularly. Payment terms with customers are mainly on 
+credit together with deposits received in advance. Invoices are normally payable within 30 
+days to 60 days of issuance, except for certain well established customers, where the terms 
+are extended to 3 to 4 months or longer.  
+ 
+As at 31 December 2022, included in the Group’s trade receivables balance are debtors with 
+aggregate carrying amount of HK$1,163,318,000 (2021: HK$908,761,000) are past due as 
+at the reporting date. Out of the past due balances, HK$339,260,000 (2021: HK$75,744,000) 
+has been past due 90 days or more, and they are not considered as in default. The Group 
+considers the information developed internally or obtained from external sources and 
+considered that the debtors are likely to pay its creditors.  
+  
+Page 32 of 35 
+ 
+ 
+11. TRADE LIABILITIES AND OTHER PAYABLES 
+ 
+                    At 31 December 
+ 2022 2021 
+ HK$'000 HK$'000 
+   
+Trade payables 1,400,310 2,019,439 
+Deferred income (Note a) 166,677 155,719 
+Accrued salaries and wages 285,712 296,063 
+Other accrued charges 657,104 813,977 
+Payables arising from acquisition of property, plant 
+and equipment 73,760 80,931 
+Gross obligation to acquire non-controlling interest 44,780 - 
+Other payables (Note b) 251,066 242,263 
+ 2,879,409 3,608,392 
+ 
+Notes:  
+ 
+(a) The amounts mainly represent the spare credits that grant customers the right to    
+purchase certain amounts of spare parts for free, which are contract liabilities. 
+ 
+As at 1 January 2021, deferred income amounted to HK$118,925,000.  The deferred 
+income as at  1 January 2021 and 1 January 2022 were fully recogni zed as revenue 
+during the year 31 December 2021 and 31 December 2022, respectively. 
+ 
+(b) The amounts mainly represent the value-added tax payable and sundry payables  or 
+accruals of operating expenses. 
+ 
+The following is an aging analysis of trade payables presented based on the due date at the 
+end of the reporting period: 
+ 
+                       At 31 December 
+ 2022 2021 
+ HK$'000 HK$'000 
+   
+Not yet due 1,013,692 1,701,316 
+Overdue within 30 days 165,451 203,178 
+Overdue 31 to 60 days 82,488 83,762 
+Overdue 61 to 90 days 67,439 10,214 
+Overdue over 90 days 71,240 20,969 
+ 1,400,310 2,019,439 
+ 
+The average credit period on purchases of goods ranges from 30 to 90 days. The Group has 
+financial risk management policies in place to ensure that all payables are settled within the 
+credit timeframe. 
+ 
+ 
+ 
+ 
+  
+Page 33 of 35 
+ 
+ 
+CORPORATE GOVERNANCE  
+ 
+The Company has complied with all the code provisions set out in the Corporate Governance 
+Code (the “CG Code”) contained in Appendix 14 of the Listing Rules throughout the year ended 
+31 December 2022.  
+ 
+The Company reviews its corporate governance practices regularly to ensure compliance with the 
+CG Code.  
+ 
+ 
+AUDIT COMMITTEE  
+ 
+The audit committee of the Company (the “Audit Committee”) comprises four Independent Non-
+Executive Directors and one Non-Executive Director who together have substantial experience in 
+fields of auditing, legal matters, business, accounting, corporate internal control and regulatory 
+affairs.  
+ 
+ 
+REVIEW OF FINANCIAL STATEMENTS  
+ 
+The Audit Committee has reviewed the Group’s consolidated financial statements for the year 
+ended 31 December 2022 in conjunction with the Company’s external auditor. 
+ 
+ 
+  
+Page 34 of 35 
+ 
+ 
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S LISTED 
+SECURITIES 
+ 
+The Company was authorised at its 2022 AGM to buy back its own ordinary shares not exceeding 
+5% of the total number of its issued shares as at the date of the resolution being passed. 
+ 
+During the year ended 31 December 2022, the Company bought back an aggregate of 2,834,700 
+ordinary shares for a total consideration of approximately HK$168 million (excluding ancillary 
+trading fees, costs and expenses directly attributable to the purchase) on The Stock Exchange 
+of Hong Kong Limited (the “ Stock Exchange”). All the shares bought back were subsequently 
+cancelled. As at 31 December 2022, the total number of shares in issue was 412,871,633, which 
+does not reflect the 367,300 shares bought back in October and November 2022 which were 
+cancelled on 10 February 2023. As at the date of this announcement, the total number of shares 
+in issue is 412,504,333. 
+ 
+Details of the share buyback are as follows: 
+ 
+ 
+Month of share buyback in 
+2022 
+ 
+Number of 
+shares bought 
+back 
+Consideration per share Aggregate 
+consideration 
+paid 
+(HK$'000) 
+Highest (HK$) Lowest (HK$) 
+August 2022 1,005,200 66.40 60.55 63,482 
+September 2022 1,462,200 63.20 55.65 88,453 
+October 2022 100,000 44.85 43.10 4,402 
+November 2022 267,300 46.20 42.55 11,862 
+ 2,834,700   168,199 
+ 
+The Directors of the Company believe that the above share buybacks are in the best interests of 
+the Company and its shareholders and that such share buybacks would lead to an enhancement 
+of the earnings per share of the Company. 
+ 
+During the year ended 31 December 2022, the Trustee, pursuant to the terms of the rules and 
+trust deed of the Employee Share Incentive Scheme, purchased on the Stock Exchange a total 
+of 429,700 shares in the Company at a total consideration of approximately HK$33.2 millio n 
+(excluding ancillary trading fees, costs and expenses directly attributable to the purchase). 
+ 
+Save as disclosed above, neither the Company nor any of its subsidiaries purchased, sold or 
+redeemed any of the Company’s listed securities during the year ended 31 December 2022. 
+ 
+  
+Page 35 of 35 
+ 
+ 
+SCOPE OF WORK OF MESSRS. DELOITTE TOUCHE TOHMATSU 
+ 
+The figures as set out in the preliminary announcement in respect of the Group’s consolidated 
+statement of financial position, consolidated statement of profit or loss, consolidated statement of 
+profit or loss and other comprehensive income and the related notes thereto for the year ended 31 
+December 2022 have been agreed by the Group’s auditor, Messrs. Deloitte Touche Tohmatsu, to 
+the amounts set out in the Group’s audited consolidated financial statements for the year. The work 
+performed by Messrs. Deloitte Touche Tohmatsu in this respect did not constitute an assurance 
+engagement in accordance with the Hong Kong Standards on Auditing, Hong Kong Standards on 
+Review Engagements or the Hong Kong Standards on Assurance Engagements issued by the Hong 
+Kong Institute of Certified Public Accountants. Consequently, no assurance has been expressed by 
+Messrs. Deloitte Touche Tohmatsu on the preliminary announcement. 
+ 
+BOARD OF DIRECTORS  
+ 
+As at the date of this announcement, the Board comprises Miss Orasa Livasiri (Chairman), Mr. John 
+Lok Kam Chong, Mr. Wong Hon Yee, Mr. Eric Tang Koon Hung, Mr. Andrew Chong Yang Hsueh 
+and Ms. Hera Siu Kitwan as Independent Non-Executive Directors, Mr. Benjamin Loh Gek Lim and 
+Mr. Paulus Antonius Henricus Verhagen as Non-Executive Directors, and Mr. Robin Gerard Ng Cher 
+Tat and Mr. Guenter Walter Lauber as Executive Directors. 
+ 
+ 
+              On behalf of the Board 
+                                                                                                         Robin Gerard Ng Cher Tat 
+                                                                                                                      Director 
+ 
+ 
+Hong Kong, 28 February 2023 
+ 
+ 

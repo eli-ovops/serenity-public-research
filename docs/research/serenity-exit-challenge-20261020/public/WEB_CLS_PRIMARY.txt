@@ -1,0 +1,111 @@
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1030894/000103089426000043/cls-20260630prcondensedfs.htm)
+citeturn511view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1030894/000103089426000043/cls-20260630prcondensedfs.htm","lineno":null}); Total lines: 477
+L0: EX-99.1 2 cls-20260630prcondensedfs.htm EX-99.1 cls-20260630prcondensedfs
+L1: 
+L2: Exhibit 99.1
+L3: 
+L4:  |  |  |  |  |
+L5: FOR IMMEDIATE RELEASE(All amounts in U.S. dollars)  | July 27, 2026
+L6: 
+L7: CELESTICA ANNOUNCES SECOND QUARTER 2026 FINANCIAL RESULTS
+L8: 
+L9: Q2 2026 revenue and adjusted EPS* above the high end of our guidance ranges;
+L10: 
+L11: Raising 2026 annual outlook and expecting growth to accelerate in 2027
+L12: TORONTO, Canada - Celestica Inc.1 (NYSE: CLS) (TSX: CLS), a global leader in data center infrastructure and advanced technology solutions, today announced its financial results for the second quarter ended June 30, 2026 (Q2 2026).
+L13: 
+L14: Q2 2026 Highlights
+L15: 
+L16: •Revenue: $4.70 billion, increased 62% compared to $2.89 billion for the second quarter of 2025 (Q2 2025).
+L17: 
+L18: •GAAP earnings from operations as a % of revenue: 9.8%, compared to 9.4% for Q2 2025.
+L19: •Adjusted operating margin (non-GAAP)*: 8.2%, compared to 7.4% for Q2 2025.
+L20: 
+L21: •GAAP earnings per share2 (EPS): $3.17, compared to $1.82 for Q2 2025.
+L22: 
+L23: •Adjusted EPS2 (non-GAAP)*: $2.54, compared to $1.39 for Q2 2025.
+L24: “Celestica delivered very strong performance in the second quarter, achieving revenue of $4.70 billion and adjusted EPS (non-GAAP)* of $2.54, each exceeding the high end of our guidance ranges. Our adjusted operating margin (non-GAAP)* of 8.2% represents another new high for the company, demonstrating the strength of our execution,” said Rob Mionis, CEO.
+L25: “Driven by our strong first-half performance, strengthening second half customer forecasts, and improved component supply, we are pleased to once again raise our 2026 annual outlook. Our 2026 revenue outlook is now $20.5 billion, and our adjusted EPS (non-GAAP)* outlook is now $11.30, reflecting year-over-year growth of 65% and 87%, respectively.”
+L26: “Looking beyond 2026, our visibility continues to increase. Driven by very strong customer demand, and supported by new program wins, we expect revenue growth in 2027 to accelerate beyond the 65% growth rate we are anticipating in 2026. We also anticipate adjusted EPS (non-GAAP)* to grow at a faster rate than our revenue in 2027, driven by higher expected adjusted operating margin (non-GAAP)*.”
+L27: 1 Celestica has two operating and reportable segments: Connectivity & Cloud Solutions (CCS) (consists of our Communications and Enterprise (servers and storage) end markets) and Advanced Technology Solutions (ATS) (comprised of our Aerospace and Defense, Industrial, HealthTech, and Capital Equipment businesses). Segment performance is evaluated based on segment revenue, segment income, and segment margin (segment income as a percentage of segment revenue).
+L28: See note 3 to our June 30, 2026 unaudited interim condensed consolidated financial statements (Q2 2026 Interim Financial Statements) for further detail.
+L29: 2 Per share information included in this press release is based on diluted shares outstanding unless otherwise noted.
+L30: 
+L31: * See Use of Non-GAAP Measures and Schedule 1 for, among other items, non-GAAP financial measures (and ratios) included in this press release, their definitions, uses, and a reconciliation of non-GAAP financial measures to the most directly comparable GAAP financial measures. Non-GAAP measures in this press release are denoted with an asterisk (*).
+L32: Third Quarter of 2026 (Q3 2026) Guidance
+L33: 
+L34:  |  |  |  |  |
+L35:  | Q3 2026 Guidance
+L36: Revenue (in billions)  | $5.25 to $5.55
+L37: Adjusted operating margin (non-GAAP)*  | 8.4% at the mid-point of our
+L38: revenue and adjusted
+L39: EPS (non-GAAP) guidance ranges
+L40: Adjusted EPS (non-GAAP)*(1)  | $2.88 to $3.08
+L41: (1)    Q3 2026 guidance excludes a negative $0.27 to $0.33 per share (pre-tax) aggregate impact on net earnings on a GAAP basis for employee stock-based compensation (SBC) expense, amortization of intangible assets (excluding computer software), and restructuring charges. Q3 2026 guidance assumes an adjusted effective tax rate (non-GAAP)* of approximately 20% and no share repurchases or issuances in Q3 2026.
+L42: 
+L43: * * *
+L44: 
+L45: 2026 Annual Outlook and Long-Term Demand Update
+L46: •Revenue of $20.5 billion (previous outlook $19.0 billion) (1)
+L47: 
+L48: •Adjusted EPS (non-GAAP)* of $11.30 (previous outlook $10.15) (1)(2)
+L49: 
+L50: •Adjusted operating margin (non-GAAP)* of 8.4% (previous outlook 8.1%) (1)
+L51: 
+L52: •Free cash flow (non-GAAP)* of $600 million (previous outlook $500 million) (1)
+L53: We now expect our revenue growth rate in 2027 to accelerate, relative to the 65% revenue growth rate anticipated in our latest 2026 Annual Outlook. We also anticipate adjusted EPS (non-GAAP)* to grow at a faster rate than our revenue in 2027.
+L54: 
+L55: (1)    The increase of our 2026 annual outlook is driven by expected stronger customer demand for Q3 2026 and improvements in our demand visibility for the remainder of 2026.
+L56: (2)    2026 guidance assumes an adjusted effective tax rate (non-GAAP)* of approximately 20% and no share repurchases or issuances in the remainder of 2026.
+L57: * See Use of Non-GAAP Measures and Schedule 1. For our Q3 2026 Guidance and 2026 Annual Outlook and Long-Term Demand Update, we present certain forward-looking non-GAAP metrics.
+L58: A reconciliation of such forward-looking non-GAAP measures to the most directly comparable GAAP measures on a forward-looking basis has not been provided because the items that we exclude from GAAP to calculate the comparable non-GAAP measure are dependent on future events that management is not able to reliably predict and are not part of our routine operating activities.
+L59: We are unable to provide such a reconciliation without unreasonable effort due to the uncertainty and inherent difficulty in predicting the occurrence, the financial impact and the periods in which the adjustments may be recognized. The occurrence, timing and amount of any of the items excluded from GAAP to calculate non-GAAP could significantly impact our GAAP results.
+L60: Summary of Selected Q2 2026 Results
+L61: 
+L62:  |  |  |  |  |  |  |  |  |  |  |
+L63:  | Q2 2026 Actual  |  | Q2 2026 Guidance(2)
+L64: Revenue (in billions)  | $4.70  |  | $4.15 to $4.45
+L65: GAAP earnings from operations as a % of revenue  | 9.8%  |  | N/A
+L66: GAAP EPS (1)  | $3.17  |  | N/A
+L67: Adjusted operating margin (non-GAAP)*  | 8.2%  |  | 8.0% at the mid-point of our
+L68: revenue and adjusted
+L69: EPS (non-GAAP) guidance ranges
+L70: Adjusted EPS (non-GAAP)*  | $2.54  |  | $2.14 to $2.34
+L71: CCS segment revenue: $3.81 billion, increased 84% compared to Q2 2025; CCS segment margin: 8.7% compared to 8.3% for Q2 2025. Hardware Platform Solutions revenue of approximately $1.9 billion increased 58% compared to Q2 2025.
+L72: 
+L73: ATS segment revenue: $0.89 billion, increased 8% compared to Q2 2025; ATS segment margin: 6.3% compared to 5.3% for Q2 2025.
+L74: (1)    GAAP EPS of $3.17 for Q2 2026 included an aggregate charge of $0.28 per share (pre-tax) for employee SBC expense, amortization of intangible assets (excluding computer software), and restructuring charges (Q2 2025 — $0.33 per share (pre-tax)). See the tables in Schedule 1 and note 10 to the Q2 2026 Interim Financial Statements for per-item charges. This aggregate charge was within our previously communicated Q2 2026 anticipated range of between $0.24 to $0.30 per share (pre-tax) for these items.
+L75: GAAP EPS for Q2 2026 and the first half of 2026 also included a $0.90 and $0.75, respectively, per share (pre-tax) positive impact attributable to our total return swap agreement (Q2 2025 and the first half of 2025 — $0.84 and $0.67, respectively, per share (pre-tax) positive impact). See note 8 to our Q2 2026 Interim Financial Statements.
+L76: (2) For Q2 2026, our revenue exceeded the high end of our guidance range due to higher than anticipated customer demand and strong operational execution. Our adjusted operating margin (non-GAAP) for Q2 2026 exceeded the mid-point of our revenue and adjusted EPS (non-GAAP) guidance ranges and our Q2 2026 adjusted EPS (non-GAAP) exceeded the high end of our guidance range, primarily driven by stronger than anticipated operating leverage. Our GAAP effective tax rate for Q2 2026 was 16%.
+L77: Our adjusted effective tax rate (non-GAAP) for Q2 2026 was 20%, lower than our anticipated estimate of approximately 21%, primarily due to favorable profit mix.
+L78: Q2 2026 Financial Results
+L79: 
+L80: Management will host its Q2 2026 financial results conference call on July 28, 2026 at 8:00 a.m. Eastern Time (ET). The webcast can be accessed at www.celestica.com.
+L81: 
+L82:  |  |  |  |  |  |  |  |
+L83:  | ii  | more...
+L84: 
+L85: * * *
+L86: 
+L87: Use of Non-GAAP Measures
+L88: In addition to disclosing detailed operating results in accordance with GAAP, Celestica provides supplementary non-GAAP financial measures to consider in evaluating our operating performance.
+L89: Management uses adjusted net earnings and other non-GAAP financial measures to assess operating performance, financial leverage and the effective use and allocation of resources; to provide more normalized period-to-period comparisons of operating results; to enhance investors’ understanding of the core operating results of Celestica’s business; and to set management incentive targets.
+L90: We believe investors use both GAAP and non-GAAP financial measures to assess management's decisions associated with our priorities and capital allocation, as well as to analyze how our business operates in, or responds to, macroeconomic trends or other events that impact our core operations. See Schedule 1 below.
+L91: About Celestica
+L92: Celestica is a technology leader dedicated to driving customer success and market advancements. With deep expertise in design, engineering, manufacturing, supply chain, and platform solutions, Celestica enables critical data center infrastructure for AI, cloud and hybrid cloud, and advances technologies in high-growth markets. With a talented team and a strategic global network, Celestica helps its customers achieve competitive advantages. For more information on Celestica, visit www.celestica.com.
+L93: Our securities filings can be accessed at www.sedarplus.ca and www.sec.gov.
+L94: The information contained on or accessible through www.celestica.com is not incorporated by reference into, and does not form part of, this release.
+L95: 
+L96: Cautionary Note Regarding Forward-looking Statements
+L97: This press release contains forward-looking statements, including, without limitation, those related to: strengthening demand in our businesses, demand environment and customer forecasts, our anticipated financial and/or operational results, guidance and outlook, including statements under the headings "Third Quarter of 2026 (Q3 2026) Guidance”, and “2026 Annual Outlook and Long-Term Demand Update”, and including statements with respect to timelines referenced therein, expected revenue growth in 2026 and 2027, developments related to new customer or program wins, timing of production ramps, anticipated economic conditions, industry and market trends and projections, underlying market growth rates, customer demand, prospects and opportunities, and strategic initiatives.
+L98: Such forward-looking statements may, without limitation, be preceded by, followed by, or include words such as “believes,” “expects,” “anticipates,” “estimates,” “intends,” “plans,” “continues,” “projects,” "target," "outlook," "goal," "guidance," “potential,” “possible,” “contemplate,” “seek,” or similar expressions, or may employ such future or conditional verbs as “may,” “might,” “will,” “could,” “should,” or “would,” or may otherwise be indicated as forward-looking statements by grammatical construction, phrasing or context.
+L99: For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the U.S. Private Securities Litigation Reform Act of 1995, where applicable, and for forward-looking information under applicable Canadian securities laws.
+L100: Forward-looking statements are provided to assist readers in understanding management’s current expectations and plans relating to the future.
+L101: Forward-looking statements reflect our current estimates, beliefs and assumptions, which are based on management’s perception of historic trends, current conditions and expected future developments, as well as other factors it believes are appropriate in the circumstances, including certain assumptions about: revenue growth in 2026 and 2027 (including continued strengthening of customer demand, close alignment with key customers on demand planning, sustained improvements in demand visibility, and continued strengthening of adjusted operating margins); accelerating growth from our customer base, including our CCS customer base; demand levels across our businesses, including continued growth in demand from data center customers in 2026 and 2027; programs and production ramps occurring and progressing as anticipated in line with expected timelines, specifications, qualification requirements and production schedules, customer decisions, design changes, silicon and component availability, qualification outcomes, deployment timelines and priorities, constraints affecting data center development, construction, equipping or operation, and other technical, commercial, regulatory or supply-chain factors, and our expected role in such programs, including our 800G and 1.6T networking, and AI/machine learning compute programs with data center customers; technology upgrade cycles; our ability to retain programs and customers; continuing operating leverage and improving mix; the impact of anticipated market conditions on our businesses; the reliability of third party market forecasts and customer indications of future demands and roadmaps, including with respect to data center infrastructure; continued advancement and commercialization of AI technologies and cloud computing; supporting sustained high levels of capital expenditure investments by leading hyperscaler, AI, and data center customers; our ability to develop new capabilities; scaling of our operations to meet the anticipated growth in customer demand; the successful recruitment and retention of skilled talent; capital investments proceeding as anticipated, including timely completion of construction and operationalization of assets, securing required materials, utilities, and equipment for our expansion plans; our ability to secure adequate component and materials supply;
+L102:  |  |  |  |  |  |  |  |
+L103:  | iii  | more...
+L104: 
+L105: * * *
+L106: alignment of our capacity with our business demands; the economy; our customers; our suppliers; tax and interest rates; no material changes to tariffs, trade restrictions, customs administration, or related refund or recovery processes, including developments relating to duties imposed under the International Emergency Economic Powers Act of 1977 and any replacement, continuing or retaliatory tariff measures, compared to what are in effect as of July 27, 2026; that our customers will retain liability for and we will continue to be able to recover substantially all costs from customers relating to product/component tariffs and countermeasures; no material changes in business activities resulting from current macroeconomic trends and uncertainties, including evolving global tariffs, trade negotiations, and geopolitical conflicts; our ability to achieve our strategic goals; the availability of cash from operations to fund planned capital investments; the availability of capital resources for, and the permissibility under our credit facility of, repurchases of outstanding common shares under our current normal course issuer bid; as well as other market, financial and operational assumptions.
+L107: Readers are cautioned that such information may not be appropriate for other purposes. Readers should not place undue reliance on such forward-looking information.
+

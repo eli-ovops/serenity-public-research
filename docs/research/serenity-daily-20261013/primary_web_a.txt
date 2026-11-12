@@ -1,0 +1,502 @@
+FormFactor (FORM) Stock Price & Overview (https://stockanalysis.com/stocks/form/)
+citeturn384view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn383view2","lineno":65}); Total lines: 383
+L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: # FormFactor, Inc. (FORM)
+L66: 
+L67: NASDAQ: FORM · Real-Time Price · USD
+L68: 
+L69: 126.42
+L70: 
+L71: -3.86 (-2.97%)
+L72: 
+L73: Oct 13, 2026, 9:50 AM EDT - Market open
+L74: 
+L75:   * cite42†Overview L76:   * cite43†Financials L77:   * cite44†Forecast L78:   * cite45†Statistics L79:   * cite46†History L80:   * cite47†Profile L81:   * cite48†Chart L82: 
+L83:   * 1D
+L84:   * 5D
+L85:   * 1M
+L86:   * YTD
+L87:   * 3M
+L88:   * 6M
+L89:   * 1Y
+L90:   * 5Y
+L91:   * Max
+L92: 
+L93: Full Chart Watchlist Alerts Compare
+L94: cite49†Market Cap | 9.88B +235.3%
+L95: cite50†Revenue (ttm) | 902.23M +18.0%
+L96: Net Income  | 115.47M +162.9%
+L97: EPS  | 1.45 +155.0%
+L98: Shares Out  | 78.12M
+L99: PE Ratio  | 87.81
+L100: Forward PE  | 36.89
+L101: Dividend  | n/a
+L102: Ex-Dividend Date  | n/a
+L103: Volume  | 156,175
+L104: Open  | 127.64
+L105: Previous Close  | 130.28
+L106: Day's Range  | 124.00 - 127.64
+L107: 52-Week Range  | 38.12 - 160.27
+L108: Beta  | 1.18
+L109: cite51†Analysts | Buy
+L110: cite44†Price Target | 153.89 (+21.73%)
+L111: Earnings Date  | Oct 28, 2026
+L112: ## About FORM
+L113: FormFactor, Inc. designs, manufactures, and sells probe cards, analytical probes, probe stations, thermal systems, cryogenic systems, and related services in the United States, South Korea, Taiwan, China, Japan, Singapore, Europe, Malaysia, and internationally. The company operates in two segments: Probe Cards and Systems segments.
+L114: The company provides probe cards to test various semiconductor device types, including systems- on-chip products, such as graphics, central, digital processing units, and other custom application-specific processing ... cite47†[Read more] L115: Industry cite52†Semiconductor Equipment & Materials L116: 
+L117: Sector cite53†Technology L118: 
+L119: Founded 1993
+L120: 
+L121: Employees cite54†2,153 L122: 
+L123: Stock Exchange Nasdaq
+L124: 
+L125: Ticker Symbol FORM
+L126: 
+L127: Website cite55†https://www.formfactor.com†www.formfactor.com L128: 
+L129: cite47†Full Company Profile --------------------------------------------------------------------------------
+AAON, Inc. (AAON) Stock Price & Overview (https://stockanalysis.com/stocks/aaon/)
+citeturn384view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn383view3","lineno":65}); Total lines: 345
+L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: # AAON, Inc. (AAON)
+L66: 
+L67: NASDAQ: AAON · Real-Time Price · USD
+L68: 
+L69: 83.41
+L70: 
+L71: -1.36 (-1.60%)
+L72: 
+L73: Oct 13, 2026, 9:37 AM EDT - Market open
+L74: 
+L75:   * cite42†Overview L76:   * cite43†Financials L77:   * cite44†Forecast L78:   * cite45†Statistics L79:   * cite46†Dividends L80:   * cite47†History L81:   * cite48†Profile L82:   * cite49†Chart L83: 
+L84:   * 1D
+L85:   * 5D
+L86:   * 1M
+L87:   * YTD
+L88:   * 3M
+L89:   * 6M
+L90:   * 1Y
+L91:   * 5Y
+L92:   * Max
+L93: 
+L94: Full Chart Watchlist Alerts Compare
+L95: cite50†Market Cap | 6.88B -17.7%
+L96: cite51†Revenue (ttm) | 1.93B +53.5%
+L97: Net Income  | 159.29M +30.5%
+L98: EPS  | 1.90 +29.2%
+L99: Shares Out  | 82.45M
+L100: PE Ratio  | 44.15
+L101: Forward PE  | 30.39
+L102: cite46†Dividend | $0.40 (0.48%)
+L103: Ex-Dividend Date  | Sep 4, 2026
+L104: Volume  | 29,844
+L105: Open  | 82.40
+L106: Previous Close  | 84.77
+L107: Day's Range  | 82.40 - 82.40
+L108: 52-Week Range  | 73.19 - 150.46
+L109: Beta  | 1.41
+L110: cite52†Analysts | Buy
+L111: cite44†Price Target | 134.75 (+61.55%)
+L112: Est. Earnings  | Nov 5, 2026
+L113: ## About AAON
+L114: AAON, Inc., together with its subsidiaries, engages in engineering, manufacturing, marketing, and selling air conditioning and heating equipment in the United States and Canada. The company operates through three segments: AAON Oklahoma, AAON Coil Products, and BASX.
+L115: It offers rooftop units, data center cooling solutions, cleanroom systems, packaged outdoor mechanical rooms, air handling units, makeup air units, energy recovery units, condensing units, geothermal/water-source heat pumps, coils, and controls. The company markets and sells its pr... cite48†[Read more] L116: Industry cite53†Building Products & Equipment L117: 
+L118: Sector cite54†Industrials L119: 
+L120: Founded 1988
+L121: 
+L122: Employees cite55†5,897 L123: 
+L124: Stock Exchange Nasdaq
+L125: 
+L126: Ticker Symbol AAON
+L127: 
+L128: Website cite56†https://www.aaon.com†www.aaon.com L129: 
+L130: cite48†Full Company Profile --------------------------------------------------------------------------------
+QQQ ETF Stock Price & Overview (https://stockanalysis.com/etf/qqq/)
+citeturn384view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn383view4","lineno":62}); Total lines: 385
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†By Country L15:   * cite8†Comparison Tool L16:   * cite9†Earnings Calendar L17:   * cite10†By Industry L18:   * cite11†Stock Lists L19:   * cite12†Top Stocks L20:   * cite13†Corporate Actions L21: 
+L22: cite14†IPOs L23: 
+L24:   * cite14†Recent IPOs L25:   * cite15†IPO Calendar L26:   * cite16†IPO Lockups L27:   * cite17†IPO Statistics L28:   * cite18†IPO News L29:   * cite19†IPO Screener L30: 
+L31: cite20†ETFs L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: # Invesco QQQ Trust Series I (QQQ)
+L66: 
+L67: NASDAQ: QQQ · Real-Time Price · USD
+L68: 
+L69: 743.42
+L70: 
+L71: -2.62 (-0.35%)
+L72: 
+L73: Oct 13, 2026, 9:55 AM EDT - Market open
+L74: 
+L75:   * cite42†Overview L76:   * cite43†Holdings L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Heatmap L80:   * cite47†Chart L81: 
+L82:   * 1D
+L83:   * 5D
+L84:   * 1M
+L85:   * YTD
+L86:   * 3M
+L87:   * 6M
+L88:   * 1Y
+L89:   * 5Y
+L90:   * Max
+L91: 
+L92: Full Chart Watchlist Alerts Compare
+L93: Assets  | $503.49B
+L94: Expense Ratio  | 0.18%
+L95: PE Ratio  | 29.42
+L96: Shares Out  | 672.10M
+L97: Dividend (ttm)  | $3.09
+L98: Dividend Yield  | 0.42%
+L99: Ex-Dividend Date  | Sep 21, 2026
+L100: Payout Frequency  | Quarterly
+L101: Payout Ratio  | 12.19%
+L102: Volume  | 5,531,482
+L103: Open  | 739.52
+L104: Previous Close  | 746.04
+L105: Day's Range  | 738.83 - 742.85
+L106: 52-Week Low  | 555.60
+L107: 52-Week High  | 762.86
+L108: Beta  | 1.23
+L109: Holdings  | 104
+L110: Inception Date  | Mar 10, 1999
+L111: ## About QQQ
+L112: 
+L113: cite48†Fund Home Page†www.invesco.com L114: 
+L115: The Invesco QQQ Trust Series I (QQQ) is an exchange-traded fund that is based on the NASDAQ 100 index, a modified-market-cap-weighted index of 100 NASDAQ-listed stocks. QQQ was launched on Mar 10, 1999 and is issued by Invesco.
+L116: 
+L117: Asset Class Equity
+L118: 
+L119: Category Large Growth
+L120: 
+L121: Stock Exchange Nasdaq
+L122: 
+L123: Ticker Symbol QQQ
+L124: 
+L125: ETF Provider cite49†Invesco L126: 
+L127: Index Tracked NASDAQ 100 Index
+--------------------------------------------------------------------------------
+RSP ETF Stock Price & Overview (https://stockanalysis.com/etf/rsp/)
+citeturn384view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/etf/rsp/","lineno":65}); Total lines: 296
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†By Country L15:   * cite8†Comparison Tool L16:   * cite9†Earnings Calendar L17:   * cite10†By Industry L18:   * cite11†Stock Lists L19:   * cite12†Top Stocks L20:   * cite13†Corporate Actions L21: 
+L22: cite14†IPOs L23: 
+L24:   * cite14†Recent IPOs L25:   * cite15†IPO Calendar L26:   * cite16†IPO Lockups L27:   * cite17†IPO Statistics L28:   * cite18†IPO News L29:   * cite19†IPO Screener L30: 
+L31: cite20†ETFs L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: # Invesco S&P 500 Equal Weight ETF (RSP)
+L66: 
+L67: NYSEARCA: RSP · Real-Time Price · USD
+L68: 
+L69: 213.47
+L70: 
+L71: +0.28 (0.13%)
+L72: 
+L73: Oct 13, 2026, 9:41 AM EDT - Market open
+L74: 
+L75:   * cite42†Overview L76:   * cite43†Holdings L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Chart L80: 
+L81:   * 1D
+L82:   * 5D
+L83:   * 1M
+L84:   * YTD
+L85:   * 3M
+L86:   * 6M
+L87:   * 1Y
+L88:   * 5Y
+L89:   * Max
+L90: 
+L91: Full Chart Watchlist Alerts Compare
+L92: Assets  | $97.26B
+L93: Expense Ratio  | 0.20%
+L94: PE Ratio  | 19.72
+L95: Shares Out  | 461.64M
+L96: Dividend (ttm)  | $3.18
+L97: Dividend Yield  | 1.49%
+L98: Ex-Dividend Date  | Sep 21, 2026
+L99: Payout Frequency  | Quarterly
+L100: Payout Ratio  | 29.41%
+L101: Volume  | 1,456,304
+L102: Open  | 213.55
+L103: Previous Close  | 213.19
+L104: Day's Range  | 213.43 - 213.94
+L105: 52-Week Low  | 182.11
+L106: 52-Week High  | 223.44
+L107: Beta  | 0.93
+L108: Holdings  | 509
+L109: Inception Date  | Apr 24, 2003
+L110: ## About RSP
+L111: 
+L112: cite47†Fund Home Page†www.invesco.com L113: 
+L114: The Invesco S&P 500 Equal Weight ETF (RSP) is an exchange-traded fund that is based on the S&P 500 Equal Weighted index. The fund tracks an equal-weighted index of S&P 500 companies. RSP was launched on Apr 24, 2003 and is issued by Invesco.
+L115: 
+L116: Asset Class Equity
+L117: 
+L118: Category Large Blend
+L119: 
+L120: Region North America
+L121: 
+L122: Stock Exchange NYSE Arca
+L123: 
+L124: Ticker Symbol RSP
+L125: 
+L126: ETF Provider cite48†Invesco L127: 
+L128: Index Tracked S&P 500 Equal Weighted
+L129: ## Top 10 Holdings
+L130: 
+L131: 2.79% of assets
+L132: 
+L133: Name  | Symbol  | Weight
+L134: --- | --- | ---
+L135: Moderna, Inc.  | cite49†MRNA | 0.33%
+L136: Everpure, Inc.  | cite50†P | 0.32%
+L137: PTC Inc.  | cite51†PTC | 0.30%
+L138: Illumina, Inc.  | cite52†ILMN | 0.27%
+L139: Ciena Corporation  | cite53†CIEN | 0.27%
+L140: CrowdStrike Holdings, Inc.  | cite54†CRWD | 0.27%
+L141: Datadog, Inc.  | cite55†DDOG | 0.26%
+L142: Synopsys, Inc.  | cite56†SNPS | 0.26%
+L143: NetApp, Inc.  | cite57†NTAP | 0.26%
+L144: Palo Alto Networks, Inc.  | cite58†PANW | 0.25%
+L145: cite43†View More Holdings --------------------------------------------------------------------------------
+SOXX ETF Stock Price & Overview (https://stockanalysis.com/etf/soxx/)
+citeturn384view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/etf/soxx/","lineno":65}); Total lines: 398
+L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: # iShares Semiconductor ETF (SOXX)
+L66: 
+L67: NASDAQ: SOXX · Real-Time Price · USD
+L68: 
+L69: 536.85
+L70: 
+L71: -8.00 (-1.47%)
+L72: 
+L73: Oct 13, 2026, 9:44 AM EDT - Market open
+L74: 
+L75:   * cite42†Overview L76:   * cite43†Holdings L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Heatmap L80:   * cite47†Chart L81: 
+L82:   * 1D
+L83:   * 5D
+L84:   * 1M
+L85:   * YTD
+L86:   * 3M
+L87:   * 6M
+L88:   * 1Y
+L89:   * 5Y
+L90:   * Max
+L91: 
+L92: Full Chart Watchlist Alerts Compare
+L93: Assets  | $46.17B
+L94: Expense Ratio  | 0.33%
+L95: PE Ratio  | 40.09
+L96: Shares Out  | 82.00M
+L97: Dividend (ttm)  | $1.25
+L98: Dividend Yield  | 0.23%
+L99: Ex-Dividend Date  | Sep 15, 2026
+L100: Payout Frequency  | Quarterly
+L101: Payout Ratio  | 9.21%
+L102: Volume  | 1,417,439
+L103: Open  | 530.60
+L104: Previous Close  | 544.85
+L105: Day's Range  | 527.20 - 537.20
+L106: 52-Week Low  | 260.44
+L107: 52-Week High  | 655.95
+L108: Beta  | 1.80
+L109: Holdings  | 35
+L110: Inception Date  | Jul 10, 2001
+L111: ## About SOXX
+L112: 
+L113: cite48†Fund Home Page†www.ishares.com L114: 
+L115: The iShares Semiconductor ETF (SOXX) is an exchange-traded fund that is based on the NYSE Semiconductor index, a modified market-cap-weighted index of 30 US-listed semiconductor companies. SOXX was launched on Jul 10, 2001 and is issued by BlackRock.
+L116: 
+L117: Asset Class Equity
+L118: 
+L119: Category Technology
+L120: 
+L121: Region North America
+L122: 
+L123: Stock Exchange Nasdaq
+L124: 
+L125: Ticker Symbol SOXX
+L126: 
+L127: ETF Provider cite49†BlackRock L128: 
+L129: Index Tracked NYSE Semiconductor Index
+L130: ## Top 10 Holdings
+L131: 
+L132: 60.98% of assets
+L133: Name  | Symbol  | Weight
+L134: --- | --- | ---
+L135: Advanced Micro Devices, Inc.  | cite50†AMD | 9.36%
+L136: Intel Corporation  | cite51†INTC | 8.48%
+L137: Micron Technology, Inc.  | cite52†MU | 7.78%
+L138: NVIDIA Corporation  | cite53†NVDA | 7.53%
+L139: Broadcom Inc.  | cite54†AVGO | 7.07%
+L140: Marvell Technology, Inc.  | cite55†MRVL | 4.71%
+L141: Analog Devices, Inc.  | cite56†ADI | 4.06%
+L142: KLA Corporation  | cite57†KLAC | 4.04%
+L143: Applied Materials, Inc.  | cite58†AMAT | 4.01%
+L144: Texas Instruments Incorporated  | cite59†TXN | 3.94%
+L145: cite43†View More Holdings --------------------------------------------------------------------------------
+XBI ETF Stock Price & Overview (https://stockanalysis.com/etf/xbi/)
+citeturn384view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/etf/xbi/","lineno":65}); Total lines: 391
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L32:   * cite21†ETF Screener L33:   * cite22†Comparison Tool L34:   * cite23†New Launches L35:   * cite24†ETF Providers L36: 
+L37: cite25†Analysts L38: 
+L39: cite26†News L40: 
+L41: cite27†Trending L42: 
+L43: cite28†Private Companies L44: 
+L45: cite29†Technical Chart L46: 
+L47: cite30†Fundamental Chart L48: 
+L49: cite31†Market Movers L50: 
+L51:   * cite31†Top Gainers L52:   * cite32†Top Losers L53:   * cite33†Most Active L54:   * cite34†Premarket L55:   * cite35†After Hours L56:   * cite36†Market Heatmap L57: 
+L58: cite37†Market Newsletter L59: 
+L60: cite38†Stock Analysis Pro L61: 
+L62: cite39†Tools L63: 
+L64: cite38†Sign Up cite40†Log In cite41†Help L65: # State Street SPDR S&P Biotech ETF (XBI)
+L66: 
+L67: NYSEARCA: XBI · Real-Time Price · USD
+L68: 
+L69: 148.74
+L70: 
+L71: -2.66 (-1.76%)
+L72: 
+L73: Oct 13, 2026, 9:58 AM EDT - Market open
+L74: 
+L75:   * cite42†Overview L76:   * cite43†Holdings L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Chart L80: 
+L81:   * 1D
+L82:   * 5D
+L83:   * 1M
+L84:   * YTD
+L85:   * 3M
+L86:   * 6M
+L87:   * 1Y
+L88:   * 5Y
+L89:   * Max
+L90: 
+L91: Full Chart Watchlist Alerts Compare
+L92: Assets  | $10.01B
+L93: Expense Ratio  | 0.35%
+L94: PE Ratio  | n/a
+L95: Shares Out  | 67.85M
+L96: Dividend (ttm)  | $0.57
+L97: Dividend Yield  | 0.38%
+L98: Ex-Dividend Date  | Jun 22, 2026
+L99: Payout Frequency  | Quarterly
+L100: Payout Ratio  | n/a
+L101: Volume  | 1,298,928
+L102: Open  | 150.52
+L103: Previous Close  | 151.40
+L104: Day's Range  | 149.25 - 150.89
+L105: 52-Week Low  | 103.43
+L106: 52-Week High  | 169.89
+L107: Beta  | 0.83
+L108: Holdings  | 167
+L109: Inception Date  | Jan 31, 2006
+L110: ## About XBI
+L111: 
+L112: cite47†Fund Home Page†www.ssga.com L113: 
+L114: The State Street SPDR S&P Biotech ETF (XBI) is an exchange-traded fund that is based on the S&P Biotechnology Select Industry index. The fund tracks an equal-weighted index of US biotechnology stocks. XBI was launched on Jan 31, 2006 and is issued by State Street.
+L115: 
+L116: Asset Class Equity
+L117: 
+L118: Category Health
+L119: 
+L120: Region North America
+L121: 
+L122: Stock Exchange NYSE Arca
+L123: 
+L124: Ticker Symbol XBI
+L125: 
+L126: ETF Provider cite48†State Street L127: 
+L128: Index Tracked S&P Biotechnology Select Industry
+L129: ## Top 10 Holdings
+L130: 
+L131: 17.15% of assets
+L132: Name  | Symbol  | Weight
+L133: --- | --- | ---
+L134: Moderna, Inc.  | cite49†MRNA | 2.44%
+L135: Twist Bioscience Corporation  | cite50†TWST | 1.88%
+L136: Natera, Inc.  | cite51†NTRA | 1.79%
+L137: Iovance Biotherapeutics, Inc.  | cite52†IOVA | 1.64%
+L138: AbbVie Inc.  | cite53†ABBV | 1.62%
+L139: United Therapeutics Corporation  | cite54†UTHR | 1.60%
+L140: Biogen Inc.  | cite55†BIIB | 1.58%
+L141: Amgen Inc.  | cite56†AMGN | 1.56%
+L142: Gilead Sciences, Inc.  | cite57†GILD | 1.53%
+L143: Halozyme Therapeutics, Inc.  | cite58†HALO | 1.51%
+L144: cite43†View More Holdings --------------------------------------------------------------------------------
+Press Releases | FormFactor, Inc. (https://investors.formfactor.com/press-releases)
+citeturn384view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.formfactor.com/press-releases","lineno":null}); Total lines: 77
+--------------------------------------------------------------------------------
+Investor News (https://investors.aaon.com/investor-news)
+citeturn384view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.aaon.com/investor-news","lineno":null}); Total lines: 474
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media)
+citeturn384view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.poet-technologies.com/news-media","lineno":null}); Total lines: 89
+

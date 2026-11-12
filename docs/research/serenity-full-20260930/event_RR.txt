@@ -1,0 +1,472 @@
+Richtech Robotics to Showcase Integrated Industrial Robotics Ecosystem at IMTS 2026 | Richtech Robotics (https://ir.richtechrobotics.com/news-releases/news-release-details/richtech-robotics-showcase-integrated-industrial-robotics)
+citeturn201search0 [wordlim: 200] Published: 2 weeks ago; Crawled: yesterday; September 10, 2026 ... For more information, visit the event’s website.
+
+# Release Details
+
+## 
+
+Richtech Robotics to Showcase Integrated Industrial Robotics Ecosystem at IMTS 2026
+
+September 10, 2026
+
+Company to demonstrate AI-enabled humanoid robot DEX and Titan 440 autonomous mobile robot working together through a unified intelligent platform at Booth #236380
+
+LAS VEGAS, Sept. 10, 2026 (GLOBE NEWSWIRE) -- Richtech Robotics Inc. (Nasdaq: RR) (“Richtech Robotics” or “the Company”), a Nevada-based provider of AI-driven service robots, announces its participation at IMTS 2026, taking place September 14-19 in Chicago, Illinois. Located at Booth #236380, the Company will demonstrate its intelligent, connected robotics ecosystem designed to transform industrial fulfillment by bringing autonomous mobility, AI-powered perception, and coordinated task execution together through a unified platform.
+
+“Industrial automation is increasingly moving beyond individual robots performing isolated tasks toward intelligent systems that can work together across an entire operation,” said Wayne Huang, CEO of Richtech Robotics. --------------------------------------------------------------------------------
+SEC Filing | Richtech Robotics (https://ir.richtechrobotics.com/node/7621/html)
+citeturn201search1 [wordlim: 200] Published: 3 weeks ago; Crawled: 2 days ago; THE BOARD UNANIMOUSLY RECOMMENDS A VOTE FOR THE ELECTION OF EACH OF THE DIRECTOR NOMINEES and A VOTE FOR THE RATIFICATION OF THE APPOINTMENT OF THE COMPANY’S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE Fiscal year ending September 30, 2026. ... ANNUAL MEETING OF STOCKHOLDERS SEPTEMBER 29, 2026 10:00 AM PT THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS The undersigned hereby appoints Zhenwu Huang and Zhenqiang Huang, and each of them, as proxies of the undersigned, with full power of substitution, to vote all the shares of Common Stock of Richtech Robotics Inc. held of record by the undersigned on August 25, 2026, at the Annual Meeting of Stockholders to be held on September 29, 2026, or any adjournment thereof.
+
+☒  |    | No fee required.
+☐  |    | Fee paid previously with preliminary materials.
+☐  |    | Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11
+
+ 
+
+Table of Contents
+
+RICHTECH ROBOTICS INC.
+2975 Lincoln Rd
+Las Vegas, NV 89115
+
+September 8, 2026
+
+To the Stockholders of Richtech Robotics Inc.:
+
+You are cordially invited to attend the 2026 Annual Meeting of Stockholders (the “Annual Meeting”) of Richtech Robotics Inc. (the “Company”) to be held at the offices of the Company at 2975 Lincoln Rd, Las Vegas, NV 89115, on Tuesday, September 29, 2026 at 10:00 a.m. Pacific Time, for the following purposes:
+
+1.      To re-elect Saul Factor and John Shigley as directors (the “Director Nominees”) to serve on the Company’s Board of Directors (the “Board”) for a three-year term that will expire at the 2029 Annual Meeting of Stockholders, or until their successors are elected and qualified;
+
+2.      To ratify the appointment by the Board of CBIZ CPAs P.C. as the Company’s independent registered public accounting firm for the fiscal year ending September 30, 2026; and
+IF YOU HAVE ALREADY VOTED OR DELIVERED YOUR PROXY FOR THE ANNUAL MEETING, YOUR VOTE WILL BE COUNTED, AND YOU DO NOT HAVE TO VOTE YOUR SHARES AGAIN. IF YOU WISH TO CHANGE YOUR VOTE, YOU SHOULD REVOTE YOUR SHARES.
+
+THE PROXY STATEMENT, OUR FORM OF PROXY CARD, AND OUR ANNUAL REPORT ON FORM 10-K/A FOR THE FISCAL YEAR ENDED SEPTEMBER 30, 2025 ARE BEING MAILED TO STOCKHOLDERS ON OR ABOUT SEPTEMBER 8, 2026.
+
+
+RICHTECH ROBOTICS INC.
+2975 Lincoln Rd
+Las Vegas, NV 89115
+
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+
+To be held on September 29, 2026
+
+This proxy statement is furnished in connection with the solicitation of proxies by the Board of Directors (the “Board”) of Richtech Robotics Inc. (the “Company”) for use at the 2026 Annual Meeting of Stockholders of the Company and at all adjournments and postponements thereof (the “Annual Meeting”). The Annual Meeting will be held at 10:00 a.m. Pacific Time on Tuesday, September 29, 2026 at the offices of the Company at 2975 Lincoln Rd, Las Vegas, NV 89115, for the following purposes:
+
+You are urged to review carefully the information contained in the enclosed proxy statement prior to deciding how to vote your shares.
+
+This notice and the attached proxy statement are first being mailed to stockholders on or about September 8, 2026.
+
+ |    | BY ORDER OF THE BOARD OF DIRECTORS,
+   |    | /s/ Zhenwu (Wayne) Huang
+   |    | Zhenwu (Wayne) Huang
+   |    | Chief Executive Officer and Director
+   |    | Richtech Robotics Inc.
+
+IF YOU RETURN YOUR PROXY CARD WITHOUT AN INDICATION OF HOW YOU WISH TO VOTE, YOUR SHARES WILL BE VOTED IN FAVOR OF THE DIRECTOR NOMINEE AND THE RATIFICATION OF THE APPOINTMENT OF THE AUDITOR AS THE COMPANY’S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING SEPTEMBER 30, 2026.
+
+TABLE OF CONTENTS
+
+ |    | Page 
+QUESTIONS AND ANSWERS ABOUT THESE PROXY MATERIALS  |    | 1
+THE ANNUAL MEETING  |    | 5
+PROPOSAL 1 — ELECTION OF DIRECTORS  |    | 8
+PROPOSAL 2 — RATIFICATION OF THE APPOINTMENT OF THE COMPANY’S INDEPENDENT AUDITORS FOR FISCAL 2026  |    | 24
+OTHER INFORMATION  |    | 27
+
+i
+
+PROXY STATEMENT
+
+RICHTECH ROBOTICS INC.
+ANNUAL MEETING OF STOCKHOLDERS
+to be held on Tuesday, September 29, 2026 at 10:00 a.m. Pacific time
+
+QUESTIONS AND ANSWERS ABOUT THESE PROXY MATERIALS
+
+Why am I receiving these Proxy Materials?
+
+These proxy materials are being furnished to you in connection with the solicitation of proxies by the Board of Directors (the “Board”) of Richtech Robotics Inc. for use at the 2026 Annual Meeting of Stockholders (the “Annual Meeting”) to be held at the offices of the Company at 2975 Lincoln Rd, Las Vegas, NV 89115, on Tuesday, September 29, 2026 at 10:00 a.m. Pacific time, and at any postponement(s) or adjournment(s) thereof. These materials were first sent or given to stockholders on or about September 8, 2026. This proxy statement gives you information on these proposals so that you can make an informed decision.
+
+In this proxy statement, we refer to Richtech Robotics Inc. as the “Company”, “we”, “us” or “our” or similar terminology.
+
+What is included in these materials?
+All shares of Common Stock vote together as a single class. Information about the stockholdings of our directors and executive officers is contained in the section of this Proxy Statement entitled “Beneficial Ownership of Principal Stockholders, Officers and Directors.”
+
+How do I attend the Annual Meeting?
+
+If you plan to attend the meeting in person, please RSVP when you vote your shares online or by phone. If you vote by mail, you can use the Meeting Attendance checkbox at the bottom of your proxy card. You can also RSVP via email to [REDACTED_EMAIL] with RSVP as the subject line no later than 11:59 p.m. Pacific time on September 28, 2026. Admission to the annual meeting is limited to the Company’s stockholders or their proxy holders. In order to be admitted to the annual meeting, each stockholder will be asked to present proof of stock ownership and valid government-issued photo identification, such as a driver’s license. Proof of stock ownership may consist of the proxy card, or if shares are held in the name of a broker, bank or other nominee, an account statement or letter from the nominee indicating that you beneficially owned shares of the Company’s Common Stock at the close of business on August 25, 2026, the Record Date for the Annual Meeting.
+4
+
+THE ANNUAL MEETING
+
+General
+
+This Proxy Statement is being furnished to you, as a stockholder of Richtech Robotics Inc., as part of the solicitation of proxies by our Board for use at the Annual Meeting to be held on September 29, 2026, and any adjournment or postponement thereof. This Proxy Statement is first being furnished to stockholders on or about September 8, 2026. This Proxy Statement provides you with information you need to know to be able to vote or instruct your proxy how to vote at the Annual Meeting.
+
+Date, Time, Place of Annual Meeting
+
+The Annual Meeting will be held at the offices of the Company at 2975 Lincoln Rd, Las Vegas, NV 89115, on Tuesday, September 29, 2026 at 10:00 a.m. Pacific Time, or such other date, time and place to which the Meeting may be adjourned or postponed.
+
+Attending the Annual Meeting
+
+If you plan to attend the meeting in person, please RSVP when you vote your shares online or by phone. If you vote by mail, you can use the Meeting Attendance checkbox at the bottom of your proxy card. You can also RSVP via email to [REDACTED_EMAIL] with RSVP as the subject line no later than 11:59 p.m. Pacific time on September 28, 2026. Admission to the Annual Meeting is limited to the Company’s stockholders or their proxy holders. In order to be admitted to the annual meeting, each stockholder will be asked to present proof of stock ownership and valid government-issued photo identification, such as a driver’s license. Proof of stock ownership may consist of the proxy card, or if shares are held in the name of a broker, bank or other nominee, an account statement or letter from the nominee indicating that you beneficially owned shares of the Company’s Common Stock at the close of business on August 25, 2026, the Record Date for the Annual Meeting.
+
+Purpose of the Annual Meeting
+
+At the Annual Meeting, the Company will ask stockholders to consider and vote upon the following proposals:
+
+1.      To re-elect the Director Nominees to serve on the Board for a three-year term that will expire at the 2029 Annual Meeting of Stockholders, or until his successor is elected and qualified;
+28
+
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting: The Proxy Statement and Form 10-K are available at www.proxyvote.com. T03659-P57300 RICHTECH ROBOTICS INC. ANNUAL MEETING OF STOCKHOLDERS SEPTEMBER 29, 2026 10:00 AM PT THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS The undersigned hereby appoints Zhenwu Huang and Zhenqiang Huang, and each of them, as proxies of the undersigned, with full power of substitution, to vote all the shares of Common Stock of Richtech Robotics Inc. held of record by the undersigned on August 25, 2026, at the Annual Meeting of Stockholders to be held on September 29, 2026, or any adjournment thereof. The shares represented by this proxy, when properly executed, will be voted as specified by the undersigned stockholder(s). If this card contains no specific voting instructions, the shares will be voted FOR each of the directors and proposals described on this card. Please mark, sign, date and return this proxy promptly using the accompanying postage pre-paid envelope. THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS OF RICHTECH ROBOTICS INC. Continued and to be signed on reverse side--------------------------------------------------------------------------------
+News Releases | Richtech Robotics (https://ir.richtechrobotics.com/news-events/news-releases)
+citeturn201search2 [wordlim: 200] Crawled: last week; September 10, 2026 ... Initiative is part of the next era of product engagement and the future of embodied AI using NVIDIA technology LAS VEGAS, June 18, 2026 (GLOBE NEWSWIRE) -- Richtech Robotics Inc.
+
+# News Releases
+
+Image: Richtech Robotics Press Release
+
+Richtech Robotics to Showcase Integrated Industrial Robotics Ecosystem at IMTS 2026
+
+Company to demonstrate AI-enabled humanoid robot DEX and Titan 440 autonomous mobile robot working together through a unified intelligent platform at Booth #236380 LAS VEGAS, Sept. 10, 2026 (GLOBE NEWSWIRE) -- Richtech Robotics Inc. (Nasdaq: RR) (“Richtech Robotics” or “the Company”), a Nevada
+
+September 10, 2026
+
+PDF Version
+
+Read More
+
+Image: Richtech Robotics Press Release
+
+Richtech Robotics Announces Stock Repurchase Program
+
+LAS VEGAS, Aug. 25, 2026 (GLOBE NEWSWIRE) -- Richtech Robotics Inc. (Nasdaq: RR) (“Richtech Robotics” or “the Company”), a Nevada -based provider of AI-driven service robots, announces that its board of directors has approved a stock repurchase program to purchase up to $12 million of the Company’s
+
+August 25, 2026
+
+PDF Version
+
+Read More
+
+Image: Richtech Robotics Press Release
+--------------------------------------------------------------------------------
+SEC Filing | Richtech Robotics (https://ir.richtechrobotics.com/node/7631/html)
+citeturn201search3 [wordlim: 200] Crawled: yesterday; To ratify the appointment by the Board of CBIZ CPAs P.C. as the Company’s independent registered public accounting firm for the fiscal year ending September 30, 2026. ... ANNUAL MEETING OF STOCKHOLDERS SEPTEMBER 29, 2026 10:00 AM PT THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS The undersigned hereby appoints Zhenwu Huang and Zhenqiang Huang, and each of them, as proxies of the undersigned, with full power of substitution, to vote all the shares of Common Stock of Richtech Robotics Inc. held of record by the undersigned on August 25, 2026, at the Annual Meeting of Stockholders to be held on September 29, 2026, or any adjournment thereof.
+☐  |    | Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11
+
+ 
+
+RICHTECH ROBOTICS INC.
+2975 Lincoln Rd
+Las Vegas, NV 89115
+
+SUPPLEMENT TO PROXY STATEMENT
+
+FOR THE ANNUAL STOCKHOLDERS’ MEETING
+
+TO BE HELD ON SEPTEMBER 29, 2026
+
+EXPLANATORY NOTE
+
+Richtech Robotics Inc. (the “Company”) is filing the attached revised proxy card as a supplement to the Definitive Proxy Statement on Schedule 14A that was filed by the Company with the Securities and Exchange Commission (the “SEC”) on September 8, 2026 (the “Proxy Statement”). After filing the Proxy Statement, the Company discovered that the form of proxy card filed with the Proxy Statement included certain scrivener’s errors.
+
+The revised proxy card has been made available to the Company’s stockholders in the form attached hereto as Appendix A.
+
+Please note that no changes have been made to the body of the Proxy Statement. This Form DEFA14A is being filed solely to revise the EDGAR version of the Proxy Statement to correct the form of proxy card. T03878-P57300 RICHTECH ROBOTICS INC. ANNUAL MEETING OF STOCKHOLDERS SEPTEMBER 29, 2026 10:00 AM PT THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS The undersigned hereby appoints Zhenwu Huang and Zhenqiang Huang, and each of them, as proxies of the undersigned, with full power of substitution, to vote all the shares of Common Stock of Richtech Robotics Inc. held of record by the undersigned on August 25, 2026, at the Annual Meeting of Stockholders to be held on September 29, 2026, or any adjournment thereof. The shares represented by this proxy, when properly executed, will be voted as specified by the undersigned stockholder(s). If this card contains no specific voting instructions, the shares will be voted FOR each of the directors and proposals described on this card. Please mark, sign, date and return this proxy promptly using the accompanying postage pre-paid envelope. THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS OF RICHTECH ROBOTICS INC. Continued and to be signed on reverse side
+
+A-2--------------------------------------------------------------------------------
+SEC Filings | Richtech Robotics (https://ir.richtechrobotics.com/financial-information/sec-filings)
+citeturn201search4 [wordlim: 200] Crawled: last week; September 21, 2026  | 8-K  | Report of unscheduled material events or corporate event  | Current Reports  | View HTML 0001213900-26-101655.pdf 0001213900-26-101655.rtf 0001213900-26-101655.xls EX-101. ... August 25, 2026  | 8-K  | Report of unscheduled material events or corporate event  | Current Reports  | View HTML 0001213900-26-093255.pdf 0001213900-26-093255.rtf 0001213900-26-093255.xls EX-101.
+
+# SEC Filings
+
+Group [Select]
+
+Filing year [Select]
+
+[Input] [Input] [Input] [Input] [Input]
+
+[Input] [Input]
+
+Filing Date  | Form  | Description  | Filing Group  | View
+--- | --- | --- | --- | ---
+September 21, 2026  | 8-K  | Report of unscheduled material events or corporate event  | Current Reports  | View HTML 0001213900-26-101655.pdf 0001213900-26-101655.rtf 0001213900-26-101655.xls EX-101.SCH - XBRL TAXONOMY EXTENSION SCHEMA
+September 10, 2026  | DEFA14A  | Additional proxy soliciting materials - definitive  | Proxy Filings  | View HTML 0001213900-26-098477.pdf 0001213900-26-098477.rtf 0001213900-26-098477.xls
+September 9, 2026  | POS EX  | POS EX      | Registration Statements  | View HTML 0001213900-26-098428.pdf 0001213900-26-098428.rtf 0001213900-26-098428.xls
+September 8, 2026  | DEF 14A  | Official notification to shareholders of matters to be brought to a vote ("Proxy")  | Proxy Filings  | View HTML 0001213900-26-098112.pdf 0001213900-26-098112.rtf 0001213900-26-098112.xls 【18†EX-101.--------------------------------------------------------------------------------
+Investor Relations | Richtech Robotics (https://ir.richtechrobotics.com/)
+citeturn201search5 [wordlim: 200] Crawled: last week; September 10, 2026 ... August 25, 2026
+
+# Investor Relations
+
+## Richtech Robotics to Showcase Integrated Industrial Robotics Ecosystem at IMTS 2026
+
+Latest News Release
+
+## Our Mission
+
+### Bringing people together by automating the tasks that keep them apart
+
+By harnessing the power of collaborative robotic solutions, Richtech is redefining the service industry landscape. Our mission is to drive a revolutionary automation of tasks, enhancing customer experiences, and enabling businesses to unlock their full potential.
+
+37
+
+states we've deployed in
+
+80
+
+cities we've deployed in
+
+2016
+
+founded in
+
+A+
+
+BBB rating
+
+## News Releases
+
+All News Releases
+
+Image: News thumbnail
+
+News
+
+September 10, 2026
+
+Richtech Robotics to Showcase Integrated Industrial Robotics Ecosystem at IMTS 2026
+
+Image: News thumbnail
+
+News
+
+August 25, 2026
+
+Richtech Robotics Announces Stock Repurchase Program
+
+Image: News thumbnail
+
+News
+
+June 18, 2026
+
+Richtech Robotics Launches Interactive Livestream Featuring AI-Powered Robot ADAM, Enabling Online Users to Engage with ADAM
+--------------------------------------------------------------------------------
+SEC Filing | Richtech Robotics (https://ir.richtechrobotics.com/node/7641/html)
+citeturn201search6 [wordlim: 200] Published: last week; Crawled: yesterday; Date of Report (Date of earliest event reported): September 21, 2026 ... On September 18, 2026, the Company received a SOW under the MSA, pursuant to which the Client agreed to purchase and deploy 200 of the Company’s DUST-E autonomous cleaning robots over a five-year period.
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): September 21, 2026
+
+Richtech Robotics Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+Nevada  |    | 001-41866  |    | 88-2870106
+(State or other jurisdiction
+of incorporation)  |    | (Commission File Number)  |    | (IRS Employer
+Identification No.)
+
+ 
+
+2975 Lincoln Rd,
+
+Las Vegas, NV 89115
+
+(Address of principal executive offices, including zip code)
+
+ 
+
+Registrant’s telephone number, including area code: (866) 236-3835
+
+ 
+
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class  |    | Trading Symbol(s)  |    | Name of each exchange on which registered
+Class B Common Stock, par value $0.0001 per share  |    | RR  |    | The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. Other Events.
+
+ 
+
+As previously reported on a current report on Form 8-K filed on August 25, 2025, Richtech Robotics Inc. (the “Company”) entered into a Master Services Agreement (the “MSA”), with a national retailer (the “Client”), pursuant to which the Company agreed to work on project(s) for the Client under additional statement(s) of work (the “SOW”) to be completed by the Company and the Client or work order(s) to be issued by the Client. On September 18, 2026, the Company received a SOW under the MSA, pursuant to which the Client agreed to purchase and deploy 200 of the Company’s DUST-E autonomous cleaning robots over a five-year period. The SOW also covers ongoing ancillary services such as automated reporting and remote support.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit  |    | Description
+104  |    | Cover Page Interactive Data File (embedded within the Inline XBRL documents)
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+   | Richtech Robotics Inc.
+   |    |  
+   | By:  | /s/ Zhenwu (Wayne) Huang
+   |    | Name:  | Zhenwu (Wayne) Huang
+   |    | Title:  | Chief Executive Officer and Director
+   |    |  
+Dated: September 21, 2026  |    |  --------------------------------------------------------------------------------
+SEC Filing | Richtech Robotics (https://ir.richtechrobotics.com/node/7246/html)
+citeturn201search7 [wordlim: 200] Published: last year; Crawled: yesterday; Accordingly, for the 2026 Annual Meeting, assuming the meeting is held on or about September 29, 2026, notice of a nomination or proposal must be delivered to the Secretary of the Company no later than July 31, 2026 and no earlier than June 1, 2026. ... In the event the Company calls a special meeting of stockholders for the purpose of electing one (1) or more directors to the Board, any such stockholder entitled to vote in such election of directors may nominate a person or persons for election to such position(s) as specified in the Company’s notice of meeting, if the stockholder’s notice, in proper written form as set forth in the Bylaws, shall be delivered to the Secretary of the Company at the principal executive office of the Company not earlier than the close of business on the one hundred twentieth (120th) day prior to such special meeting and not later than the close of business on the later of the ninetieth (90th) day prior to such special meeting or the tenth (10th) day following the day on which public announcement is first made of the date of the special meeting and of the nominees proposed by the Board to be elected at such meeting.
+Accordingly, for the 2026 Annual Meeting, assuming the meeting is held on or about September 29, 2026, notice of a nomination or proposal must be delivered to the Secretary of the Company no later than July 31, 2026 and no earlier than June 1, 2026. SEC rules permit management to vote proxies in its discretion in certain cases if the stockholder does not comply with this deadline and, in certain other cases notwithstanding the stockholder’s compliance with this deadline. Proposals or nominations not submitted in accordance with such requirements will be deemed untimely or otherwise deficient; however, the Company will have discretionary authority to include such proposals or nominations in the proxy materials for the 2026 Annual Meeting of Stockholders.
+
+ 
+
+In the event the Company calls a special meeting of stockholders for the purpose of electing one (1) or more directors to the Board, any such stockholder entitled to vote in such election of directors may nominate a person or persons for election to such position(s) as specified in the Company’s notice of meeting, if the stockholder’s notice, in proper written form as set forth in the Bylaws, shall be delivered to the Secretary of the Company at the principal executive office of the Company not earlier than the close of business on the one hundred twentieth (120th) day prior to such special meeting and not later than the close of business on the later of the ninetieth (90th) day prior to such special meeting or the tenth (10th) day following the day on which public announcement is first made of the date of the special meeting and of the nominees proposed by the Board to be elected at such meeting.
+--------------------------------------------------------------------------------
+Richtech Robotics Introduces Scorpion, an AI-Powered Single-Arm Beverage Service Robot, and Announces Distribution Partnership for 500 Robots Over Five Years | Richtech Robotics (https://ir.richtechrobotics.com/news-releases/news-release-details/richtech-robotics-introduces-scorpion-ai-powered-single-arm)
+citeturn201search8 [wordlim: 200] Published: 2.0 years ago; Crawled: 2 weeks ago; September 19, 2024 ... Scorpion will make its debut on September 26^{th} at Park 34 Liquor Store Inc.’s 1936 Wine and Spirits store in New York, NY, where it will offer a variety of wine and liquor tastings for customers. ... Each month, the cellar hosts exclusive tasting events, showcasing a diverse array of wine and spirits from around the world for connoisseurs and enthusiasts alike. ... Investors should read the risk factors set forth in Richtech Robotics’ Annual Report on Form 10-K/A, filed with the SEC on March 27, 2024, and periodic reports filed with the SEC on or after the date thereof.
+Scorpion will make its debut on September 26^{th} at Park 34 Liquor Store Inc.’s 1936 Wine and Spirits store in New York, NY, where it will offer a variety of wine and liquor tastings for customers.
+
+Scorpion is designed with the ability to engage with customers, and its interactive personality and entertaining presence provide an unforgettable, novel experience. It is developed to provide consistent beverage quality and service and to be adaptable to many environments. Created to offer advanced service and a viral experience, the robot is expected to save costs and generate revenue for companies. As an end-to-end solutions provider, Richtech Robotics will work closely with clients to implement Scorpion into their businesses, from conception to installation and ongoing support and service.
+
+“We are focused on providing solutions that streamline operations, increase efficiency, and create cash flow for our clients. With that focus, we are proud to unveil Scorpion, sleek in design, agile in its offerings, and eye-catching for customers,” said Matt Casella, Richtech Robotics President. --------------------------------------------------------------------------------
+SEC Filing | Richtech Robotics (https://ir.richtechrobotics.com/node/7626/html)
+citeturn201search9 [wordlim: 200] Published: 3 weeks ago; Crawled: yesterday; We hereby consent to the use in this Post-Effective Amendment to the Registration Statement on Form S-1/A (File No. 333-293535) of Richtech Robotics Inc. (the “Company”) of our report dated August 7, 2026, relating to the consolidated financial statements of the Company as of September 30, 2025 and September 30, 2024, and for each of the two years then ended, which report appears in the Company’s Annual Report on Form 10-K for the fiscal year ended September 30, 2025, and to the reference to us under the heading “Experts” in the prospectus, which is part of this Registration Statement.
+ 
+
+*  | Filed herewith.
+†  | Denotes management compensation plan or contract.
+#  | Certain portions of this exhibit have been omitted because the omitted information is (i) not material and (ii) would likely cause competitive harm to the Company if publicly disclosed.
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Act, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereunto duly authorized on September 9, 2026.
+
+ 
+
+   | RICHTECH ROBOTICS INC.
+   |  
+   | By:  | /s/ Zhenqwu Huang
+   |    | Zhenwu Huang
+   |    | Chief Executive Officer
+
+ 
+
+Pursuant to the requirements of the Securities Act of 1933, as amended, this Registration Statement has been signed by the following persons in the capacities and on the dates indicated.
+
+ 
+
+Signature  |    | Position  |    | Date
+   |    |    |    |  
+/s/ Zhenqwu Huang  |    | Chief Executive Officer and Director  |    | September 9, 2026
+Zhenqwu Huang  |    | (Principal Executive Officer)  |    |  
+   |    |    |    |  
+/s/ Zhenqiang Huang  |    | Chief Financial Officer and Director  |    | September 9, 2026
+Zhenqiang Huang  |    | (Principal Financial and Accounting Officer)  |    |  
+   |    |    |    |  
+*  |    | Director  |    | September 9, 2026
+John Shigley  |    |    |    |  
+   |    |    |    |  
+*  |    | Director  |    | September 9, 2026
+Stephen Markscheid  |    |    |    |  
+   |    |    |    |  
+*  |    | Director  |    | September 9, 2026
+Saul Factor  |    |    |    |  
+
+ 
+
+* By:  | /s/ Zhenqiang Huang  |  
+Name:   | Zhenqiang Huang
+Attorney-in-fact  |  
+
+--------------------------------------------------------------------------------
+Historic Price Lookup | Richtech Robotics (https://ir.richtechrobotics.com/stock-information/historic-price-lookup)
+citeturn201search10 [wordlim: 200] Crawled: yesterday; ## Week of September 28, 2026 ... September 28, 2026  | $1.66  | $1.68  | $1.57  | $1.57  | 3,570,887  | 1:1
+
+# Historic Price Lookup
+
+Lookup Month [Select]
+
+September
+
+[Input]
+
+Lookup Day [Select]
+
+29
+
+Lookup Year [Select]
+
+2026
+
+[Input]
+
+## Week of September 28, 2026
+
+Date Requested  | Open Price  | Day High  | Day Low  | Closing Price  | Volume  | Split Adjustment Factor
+--- | --- | --- | --- | --- | --- | ---
+September 28, 2026  | $1.66  | $1.68  | $1.57  | $1.57  | 3,570,887  | 1:1
+
+## Weekly Stock Data
+
+Year  | Low  | Open  | Close  | High
+--- | --- | --- | --- | ---
+Sep 28, 2026  | 1.57  | 1.66  | 1.57  | 1.68
+
+1.56
+
+NOTE: The Closing Price, Day's High, Day's Low, and Day's Volume have been adjusted to account for any stock splits and/or dividends which may have occurred for this security since the date shown. The Split Adjustment Factor is a cumulative factor which encapsulates all splits since the date shown. The closing price is not necessarily indicative of future price performance.
+
+Minimum 15 minutes delayed. Source: LSEG--------------------------------------------------------------------------------
+Richtech Robotics Selects CBIZ CPAs P.C. as New Independent Auditor | Richtech Robotics (https://ir.richtechrobotics.com/news-releases/news-release-details/richtech-robotics-selects-cbiz-cpas-pc-new-independent-auditor)
+citeturn201search11 [wordlim: 200] Published: 6 months ago; Crawled: yesterday; CBIZ will commence its duties as the Company’s independent auditor and implement complete audit processes, oversight and control of Richtech Robotics’ financial statements for the fiscal year ending September 30, 2026, and quarterly reviews of the Company’s financial statements for the periods ending March 31, 2026 and June 30, 2026. ... There are a number of factors that could cause actual events to differ materially from those indicated by such forward-looking statements.
+

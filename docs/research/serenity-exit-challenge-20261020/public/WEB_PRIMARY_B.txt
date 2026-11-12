@@ -1,0 +1,384 @@
+Directory List of /Archives/edgar/data/1437424 (https://www.sec.gov/Archives/edgar/data/1437424)
+citeturn502search0 [wordlim: 200] Crawled: 3 weeks ago; # Directory Listing /Archives/edgar/data/1437424 ... 000117184326004397  |  | 2026-06-30 16:07:51
+
+# Directory Listing /Archives/edgar/data/1437424
+
+Name  | Size  | Last Modified
+000093254026000015  |  | 2026-09-08 17:11:06
+000117184326005894  |  | 2026-09-04 17:06:38
+000110465926097128  |  | 2026-08-14 16:09:11
+000144658026000100  |  | 2026-08-14 14:02:09
+000093254026000009  |  | 2026-08-13 17:45:22
+000159588826000102  |  | 2026-08-13 16:20:00
+000149315226037615  |  | 2026-08-13 09:13:55
+000117184326005485  |  | 2026-08-13 09:01:09
+000117184326005153  |  | 2026-08-03 13:12:42
+000110465926081954  |  | 2026-07-08 19:41:29
+000117184326004397  |  | 2026-06-30 16:07:51
+000159588826000061  |  | 2026-06-22 17:00:14
+000110465926064485  |  | 2026-05-20 16:02:15
+000204849026000015  |  | 2026-05-19 16:15:45
+000117184326003507  |  | 2026-05-18 11:47:33
+000149315226024093  |  | 2026-05-18 08:54:56
+000149315226024090  |  | 2026-05-18 08:50:19
+000117184326003487  |  | 2026-05-15 17:12:25
+000117184326003486  |  | 2026-05-15 17:12:04
+000149315226023925  |  | 2026-05-15 17:02:06
+000110465926062619  |  | 2026-05-15 16:29:00
+000149315226023471  |  | 2026-05-15 11:10:02
+000117184326003413  |  | 2026-05-14 13:23:50
+000117184326003306  |  | 2026-05-12 16:16:35
+000117184326002726  |  | 2026-04-27 11:45:59
+000117184326002462  |  | 2026-04-15 09:18:06
+000117184326002167  |  | 2026-04-01 16:15:03
+000149315226014253  |  | 2026-03-31 16:43:59
+000117184326001649  |  | 2026-03-17 19:37:46
+000117184326001583  |  | 2026-03-16 13:38:04
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1644419/000091047226012567/usamvice_nport.htm)
+citeturn502search1 [wordlim: 200] Published: 3 months ago; Crawled: last month; June 30, 2026Shares  |    |    |    |    |    |    | Fair Value
+NPORT-EX 2 usamvice_nport.htm USA VICE SOI
+
+ 
+
+USA MUTUALS VICE FUND
+SCHEDULE OF INVESTMENTS (Unaudited)
+June 30, 2026
+ 
+Shares  |    |    |    |    |    |    | Fair Value
+   |    | COMMON STOCKS — 96.1%  |    |    |  
+   |    | ADVERTISING & MARKETING - 0.3%  |    |    |  
+75,000  |    | Grandstand Ltd.^{(a)}  |    |    |    | $ 142,500
+   |    |    |    |    |    |    | 
+   |    | AEROSPACE & DEFENSE - 25.1%  |    |    |  
+2,000  |    | AeroVironment, Inc.^{(a)}  |    |    |    |   330,140
+160,975  |    | BAE Systems plc  |    |    |    |   3,937,312
+3,000  |    | Boeing Company (The)^{(a)}  |    |    |    |   649,410
+7,000  |    | Howmet Aerospace, Inc.  |    |    |    |   1,882,020
+2,000  |    | Lockheed Martin Corporation  |    |    |    |   1,018,920
+4,000  |    | Northrop Grumman Corporation  |    |    |    |   2,037,240
+15,458  |    | RTX Corporation  |    |    |    |   2,932,846
+   |    |    |    |    |    |    | 12,787,888
+--------------------------------------------------------------------------------
+481544_SCH_2026 AR_PROOF_MS.pdf (https://www.sec.gov/Archives/edgar/data/866729/000119312526340223/2026_annual_report.pdf)
+citeturn502search12 [wordlim: 200] Published: 2 months ago; The number of shares outstanding of each class of the Registrant’s voting stock as of June 30, 2026 was as follows: ... <th>Number of shares outstanding as of June 30, 2026</th>
+The number of shares outstanding of each class of the Registrant’s voting stock as of June 30, 2026 was as follows:
+
+<table id="e1">
+<tr>
+<th>Title of each class</th>
+<th>Number of shares outstanding as of June 30, 2026</th>
+</tr>
+<tr>
+<td>Common Stock, $0.01 par value</td>
+<td>18,034,475</td>
+</tr>
+<tr>
+<td>Class A Stock, $0.01 par value</td>
+<td>828,100</td>
+</tr>
+</table>
+
+Documents Incorporated By Reference
+
+Part III incorporates certain information by reference from the Registrant’s definitive proxy statement for the Annual Meeting of Stockholders to be held September 16, 2026.--------------------------------------------------------------------------------
+Poet Technologies (POET) Shares Outstanding (2014 - 2026) | Business Quant (https://businessquant.com/metrics/poet/shares-outstanding)
+citeturn502search2 [wordlim: 200] Crawled: last week; Poet Technologies' Shares Outstanding was 93.16 million in the quarter ended Jun 30, 2026, up 54.6% from 60.25 million a year earlier and unchanged from the prior quarter.
+
+Poet Technologies POET
+
+NASDAQ POET
+
+$7.30 ▼ -0.41 (-5.38%)
+
+As of: Oct 7, 2026 · 11:42 AM EDT
+
+# Poet Technologies (POET) Shares Outstanding (2014 - 2026)
+
+Updated Sep 27, 2026
+
+Poet Technologies' Shares Outstanding was 93.16 million in the quarter ended Jun 30, 2026, up 54.6% from 60.25 million a year earlier and unchanged from the prior quarter.
+
+[Button: 1Y] [Button: 3Y] [Button: 5Y] [Button: 10Y] [Button: Max]
+
+Chart [Select] Bar
+
+[Button: Bar][Button: Line][Button: Area]
+
+Values [Select] Original
+
+[Button: Original][Button: Normalized]
+
+Frequency [Select] Quarterly
+
+[Button: TTM][Button: Annual][Button: Quarterly]
+
+Download
+
+[Button: Download Chart] [Button: Download Data]
+
+## Shares Outstanding Historical Trends & Analysis
+
+From the quarter ended Dec 31, 2014 onward, Poet Technologies has reported Shares Outstanding for 47 quarters.
+
+  * Shares Outstanding has now increased for 11 consecutive years, with a five-year compound annual growth rate of 26.1% (years ended Dec 2020 to Dec 2025).
+  * In earlier years, Shares Outstanding was 60.25 million in the year ended Dec 31, 2024 (+50.2%), 40.1 million in the year ended Dec 31, 2023 (+9.1%), 36.74 million in the year ended Dec 31, 2022 (+6.4%) and 34.55 million in the year ended Dec 31, 2021 (+18.4%).
+  * Compared with a year earlier, Shares Outstanding has increased for 43 straight quarters, with growth averaging 46.7% over the last eight quarters.
+  * The year-over-year growth in Shares Outstanding has ranged between 1.2% (the quarter ended Sep 30, 2021) and 54.6% (the quarter ended Jun 30, 2026) over the last five years.
+  * Per Business Quant data, POET's Shares Outstanding in the three quarters before the quarter ended Jun 30, 2026 was 93.16 million (quarter ended Mar 31, 2026), 93.16 million (quarter ended Dec 31, 2025) and 60.25 million (quarter ended Sep 30, 2025).
+
+## Peer Comparison
+
+All peers
+
+#  | Company  | Market Cap  | Enterprise Value  | Gross Profit (Qtr)  | Shares Outstanding (Qtr)
+--- | --- | --- | --- | --- | ---
+1  | Nvidia  | 5,734.62 Bn  | 5,508.79 Bn  | 72.14 Bn  | 24.19 Bn
+2  | Taiwan Semiconductor Manufacturing  | 2,453.91 Bn  | 2,078.28 Bn  | 27.22 Bn  | 5.19 Bn
+3  | Broadcom  | 1,780.60 Bn  | 1,706.65 Bn  | 20.46 Bn  | 4.77 Bn
+4  | Micron Technology  | 1,211.90 Bn  | 1,150.66 Bn  | 35.06 Bn  | 1.13 Bn
+5  | Advanced Micro Devices  | 1,052.03 Bn  | 1,008.78 Bn  | 6.20 Bn  | 1.63 Bn
+6  | Asml Holding  | 700.47 Bn  | 656.30 Bn  | 5.90 Bn  | 388.50 Mn
+7  | Intel  | 580.53 Bn  | 449.66 Bn  | 6.51 Bn  | 5.10 Bn
+8  | Applied Materials  | 413.40 Bn  | 378.84 Bn  | 4.59 Bn  | 794.00 Mn
+9  | Lam Research  | 409.46 Bn  | 386.25 Bn  | 3.48 Bn  | 1.26 Bn
+10  | Poet Technologies  | 680.51 Mn  | -931.42 Mn  | -  | 93.16 Mn
+
+Historic Data
+
+## Historic Data for Poet Technologies's Shares Outstanding
+
+Download Data
+
+Date  | Value
+--- | ---
+Jun 30, 2026  | 93.16 Mn
+Mar 31, 2026  | 93.16 Mn
+Dec 31, 2025  | 93.16 Mn
+Sep 30, 2025  | 60.25 Mn
+Jun 30, 2025  | 60.25 Mn
+Mar 31, 2025  | 60.25 Mn
+Dec 31, 2024  | 60.25 Mn
+Sep 30, 2024  | 40.10 Mn
+Jun 30, 2024  | 40.10 Mn
+Mar 31, 2024  | 40.10 Mn
+Dec 31, 2023  | 40.10 Mn
+Sep 30, 2023  | 36.74 Mn
+Jun 30, 2023  | 36.74 Mn
+Mar 31, 2023  | 36.74 Mn
+Dec 31, 2022  | 36.74 Mn
+Sep 30, 2022  | 34.55 Mn
+Jun 30, 2022  | 34.55 Mn
+--------------------------------------------------------------------------------
+POET Technologies (POET) Shares Outstanding (Quarterly): 173.04M | YCharts (https://ycharts.com/companies/POET/shares_outstanding)
+citeturn502search3 [wordlim: 200] Crawled: today; # POET Technologies Shares Outstanding (Quarterly) : 173.04M for June 30, 2026
+
+## POET Technologies, Inc. (POET)
+
+5.43 -0.58 (-9.65%) USD  |  NASDAQ  |  Oct 16, 16:00
+
+5.73 +0.30 (+5.52%) Pre-Market: 08:35
+
+# POET Technologies Shares Outstanding (Quarterly) : 173.04M for June 30, 2026
+
+### Shares Outstanding (Quarterly) Chart
+
+View Full Chart
+
+POET Technologies, Inc. (POET) Shares Outstanding (Quarterly)
+
+### Historical Shares Outstanding (Quarterly) Data
+
+Date  | Value
+--- | ---
+June 30, 2026  | 173.04M
+March 31, 2026  | 152.89M
+December 31, 2025  | 132.02M
+September 30, 2025  | 91.01M
+June 30, 2025  | 85.26M
+March 31, 2025  | 78.07M
+December 31, 2024  | 76.51M
+September 30, 2024  | 70.21M
+June 30, 2024  | 61.69M
+March 31, 2024  | 48.19M
+December 31, 2023  | 42.49M
+September 30, 2023  | 40.68M
+June 30, 2023  | 40.28M
+March 31, 2023  | 39.82M
+December 31, 2022  | 37.84M
+September 30, 2022  | 36.72M
+June 30, 2022  | 36.69M
+March 31, 2022  | 36.60M
+December 31, 2021  | 36.49M
+September 30, 2021  | 35.43M
+June 30, 2021  | 34.93M
+March 31, 2021  | 34.22M
+December 31, 2020  | 29.46M
+September 30, 2020  | 29.27M
+--------------------------------------------------------------------------------
+POET Technologies (POET) - Shares outstanding (https://companiesmarketcap.com/poet-technologies/shares-outstanding/)
+citeturn502search4 [wordlim: 200] Crawled: yesterday; ## Shares outstanding history for POET Technologies from 2022 to 2026 ... In most cases it can be easily calculated by multiplying the share price with the amount of outstanding shares.
+
+Image: POET Technologies Logo
+
+POET Technologies Image: favorite icon
+
+POET
+
+#6359
+
+Rank
+
+$0.93 B
+
+Marketcap
+
+🇨🇦 Canada
+
+Country
+
+$5.43
+
+Share price
+
+-9.65%
+
+Change (1 day)
+
+-28.46%
+
+Change (1 year)
+
+📟 Semiconductors👩‍💻 Tech💻 Tech Hardware
+
+Categories
+
+# Number of shares outstanding for POET Technologies (POET)
+
+## Number of shares outstanding as of October 2026 : 162,367,291
+
+According to POET Technologies's latest financial reports and stock price the company's current number of shares outstanding is 162,367,291. At the end of 2026 the company had 162,367,291 shares outstanding. The number of outstanding shares is usually impacted by stock plits and shares buy back.
+
+## Shares outstanding history for POET Technologies from 2022 to 2026
+
+### Shares Outstanding at the end of each year
+
+Year  | Shares Outstanding  | Change
+--- | --- | ---
+2026  | 0.16 B  | 80.76%
+2025  | 89.82 M  | 37.82%
+2024  | 65.17 M  | 60.67%
+2023  | 40.56 M  | 10.62%
+2022  | 36.67 M  | 
+
+#### What is the market capitalization of a company?
+
+The market capitalization sometimes referred as Marketcap, is the value of a publicly listed company.
+In most cases it can be easily calculated by multiplying the share price with the amount of outstanding shares.--------------------------------------------------------------------------------
+POET Technologies Inc. (https://poet-technologies.com/docs/presentations/POET-Moneyshow-Deck-R-Dec-7-2021.pdf)
+citeturn502search13 [wordlim: 200] Published: 2.2 years ago; Outstanding Warrants include 11.8M (C$0.50) and 18.7M (C$1.15)  Expire Feb – Sept 2023 ... Common Shares Outstanding ... © POET Technologies Inc.
+POET Capital Structure
+Cash at 11/03/21:~US$23.8M; Cash Burn of ~$1M/month
+Five-year Warrants Expired on Nov. 2, 2021: Strike Price C$0.52 (US$0.39) – 97% Exercised 
+Outstanding Warrants include 11.8M (C$0.50) and 18.7M (C$1.15)  Expire Feb – Sept 2023
+Value of Warrants & Options
+Capital Structure
+9%
+$5.1
+5%
+Total Shares 
+Outstanding  
+364,736,647
+3%
+$13.3
+Total Value
+US$37.4M
+Fully Diluted 
+Shares 
+442,328,234
+83%
+$20.0
+ ITM Options
+OTM Warrants & Options
+ ITM Options
+OTM Warrants & Options
+ITM Warrants
+ITM Warrants
+Common Shares Outstanding
+ITM = IN THE MONEY  OTM=OUT OF THE MONEY
+© POET Technologies Inc. | PUBLIC 31
+PTK:  TSXV  |  POETF:  OTCQX--------------------------------------------------------------------------------
+POET Technologies Shares Outstanding 2016-2026 | POET | MacroTrends (https://www.macrotrends.net/stocks/charts/POET/poet-technologies/shares-outstanding)
+citeturn502search5 [wordlim: 200] Crawled: 2 months ago; ## POET Technologies Shares Outstanding 2016-2026 | POET
+--------------------------------------------------------------------------------
+POET Technologies (POET) Statistics & Valuation (https://stockanalysis.com/stocks/poet/statistics/)
+citeturn502search6 [wordlim: 200] Crawled: today; POET Technologies Inc. ... At close: Oct 19, 2026, 4:00 PM EDT ... POET has 173.04 million shares outstanding. ... The company has $796.34 million in cash and $7.80 million in debt, with a net cash position of $788.54 million or $4.56 per share.
+--------------------------------------------------------------------------------
+Poet Technologies Inc. (via Public) / Management’s Discussion and Analysis (Form 6-K) (https://www.publicnow.com/view/9FB0D336C6BFFA3161F8B006C1D513B464AA23CA)
+citeturn502search7 [wordlim: 200] Published: 2 months ago; Crawled: last month; Total warrants outstanding to purchase common shares of the Company at June 30, 2026 and August 13, 2026 was 78,734,968 priced between US$1.09 and US$26.25.Stock options outstanding as at June 30, 2026 and August 13, 2026 was 5,369,393 priced between $1.27 and $6.33 per common share. ... Disclosure controls and procedures are defined by Rules 13a-15(e) and 15d-15(e) under the Exchange Act as controls and other procedures that are designed to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified by the SEC's rules and forms.
+--------------------------------------------------------------------------------
+SIX Financial Information (https://telekurs.zacks.com/index.php?opt=1&t=POET)
+citeturn502search8 [wordlim: 200] Crawled: yesterday; Shares Outstanding: 153.55 (millions) ... TORONTO ONTARIO,A6 M4P 1E2 ... fax: 416-365-1813 [REDACTED_EMAIL] http://www.poet-technologies.com ... Share - Related Items
+--------------------------------------------------------------------------------
+POET Technologies (POET) Balance Sheet (https://stockanalysis.com/stocks/poet/financials/balance-sheet/)
+citeturn502search9 [wordlim: 200] Crawled: yesterday; Net Cash Per Share  | 6.02  | 3.29  | 0.77  | 0.06  | 0.24  | 0.61Filing Date Shares Outstanding  | 173.04  | 132.02  | 78.07  | 48.18  | 36.5  | 36.66 ... Data Source: S&P Global Market Intelligence Last updated: Aug 13, 2026
+--------------------------------------------------------------------------------
+POET Technologies (POET) Shares Outstanding: History & Chart | TGMCharts (https://tgmcharts.com/stocks/POET/shares-outstanding)
+citeturn502search10 [wordlim: 200] Crawled: yesterday; Delayed quote: Oct 16, 2026, 4:00 PM EDT ... www.poet-technologies.com ... Shares outstanding measure the share count in the provider observation.
+--------------------------------------------------------------------------------
+POET Technologies Stock Hub: Orders, Cash And Dilution (https://www.merlintrader.com/poet-technologies-company-hub/)
+citeturn502search11 [wordlim: 200] Published: 4 days ago; Crawled: yesterday; POET’s common shares increased from 132,021,526 at December 31, 2025 to 173,035,169 at June 30, 2026. ... The increase gave the company capital while reducing each pre-existing share’s percentage interest in the business. ... At the June 26 annual meeting the CEO said POET had raised $830 million in equity over the preceding twelve months, with the potential to raise up to a further $661 million if outstanding warrants are exercised.
+--------------------------------------------------------------------------------
+| POET Technologies Inc. (https://poet-technologies.com/docs/presentations/POET%20Investor%20Deck%2011-06-23.pdf)
+citeturn502search14 [wordlim: 200] Published: 2.2 years ago; Total Debt (as of Jun 30, 2023)  | $0.0Common Shares Outstanding  | 40,679,295  | ... Using the Treasury Stock Method of accounting for fully diluted share amounts, which assumes that the company ... © POET Technologies Inc.
+--------------------------------------------------------------------------------
+2026 Private Placement (https://www.sec.gov/Archives/edgar/data/1835579/000119312526335180/d101025d424b31.pdf)
+citeturn502search15 [wordlim: 200] Published: 2 months ago; On April 14, 2026, the Company entered into a Securities Purchase Agreement (the “Purchase Agreement”) with certain institutional and accredited investors (the “Investors”), including existing investors, pursuant to which the Company issued and sold pre-funded warrants to purchase up to 5,770,335 shares of voting common stock (the “Warrant Shares”) at $0.001 per share, in a private placement transaction (the “Private Placement”) at a purchase price of $5.199 per Warrant Share to the Investors for gross proceeds of $30.0 million. ... The Company believes its existing cash, cash equivalents and marketable securities of $136.2 million as of June 30, 2026 are sufficient to support operations through at least the next 12 months from the date of issuance of these condensed consolidated financial statements.
+--------------------------------------------------------------------------------
+2026 Annual Report.pdf (https://www.sec.gov/Archives/edgar/data/895419/000089541926000068/a2026annualreport.pdf)
+citeturn502search16 [wordlim: 200] Published: last month; <td><i>Share data in thousands, U.S. ... <td>Issuance of shares under the employee stock purchase plan</td> ... <td><b>Balance at June 30, 2024 (Predecessor)</b></td> ... <td><b>($4,537.6)</b></td> ... <td>Settlement of equity forward for common shares</td>
+--------------------------------------------------------------------------------
+The GOAT (serenity) has spoken (https://www.reddit.com/r/POETTechnologiesInc/comments/1uilbh5/the_goat_serenity_has_spoken/)
+citeturn502reddit17 [wordlim: 200] Published: 3 months ago; **I think she’s accumulating shares, even though she claims she doesn’t own any. ... “POET looks great, ton of opportunity in 27-28, If they can deliver”. ... [Tuesday June 30 2026] [+1 votes]
+--------------------------------------------------------------------------------
+Daily Discussion Thread - Tuesday, June, 30, 2026 (https://www.reddit.com/r/POETTechnologiesInc/comments/1ujhvuy/daily_discussion_thread_tuesday_june_30_2026/)
+citeturn502reddit18 [wordlim: 200] Published: 3 months ago; [Tuesday June 30 2026] [+7 votes] ... POET lawsuits do not hold a chance. ... There is/was a lead plaintiff but the number of shares lost was approximately 1000.
+--------------------------------------------------------------------------------
+😵 (https://www.reddit.com/r/POETTechnologiesInc/comments/1qqal8p/_/)
+citeturn502reddit19 [wordlim: 200] Published: 8 months ago; [Thursday January 29 2026] [+54 votes] ... So the dilution probably stopped them from going bankrupt which is good but the share price would b over 20 dollars today if we still had that amount of outstanding shares. ... This isn’t about anything happening with POET
+--------------------------------------------------------------------------------
+$2B in sales = $80 share price (https://www.reddit.com/r/POETTechnologiesInc/comments/1tgvzw0/2b_in_sales_80_share_price/)
+citeturn502reddit20 [wordlim: 200] Published: 5 months ago; [Monday May 18 2026] [+44 votes]From https://agoracom.com/ir/POETTechnologies/forums/discussion/topics/823022-Production-capacity..../messages/2468877 ... 20B market cap = **80$ per share** assuming 250M shares outstanding at that time.
+--------------------------------------------------------------------------------
+Current level of POET Management owned shares??? (https://www.reddit.com/r/POETTechnologiesInc/comments/1sz4gsm/current_level_of_poet_management_owned_shares/)
+citeturn502reddit21 [wordlim: 200] Published: 5 months ago; [Wednesday April 29 2026] [+2 votes] ... Management is loaded with RSUs, they do have an interest in the share price. ... For example in POET's case, over 90% of the CEO's compensation is in bonuses or options, of course he sells some shares he got with the options... ...             I have a bit of a hard time taking you seriously though since you clearly haven't even read the AGM minutes where the incentite plan and amendments to it have been approved by only 5 million votes out of 150m shares outstanding, some of which came from management voting themselves more money. 95% of shareholders don't vote, you knew that right? ... Poet has been around for 54 years, it was originally a solar company called Opel Technologies.
+--------------------------------------------------------------------------------
+Latest: (https://www.reddit.com/r/BANDOFBROTHERSOFSRNE/comments/1ujl168/latest/)
+citeturn502reddit22 [wordlim: 200] Published: 3 months ago; [Tuesday June 30 2026] [+24 votes] ... It simply registers the 1.3M employee incentive shares that shareholders already approved on June 24.
+--------------------------------------------------------------------------------
+AGM 2026 - Summary & Dicussion (https://www.reddit.com/r/POETTechnologiesInc/comments/1ugezz9/agm_2026_summary_dicussion/)
+citeturn502reddit23 [wordlim: 200] Published: 3 months ago; First the CFO, then share dilution with more issued share. 40 million new shares just in the last 6 months, when they already have 800 million in cash for what?!? ...   [Tuesday June 30 2026] [+1 votes]
+--------------------------------------------------------------------------------
+Daily Discussion Thread - Monday, June, 29, 2026 (https://www.reddit.com/r/POETTechnologiesInc/comments/1uil57b/daily_discussion_thread_monday_june_29_2026/)
+citeturn502reddit24 [wordlim: 200] Published: 3 months ago; [Monday June 29 2026] [+5 votes] ...   The difference is that smaller caps like POET, SIVEF, etc. will be hit harder because they are small caps.If the thesis hasn't changed, this a great time for people to buy more shares or just tune it all out until there is actual news. ... [Tuesday June 30 2026] [+1 votes]
+--------------------------------------------------------------------------------
+Earnings thread (https://www.reddit.com/r/SECZ/comments/1vna6tr/earnings_thread/)
+citeturn502reddit25 [wordlim: 200] Published: 2 months ago; See here the summary from SECZ PR: ... billion as of June 30, 2026, up 9% ... It would take a team of lawyers to find the corn in the diarrhea of verbiage that describes the terms that were voted on and altered during the shareholder merger meeting (link above), but after sifting through the excess, the run-ons, some double, an occasional triple negative, and by looking on quiver at the names of the largest shareholders currently, I think (but may very well be wrong) that our founder, along with the other "pipe" investors, divested themselves of their special class shares between jun 30th and jul 2 when the price was above ten; their requirement to hold shares for 6 months after the merge being lifted by vote during the meeting.
+--------------------------------------------------------------------------------
+$SIVE just 5x'd their April raise — and broke their own lockup to do it (https://www.reddit.com/r/siverssemiconductors/comments/1uk575w/sive_just_5xd_their_april_raise_and_broke_their/)
+citeturn502reddit26 [wordlim: 200] Published: 3 months ago; [Tuesday June 30 2026] [+15 votes] ... March 3, 2026 — CEO Vickram Vathulya buys 160,000 shares on the open market at 3.02 SEK. ... June 30, 2026 (today) — Sivers announces a 600M SEK directed raise. ... POET/Lumilens CPO chain — engineering samples due late 2026, production aligned to hyperscaler timing
+--------------------------------------------------------------------------------
+Announcements x Daily Discussion for Monday August 24, 2026 (https://www.reddit.com/r/SPACs/comments/1vwtals/announcements_x_daily_discussion_for_monday/)
+citeturn502reddit27 [wordlim: 200] Published: last month; "19,000,000 shares subject to possible redemption at June 30, 2026"
+--------------------------------------------------------------------------------
+Announcements x Daily Discussion for Tuesday, June 30, 2026 (https://www.reddit.com/r/SPACs/comments/1ujhv26/announcements_x_daily_discussion_for_tuesday_june/)
+citeturn502reddit28 [wordlim: 200] Published: 3 months ago; [Tuesday June 30 2026] [+7 votes] ...     About 15 cents which isn’t great but I lower it almost every day buying as many shares as they’ll give me near 12/13.
+--------------------------------------------------------------------------------
+Tesla Third Quarter 2026 Production, Deliveries & Deployments | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)
+citeturn502view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn501view0","lineno":0}); Total lines: 39
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content --------------------------------------------------------------------------------
+Q3 2026 Earnings Consensus | Tesla Investor Relations (https://ir.tesla.com/press-release/earnings-consensus-third-quarter-2026)
+citeturn502view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn501view3","lineno":0}); Total lines: 45
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content 

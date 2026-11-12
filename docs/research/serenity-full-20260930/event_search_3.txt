@@ -1,0 +1,273 @@
+POET Technologies Wins ‘Most Innovative’ Award at ECOC 2025 | POET Technologies (https://www.poet-technologies.com/news/poet-technologies-wins-most-innovative-award-at-ecoc-2025)
+citeturn168search0 [wordlim: 200] Published: last year; Crawled: today; ‍SAN JOSE, CA (September 30, 2025) — POET Technologies Inc. ... The Company’s 1.6T line of optical engines, POET Teralight™, is the topic of a Product Focus discussion at the ECOC Exhibition.The industry gathering ends on October 1.
+
+September 30, 2025
+
+# POET Technologies Wins ‘Most Innovative’ Award at ECOC 2025
+
+‍SAN JOSE, CA (September 30, 2025) — POET Technologies Inc. ("POET" or the "Company") (NASDAQ: POET), a leader in the design and implementation of highly-integrated optical engines and light sources for artificial intelligence networks, today announced it has won for the “Most Innovative Chip-scale Packaging/Optical Sub Assembly Product” at the ECOC Awards.
+
+Chief Revenue Officer Raju Kankipati accepted the award during ceremonies held at the 2025 ECOC Exhibition in Copenhagen, Denmark. It is the seventh notable award POET has earned in the past 15 months for its cutting-edge applications that are uniquely positioned to serve the demand for more compute power from artificial intelligence developers and datacom hyperscalers.
+
+POET won the 2025 ECOC Award for Most Innovative Chip-scale Packaging/Optical Sub Assembly Product. The award was presented at a ceremony in Denmark.
+
+“We are greatly honored to receive the ECOC Award from our peers and industry leaders. 
+The industry gathering ends on October 1. For more information on POET’s technology and its applications, visit the Products section of the Company’s website: https://www.poet-technologies.com/products.
+
+POET's Raju Kankipati accepts the ECOC Award from Optica Board member Michael Lebby.
+
+About POET Technologies Inc.
+
+POET is a design and development company offering high-speed optical modules, optical engines and light source products to the artificial intelligence systems market and to hyperscale data centers. POET’s photonic integration solutions are based on the POET Optical Interposer™, a novel, patented platform that allows the seamless integration of electronic and photonic devices into a single chip using advanced wafer-level semiconductor manufacturing techniques. In addition to providing high-speed (800G, 1.6T and above) optical engines and optical modules for AI clusters and hyperscale data centers, POET has designed and produced novel light source products for chip-to-chip data communication within and between AI servers. POET is headquartered in Toronto, Canada, with operations in Shenzhen, China, Singapore, and Malaysia. More information: poet-technologies.com.
+
+Media Relations Contact:
+Adrian Brijbassi
+[REDACTED_EMAIL]
+
+Company Contact:
+Thomas R. Mika, EVP & CFO
+[REDACTED_EMAIL]
+
+# POET Technologies Wins ‘Most Innovative’ Award at ECOC 2025
+
+Published on
+
+September 30, 2025
+
+‍SAN JOSE, CA (September 30, 2025) — POET Technologies Inc. ("POET" or the "Company") (NASDAQ: POET), a leader in the design and implementation of highly-integrated optical engines and light sources for artificial intelligence networks, today announced it has won for the “Most Innovative Chip-scale Packaging/Optical Sub Assembly Product” at the ECOC Awards.
+
+Chief Revenue Officer Raju Kankipati accepted the award during ceremonies held at the 2025 ECOC Exhibition in Copenhagen, Denmark. It is the seventh notable award POET has earned in the past 15 months for its cutting-edge applications that are uniquely positioned to serve the demand for more compute power from artificial intelligence developers and datacom hyperscalers.
+
+The Company was recognized for its highly integrated platform technology, the POET Optical Interposer™, and its applications that include 200G/lane receive and transmit optical engines. The Company’s 1.6T line of optical engines, POET Teralight™, is the topic of a Product Focus discussion at the ECOC Exhibition.
+
+The industry gathering ends on October 1. For more information on POET’s technology and its applications, visit the Products section of the Company’s website: https://www.poet-technologies.com/products.
+
+POET's Raju Kankipati accepts the ECOC Award from Optica Board member Michael Lebby.
+
+About POET Technologies Inc.
+
+POET is a design and development company offering high-speed optical modules, optical engines and light source products to the artificial intelligence systems market and to hyperscale data centers. POET’s photonic integration solutions are based on the POET Optical Interposer™, a novel, patented platform that allows the seamless integration of electronic and photonic devices into a single chip using advanced wafer-level semiconductor manufacturing techniques. In addition to providing high-speed (800G, 1.6T and above) optical engines and optical modules for AI clusters and hyperscale data centers, POET has designed and produced novel light source products for chip-to-chip data communication within and between AI servers. POET is headquartered in Toronto, Canada, with operations in Shenzhen, China, Singapore, and Malaysia. More information: poet-technologies.com.
+
+Media Relations Contact:
+Adrian Brijbassi
+[REDACTED_EMAIL]
+
+Company Contact:
+Thomas R. Mika, EVP & CFO
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards | POET Technologies (https://www.poet-technologies.com/news/poet-wins-ai-innovator-of-the-year-gold-prize-at-2024-merit-awards)
+citeturn168search1 [wordlim: 200] Published: 2.0 years ago; Crawled: today; TORONTO, Ontario, October 1, 2024 –– POET Technologies Inc. ... In addition to providing high-speed (800G, 1.6T and above) optical engines and optical modules for AI clusters and hyperscale data centers, POET has designed and produced novel light source products for chip-to-chip data communication within and between AI servers, the next frontier for solving bandwidth and latency problems in AI systems. ... Forward-looking information and statements contained in this news release are as of the date of this news release and the Company assumes no obligation to update or revise this forward-looking information and statements except as required by law.
+
+October 1, 2024
+
+# POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards
+
+TORONTO, Ontario, October 1, 2024 –– POET Technologies Inc. (“POET” or the “Company”) (TSX Venture: PTK; NASDAQ: POET), the designer and developer of the POET Optical Interposer™, Photonic Integrated Circuits (PICs) and light sources for the data center, tele-communication and artificial intelligence markets, was recognized today as the “AI Innovator of the Year” in the Technology category of the prestigious 2024 Merit Awards. The Gold Prize adds to the Company’s recent accolades, which include recognition by the 2024 AI Breakthrough Awards honor for “Best Optical AI Solution”.
+
+“We are thrilled to honor POET Technologies as the AI Innovator of the Year. Their groundbreaking advancements in photonic technology are setting new standards in the AI industry, pushing the boundaries of innovation and creativity. This recognition is a testament to their leadership, vision, and commitment to revolutionizing AI solutions. --------------------------------------------------------------------------------
+POET Technologies Reports Fourth Quarter 2024 Financial Results | POET Technologies (https://www.poet-technologies.com/news/poet-technologies-reports-fourth-quarter-2024-financial-results)
+citeturn168search2 [wordlim: 200] Published: 1.5 years ago; Crawled: yesterday;   * “AI Innovator of the Year Gold Prize” 2024 Merit Awards (October 1, 2024) ...   * Completed the acquisition of 100% of Super Photonics Xiamen Co., Ltd (“SPX”), establishing full control over SPX, for a total of $6.5 million to be paid out over five years beginning in Q1 of 2025, enabling POET to establish manufacturing outside of China independent of the JV. ... The Company reported a net loss of $30.2 million, or ($0.48) per share, in the fourth quarter of 2024 compared with a net loss $5.5 million, or ($0.13) per share, for the same period in 2023 and a net loss of $12.7 million, or ($0.20) per share, in the third quarter of 2024. ... Forward-looking information and statements contained in this news release are as of the date of this news release and the Company assumes no obligation to update or revise this forward-looking information and statements except as required by law.
+
+March 31, 2025
+
+x min read
+
+# POET Technologies Reports Fourth Quarter 2024 Financial Results
+
+Continued progress toward a revenue inflection point based on in-place contracts with industry leaders and partners
+
+TORONTO, Ontario, March 31, 2025 – POET Technologies Inc. (“POET” or the “Company”) (TSX Venture: PTK; NASDAQ: POET), the designer and developer of Photonic Integrated Circuits (PICs), light sources and optical modules for the AI and data center markets, today reported its audited consolidated financial results for the fourth quarter ended December 31, 2024. The Company’s financial results as well as the Management Discussion and Analysis have been filed on SEDAR+. All financial figures are in United States dollars (“USD”) unless otherwise indicated.
+
+Management Commentary:
+
+"In Q4 2024, we strategically positioned our company for accelerated growth by strengthening our financial foundation, advancing critical technology developments, and implementing a new manufacturing strategy designed for rapid, profitable scaling,” stated POET Chairman & CEO, Dr. The Company intends to pursue its voluntary delisting from the TSX Venture Exchange immediately following the closing of its planned US$25M financing with L5 Capital, which is expected to close within the next few weeks.
+
+Notable Business Highlights:
+
+  * The Company was recognized publicly for outstanding technical leadership, receiving multiple prestigious awards, including:
+
+  * “Elite Score” Lightwave+BTR Innovation Reviews (February 27, 2025)  
+  * “Best in Artificial Intelligence” 2024 Global Tech Awards (October 16, 2024)
+  * “AI Innovator of the Year Gold Prize” 2024 Merit Awards (October 1, 2024)
+  * “Best Optical AI Solution, 2024 AI Breakthrough Awards (June 26, 2024)  
+  * “Runner-Up Award for Most Innovative Hybrid PIC/Optical Integration” ECOC (October 1, 2024)
+
+  * Closed a non-brokered private placement offering on November 26, 2024 of 5,555,556 common shares at an offering price of $4.50 and accompanying warrants to purchase 2,777,778 additional common shares at $6.00 per share for a period of five years from issuance. Non-IFRS Financial Summary
+
+The Company reported non-recurring engineering (“NRE”) and product revenue of $29,032 in the fourth quarter of 2024 compared to $107,551 for the same period in 2023 and $3,685 in the third quarter of 2024. Historically the Company provided NRE services to multiple customers for unique projects that are being addressed utilizing the capabilities of the POET Optical Interposer. No billable NRE services were provided in the period. The Company only had small product revenue in Q4 2024.
+
+The Company reported a net loss of $30.2 million, or ($0.48) per share, in the fourth quarter of 2024 compared with a net loss $5.5 million, or ($0.13) per share, for the same period in 2023 and a net loss of $12.7 million, or ($0.20) per share, in the third quarter of 2024. The net loss in the fourth quarter of 2024 included research and development costs of $3.4 million compared to $2.1 million for the same period in 2023 and $1.8 million in the third quarter of 2024. Fluctuations in R&D for a Company of this size and this stage of growth is expected on a period-over-period basis as the Company transitions from technology development to product development.
+--------------------------------------------------------------------------------
+Management’s Discussion (https://poet-technologies.com/docs/financials/2021/Q2-Management-Discussion-and-Analysis-06-30-2021.pdf)
+citeturn168search12 [wordlim: 200] Published: 2.1 years ago; Management and consulting fees increased by $30,030 (96%) to $61,260 in Q4 2019 from $31,230 in Q3 2019. ... by the fact that Q4 2019 is reported as a stub period from October 1, 2019 to November 8, 2019 while Q3 2019 is ... of the POET team. ... 2021
+by the fact that Q4 2019 is reported as a stub period from October 1, 2019 to November 8, 2019 while Q3 2019 is 
+reported as a full operating quarter. All expenses in Q4 2019 are therefore lower than those of Q3 2019. Significant 
+changes unaffected by the stub reporting in Q4 2019 are therefore reported below. 
+Non-cash stock-based compensation was $(347,365) in Q4 2019 compared to $80,009 in Q3 2019. The difference 
+of $427,374 (534%) was a result of the cancellation of stock options granted to employees of DenseLight. 
+Company policy stipulates that unvested stock options must be cancelled once an individual is no longer a member 
+of the POET team. The cancellation of those unvested stock options resulted in a recovery of amounts expensed 
+in prior periods. 
+Other income, including interest was nil in Q4 2019 compared to $1,174,798 in Q3 2019. The Q3 2019 income 
+was a result of recoveries from the EDB in Singapore. The Company was entitled to a recovery of certain 
+qualifying expenses from the EDB. The EDB program ended in Q3 2019. 
+--------------------------------------------------------------------------------
+POET Confirms AGM Webcast Presentation and New Special Meeting Date | POET Technologies (https://www.poet-technologies.com/news/2019-sep-19)
+citeturn168search3 [wordlim: 200] Published: 7.0 years ago; Crawled: 3 weeks ago; (“POET” or the “Company”) (OTCQX: POETF; TSX Venture: PTK), the designer and developer of the POET Optical Interposer and Photonic Integrated Circuits (PICs) for the data center and tele-communication markets, today confirmed that it will audio webcast a presentation, including a question and answer session, at its upcoming Annual General Meeting (“AGM”) on September 20, 2019 and also notified shareholders of a new Special Meeting to be held on October 24, 2019. ... Since the revised closing structure represents a material departure from the procedure described in the AGM Circular, the Company has called a Special Meeting to approve the proposed sale on October 24, 2019, while still allowing sufficient time for a closing on or before the originally planned date of October 31, 2019.
+A revised Circular, which will include the full details of the expected closing and payment process, along with a Proxy for the Special Meeting will be prepared and mailed to shareholders on or before October 1, 2019. The Company does not anticipate making any presentation at the Special Meeting to be held on October 24, 2019. Portions of the original Circular for the AGM, provided via the TSX Trust website (http://docs.tsxtrust.com/2042) are still relevant for the annual matters to be taken up on September 20, 2019, including the election of directors and ratification of the appointment of the Company’s auditors, Marcum LLP. Shareholders are not required to resubmit their votes on these routine annual matters but will be required to submit new votes on the revised DenseLight sale resolutions once the Special Meeting materials are mailed.
+
+The AGM will be held as scheduled at 10:00 a.m. Eastern Time at Vantage Venues 150 King Street West, 27th Floor, Toronto, Ontario, on Friday, September 20, 2019. SAN JOSE, Calif., September 19, 2019 – POET Technologies Inc. (“POET” or the “Company”) (OTCQX: POETF; TSX Venture: PTK), the designer and developer of the POET Optical Interposer and Photonic Integrated Circuits (PICs) for the data center and tele-communication markets, today confirmed that it will audio webcast a presentation, including a question and answer session, at its upcoming Annual General Meeting (“AGM”) on September 20, 2019 and also notified shareholders of a new Special Meeting to be held on October 24, 2019.
+
+Following completion of the formal business of the AGM, Dr. Suresh Venkatesan, the Company’s Chief Executive Officer will present “Leading the Way to Chip-Scale Integrated Photonics” outlining the Company’s vision for establishing a global leadership position in integrated, on-chip photonics, enabled by POET’s innovative Optical Interposer platform. Dr. Venkatesan will review recent developments toward an integrated optical engine designed for pluggable 100G and 400G transceivers, which the Company regards as a first step toward its vision of achieving a leadership position in on-chip integrated photonics. --------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?005cf0db_page=1&a10324f9_page=8)
+citeturn168search4 [wordlim: 200] Crawled: 2 weeks ago; POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article ... Suresh Venkatesan of POET September 6, 2024 Learn More
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies Announces US$25 Million Registered Direct Offering To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces US$25 Million Registered Direct Offering November 26, 2024 Read Article
+
+POET Expands Capacity to Meet AI Infrastructure Demand To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Expands Capacity to Meet AI Infrastructure Demand November 25, 2024 Read Article
+
+POET Technologies Announces Intention to Voluntarily Delist from the TSXV To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Intention to Voluntarily Delist from the TSXV November 22, 2024 Read Article
+
+POET Technologies Reports Third Quarter 2024 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Third Quarter 2024 Financial Results November 14, 2024 Read Article
+
+POET Wins "Best in Artificial Intelligence" Honors at 2024 Global Tech Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins "Best in Artificial Intelligence" Honors at 2024 Global Tech Awards October 16, 2024 Read Article
+
+POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article
+
+POET Technologies Announces Closing of US$15 Million Private Placement To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Closing of US$15 Million Private Placement September 25, 2024 Read Article
+
+POET and Mitsubishi Electric Collaborate to Develop 3.2T Optical Engines for AI Networks To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET and Mitsubishi Electric Collaborate to Develop 3.2T Optical Engines for AI Networks September 19, 2024 Read Article
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?005cf0db_page=4&a10324f9_page=8)
+citeturn168search5 [wordlim: 200] Crawled: 6 days ago; POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article ... The Laser Problem in AI Hardware and How POET Can Solve It April 1, 2026 Read Post
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies Announces US$25 Million Registered Direct Offering To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces US$25 Million Registered Direct Offering November 26, 2024 Read Article
+
+POET Expands Capacity to Meet AI Infrastructure Demand To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Expands Capacity to Meet AI Infrastructure Demand November 25, 2024 Read Article
+
+POET Technologies Announces Intention to Voluntarily Delist from the TSXV To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Intention to Voluntarily Delist from the TSXV November 22, 2024 Read Article
+
+POET Technologies Reports Third Quarter 2024 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Third Quarter 2024 Financial Results November 14, 2024 Read Article
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?005cf0db_page=6&a10324f9_page=8)
+citeturn168search6 [wordlim: 200] Crawled: today; POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article ... The Laser Problem in AI Hardware and How POET Can Solve It April 1, 2026 Read Post
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies Announces US$25 Million Registered Direct Offering To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces US$25 Million Registered Direct Offering November 26, 2024 Read Article
+
+POET Expands Capacity to Meet AI Infrastructure Demand To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Expands Capacity to Meet AI Infrastructure Demand November 25, 2024 Read Article
+
+POET Technologies Announces Intention to Voluntarily Delist from the TSXV To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Intention to Voluntarily Delist from the TSXV November 22, 2024 Read Article
+
+POET Technologies Reports Third Quarter 2024 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Third Quarter 2024 Financial Results November 14, 2024 Read Article
+
+POET Wins "Best in Artificial Intelligence" Honors at 2024 Global Tech Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins "Best in Artificial Intelligence" Honors at 2024 Global Tech Awards October 16, 2024 Read Article
+
+POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article
+
+POET Technologies Announces Closing of US$15 Million Private Placement To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Closing of US$15 Million Private Placement September 25, 2024 Read Article
+
+POET and Mitsubishi Electric Collaborate to Develop 3.2T Optical Engines for AI Networks To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET and Mitsubishi Electric Collaborate to Develop 3.2T Optical Engines for AI Networks September 19, 2024 Read Article
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?1ae67674_page=8&a7445adb_page=10)
+citeturn168search7 [wordlim: 200] Crawled: 6 days ago; POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article ... The Laser Problem in AI Hardware and How POET Can Solve It April 1, 2026 Read Post
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies Announces US$25 Million Registered Direct Offering To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces US$25 Million Registered Direct Offering November 26, 2024 Read Article
+
+POET Expands Capacity to Meet AI Infrastructure Demand To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Expands Capacity to Meet AI Infrastructure Demand November 25, 2024 Read Article
+
+POET Technologies Announces Intention to Voluntarily Delist from the TSXV To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Intention to Voluntarily Delist from the TSXV November 22, 2024 Read Article
+
+POET Technologies Reports Third Quarter 2024 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Third Quarter 2024 Financial Results November 14, 2024 Read Article
+
+POET Wins "Best in Artificial Intelligence" Honors at 2024 Global Tech Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins "Best in Artificial Intelligence" Honors at 2024 Global Tech Awards October 16, 2024 Read Article
+
+POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article
+
+POET Technologies Announces Closing of US$15 Million Private Placement To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Closing of US$15 Million Private Placement September 25, 2024 Read Article
+
+POET and Mitsubishi Electric Collaborate to Develop 3.2T Optical Engines for AI Networks To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET and Mitsubishi Electric Collaborate to Develop 3.2T Optical Engines for AI Networks September 19, 2024 Read Article
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?359940ab_page=4&a10324f9_page=8)
+citeturn168search8 [wordlim: 200] Crawled: yesterday; POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article ... Suresh Venkatesan of POET September 6, 2024 Learn More
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies Announces US$25 Million Registered Direct Offering To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces US$25 Million Registered Direct Offering November 26, 2024 Read Article
+
+POET Expands Capacity to Meet AI Infrastructure Demand To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Expands Capacity to Meet AI Infrastructure Demand November 25, 2024 Read Article
+
+POET Technologies Announces Intention to Voluntarily Delist from the TSXV To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Intention to Voluntarily Delist from the TSXV November 22, 2024 Read Article
+
+POET Technologies Reports Third Quarter 2024 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Third Quarter 2024 Financial Results November 14, 2024 Read Article
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?005cf0db_page=3&1ae67674_page=8)
+citeturn168search9 [wordlim: 200] Crawled: today; POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read ArticlePOET Technologies Announces Closing of US$15 Million Private Placement To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Closing of US$15 Million Private Placement September 25, 2024 Read Article ... The Laser Problem in AI Hardware and How POET Can Solve It April 1, 2026 Read Post
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies Announces US$25 Million Registered Direct Offering To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces US$25 Million Registered Direct Offering November 26, 2024 Read Article
+
+POET Expands Capacity to Meet AI Infrastructure Demand To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Expands Capacity to Meet AI Infrastructure Demand November 25, 2024 Read Article
+
+POET Technologies Announces Intention to Voluntarily Delist from the TSXV To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Intention to Voluntarily Delist from the TSXV November 22, 2024 Read Article
+
+POET Technologies Reports Third Quarter 2024 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Third Quarter 2024 Financial Results November 14, 2024 Read Article
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?a10324f9_page=8&eff77f2e_page=2)
+citeturn168search10 [wordlim: 200] Crawled: today; POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article ... Suresh Venkatesan of POET September 6, 2024 Learn More
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies Announces US$25 Million Registered Direct Offering To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces US$25 Million Registered Direct Offering November 26, 2024 Read Article
+
+POET Expands Capacity to Meet AI Infrastructure Demand To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Expands Capacity to Meet AI Infrastructure Demand November 25, 2024 Read Article
+
+POET Technologies Announces Intention to Voluntarily Delist from the TSXV To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Intention to Voluntarily Delist from the TSXV November 22, 2024 Read Article
+
+POET Technologies Reports Third Quarter 2024 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Third Quarter 2024 Financial Results November 14, 2024 Read Article
+--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?a10324f9_page=8&a7445adb_page=2)
+citeturn168search11 [wordlim: 200] Crawled: 2 weeks ago; POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Wins “AI Innovator of the Year” Gold Prize at 2024 Merit Awards October 1, 2024 Read Article ... The Laser Problem in AI Hardware and How POET Can Solve It April 1, 2026 Read Post
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies Announces US$25 Million Registered Direct Offering To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces US$25 Million Registered Direct Offering November 26, 2024 Read Article
+
+POET Expands Capacity to Meet AI Infrastructure Demand To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Expands Capacity to Meet AI Infrastructure Demand November 25, 2024 Read Article
+
+POET Technologies Announces Intention to Voluntarily Delist from the TSXV To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Announces Intention to Voluntarily Delist from the TSXV November 22, 2024 Read Article
+
+POET Technologies Reports Third Quarter 2024 Financial Results To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Third Quarter 2024 Financial Results November 14, 2024 Read Article
+

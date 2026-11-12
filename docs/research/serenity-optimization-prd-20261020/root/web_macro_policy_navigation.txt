@@ -1,0 +1,144 @@
+Federal Reserve Board - 2026 Speeches (https://www.federalreserve.gov/newsevents/2026-speeches.htm)
+citeturn464view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn463view0","id":3}); Total lines: 682
+--------------------------------------------------------------------------------
+Fact Sheets – The White House (https://www.whitehouse.gov/fact-sheets/)
+citeturn464view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn463view1","id":21}); Total lines: 267
+--------------------------------------------------------------------------------
+nvt-20260630 (https://www.sec.gov/Archives/edgar/data/1720635/000162828026051428/nvt-20260630.htm)
+citeturn464view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn461view0","pattern":"1,471.3"}); Total lines: 1664
+L102: Condensed Consolidated Statements of Income and Comprehensive Income (Unaudited)
+L103:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L104:  | Three months ended  |  | Six months ended
+L105: In millions, except per share data  | June 30,
+L106: 2026  | June 30,
+L107: 2025  |  | June 30,
+L108: 2026  | June 30,
+L109: 2025
+L110: Net sales  | $  | 1,471.3   |  | $  | 963.1   |  |  | $  | 2,713.3   |  | $  | 1,772.4   |
+L111: Cost of goods sold  | 913.3   |  | 591.3   |  |  | 1,709.7   |  | 1,086.9   |
+L438:  |  |  |  |  |  |  |  |  |  |  |  |
+L439:  | Three months ended June 30, 2026
+L440: In millions  | Systems Protection  | Electrical Connections  |  | Total
+L441: Americas  | $  | 917.0   |  | $  | 340.0   |  |  | $  | 1,257.0   |
+L442: Europe, the Middle East and Africa ("EMEA")  | 111.2   |  | 43.5   |  |  | 154.7   |
+L443: Asia-Pacific  | 43.9   |  | 15.7   |  |  | 59.6   |
+L444:  |  |  |  |
+L445: Total  | $  | 1,072.1   |  | $  | 399.2   |  |  | $  | 1,471.3   |
+L446:  |  |  |  |
+L447:  | Six months ended June 30, 2026
+L454:  |  |  |  |  |  |  |  |  |  |  |  |
+L455:  | Three months ended June 30, 2025
+L456: In millions  | Systems Protection  | Electrical Connections  |  | Total
+L457: Americas  | $  | 495.5   |  | $  | 282.4   |  |  | $  | 777.9   |
+L458: EMEA  | 104.2   |  | 37.7   |  |  | 141.9   |
+L459: Asia-Pacific  | 32.3   |  | 11.0   |  |  | 43.3   |
+L460:  |  |  |  |
+L461: Total  | $  | 632.0   |  | $  | 331.1   |  |  | $  | 963.1   |
+L462:  |  |  |  |
+L463:  | Six months ended June 30, 2025
+L464: In millions  | Systems Protection  | Electrical Connections  |  | Total
+L471: 8
+L472: 
+L473: * * *
+L474: 
+L475: nVent Electric plc
+L476: 
+L477: Notes to condensed consolidated financial statements (unaudited)
+L480:  |  |  |  |  |  |  |  |  |  |  |  |
+L481:  | Three months ended June 30, 2026
+L482: In millions  | Systems Protection  | Electrical Connections  |  | Total
+L483: Infrastructure  | $  | 729.3   |  | $  | 153.2   |  |  | $  | 882.5   |
+L484: Industrial  | 269.8   |  | 60.4   |  |  | 330.2   |
+L485: Commercial & Residential  | 73.0   |  | 185.6   |  |  | 258.6   |
+L486:  |  |  |  |
+L487: Total  | $  | 1,072.1   |  | $  | 399.2   |  |  | $  | 1,471.3   |
+L488:  |  |  |  |
+L489:  | Six months ended June 30, 2026
+L490: In millions  | Systems Protection  | Electrical Connections  |  | Total
+L491: Infrastructure  | $  | 1,289.3   |  | $  | 286.6   |  |  | $  | 1,575.9   |
+L492: Industrial  | 534.0   |  | 113.5   |  |  | 647.5   |
+L493: Commercial & Residential  | 143.6   |  | 346.3   |  |  | 489.9   |
+L494:  |  |  |  |
+L495: Total  | $  | 1,966.9   |  | $  | 746.4   |  |  | $  | 2,713.3   |
+L973:  |  |  |  |  |  |  |  |  |  |  |  |
+L974:  | Three months ended June 30, 2026
+L975: In millions  | Systems Protection  | Electrical Connections  |  | Total
+L976: Net sales  | $  | 1,072.1   |  | $  | 399.2   |  |  | $  | 1,471.3   |
+L977: Cost of goods sold(1)  | 707.5   |  | 227.1   |  |  |
+L978: Selling, general and administrative(1)  | 99.8   |  | 57.3   |  |  |
+L979: Research and development(1)  | 16.6   |  | 6.0   |  |  |
+L980: Reportable segment income  | $  | 248.2   |  | $  | 108.8   |  |  | $  | 357.0   |
+L981:  |  |  |  |
+L1197:  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L1198:    | Three months ended
+L1199: In millions  | June 30,
+L1200: 2026  | June 30,
+L1201: 2025  | $ change  | % / point
+L1202: change
+L1203: Net sales  | $  | 1,471.3   |  | $  | 963.1   |  | $  | 508.2   |  | 52.8   | %
+L1204: Cost of goods sold  | 913.3   |  | 591.3   |  | 322.0   |  | 54.5   | %
+L1205: Gross profit  | 558.0   |  | 371.8   |  | 186.2   |  | 50.1   | %
+L1206:       % of net sales  | 37.9   | %  | 38.6   | %  |  | (0.7)  |  pts
+L1207:  |  |  |  |
+--------------------------------------------------------------------------------
+INNODATA INC._June 30, 2026 (https://www.sec.gov/Archives/edgar/data/903651/000110465926092021/inod-20260630x10q.htm)
+citeturn464view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn461view1","pattern":"134.0"}); Total lines: 1746
+No matching text found for "134.0"--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1030894/000103089426000043/cls-20260630prcondensedfs.htm)
+citeturn464view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn458view1","pattern":"Free cash"}); Total lines: 477
+L46: •Revenue of $20.5 billion (previous outlook $19.0 billion) (1)
+L47: 
+L48: •Adjusted EPS (non-GAAP)* of $11.30 (previous outlook $10.15) (1)(2)
+L49: 
+L50: •Adjusted operating margin (non-GAAP)* of 8.4% (previous outlook 8.1%) (1)
+L51: 
+L52: •Free cash flow (non-GAAP)* of $600 million (previous outlook $500 million) (1)
+L129: The non-GAAP financial measures included in this press release are: adjusted gross profit, adjusted SG&A, adjusted operating earnings (or adjusted EBIAT), adjusted net earnings, and each of the foregoing measures as a percentage of revenue, adjusted EPS, adjusted return on invested capital (ROIC), free cash flow, adjusted tax expense and adjusted effective tax rate.
+L160: Free cash flow is defined as cash provided by (used in) operations less the purchase of property, plant and equipment (net of proceeds from the sale of certain surplus assets, when applicable). Free cash flow does not represent residual cash flow available to Celestica for discretionary expenditures. Management uses free cash flow as a measure, in addition to GAAP cash provided by (used in) operations, to assess our operational cash flow performance.
+L161: We believe free cash flow provides another level of transparency to our ability to generate cash from normal business operations.
+L162: Adjusted ROIC is calculated by dividing annualized adjusted EBIAT by average net invested capital for the period. Net invested capital (calculated in the tables below) is derived from GAAP financial measures, and is
+L163: 
+L164:  |  |  |  |  |  |  |  |
+L165:  | vi  | more...
+L166: 
+L167: * * *
+L168: defined as total assets less: cash, right-of-use (ROU) assets (operating and finance leases), accounts payable, accrued and other current liabilities and provisions (excluding finance and operating lease liabilities) and income taxes payable. Management uses adjusted ROIC as a measure to assess the effectiveness of the invested capital we employ to build products or provide services to our customers, by quantifying how well we generate earnings relative to the capital we have invested in our business.
+L220: Purchase of property, plant and equipment, net of sales proceeds  | (263.8)  |  |  |  | (32.5)  |  |  |  | (482.2)  |  |  |  | (69.2)  |  |
+L221: Free cash flow (non-GAAP)  | $  | 147.1   |  |  |  | $  | 119.9   |  |  |  | $  | 285.0   |  |  |  | $  | 213.5   |  |
+L222:  |  |  |  |  |  |  |  |  |  |  |
+L223: GAAP ROIC %  | 65.8   | %  |  |  | 45.0   | %  |  |  | 53.9   | %  |  |  | 33.2   | %  |
+L224: Adjusted ROIC % (non-GAAP)  | 55.5   | %  |  |  | 35.5   | %  |  |  | 52.5   | %  |  |  | 33.3   | %  |
+--------------------------------------------------------------------------------
+FS (https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/3a94d1034b9e6b22446b674f7aaf3d088a12a193/FS.pdf)
+citeturn464view5 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 4; Source: find({"ref_id":"turn453view0","pattern":"Cash Flows"}); Total lines: 154
+L116@P3: For the Nine Months Ended September 30, 2026 and for the Three Months Ended September 30, 2026, June 30, 2026 and September 30, 2025
+L117@P3: (Expressed in Millions of New Taiwan Dollars ("NTD") and U.S. Dollars ("USD")) (1)
+L118@P3: Nine Months 2026 3Q 2026 2Q 2026 3Q 2025
+L119@P3: USD NTD NTD NTD NTD
+L120@P3: Cash Flows from Operating Activities:
+L121@P3: Income Before Income Tax $ 77,535 $ 2,461,269 $ 911,039 $ 862,430 $ 525,369
+L122@P3: Depreciation & Amortization 18,403 584,192 220,204 198,538 162,787
+L123@P3: Share of Profits of Associates (146) (4,633) (1,510) (1,438) (1,424)
+L124@P3: Income Taxes Paid (12,200) (387,264) (197,544) (188,219) (137,266)
+L125@P3: Changes in Working Capital & Others (7,921) (251,447) (12,413) (87,946) (122,637)
+L126@P3: Net Cash Generated by Operating Activities 75,671 2,402,117 919,776 783,365 426,829
+L127@P3: Cash Flows from Investing Activities:
+L128@P3: Interest Received 2,775 88,095 35,549 25,800 22,351
+L129@P3: Cash Dividend Received 161 5,111 2,945 1,125 2,705
+L130@P3: Acquisitions of:
+L131@P3: Property, Plant and Equipment (40,637) (1,289,971) (443,206) (496,002) (287,452)
+L132@P3: Marketable Financial Instruments (9,183) (291,525) (87,257) (112,647) (50,445)
+L133@P3: Proceeds from Disposal or Redemption of:
+L134@P3: Property, Plant and Equipment 75 2,373 381 179 70
+L135@P3: Marketable Financial Instruments 6,361 201,923 64,934 75,684 49,196
+L136@P3: Others 5,278 167,544 159,868 13,051 3,823
+L137@P3: Net Cash Used In Investing Activities (35,170) (1,116,450) (266,786) (492,810) (259,752)
+L138@P3: Cash Flows from Financing Activities:
+L139@P3: Increase (Decrease) in Hedging Financial Liabilities - Bank Loans (7) (222) 53 (93) -
+L140@P3: Proceeds from Issuance of Bonds 1,705 54,100 18,500 18,400 30,100
+L141@P3: Repayment of Bonds (2,338) (74,211) (19,350) (50,061) (39,160)
+L142@P3: Proceeds from Long-term Bank Loans 377 11,950 - 9,930 2,232
+L143@P3: Repayment of Long-term Bank Loans (29) (913) (262) (261) (720)
+L144@P3: Interest Paid (463) (14,704) (4,815) (7,142) (4,040)
+L145@P3: Cash Dividends Paid for Common Stock (13,888) (440,853) (155,595) (155,595) (116,697)
+

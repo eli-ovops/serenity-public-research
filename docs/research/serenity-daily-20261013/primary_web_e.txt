@@ -1,0 +1,178 @@
+Internal Error ()
+citeturn390view0 [wordlim: 200] Source: open({"ref_id":"https://s25.q4cdn.com/714146035/files/doc_news/DPC-Holdings-Agrees-to-Dispose-of-Ivostud-to-DUBAG-Group-2026.pdf","lineno":null}); Total lines: 1
+L0: URL https://s25.q4cdn.com/714146035/files/doc_news/DPC-Holdings-Agrees-to-Dispose-of-Ivostud-to-DUBAG-Group-2026.pdf is not accessible via this tool.
+--------------------------------------------------------------------------------
+Scribe → News (https://www.scribetx.com/newsroom)
+citeturn390view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn385view3","lineno":30}); Total lines: 105
+L0: cite0†Scribe Therapeutics L1: 
+L2:   * cite1†About L3:   * cite2†Platform L4:   * cite3†Pipeline L5:   * cite4†Newsroom L6:   * cite5†Careers L7:   * cite6†Investor Relations†investors.scribetx.com L8:   * cite7†Contact L9: 
+L10: Menu
+L11: 
+L12: Close
+L13: 
+L14: # Newsroom
+L15: 
+L16: ## Keep up with the latest
+L17: 
+L18: cite8†Image†cdn.prod.website-files.com L19: 
+L20: cite9†Image†cdn.prod.website-files.com L21: ## Featured
+L22: 
+L23: cite10†This Scientist Is Building Custom Gene-Editing Tools†www.forbes.com cite11†This Scientist Is Building Custom Gene-Editing Tools L24: cite12†Scribe Therapeutics Highlights Data Underpinning its Comprehensive Strategy Targeting Key Lipid Drivers of ASCVD at American Heart Association (AHA) Scientific Sessions 2025 November 17, 2025 cite13†Scribe Therapeutics Highlights Data Underpinning its Comprehensive Strategy Targeting Key Lipid Drivers of ASCVD at American Heart Association (AHA) Scientific Sessions 2025 November 17, 2025 L25: cite14†Epigenetic editors are a gentler form of gene editing February 24, 2025 The Economist†www.economist.com cite15†Epigenetic editors are a gentler form of gene editing February 24, 2025 L26: 
+L27: cite16†CRISPR 2.0, the Next Generation June 21, 2024 Aspen Ideas: Health†www.youtube.com cite17†CRISPR 2.0, the Next Generation June 21, 2024 L28: cite18†The Age of CRISPR: Engineering the Future of Genetic Medicine February 23, 2024 TEDxBerkeley†www.youtube.com cite19†The Age of CRISPR: Engineering the Future of Genetic Medicine February 23, 2024 L29: ## Media Center
+L30: 
+L31: All
+L32: 
+L33: Media Highlights
+L34: 
+L35: Press Releases
+L36: 
+L37: cite20†Media Another proof point from CIRM-supported research October 7, 2026 California Institute for Regenerative Medicine Read Now†blog.cirm.ca.gov cite21†Press Release Another proof point from CIRM-supported research October 7, 2026 California Institute for Regenerative Medicine Read Now L38: cite22†Media Can Geneticists Fight Disease by Targeting ‘Nurture’ Instead of ‘Nature’?September 8, 2026 The New York Times Read Now†www.nytimes.com cite23†Press Release Can Geneticists Fight Disease by Targeting ‘Nurture’ Instead of ‘Nature’?September 8, 2026 The New York Times Read Now L39: cite12†Press Release Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights September 2, 2026 Read Now cite24†Press Release Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights September 2, 2026 Read Now L40: cite12†Press Release Scribe Therapeutics to Participate in Upcoming Investor Conferences September 1, 2026 Read Now cite25†Press Release Scribe Therapeutics to Participate in Upcoming Investor Conferences September 1, 2026 Read Now L41: 
+L42: cite26†Media Scribe’s Genetic Editing Aims to Prevent Heart Attacks July 27, 2026 Barron's Read Now†www.barrons.com cite27†Press Release Scribe’s Genetic Editing Aims to Prevent Heart Attacks July 27, 2026 Barron's Read Now L43: cite12†Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement July 27, 2026 Read Now cite28†Press Release Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement July 27, 2026 Read Now L44: cite20†Media Another proof point from CIRM-supported research October 7, 2026 California Institute for Regenerative Medicine Read Now†blog.cirm.ca.gov L45: 
+L46: cite22†Media Can Geneticists Fight Disease by Targeting ‘Nurture’ Instead of ‘Nature’?September 8, 2026 The New York Times Read Now†www.nytimes.com L47: 
+L48: cite26†Media Scribe’s Genetic Editing Aims to Prevent Heart Attacks July 27, 2026 Barron's Read Now†www.barrons.com L49: cite29†Media Scribe records upsized $129M IPO to bankroll lipid-lowering genetic meds July 24, 2026 Fierce Biotech Read Now†www.fiercebiotech.com L50: 
+L51: cite30†Media Eli Lilly-Backed Scribe Therapeutics Soars 44% After IPO July 24, 2026 Bloomberg News Read Now†www.bloomberg.com L52: 
+L53: cite31†Media Scribe Bets on a New Era of Gene Editing July 24, 2026 Bloomberg Tech Read Now†www.youtube.com L54: cite24†Press release Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights September 2, 2026 Read Now L55: 
+L56: cite25†Press release Scribe Therapeutics to Participate in Upcoming Investor Conferences September 1, 2026 Read Now L57: 
+L58: cite28†Press release Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement July 27, 2026 Read Now L59: cite32†Press release Scribe Therapeutics Announces Pricing of Upsized Initial Public Offering July 23, 2026 Read Now L60: 
+L61: cite33†Press release Scribe Therapeutics Awarded More Than $25 Million From CIRM to Accelerate Additional CRISPR-Based Gene Editing Therapies for Cardiometabolic Disease Into Clinical Trials June 18, 2026 Read Now L62: cite34†Press release Scribe Therapeutics Presents Late-Breaking Preclinical Data Supporting STX-1150, a Clinical-Stage Epigenetic Silencing Therapy Designed to Achieve Years of LDL-C Lowering After a Single Dose May 28, 2026 Read Now L63: 
+L64: cite35†Blog†scribetx.substack.com L65: ## Publications
+L66: 
+L67: cite36†Publication Sequential Proofreading Enhances Specificity and Potency of CRISPR-CasX-based Epigenetic Repressors August 31, 2026 bioRxiv Read Now†www.biorxiv.org L68: 
+L69: cite37†Publication Engineered Allosteric Control Enhances Specificity and Potency of CRISPR-CasX-based Epigenetic Repressors January 14, 2026 bioRxiv Read Now†www.biorxiv.org L70: cite38†Publication Single particle charge detection mass spectrometry enables molecular characterization of lipid nanoparticles and mRNA packaging May 18, 2025 Journal of Controlled Release Read Now†www.sciencedirect.com L71: 
+L72: cite39†Publication CasX enzymes comprise a distinct family of RNA-guided genome editors February 4, 2019 Nature Read Now†escholarship.org L73: cite40†Publication Efficient genome editing in the mouse brain by local delivery of engineered Cas9 ribonucleoprotein complexes May 1, 2017 Nature Biotechnology Read Now†pmc.ncbi.nlm.nih.gov L74: 
+L75: cite41†Publication Targeted gene knock-in by homology-directed genome editing using Cas9 ribonucleoprotein and AAV donor delivery March 2, 2017 Nucleic Acids Research Read Now†academic.oup.com L76: cite42†Publication Profiling of engineering hotspots identifies an allosteric CRISPR-Cas9 switch June 1, 2016 Nature Biotechnology Read Now†pmc.ncbi.nlm.nih.gov L77: 
+L78: cite43†Publication Multi-reporter selection for the design of active and more specific zinc-finger nucleases for genome editing January 7, 2016 Nature Communications Read Now†www.nature.com L79: cite44†Publication Enhanced homology-directed human genome engineering by controlled timing of CRISPR/Cas9 delivery December 15, 2014 eLife Read Now†elifesciences.org L80: 
+L81: cite45†Publication Programmable RNA recognition and cleavage by CRISPR/Cas9 December 11, 2014 Nature Read Now†pmc.ncbi.nlm.nih.gov L82: 
+L83: cite46†Publication MicroRNA-mediated switching of chromatin-remodelling complexes in neural development July 30, 2009 Nature Read Now†pmc.ncbi.nlm.nih.gov L84: 
+L85: Sign up to receive the latest updates
+L86: [Input: Email Address][Input]
+L87: 
+L88: Thank you! Your submission has been received!
+L89: 
+L90: Oops! Something went wrong while submitting the form.
+L91: 
+L92: cite47†LinkedIn†www.linkedin.com cite48†Twitter or X†x.com L93: 
+L94:   * cite1†About L95:   * cite2†Platform L96:   * cite3†Pipeline L97:   * cite4†Newsroom L98:   * cite5†Careers L99:   * cite49†Investor Relations†investors.scribetx.com L100:   * cite7†Contact L101: 
+L102: ©Scribe 2026
+L103: 
+L104: cite50†Privacy Policy cite51†Site by Bunsen†www.bunsenstudio.com --------------------------------------------------------------------------------
+FormFactor, Inc. Reports 2026 Second Quarter Results | FormFactor, Inc. (https://investors.formfactor.com/news-releases/news-release-details/formfactor-inc-reports-2026-second-quarter-results)
+citeturn390view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.formfactor.com/news-releases/news-release-details/formfactor-inc-reports-2026-second-quarter-results","lineno":null}); Total lines: 288
+L0: cite0†Image†www.visionary-operation365.com L1: 
+L2: [Input]
+L3: 
+L4: cite1†Products†www.formfactor.com cite2†Applications†www.formfactor.com cite3†Industries†www.formfactor.com cite4†Sales & Service†www.formfactor.com cite5†Company†www.formfactor.com L5: 
+L6: cite1†Products†www.formfactor.com cite2†Applications†www.formfactor.com cite3†Industries†www.formfactor.com cite4†Sales & Service†www.formfactor.com cite5†Company†www.formfactor.com L7: 
+L8: # Press Release
+L9: ##
+L10: 
+L11: FormFactor, Inc. Reports 2026 Second Quarter Results
+L12: 
+L13: July 29, 2026 at 4:01 PM EDT
+L14: 
+L15: Delivers Record Revenue, Gross Profit and Earnings Per Share;
+L16: Sees Strong Demand in DRAM, Foundry & Logic and Systems
+L17: LIVERMORE, Calif., July 29, 2026 (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM) today announced its financial results for the second quarter of fiscal 2026 ended June 27, 2026. Quarterly revenues were $258.2 million, an increase of 14.2% compared to $226.1 million in the first quarter of fiscal 2026, and an increase of 31.9% from $195.8 million in the second quarter of fiscal 2025.
+L18:   * Produced revenue, gross margins and earnings per share exceeding the high end of the GAAP and Non-GAAP outlook range
+L19:   * Experienced broad-based demand, with strength in key growth initiatives including High Bandwidth Memory and Co-Packaged Optics driving sequential revenue increases in both the Probe Cards and Systems segments, respectively
+L20:   * Announced expanded multi-year partnership with Keystone Microtech, reinforcing FormFactor's presence in the strategically important Taiwan semiconductor ecosystem
+L21: “Over the past four quarters, FormFactor has grown revenue more than 30%, expanded Non-GAAP gross margin 1,500 basis points, and tripled earnings per share,” said Mike Slessor, CEO of FormFactor, Inc. “These improvements reflect years of investment to create and expand our unique position at the intersection of high-performance compute and advanced packaging, coupled with stronger execution to enhance profitability and drive operating leverage.”
+L22: 
+L23: Second Quarter Highlights
+L24: On a GAAP basis, net income for the second quarter of fiscal 2026 was $56.2 million, or $0.71 per fully-diluted share, compared to net income for the first quarter of fiscal 2026 of $20.4 million, or $0.26 per fully-diluted share, and net income for the second quarter of fiscal 2025 of $9.1 million, or $0.12 per fully-diluted share. Gross margin for the second quarter of 2026 was 50.7%, compared with 38.4% in the first quarter of 2026, and 37.3% in the second quarter of 2025.
+L25: On a non-GAAP basis, net income for the second quarter of fiscal 2026 was $65.0 million, or $0.82 per fully-diluted share, compared to net income for the first quarter of fiscal 2026 of $44.5 million, or $0.56 per fully-diluted share, and net income for the second quarter of fiscal 2025 of $21.2 million, or $0.27 per fully-diluted share. On a non-GAAP basis, gross margin for the second quarter of 2026 was 53.3%, compared with 49.0% in the first quarter of 2026, and 38.5% in the second quarter of 2025.
+L26: GAAP net cash provided by operating activities for the second quarter of fiscal 2026 was $61.8 million, compared to $45.0 million for the first quarter of fiscal 2026, and $18.9 million for the second quarter of fiscal 2025. Free cash flow for the second quarter of fiscal 2026 was $52.6 million, compared to free cash flow for the first quarter of fiscal 2026 of $30.7 million, and free cash flow for the second quarter of 2025 of negative $47.1 million.
+L27: A reconciliation of GAAP to non-GAAP measures is provided in the schedules included below.
+L28: 
+L29: Outlook
+L30: 
+L31: Dr. Slessor added, “As we look ahead to the third quarter, we continue to see strong demand across our end markets, with particular strength in Foundry & Logic and continued momentum in our Systems business, positioning us for another quarter of record revenue and profitability.”
+L32: 
+L33: For the third quarter ending September 26, 2026, FormFactor is providing the following outlook*:
+L34:    |    | GAAP  |    | Reconciling Items**  |    | Non-GAAP
+L35: Revenue  |    | $270 million +/- $10 million  |    | —  |    | $270 million +/- $10 million
+L36: Gross margin  |    | 52.0% +/- 1.5%  |    | $5.3 million  |    | 54.0% +/- 1.5%
+L37: Net income per diluted share  |    | $0.75 +/- $0.09  |    | $0.11  |    | $0.86 +/- $0.09
+L38: ^{*This outlook assumes consistent foreign currency rates.}
+L39: ^{**Reconciling items are stock-based compensation, amortization of intangible assets and fixed asset fair value adjustments due to acquisitions, and restructuring charges, net of applicable income tax impacts.}
+L40: We posted our revenue breakdown by geographic region, by market segment and with customers with greater than 10% of total revenue on the Investor Relations section of our website at cite6†www.formfactor.com†www.formfactor.com . We will conduct a conference call at 1:25 p.m. PT, or 4:25 p.m. ET, today.
+L41: The public is invited to listen to a live webcast of FormFactor’s conference call on the Investor Relations section of our website at cite6†www.formfactor.com†www.formfactor.com . A telephone replay of the conference call will be available approximately two hours after the conclusion of the call. The replay will be available on the Investor Relations section of our website, cite6†www.formfactor.com†www.formfactor.com .
+L42: 
+L43: Use of Non-GAAP Financial Information:
+L44: To supplement our condensed consolidated financial results prepared under generally accepted accounting principles, or GAAP, we disclose certain non-GAAP measures of non-GAAP net income, non-GAAP net income per basic and diluted share, non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income and free cash flow, that are adjusted from the nearest GAAP financial measure to exclude certain costs, expenses, gains and losses.
+L45: Reconciliations of the adjustments to GAAP results for the three and six months ended June 27, 2026, and for outlook provided before, as well as for the comparable period of fiscal 2025, are provided below, and on the Investor Relations section of our website at cite6†www.formfactor.com†www.formfactor.com .
+L46: Information regarding the ways in which management uses non-GAAP financial information to evaluate its business, management's reasons for using this non-GAAP financial information, and limitations associated with the use of non-GAAP financial information, is included under “About our Non-GAAP Financial Measures” following the tables below.
+L47: About FormFactor:
+L48: FormFactor, Inc. (Nasdaq: FORM), is a leading provider of essential test and measurement technologies along the full semiconductor product life cycle - from characterization, modeling, reliability, and design de-bug, to qualification and production test. Semiconductor companies rely upon FormFactor’s products and services to optimize device performance and advance yield knowledge. The Company serves customers through its network of facilities in Asia, Europe, and North America.
+L49: For more information, visit the Company’s website at cite6†www.formfactor.com†www.formfactor.com .
+L50: Forward-looking Statements:
+L51: This press release contains forward-looking statements within the meaning of the “safe harbor” provisions of the federal securities laws, including with respect to the Company’s future financial and operating results, market demand, and the Company’s plans, strategies and objectives for future operations.
+L52: These statements are based on management’s current expectations and beliefs as of the date of this release, and are subject to a number of risks and uncertainties, many of which are beyond the Company’s control, that could cause actual results to differ materially from those described in the forward-looking statements.
+L53: These forward-looking statements include, but are not limited to, statements regarding future financial and operating results, including under the heading “Outlook” above, the Company's performance, the Company's business strategies, and other statements regarding the Company’s business.
+L54: Forward-looking statements may contain words such as “may,” “might,” “will,” “expect,” “plan,” “anticipate,” “forecast,” “continue,” and “prospect,” and the negative or plural of these words and similar expressions, and include the assumptions that underlie such statements.
+L55: The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: changes in and impacts from export control, tariffs and other trade barriers; changes in demand for the Company’s products; customer-specific demand; market opportunity; anticipated industry trends; the availability, benefits, and speed of customer acceptance or implementation of new products and technologies; manufacturing, processing, and design capacity, goals, expansion, volumes, and progress; difficulties or delays in research and development; industry seasonality; risks to the Company’s realization of benefits from acquisitions and investments; demand volatility and cyclicality of the industry; advancement of artificial intelligence; reliance on customers or third parties (including suppliers); changes in macro-economic environments; events affecting global and regional economic and market conditions and stability such as tariffs, military conflicts, political volatility, infectious diseases and pandemics, and similar factors, operating separately or in combination; and other factors, including those set forth in the Company’s most current annual report on Form 10-K, quarterly reports on Form 10-Q and other filings by the Company with the U.S.
+L56: Securities and Exchange Commission. In addition, there are varying barriers to international trade, including restrictive trade and export regulations such as the US-China restrictions, dynamic tariffs, trade disputes between the U.S. and other countries, and national security developments or tensions, that may substantially restrict or condition our sales to or in certain countries, increase the cost of doing business internationally, and disrupt our supply chain.
+L57: No assurances can be given that any of the events anticipated by the forward-looking statements within this press release will transpire or occur, or if any of them do so, what impact they will have on the results of operations or financial condition of the Company. Unless required by law, the Company is under no obligation (and expressly disclaims any such obligation) to update or revise its forward-looking statements whether as a result of new information, future events, or otherwise.
+L58: FORMFACTOR, INC.
+L59: CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+L60: (In thousands, except per share amounts)
+L61: (Unaudited)
+L62:    |    | Three Months Ended  |    | Six Months Ended
+L63:    |    | June 27,
+L64: 2026
+L65:  |    | March 28,
+L66: 2026
+L67:  |    | June 28,
+L68: 2025  |    | June 27,
+L69: 2026
+L70:  |    | June 28,
+L71: 2025
+L72: Revenues  |    | $  | 258,242  |    |    | $  | 226,144  |    |    | $  | 195,798  |    |    | $  | 484,386  |    |    | $  | 367,154  |
+L73: Cost of revenues  |    |    | 127,320  |    |    |    | 139,350  |    |    |    | 122,860  |    |    |    | 266,670  |    |    |    | 229,693  |
+L74: Gross profit  |    |    | 130,922  |    |    |    | 86,794  |    |    |    | 72,938  |    |    |    | 217,716  |    |    |    | 137,461  |
+L75: Operating expenses:  |    |    |    |    |    |    |    |    |    |    |    |    |
+L76: Research and development  |    |    | 31,099  |    |    |    | 30,780  |    |    |    | 28,793  |    |    |    | 61,879  |    |    |    | 56,593  |
+L77: Selling, general and administrative  |    |    | 37,165  |    |    |    | 32,292  |    |    |    | 31,482  |    |    |    | 69,457  |    |    |    | 64,936  |
+L78: Factory start-up costs  |    |    | 4,859  |    |    |    | 7,074  |    |    |    | 357  |    |    |    | 11,933  |    |    |    | 357  |
+L79: Total operating expenses  |    |    | 73,123  |    |    |    | 70,146  |    |    |    | 60,632  |    |    |    | 143,269  |    |    |    | 121,886  |
+L80: Operating income  |    |    | 57,799  |    |    |    | 16,648  |    |    |    | 12,306  |    |    |    | 74,447  |    |    |    | 15,575  |
+L81: Interest income, net  |    |    | 2,683  |    |    |    | 2,174  |    |    |    | 2,642  |    |    |    | 4,857  |    |    |    | 5,959  |
+L82: Other income (expense), net  |    |    | 212  |    |    |    | 441  |    |    |    | (6  | )  |    |    | 653  |    |    |    | 884  |
+L83: Income before income taxes and equity investment  |    |    | 60,694  |    |    |    | 19,263  |    |    |    | 14,942  |    |    |    | 79,957  |    |    |    | 22,418  |
+L84: Provision for income taxes  |    |    | 6,729  |    |    |    | 396  |    |    |    | 2,372  |    |    |    | 7,125  |    |    |    | 3,447  |
+L85: Income (loss) from equity investment  |    |    | 2,242  |    |    |    | 1,517  |    |    |    | (3,484  | )  |    |    | 3,759  |    |    |    | (3,484  | )
+L86: Net income  |    | $  | 56,207  |    |    | $  | 20,384  |    |    | $  | 9,086  |    |    | $  | 76,591  |    |    | $  | 15,487  |
+L87: Net income per share:  |    |    |    |    |    |    |    |    |    |    |    |    |
+L88: Basic  |    | $  | 0.72  |    |    | $  | 0.26  |    |    | $  | 0.12  |    |    | $  | 0.98  |    |    | $  | 0.20  |
+L89: Diluted  |    | $  | 0.71  |    |    | $  | 0.26  |    |    | $  | 0.12  |    |    | $  | 0.96  |    |    | $  | 0.20  |
+L90: Weighted-average number of shares used in per share calculations:  |    |    |    |    |    |    |    |    |    |    |
+L91: Basic  |    |    | 78,036  |    |    |    | 77,825  |    |    |    | 77,107  |    |    |    | 77,930  |    |    |    | 77,226  |
+L92: Diluted  |    |    | 79,607  |    |    |    | 79,415  |    |    |    | 77,527  |    |    |    | 79,546  |    |    |    | 77,721  |
+L93: FORMFACTOR, INC.
+L94: NON-GAAP FINANCIAL MEASURE RECONCILIATIONS
+L95: (In thousands, except per share amounts)
+L96: (Unaudited)
+L97:    |    | Three Months Ended  |    | Six Months Ended
+L98:    |    | June 27,
+L99: 2026  |    | March 28,
+L100: 2026  |    | June 28,
+L101: 2025  |    | June 27,
+L102: 2026  |    | June 28,
+L103: 2025
+L104: GAAP Gross Profit  |    | $  | 130,922  |    |    | $  | 86,794  |    |    | $  | 72,938  |    |    | $  | 217,716  |    |    | $  | 137,461  |
+L105: Adjustments:  |    |    |    |    |    |    |    |    |    |
+L106: Restructuring charges  |    |    | 4,292  |    |    |    | 21,498  |    |    |    | 183  |    |    |    | 25,790  |    |    |    | 243  |
+L107: Stock-based compensation  |    |    | 1,660  |    |    |    | 1,782  |    |    |    | 1,690  |    |    |    | 3,442  |    |    |    | 3,695  |
+L108: Amortization of intangibles and fixed asset fair value adjustments due to acquisitions  |    |    | 745  |    |    |    | 659  |    |    |    | 528  |    |    |    | 1,404  |    |    |    | 1,070  |
+L109: Non-GAAP Gross Profit  |    | $  | 137,619  |    |    | $  | 110,733  |    |    | $  | 75,339  |    |    | $  | 248,352  |    |    | $  | 142,469  |
+L110:    |    |    |    |    |    |    |    |    |    |
+L111: GAAP Gross Margin  |    |    | 50.7  | %  |    |    | 38.4  | %  |    |    | 37.3  | %  |    |    | 44.9  | %  |    |    | 37.4  | %
+L112: Adjustments:  |    |    |    |    |    |    |    |    |    |
+L113: Restructuring charges  |    |    | 1.7  | %  |    |    | 9.5  | %  |    |    | 0.1  | %  |    |    | 5.3  | %  |    |    | 0.1  | %
+L114: Stock-based compensation  |    |    | 0.6  | %  |    |    | 0.8  | %  |    |    | 0.8  | %  |    |    | 0.7  | %  |    |    | 1.0  | %
+L115: Amortization of intangibles and fixed asset fair value adjustments due to acquisitions  |    |    | 0.3  | %  |    |    | 0.3  | %  |    |    | 0.3  | %  |    |    | 0.3  | %  |    |    | 0.3  | %
+L116: Non-GAAP Gross Margin  |    |    | 53.3  | %  |    |    | 49.0  | %  |    |    | 38.5  | %  |    |    | 51.2  | %  |    |    | 38.8  | %
+L117:    |    |    |    |    |    |    |    |    |    |
+L118: GAAP operating expenses  |    | $  | 73,123  |    |    | $  | 70,146  |    |    | $  | 60,632  |    |    | $  | 143,269  |    |    | $  | 121,886  |
+L119: Adjustments:  |    |    |    |    |    |    |    |    |    |
+

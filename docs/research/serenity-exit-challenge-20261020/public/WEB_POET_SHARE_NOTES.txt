@@ -1,0 +1,436 @@
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1437424/000149315226037615/ex99-1.htm)
+citeturn505view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn504view2","pattern":"173,035"}); Total lines: 1551
+L913: Balance, December 31, 2025  |    |    | 132,021,526  |    |    |    | 443,076,163  |
+L914: Funds from the exercise of stock options  |    |    | 605,026  |    |    |    | 869,404  |
+L915: Fair value of stock options exercised  |    |    | -  |    |    |    | 1,749,952  |
+L916: Funds from the exercise of warrants  |    |    | 599,001  |    |    |    | 665,304  |
+L917: Fair value of warrants exercised  |    |    | -  |    |    |    | 6,307,568  |
+L918: Fair value assigned to vested RSUs  |    |    | 72,340  |    |    |    | 375,445  |
+L919: Funds from common shares issued on private placement or public offerings  |    |    | 39,737,276  |    |    |    | 550,000,026  |
+L920: Fair value of warrants issued on private placement  |    |    | -  |    |    |    | (275,031,848  | )
+L921: Share issue costs  |    |    | -  |    |    |    | (7,877,739  | )
+L922: Balance, June 30, 2026  |    |    | 173,035,169  |    |    | $  | 720,134,275  |
+L923: 
+L924: 
+L925: Page 16
+L926: 
+L927: 
+L928: 
+L929: 
+L930: 
+L931: POET TECHNOLOGIES INC.
+L932: 
+L933: 
+L934: 
+L935: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+L936: 
+L937: (Expressed in US Dollars)
+L938: 
+L939: 
+L940: 
+L941: 
+L942: 
+L943: 11.  | SHARE CAPITAL (Continued)
+L944: 
+L945: 
+L946: 
+L947: The following financings were completed during the period:
+L948: 
+L949: 
+L950: 
+L951: May 22, 2025
+L952: On May 22, 2025, the Company raised gross proceeds of CA$41,574,279 ($30,000,000) from the issuance of 6,000,000 units through a non brokered private placement financing at a price CA$6.92 ($5.00). Each unit consisted of one common share of the Company and one common share purchase warrant to purchase up to 6,000,000 common shares for a period of five (5) years from the date of closing at a price of CAD$8.32 ($6.00) per share.
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1437424/000149315226037615/ex99-1.htm)
+citeturn505view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn504view2","pattern":"LOAN RECEIVABLE"}); Total lines: 1551
+L45: Prepaids and other current assets (Note 4)  |    |    | 2,754,532  |    |    |    | 1,063,528  |
+L46:    |    |    | 799,486,207  |    |    |    | 314,461,831  |
+L47: Long term deposit (Note 15)  |    |    | 375,812  |    |    |    | 208,125  |
+L48: Deferred customer consideration (Note 24 )  |    |    | 30,142,069  |    |    |    | -  |
+L49: Loan receivable (Note 22)  |    |    | 30,644,384  |    |    |    | -  |
+L50: Investments (Note 23)  |    |    | 2,955,150  |    |    |    | -  |
+L234: Proceeds from the sale of short-term investments  |    |    | 51,000,000  |    |    |    | -  |
+L235: Long term deposit  |    |    | (167,687  | )  |    |    | -  |
+L236: Purchase of property and equipment (Note 6)  |    |    | (5,444,848  | )  |    |    | (2,587,818  | )
+L237: Purchase of patents and licenses (Note 7)  |    |    | (63,988  | )  |    |    | (46,537  | )
+L238: Investment (Note 23)  |    |    | (2,955,150  | )  |    |    | -  |
+L239: Loan receivable (Note 22)  |    |    | (30,644,384  | )  |    |    | -  |
+L422: 
+L423: 
+L424: Page 8
+L425: 
+L426: 
+L427: 
+L428: 
+L429: 
+L430: POET TECHNOLOGIES INC.
+L431: 
+L432: 
+L433: 
+L434: NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+L435: 
+L436: (Expressed in US Dollars)
+L437: 
+L438: 
+L439: 
+L440: 
+L441: 
+L442: 2.  | SUMMARY OF MATERIAL ACCOUNTING POLICY INFORMATION (Continued)
+L443: 
+L444: 
+L445: 
+L446: The Company’s financial instruments include cash and cash equivalents, short-term investments, accounts receivable, deposit, loan receivable, accounts payable and accrued liabilities, convertible debt, and derivative warrant liability.
+L447: 
+L448: 
+L449: 
+L450: Impairment of long-lived assets
+L451: The Company’s tangible and intangible assets are reviewed for indications of impairment whenever events or changes in circumstances indicate that the carrying amounts of the assets may not be recoverable. An assessment is made at each reporting date whether there is any indication that an asset may be impaired.
+L452: An impairment loss is recognized when the carrying amount of an asset exceeds its recoverable amount. Impairment losses are recognized in profit and loss for the year. The recoverable amount is the greater of the asset’s fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset.
+L454: 
+L455: 
+L456: An impairment loss is reversed if there is an indication that there has been a change in the estimates used to determine the recoverable amount. An impairment loss is reversed only to the extent that the asset’s carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortization, if no impairment loss had been recognized. No impairment loss has been reported for the current period.
+L457: 
+L458: 
+L459: 
+L460: Derivative financial instruments
+L461: The Company issues warrants exercisable in a currency other than the Company’s functional currency and warrants that are exercisable into a variable number of shares and as a result, the warrants are derivative financial instruments. Derivative financial instruments are initially recognized at fair value and subsequently measured at fair value with changes in fair value recognized in profit or loss. Transaction costs are recognized in profit or loss as incurred.
+L462: The following table outlines the classification of financial instruments under IFRS 9:
+L463: Financial Assets  |
+L464: Cash and cash equivalents  | Amortized cost
+L465: Short-term investments  | Amortized cost
+L466: Accounts receivable  | Amortized cost
+L467: Loan receivable  | Fair value through profit and loss (FVTPL)
+L468: Investment  | Fair value through profit other comprehensive income (FVTOCI)
+L469:    |
+L470: Financial Liabilities  |
+L471: Accounts payable and accrued liabilities  | Amortized cost
+L472: Convertible debt  | Amortized cost
+L473: Derivative warrant liability  | Fair value through profit and loss (FVTPL)
+L474: Cash and cash equivalents
+L475: 
+L476: 
+L477: 
+L478: Cash and cash equivalents include cash on hand, bank deposits, demand deposits and short-term, highly liquid investments that are readily convertible to known amounts of cash.
+L479: 
+L480: 
+L481: 
+L482: Short-term investments
+L483: 
+L484: 
+L485: 
+L486: The short-term investments of $363,809,999 (2025 - $273,439,102) consist of guaranteed investment certificates (GICs) held with Canadian chartered banks and earn interest at rates ranging from 3.4% to 4.91%, that mature within one year.
+L487: 
+L488: 
+L489: 
+L490: Page 9
+L491: POET TECHNOLOGIES INC.
+L492: 
+L493: 
+L494: 
+L495: NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+L496: 
+L497: (Expressed in US Dollars)
+L498: 
+L499: 
+L500: 
+L501: 
+L502: 
+L503: 2.  | SUMMARY OF MATERIAL ACCOUNTING POLICY INFORMATION (Continued)
+L504: 
+L505: 
+L506: 
+L507: Property and equipment
+L508: 
+L509: 
+L510: 
+L511: Property and equipment are recorded at cost. Depreciation is calculated based on the estimated useful life of the asset using the following method and useful lives:
+L512: Machinery and equipment  | Straight Line, 5 years
+L513: Leasehold improvements  | Straight Line, term of the lease
+L514: Office equipment  | Straight Line, 3 - 5 years
+L515: 
+L516: 
+L517: 
+L518: Patents and licenses
+L519: 
+L520: 
+L521: 
+L522: Patents and licenses are recorded at cost and amortized on a straight line basis over 12 years. Ongoing maintenance costs are expensed as incurred.
+L523: 
+L524: 
+L525: 
+L526: Revenue recognition
+L527: Revenue is measured based on the consideration specified in a contract with a customer and excludes amounts collected on behalf of third parties. The Company recognizes revenue when it transfers control over a product or service to a customer.
+L528: 
+L529: 
+L530: 
+L531: Sale of goods
+L532: Revenue from the sale of goods is recognized, net of discounts and customer rebates, at the point in time the transfer of control of the related products has taken place as specified in the sales contract and collectability is reasonably assured.
+L533: 
+L534: 
+L535: 
+L536: Service revenue
+L537: The Company provides contract services, primarily in the form of non-recurring revenue (“NRE”) where control is passed to the customer over time. The contracts generally provide agreed upon milestones for customer payment which include but are not limited to the delivery of sample products, design reports and test reports. The customer makes payment when it has approved the delivery of the milestone.
+L538: The Company must determine if the contract is made up of a series of independent performance obligations or a single performance obligation. Where NRE contracts contain multiple performance obligations for which a standalone transaction price can be assessed, revenue is recognized as each performance obligation is satisfied. Where NRE contracts contain a single performance obligation to be settled over time, revenue is recognized progressively based on the output method.
+L539: 
+L540: 
+L541: Other income
+L542: 
+L543: 
+L544: 
+L545: Interest income
+L546: 
+L547: 
+L548: 
+L549: Interest income on cash and cash equivalents, short-term investments and loan receivable is recognized as earned using the effective interest method.
+L550: 
+L551: 
+L552: 
+L553: Stock-based compensation
+L554: Stock options awarded to non employees are measured using the fair value of the goods or services received unless that fair value cannot be estimated reliably, in which case measurement is based on the fair value of the stock options. Stock options awarded to employees are accounted for using the fair value method. The fair value of such stock options granted is recognized as an expense on a proportionate basis consistent with the vesting features of each tranche of the grant.
+L555: The fair value is calculated using the Black-Scholes option pricing model with assumptions applicable at the date of grant. When stock options are exercised, the proceeds received, together with any related amount in the reserves, are credited to share capital. In the event share options are forfeited prior to vesting, the associated fair value recorded to date is reversed.
+L1281:    |    | 2026  |
+L1282: As of June 30,  |    | Asia  |    |    | US  |    |    | Canada  |    |    | Consolidated  |
+L1283: Current assets  |    | $  | 2,768,509  |    |    | $  | 21,810,127  |    |    | $  | 774,907,571  |    |    | $  | 799,486,207  |
+L1284: Long term deposit  |    |    | 375,812  |    |    |    | -  |    |    |    | -  |    |    |    | 375,812  |
+L1285: Loan receivable  |    |    | -  |    |    |    | -  |    |    |    | 30,644,384  |    |    |    | 30,644,384  |
+L1319: Other income, including interest and loan forgiveness  |    |    | 11,652  |    |    |    | -  |    |    |    | 1,049,438  |    |    |    | 1,061,090  |
+L1320: Net income (loss)  |    | $  | (8,411,969  | )  |    | $  | (3,572,419  | )  |    | $  | 1,062,571  |    |    | $  | (10,921,817  | )
+L1321: 
+L1322: 
+L1323: Page 22
+L1324: 
+L1325: 
+L1326: 
+L1327: 
+L1328: 
+L1329: POET TECHNOLOGIES INC.
+L1330: 
+L1331: 
+L1332: 
+L1333: NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+L1334: 
+L1335: (Expressed in US Dollars)
+L1336: 
+L1337: 
+L1338: 
+L1339: 
+L1340: 
+L1341: 18.  | FINANCIAL INSTRUMENTS AND RISK MANAGEMENT
+L1342: The Company’s financial instruments consist of cash and cash equivalents, short-term investments, accounts receivable, loan receivable, investment, convertible debt, derivative warrant liability and accounts payable and accrued liabilities. Unless otherwise noted, it is management’s opinion that the Company is not exposed to significant interest risk arising from these financial instruments.
+L1343: The Company estimates that carrying value of these instruments approximates fair value due to their short term nature.
+L1344: 
+L1345: 
+L1346: The Company has classified financial assets and (liabilities) as follows:
+L1347:    |    | June 30,  |    |    | December 31,  |
+L1348:    |    | 2026  |    |    | 2025  |
+L1349:    |    |    |    |    |    |
+L1350: Financial assets, measured at amortized cost:  |    |    |    |    |    |    |    |
+L1351: Cash and cash equivalents  |    | $  | 432,531,904  |    |    | $  | 39,959,201  |
+L1352: Short-term investments  |    | $  | 363,809,999  |    |    | $  | 273,439,102  |
+L1353: Accounts receivable  |    | $  | 389,772  |    |    | $  | -  |
+L1354: Finacial assets, measured at fair value through profit or loss (FVPTL):  |    |    |    |    |    |    |    |
+L1355: Loan receivable ^{(1)}  |    | $  | 30,644,384  |    |    | $  | -  |
+L1356: Finacial assets, measured at fair value through other comprehensive income (FVTOCI):  |    |    |    |    |    |    |    |
+L1357: Investment ^{(1)}  |    | $  | 2,955,150  |    |    | $  | -  |
+L1358: Other liabilities, measured at amortized cost:  |    |    |    |    |    |    |    |
+L1359: Accounts payable and accrued liabilities  |    | $  | (4,433,795  | )  |    | $  | (1,639,543  | )
+L1360: Convertible debt  |    | $  | (5,800,000  | )  |    | $  | (5,800,000  | )
+L1361: Financial liabilities, measured at fair value through profit or loss (FVTPL):  |    |    |    |    |    |    |    |
+L1362: Derivative warrant liability  |    | $  | (22,020,827  | )  |    | $  | (135,631,585  | )
+L1363: 
+L1364: 
+L1365: (1) Financial instruments recorded at fair value on the balance sheet are classified using a fair value hierarchy that reflects the significance of the inputs used in making the measurements. The fair value hierarchy has the following levels:
+L1366: 
+L1367: 
+L1368: 
+L1369: Level 1 - valuation based on quoted prices (unadjusted) observed in active markets for identical assets or liabilities.
+L1370: Level 2 - valuation techniques based on inputs other than quoted prices included in Level 1 that are observable for the asset or liability either directly or indirectly.
+L1371: 
+L1372: 
+L1373: 
+L1374: Level 3 - valuation techniques based on inputs for the asset or liability that are not based on observable market data.
+L1375: The Company uses Level 2 fair value inputs to determine the value of its derivative warrant liability and Level 3 fair value inputs to determine the value of its loan receivable and investment due to the unobservable inputs, including assumptions relating to borrower financing outcomes, strategic transaction probabilities and conversion features. The Company applies the Black-Scholes valuation model to value the derivative warrant liability.
+L1376: 
+L1377: 
+L1378: 
+L1379: Exchange Rate Risk
+L1380: The functional currency of each of the entities included in the accompanying consolidated financial statements is the local currency where the entity is domiciled. Functional currencies include the Chinese Yuan, US, Singapore and Canadian dollar. Most transactions within the entities are conducted in functional currencies. As such, none of the entities included in the consolidated financial statements engage in hedging activities.
+L1381: The Company is exposed to a foreign currency risk when its subsidiaries hold current assets or current liabilities in currencies other than its functional currency. A 10% change in foreign currencies held would increase or decrease other comprehensive loss by $2,652,342.
+L1382: 
+L1383: 
+L1384: Liquidity Risk
+L1385: 
+L1386: 
+L1387: 
+L1388: The Company currently does not maintain credit facilities. The Company’s existing cash and cash resources are considered sufficient to fund operating and investing activities beyond one year from the date of these consolidated financial statements. The Company may, however, need to seek additional financing in the future.
+L1389: 
+L1390: 
+L1391: 
+L1392: Page 23
+L1393: 
+L1394: 
+L1395: 
+L1396: 
+L1397: 
+L1398: POET TECHNOLOGIES INC.
+L1399: 
+L1400: 
+L1401: 
+L1402: NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+L1403: 
+L1404: (Expressed in US Dollars)
+L1491: Risk free interest rate  |    |    | 3.01% - 4.35%  |    |    |    | 3.55  | %
+L1492: Fair value of derivative warrant liability  |    | $  | 22,020,827  |    |    | $  | 135,631,585  |
+L1493: Warrants  |    |    | 2,389,836  |    |    |    | 29,274,826  |
+L1494: 
+L1495: 
+L1496: 22.  | LOAN RECEIVABLE
+L1497: On January 7, 2026, January 21, 2026 and April 23, 2026, the Company made three loans of $10,000,000, $5,000,000 and $15,000,000 (collectively, the “Loan”) respectively for a total of $30,000,000 to a company (the “Borrower”) to be used for general working capital purposes. The loan bears interest from the initial issue date until its repayment in full when not in default at the per annum rate of six percent (6.0%), compounded daily.
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1437424/000149315226037615/ex99-1.htm)
+citeturn505view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn504view2","pattern":"DEFERRED CUSTOMER"}); Total lines: 1551
+L45: Prepaids and other current assets (Note 4)  |    |    | 2,754,532  |    |    |    | 1,063,528  |
+L46:    |    |    | 799,486,207  |    |    |    | 314,461,831  |
+L47: Long term deposit (Note 15)  |    |    | 375,812  |    |    |    | 208,125  |
+L48: Deferred customer consideration (Note 24 )  |    |    | 30,142,069  |    |    |    | -  |
+L49: Loan receivable (Note 22)  |    |    | 30,644,384  |    |    |    | -  |
+L50: Investments (Note 23)  |    |    | 2,955,150  |    |    |    | -  |
+L334: The determination of whether a corporate entity or set of assets acquired, and liabilities assumed, constitute a business may require the Company to make certain judgements, considering all facts and circumstances. A business is presumed to be an integrated set of activities and assets capable of being conducted and managed for the purpose of providing a return in the form of dividends, lower costs, or economic benefits. SPX was determined to constitute an acquisition of assets.
+L335: Determination of functional currency
+L336: 
+L337: 
+L338: 
+L339: The Company determines the functional currency through an analysis of several indicators such as expenses and cash flow, financing activities, retention of operating cash flows, and frequency of transactions within the reporting entity.
+L340: 
+L341: 
+L342: 
+L343: Valuation of share-based compensation, derivative warrant liability and deferred customer consideration
+L344: The Company uses the Black-Scholes Option Pricing Model for valuation of share-based compensation and derivative warrant liability. Option pricing models require the input of subjective assumptions including expected price volatility, risk-free interest rate, and forfeiture rate. Changes in the input assumptions can materially affect the fair value estimate and the Company’s earnings and equity reserves.
+L345: 
+L346: 
+L347: 
+L348: Deferred customer consideration
+L349: Significant judgment and estimation is required in determining the timing and amount of customer consideration in connection with the supply agreement with a customer as outlined in Note 24. Management evaluates each vesting tranche based on the level of contractual commitment underlying the applicable vesting milestone.
+L350: The grant-date fair value is recognized as deferred customer consideration over the contract term, with a corresponding increase in derivative warrant liability, based on the number of awards expected to vest for non-market vesting conditions.
+L351: 
+L352: 
+L353: Income taxes
+L354: 
+L355: 
+L356: 
+L357: In assessing the probability of realizing income tax assets, management makes estimates related to expectation of future taxable income, applicable tax opportunities, expected timing of reversals of existing temporary differences and the likelihood that tax positions taken will be sustained upon examination by applicable tax authorities. In making its assessments, management gives additional weight to positive and negative evidence that can be objectively verified.
+L358: Foreign currency translation
+L359: 
+L360: 
+L361: 
+L362: These consolidated financial statements are presented in U.S. dollars (“USD”), which is the Company’s presentation currency.
+L363: Items included in the financial statements of each of the Company’s subsidiaries are measured using the currency of the primary economic environment in which the entity operates (the “functional currency”). Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transaction.
+L364: Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation of monetary assets and liabilities not denominated in the functional currency of an entity are recognized in the statement of operations and deficit.
+L365: 
+L366: 
+L367: The following table presents the jurisdiction under which each entity in the group is incorporated and the functional currency of each entity:
+L368: Entity  |    | Incorporating Jurisdiction  |    | Functional Currency
+L369: POET Technologies Inc  |    | Canada  |    | US dollars (1)
+L370: ODIS  |    | United States of America  |    | US dollars
+L371: OPEL  |    | United States of America  |    | US dollars
+L372: BB Photonics  |    | United States of America  |    | US dollars
+L373: PTS  |    | Singapore  |    | Singapore dollar
+L374: PTM  |    | Malaysia  |    | Malaysian Ringgit
+L375: POET Shenzhen  |    | China  |    | Renminbi
+L376: SPX  |    | China  |    | Renminbi
+L377: 
+L378: 
+L379: 
+L380: Page 7
+L1290: Deferred customer consideration  |    |    | -  |    |    |    | -  |    |    |    | 30,142,069  |    |    |    | 30,142,069  |
+L1291: Total Assets  |    | $  | 20,511,996  |    |    | $  | 22,644,139  |    |    | $  | 838,649,174  |    |    | $  | 881,805,309  |
+L1531: The investment is measured at fair value at each reporting date. As the shares are not publicly traded, fair value is determined using appropriate valuation techniques and observable market information where available. Changes in fair value are recognized in other comprehensive income and are not subsequently reclassified to profit or loss upon disposal. Dividends received are recognized in profit or loss when the Company’s right to receive payment has been established.
+L1532: At June 30, 2026, management concluded that the transaction price continued to represent the best estimate of fair value and accordingly the investment was measured at US$2,955,150.
+L1533: 
+L1534: 
+L1535: 
+L1536: 24.  | DEFERRED CUSTOMER CONSIDERATION
+L1537: On May 13, 2025, the Company granted 22,921,408 share purchase warrants at an exercise price of $8.25 to a customer in connection with a supply agreement in which the customer is expected to purchase up-to $500 million of products from the Company. The warrants vests in specified tranches if and when certain milestones are met. The warrants expire nine (9) years from the date on which they vest. On May 13, 2025, 2,292,140 warrants vested and are exercisable.
+L1538: The remaining 20,629,268 share purchase warrants will become exercisable in tranches as certain payment milestones are met. The fair value of the 2,292,140 share purchase warrants was estimated using the Black Scholes option pricing model with the following weighted average assumptions: dividend yield of 0%, risk free interest rate of 3.71%, volatility of 91.875%, and estimated life of 5 years. The estimated fair value assigned to the warrants was $30,142,069.
+L1539: 
+L1540: 
+L1541: The deferred customer consideration will be amortized as the Company begins to recognize product revenue from the customer.
+L1542: 
+L1543: 
+L1544: 
+L1545: 25.  | OTHER EVENTS
+L1546: During the period ended June 30, 2026, in the ordinary course of business, the Company was threatened with and named as defendants to a pending legal action. The Company does not believe that the ultimate outcome of these and any outstanding matters will have a material effect upon our operations, financial position, results of operations or cash flows. The Company is assessing its response to this legal action.
+L1547: 
+L1548: 
+L1549: 
+L1550: Page 26
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1437424/000149315226037615/ex99-2.htm)
+citeturn505view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn504view3","pattern":"August 13, 2026"}); Total lines: 1194
+L32: The effective date of this report is August 13, 2026. All financial figures are in United States dollars (“USD”, “$” or “US$”) unless otherwise indicated. The abbreviation “U.S.” used throughout refers to the United States of America.
+L33: 
+L34: 
+L35: Forward-Looking Statements
+L36: This management discussion and analysis contains forward-looking statements that involve risks and uncertainties. It uses words such as “may”, “would”, “could”, “will”, “likely”, “expect”, “anticipate”, “believe”, “intend”, “plan”, “forecast”, “project”, “estimate”, and other similar expressions to identify forward-looking statements.
+L788: The Company predominately relies on equity funding for liquidity to meet current and foreseeable financial requirements. The Company currently does not maintain credit facilities. The Company’s existing financial resources are considered sufficient to fund operating and investing activities beyond one year from the issuance of its consolidated financial statements.
+L789: 
+L790: 
+L791: 
+L792: Outstanding Share Data
+L793: 
+L794: 
+L795: 
+L796: Common Shares
+L797: Total common shares of the Company outstanding at June 30, 2026 and August 13, 2026 was 173,035,169 and 173,058,088 respectively.
+L798: 
+L799: 
+L800: 
+L801: Stock Options, warrants and Restricted Stock Units
+L802: 
+L803: 
+L804: 
+L805: Total warrants outstanding to purchase common shares of the Company at June 30, 2026 and August 13, 2026 was 78,734,968 priced between US$1.09 and US$26.25.
+L806: 
+L807: 
+L808: 
+L809: Stock options outstanding as at June 30, 2026 and August 13, 2026 was 5,369,393 priced between $1.27 and $6.33 per common share.
+L810: Restricted stock units outstanding as at June 30, 2026 and August 13, 2026 was 3,885,953 and 4,252,504.
+L811: 
+L812: 
+L813: 
+L814: Additional detailed share data information is available in the Company’s Notes to Consolidated Financial Statement.
+L815: 
+L816: 
+L817: 
+L818: 22
+L819: 
+L820: 
+L821: 
+L822: 
+L823: 
+L824: Off-Balance Sheet Arrangements
+L825: 
+L826: 
+L827: 
+L828: The Company has not entered into any off-balance sheet arrangements.
+L829: 
+L830: 
+L831: 
+L832: Controls and Procedures
+L833: 
+L834: 
+L835: 
+L836:  | (a)  | Disclosure Controls and Procedures
+L837: Disclosure controls and procedures are defined by Rules 13a-15(e) and 15d-15(e) under the Exchange Act as controls and other procedures that are designed to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified by the SEC’s rules and forms.
+L838: Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosures.
+L839: 
+L840: 
+L841: We carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of December 31, 2025, the Company’s disclosure controls and procedures were effective.
+L842: 
+L843: 
+L844: 
+L845:  | (b)  | Management’s Annual Report on Internal Control over Financial Reporting
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1437424/000149315226037615/ex99-1.htm)
+citeturn505view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn504view2","pattern":"Lumilens"}); Total lines: 1551
+No matching text found for "Lumilens"

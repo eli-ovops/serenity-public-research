@@ -1,0 +1,210 @@
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1730168/000119312526387881/d154803ds4.htm)
+citeturn241view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1730168/000119312526387881/d154803ds4.htm","lineno":null}); Total lines: 1954
+L0: S-4 1 d154803ds4.htm S-4 S-4
+L1: ##### cite0†Table of Contents L2: 
+L3: As filed with the Securities and Exchange Commission on September 10, 2026
+L4: 
+L5: Registration No. 333-
+L6: 
+L7: 
+L8: 
+L9: 
+L10: 
+L11: 
+L12: 
+L13: UNITED STATES
+L14: 
+L15: SECURITIES AND EXCHANGE COMMISSION
+L16: 
+L17: Washington, D.C. 20549
+L18: 
+L19: 
+L20: 
+L21: 
+L22: 
+L23: FORM S-4
+L24: 
+L25: REGISTRATION STATEMENT
+L26: 
+L27: UNDER
+L28: 
+L29: THE SECURITIES ACT OF 1933
+L30: 
+L31: 
+L32: 
+L33: 
+L34: 
+L35: BROADCOM INC.
+L36: 
+L37: (Exact name of registrant as specified in its charter)
+L38:  |  |  |  |
+L39: Delaware  |    | 3674  |    | 35-2617337
+L40: (State or Other Jurisdiction of
+L41: Incorporation or Organization)  |    | (Primary Standard Industrial
+L42: Classification Code Number)  |    | (I.R.S. Employer
+L43: Identification Number)
+L44: 
+L45: 3421 Hillview Avenue
+L46: 
+L47: Palo Alto, California 94304
+L48: 
+L49: (650) 427-6000
+L50: 
+L51: (Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices)
+L52: 
+L53: 
+L54: 
+L55: 
+L56: 
+L57: Mark Brazeal
+L58: 
+L59: Chief Legal and Corporate Affairs Officer
+L60: 
+L61: Broadcom Inc.
+L62: 3421 Hillview Avenue
+L63: 
+L64: Palo Alto, California 94304
+L65: 
+L66: (650) 427-6000
+L67: 
+L68: (Name, address, including zip code, and telephone number, including area code, of agent for service)
+L69: 
+L70: 
+L71: 
+L72: 
+L73: 
+L74: Copies to:
+L75: 
+L76: 
+L77: 
+L78:  |  |
+L79: Noelle Matteson Emily Sacks-Wilner Michelle Zhang Broadcom Inc. 3421 Hillview Avenue Palo Alto, California 94304 (650) 427-6000  |    | David C. Karp Ronald C. Chen Kyle M. Diamond Wachtell, Lipton, Rosen & Katz 51 West 52nd Street New York, New York 10019 (212) 403-1000
+L80: Approximate date of commencement of proposed sale to the public: As soon as practicable after this Registration Statement is declared effective.
+L81: 
+L82: If the securities being registered on this Form are being offered in connection with the formation of a holding company and there is compliance with General Instruction G, check the following box. ☐
+L83: If this Form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering. ☐
+L84: If this Form is a post-effective amendment filed pursuant to Rule 462(d) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering. ☐
+L85: Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or “emerging growth company”. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+L86:  |  |  |  |  |  |  |  |  |  |
+L87:  |    | Large accelerated filer  |    | ☒  |     | Accelerated filer  |    | ☐  |    |
+L88:  |  |  |  |  |
+L89:  |    | Non-accelerated filer  |    | ☐  |     | Smaller reporting company  |    | ☐  |    |
+L90:  |  |  |  |  |
+L91:  |    |  |    |  |     | Emerging growth company  |    | ☐  |    |
+L92: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. ☐
+L93: 
+L94: If applicable, place an X in the box to designate the appropriate rule provision relied upon in conducting this transaction:
+L95:  |  |
+L96: Exchange Act Rule 13e-4(i) (Cross-Border Issuer Tender Offer)  |     | ☐
+L97: Exchange Act Rule 14d-1(d) (Cross-Border Third-Party Tender Offer)  |     | ☐
+L98: The registrant hereby amends this Registration Statement on such date or dates as may be necessary to delay its effective date until the registrant shall file a further amendment which specifically states that this Registration Statement shall thereafter become effective in accordance with Section 8(a) of the Securities Act, or until the Registration Statement shall become effective on such date as the Securities and Exchange Commission, acting pursuant to said Section 8(a), may determine.
+L99: 
+L100: 
+L101: 
+L102: 
+L103: 
+L104: 
+L105: 
+L106: * * *
+L107: ##### cite0†Table of Contents L108: 
+L109: The information in this preliminary prospectus is not complete and may be changed. We may not sell these securities until the registration statement filed with the Securities and Exchange Commission is effective. This preliminary prospectus is not an offer to sell these securities and is not soliciting an offer to buy these securities in any jurisdiction where the offer or sale is not permitted.
+L110: 
+L111: 
+L112: 
+L113: SUBJECT TO COMPLETION, DATED SEPTEMBER 10, 2026
+L114: 
+L115: PRELIMINARY PROSPECTUS
+L116: cite1†Image: LOGO L117: 
+L118: Broadcom Inc.
+L119: 
+L120: Exchange Offer for
+L121: 
+L122: Up to $654,004,000 4.926% Senior Notes due 2037
+L123: Broadcom Inc., a Delaware corporation (the “Issuer,” “Broadcom,” “we” or “us”), is offering (the “Exchange Offer”), upon the terms and subject to the conditions set forth in this prospectus, to exchange any and all of the notes that we issued on April 18, 2022, identified under “Title of the Outstanding Notes” in the table below (collectively, the “Outstanding Notes”), for a like principal amount of notes that have been registered under the Securities Act of 1933, as amended (the “Securities Act”), having substantially the same terms as the Outstanding Notes and evidencing the same indebtedness as the Outstanding Notes, as described under “Title of the Exchange Notes” in the table below (the “Exchange Notes” and, together with the Outstanding Notes, the “Notes”).
+L124: The terms of the Exchange Offer are summarized below and are more fully described in this prospectus.
+L125: 
+L126: 
+L127:  |  |  |  |  |  |  |  |  |  |
+L128: Description of the Outstanding Notes  |    |    | Description of the Exchange Notes
+L129: CUSIP Number  |    | Title of the
+L130: Outstanding Notes  |    | Principal
+L131: Amount
+L132: Outstanding  |    |    | CUSIP
+L133: Number  |    | Title of the
+L134: Exchange Notes
+L135: 11135F BV2 (Rule 144A) U1109M BA3 (Regulation S)  |    | 4.926% Senior Notes due 2037  |    | $  | 654,004,000  |    |    | 11135F BW0  |    | 4.926% Senior Notes due 2037
+L136: We are offering to exchange the Outstanding Notes for the Exchange Notes to satisfy our obligations in the registration rights agreement that we entered into when the Outstanding Notes were issued pursuant to Rule 144A and Regulation S under the Securities Act.
+L137: 
+L138: The Exchange Offer
+L139:    | •  |    | We will exchange all Outstanding Notes that are validly tendered and not validly withdrawn prior to the Expiration Date (as defined below) for an equal principal amount of Exchange Notes that are freely tradable, except in limited circumstances as described below.
+L140: 
+L141: 
+L142: 
+L143:    | •  |    | The Exchange Offer expires at 5:00 p.m., New York City time, on    , 2026, unless extended (the “Expiration Date”). We do not currently intend to extend the Expiration Date.
+L144:    | •  |    | To exchange your Outstanding Notes for Exchange Notes, you are required to make the representations described herein to us, including those set forth on pages cite2†21 -cite3†23 in the section entitled “The Exchange Offer.”
+L145: 
+L146: 
+L147: 
+L148:    | •  |    | You may withdraw tenders of your Outstanding Notes at any time prior to the Expiration Date of the Exchange Offer.
+L149:    | •  |    | The exchange of the Outstanding Notes for Exchange Notes in the Exchange Offer will not constitute a taxable event for U.S. federal income tax purposes.
+L150: 
+L151: 
+L152: 
+L153:    | •  |    | We will not receive any proceeds from the Exchange Offer. The Outstanding Notes surrendered and exchanged for the Exchange Notes will be retired and cancelled. Accordingly, the issuance of the Exchange Notes will not result in any increase in our outstanding indebtedness.
+L154: 
+L155: 
+L156: 
+L157: * * *
+L158: ##### cite0†Table of Contents L159: 
+L160: The Exchange Notes
+L161: 
+L162: 
+L163: 
+L164:    | •  |    | The terms of the Exchange Notes to be issued in the Exchange Offer are identical in all material respects to the terms of the Outstanding Notes, except that the transfer restrictions, registration rights and additional payments upon a failure to fulfill certain obligations under the registration rights agreement do not apply to the Exchange Notes, and the Exchange Notes will have a different CUSIP number.
+L165: 
+L166: Resales of the Exchange Notes
+L167:    | •  |    | The Exchange Notes may be resold in the over-the-counter market, in negotiated transactions or through a combination of such methods. We do not plan to list the Exchange Notes on any securities exchange or market.
+L168: All untendered Outstanding Notes will continue to be subject to the transfer restrictions set forth in the Outstanding Notes and in the Indenture (as defined below in “Description of Exchange Notes”). In general, the Outstanding Notes may not be offered or sold, except in transactions that are registered under the Securities Act or pursuant to an exemption from, or in a transaction not subject to, the Securities Act and applicable state securities laws.
+L169: Other than in connection with the Exchange Offer, we do not intend to register the Outstanding Notes under the Securities Act.
+L170: 
+L171: 
+L172: 
+L173: 
+L174: See “cite4†Risk Factors ” beginning on page 9 for a discussion of certain risks that you should consider before participating in the Exchange Offer.
+L175: Each broker-dealer that receives Exchange Notes for its own account pursuant to the Exchange Offer must acknowledge that it will deliver a prospectus in connection with any resale of such Exchange Notes. By so acknowledging and delivering a prospectus, a broker-dealer will not be deemed to admit that it is an “underwriter” within the meaning of the Securities Act.
+L176: This prospectus, as it may be amended or supplemented from time to time, may be used by a broker-dealer in connection with resales of Exchange Notes received in exchange for Outstanding Notes where such Outstanding Notes were acquired by such broker-dealer as a result of market-making activities or other trading activities. In addition, all dealers effecting transactions in the Exchange Notes may be required to deliver a prospectus.
+L177: We have agreed that, for a period of 180 days after the date of this prospectus (or such shorter period if a broker-dealer is no longer required to deliver the prospectus), we will make this prospectus available to any broker-dealer for use in connection with such resales. See “Plan of Distribution.”
+L178: Neither the Securities and Exchange Commission (the “SEC”) nor any state securities commission has approved or disapproved of these securities or passed upon the adequacy or accuracy of this prospectus. Any representation to the contrary is a criminal offense.
+L179: 
+L180: 
+L181: 
+L182: 
+L183: 
+L184: The date of this prospectus is    , 2026.
+L185: 
+L186: * * *
+L187: ##### cite0†Table of Contents L188: 
+L189: TABLE OF CONTENTS
+L190:  |  |  |  |
+L191: cite5†WHERE YOU CAN FIND MORE INFORMATION |     |    | cite5†ii |
+L192: cite6†INCORPORATION OF CERTAIN DOCUMENTS BY REFERENCE |     |    | cite6†iii |
+L193: cite7†PROSPECTUS SUMMARY |     |    | cite7†1 |
+L194: cite4†RISK FACTORS |     |    | cite4†9 |
+L195: cite8†FORWARD-LOOKING STATEMENTS |     |    | cite8†15 |
+L196: cite9†USE OF PROCEEDS |     |    | cite9†16 |
+L197: cite10†THE EXCHANGE OFFER |     |    | cite10†17 |
+L198: cite11†DESCRIPTION OF EXCHANGE NOTES |     |    | cite11†28 |
+L199: cite12†CERTAIN U.S. FEDERAL INCOME TAX CONSIDERATIONS |     |    | cite12†50 |
+L200: cite13†PLAN OF DISTRIBUTION |     |    | cite13†52 |
+L201: cite14†LEGAL MATTERS |     |    | cite14†53 |
+L202: cite15†EXPERTS |     |    | cite15†54 |
+L203: You should rely only on the information contained or incorporated by reference in this prospectus or in any additional written communication prepared by or authorized by us. We have not authorized anyone to provide you with any information or represent anything about us, our financial results or the Exchange Offer that is not contained in or incorporated by reference into this prospectus or in any additional written communication prepared by or on behalf of us.
+L204: If given or made, any such other information or representation should not be relied upon as having been authorized by us. We are not making an offer to exchange the Outstanding Notes in any jurisdiction where the offer or sale is not permitted.
+L205: You should assume that the information in this prospectus or in any additional written communication prepared by or on behalf of us is accurate only as of the date on its cover page and that any information incorporated by reference herein is accurate only as of the date of the document containing such information incorporated by reference.
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/903651/000110465926092131/tm2622086-4_424b5.htm)
+citeturn241view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/903651/000110465926092131/tm2622086-4_424b5.htm","lineno":null}); Total lines: 1311
+--------------------------------------------------------------------------------
+2026Q2 Financial Statements – Document Template  - PRD (https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/114aaca0fea2050e96b91fffbab9ed04ba09cd92/FS.pdf)
+citeturn241view2 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 4; Source: click({"ref_id":"turn240view2","id":132}); Total lines: 154
+

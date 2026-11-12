@@ -1,0 +1,441 @@
+NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 (https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/)
+citeturn447search0 [wordlim: 200] Published: last month; Crawled: 3 weeks ago; ### NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 ... 26, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. ... Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing products and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; NVIDIA’s ability to realize the potential benefits of business investments or acquisitions; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its Annual Report on Form 10-K and Quarterly Reports on Form 10-Q.
+
+View all news
+
+### NVIDIA Announces Financial Results for Second Quarter Fiscal 2027
+
+August 26, 2026
+
+Download this Press Release PDF Format (opens in new window)
+
+  * Revenue of $96.2 billion, up 106% from a year ago
+  * Data Center revenue of $89.0 billion, up 117% from a year ago
+
+SANTA CLARA, Calif., Aug. 26, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively.
+
+“AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,” said Jensen Huang, founder and CEO of NVIDIA. “And demand is accelerating. This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. and around the world. The AI infrastructure buildout is at full steam. Vera Rubin, now in full production, was built to power exactly this moment.”
+
+During the second quarter of fiscal 2027, NVIDIA returned approximately $26.0 billion to shareholders in the form of shares repurchased and cash dividends. As of the end of the second quarter, the company had approximately $99.0 billion remaining under its share repurchase authorization.
+
+NVIDIA will pay its next quarterly cash dividend of $0.25 per share on October 1, 2026, to all shareholders of record on September 10, 2026.
+
+Q2 Fiscal 2027 Summary
+
+GAAP
+($ in millions, except earnings per share)  | Q2 FY27  | Q1 FY27  | Q2 FY26  | Q/Q  | Y/Y
+Revenue  | $96,221  | $81,615  | $46,743  | 18 %  | 106 %
+Gross margin  | 75.0 %  | 74.9 %  | 72.4 %  | 0.1 pts
+ | 2.6 pts
+Operating expenses  | $8,408  | $7,621  | $5,413  | 10 %  | 55 %
+Operating income  | $63,734  | $53,536  | $28,440  | 19 %  | 124 %
+Net income  | $59,688  | $58,321  | $26,422  | 2 %  | 126 %
+Diluted earnings per share  | $2.46  | $2.39  | $1.08  | 3 %  | 128 %
+
+Non-GAAP
+($ in millions, except earnings per share)  | Q2 FY27  | Q1 FY27  | Q2 FY26  | Q/Q  | Y/Y
+Revenue  | $96,221  | $81,615  | $46,743  | 18 %  | 106 %
+Gross margin  | 75.0 %  | 75.0 %  | 72.5 %  | --  | 2.5 pts
+Operating expenses  | $8,232  | $7,449  | $5,361  | 11 %  | 54 %
+Operating income  | $63,956  | $53,783  | $28,541  | 19 %  | 124 %
+Net income  | $53,954  | $45,548  | $24,763  | 18 %  | 118 %
+Diluted earnings per share  | $2.22  | $1.87  | $1.01  | 19 %  | 120 %
+
+Outlook
+
+NVIDIA’s outlook for the third quarter of fiscal 2027 is as follows:
+
+  * Revenue is expected to be $108.0 billion, plus or minus 2%. NVIDIA is not assuming any Data Center compute revenue from China in its outlook.
+  * GAAP and non-GAAP gross margins are expected to be 74.0%, plus or minus 50 basis points.
+  * GAAP and non-GAAP operating expenses are expected to be approximately $9.2 billion and $9.0 billion, respectively.
+
+For the full year fiscal 2027, NVIDIA expects GAAP and non-GAAP tax rates to be between 16.0% and 18.0%, excluding any discrete items and material changes to NVIDIA’s tax environment.
+
+Highlights
+
+Data Center
+
+  * Second-quarter revenue was $89.0 billion, up 18% from the previous quarter and up 117% from a year ago.
+  * Announced the NVIDIA Vera Rubin platform is ramping into full production with racks running at partners including CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius.
+  * Revealed that NVIDIA Spectrum™-6 switch systems — supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform — are arriving across the world’s gigascale AI factories.
+--------------------------------------------------------------------------------
+Doncasters Group - DPC Holdings Reports Strong Second Quarter 2026 Results (https://ir.doncasters.com/news-and-events/news/news-details/2026/DPC-Holdings-Reports-Strong-Second-Quarter-2026-Results/default.aspx)
+citeturn447search1 [wordlim: 200] Published: 2 months ago; Crawled: last month; ### DPC Holdings Reports Strong Second Quarter 2026 Results ... Post quarter end, we have also repaid the majority of the term loan and all of the MIP with beneficiaries reinvesting and purchasing DPC Holdings stock. ... Within Engine Products, above market growth, product portfolio gains and metal cost inflation pass-through to customers led to combined revenue growth of 39% with 49% and 29% in Europe and North America respectively. ... Adjusted net income was $6 million, an improvement from the ($11) million loss of the prior year quarter due to improved profitability with adjusted earnings per share of $0.05 versus the prior year loss of ($0.10).
+
+### DPC Holdings Reports Strong Second Quarter 2026 Results
+
+August 11, 2026
+
+Record Revenue and Adjusted EBITDA
+
+Initiates Full Year 2026 Guidance
+
+Second Quarter 2026 GAAP Financial Results
+
+  * Revenue of $269 million, up 34% year over year.
+  * Strong year-over-year growth of 39% in Engine Products, up 49% in Europe and 29% in North America, reflecting above market growth within Aero and IGT.
+  * Net loss of ($131) million, versus ($49) million in second quarter of 2025, largely due to the Management Incentive Plan accrual, IPO expenses and award of a new incentive share scheme.
+  * Earnings per share of ($1.14) versus ($0.44) in the second quarter of 2025.
+
+Second Quarter 2026 Adjusted Financial Results
+
+  * Adjusted EBITDA of $48 million, up 33% year over year.
+  * Adjusted EBITDA margin of 17.8%.
+  * Segment adjusted EBITDA growth of 53% in Engine Products, up 54% in Europe and 52% in North America, due to higher volumes and value-based pricing.
+  * Segment adjusted EBITDA margin for Engine Products grew 210bps to 23.5%.
+  * Adjusted net income of $6 million versus a net loss of ($11) million in second quarter of 2025.
+  * Adjusted earnings per share of $0.05 versus ($0.10) in the second quarter of 2025.
+
+Key Announcements
+
+  * IPO and private placement proceeds repaid the Shareholder PIK Loan and ABL facility during the quarter, resulting in an unleveraged balance sheet. Post quarter end, we have also repaid the majority of the term loan and all of the MIP with beneficiaries reinvesting and purchasing DPC Holdings stock.
+  * Fourth Strategic Customer Partnership signed with Aero OEM underpinning investment into a new superalloy facility in Alabama.
+  * Moody’s Ratings upgraded DPC Holdings credit rating to Ba2 with positive outlook on July, 28, 2026.
+
+ST HELIER, Jersey--(BUSINESS WIRE)-- DPC Holdings PLC (NYSE: DPC):
+
+Summary Financial Results
+
+ | Three months ended  |  | Six months ended
+(in $ millions, per share amounts in $)  | June 28,
+2026  | June 29,
+2025  | Change  |  | June 28,
+2026  | June 29,
+2025  | Change
+Revenue  | 269  | 201  | +34%  |  | 505  | 389  | +30%
+GAAP measures  |    |    |    |  |    |    |  
+Net income /(loss)  | (131)  | (49)  | (165%)  |  | (179)  | (103)  | (74%)
+Net income /(loss) margin  | (48.8%)  | (24.6%)  | (2420bps)  |  | (35.3%)  | (26.3%)  | (900bps)
+Earnings per share  | (1.14)  | (0.44)  | (0.70)  |  | (1.57)  | (0.91)  | (0.66)
+Adjusted (Non GAAP) measures^{(1)}  |    |    |    |  |    |    |  
+Adjusted EBITDA  | 48  | 36  | +33%  |  | 88  | 65  | +35%
+Adjusted EBITDA margin  | 17.8%  | 17.9%^{(2)}  | (10bps)  |  | 17.4%  | 16.7%  | +70bps
+Adjusted net income/(loss)  | 6  | (11)  | +152%  |  | 17  | (18)  | +195%
+Adjusted earnings per share  | 0.05  | (0.10)  | +0.15  |  | 0.15  | (0.16)  | +0.31
+^{(1)}  | For more information see “Non-GAAP Financial Measures” later in this release.
+^{(2)}  | The margin in second quarter 2025 benefited from price increases that were backdated to the start of the financial year.
+
+DPC Holdings PLC (NYSE: DPC) (‘Doncasters’, ‘the Company’) reported financial results for the second quarter 2026. Doncasters reported record second quarter 2026 revenue of $269 million, up 34% year over year, driven by growth in the Aerospace and IGT end markets of 47% and 42% respectively. Within Engine Products, above market growth, product portfolio gains and metal cost inflation pass-through to customers led to combined revenue growth of 39% with 49% and 29% in Europe and North America respectively.
+
+Adjusted EBITDA in the quarter grew 33% compared to the prior year’s quarter, with 53% growth from Engine Products, up 54% in Europe and 52% in North America. The adjusted EBITDA margin of 17.8% was broadly in-line with the prior year’s second quarter despite the impact of metal cost inflation pass-through which diluted the margin by 60 bps, higher corporate costs and increased loss from business held for sale. The segment adjusted EBITDA margin for Engine Products grew 210bps year over year to 23.5%, reflecting operating leverage from higher volumes and execution of value-based pricing.
+
+Adjusted net income was $6 million, an improvement from the ($11) million loss of the prior year quarter due to improved profitability with adjusted earnings per share of $0.05 versus the prior year loss of ($0.10).
+
+We had an adjusted net cash position of $274 million at June 28, 2026 (cash and cash equivalents of $846 million less borrowings of $573 million). Transaction adjusted net cash of $118 million reflects the inclusion of all the net proceeds of our IPO, greenshoe and private placements. Working capital increased due to ongoing investment to support growth and higher metal cost inflation pass-through. Investment continued in our operations to accommodate increased customer capacity requirements and our strategic customer partnerships.
+
+Doncasters’ Chief Executive Officer Mike Quinn said, "Doncasters continues to deliver strong growth with record levels of revenue, adjusted EBITDA and ongoing adjusted EBITDA margin progression. We are transforming Doncasters from a supplier of individual components into a trusted strategic partner for our customers, evidenced by a growing portfolio of differentiated strategic customer partnerships. We are also delivering margin improvement through operating leverage on higher volumes, improved operational execution and pricing. We believe that DPC Holdings is well positioned to deliver profitable growth and significant long-term value creation."
+
+Full Year 2026 Guidance
+
+(in $ millions, per share amounts in $)  | Guidance range
+Revenue^{(1)}  | $1,000m - $1,040m
+Adjusted EBITDA^{(2)}  | $182m - $187m 
+^{(1)}  | Including metal cost price inflation pass-through.
+^{(2)}  | The Company has not reconciled its full-year 2026 guidance related to Adjusted EBITDA to its most directly comparable forward looking GAAP financial measure because such information is not available, and management cannot reliably predict all of the necessary components of such GAAP measure without unreasonable effort or expense.
+
+Conference Call and Webcast
+
+DPC Holdings will hold a conference call at 10:00 a.m. Eastern time on August 11, 2026 to discuss matters relating to this press release. This will be led by Chief Executive Officer, Mike Quinn, and Chief Financial Officer, David Egan. The call will be webcast via www.ir.doncasters.com. To participate, please register on https://events.q4inc.com/attendee/575045483.
+
+--------------------------------------------------------------------------------
+Doncasters Group - DPC Holdings Announces Date and Time for Second Quarter 2026 Financial Results and Webcast (https://ir.doncasters.com/news-and-events/news/news-details/2026/DPC-Holdings-Announces-Date-and-Time-for-Second-Quarter-2026-Financial-Results-and-Webcast/default.aspx)
+citeturn447search2 [wordlim: 200] Published: 3 months ago; Crawled: last week; ### DPC Holdings Announces Date and Time for Second Quarter 2026 Financial Results and Webcast ... ST HELIER, Jersey--(BUSINESS WIRE)-- DPC Holdings PLC (NYSE: DPC) (“Doncasters”) will release its second quarter financial results on Tuesday, August 11, 2026, before the market opens.
+
+View All News
+
+### DPC Holdings Announces Date and Time for Second Quarter 2026 Financial Results and Webcast
+
+July 20, 2026
+
+ST HELIER, Jersey--(BUSINESS WIRE)-- DPC Holdings PLC (NYSE: DPC) (“Doncasters”) will release its second quarter financial results on Tuesday, August 11, 2026, before the market opens. The press release and presentation materials will be available via the Investors section of the Doncasters website (ir.doncasters.com).
+
+A conference call and webcast will follow at 10.00am, Eastern Time. Please register to attend using the details below:
+
+Date:  |    | Tuesday, August 11, 2026
+Time:  |    | 10.00 am ET
+Hosts:  |    | Chief Executive Officer – Mike Quinn
+ |    | Chief Financial Officer – David Egan
+Audio call:  |    | USA: +1 585-542-9983
+ |    | United Kingdom: +44 117 389 0104
+ |    | Global Dial-In Details
+Registration:  |    | https://events.q4inc.com/attendee/575045483
+--------------------------------------------------------------------------------
+NVIDIA Corporation - Events & Presentations - Events & Presentations (https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx)
+citeturn447search3 [wordlim: 200] Crawled: 3 days ago; NVIDIA 2nd Quarter FY27 Financial Results ... May 28, 2026 7:15 AM PT ... February 25, 2026 02:00 PM PT
+
+## Upcoming Events
+
+October 2026
+
+Please select a highlighted date from the calendar.
+
+## Events
+
+September 10, 2026 8:50 AM PT
+
+Goldman Sachs Communacopia + Technology Conference
+
+Listen to Webcast for Goldman Sachs Communacopia + Technology Conference
+
+August 26, 2026 2:00 PM PT
+
+NVIDIA 2nd Quarter FY27 Financial Results
+
+Listen to Webcast for NVIDIA 2nd Quarter FY27 Financial Results
+
+June 24, 2026 9:00 AM PT
+
+NVIDIA 2026 Annual Meeting of Stockholders
+
+Listen to Webcast for NVIDIA 2026 Annual Meeting of Stockholders
+
+Presentation NVIDIA 2026 Annual Meeting of Stockholders (opens in new window)
+
+June 04, 2026 8:40 AM PT
+
+BofA Securities Global Technology Conference 2026
+
+Listen to Webcast for BofA Securities Global Technology Conference 2026
+
+June 01, 2026 9:30 PM PT
+
+GTC Taipei 2026 Financial Analyst Q&A
+
+Listen to Webcast for GTC Taipei 2026 Financial Analyst Q&A
+
+May 31, 2026 8:00 PM PT
+
+GTC Taipei 2026 Keynote
+
+Listen to Webcast for GTC Taipei 2026 Keynote
+
+Presentation GTC Taipei 2026 Keynote (opens in new window)
+
+May 28, 2026 7:15 AM PT
+
+TD Cowen 54th Annual Technology, Media & Telecom Conference
+
+Listen to Webcast for TD Cowen 54th Annual Technology, Media & Telecom Conference
+
+May 20, 2026 2:00 PM PT
+
+NVIDIA 1st Quarter FY27 Financial Results
+
+Listen to Webcast for NVIDIA 1st Quarter FY27 Financial Results
+
+## Archived Events
+
+Year [Select]
+
+September 10, 2026 08:50 AM PT
+
+Goldman Sachs Communacopia + Technology Conference
+
+Listen to Webcast for Goldman Sachs Communacopia + Technology Conference (opens in new window)
+
+August 26, 2026 02:00 PM PT
+
+NVIDIA 2nd Quarter FY27 Financial Results
+
+Listen to Webcast for NVIDIA 2nd Quarter FY27 Financial Results (opens in new window)
+
+June 24, 2026 09:00 AM PT
+
+NVIDIA 2026 Annual Meeting of Stockholders
+
+Listen to Webcast for NVIDIA 2026 Annual Meeting of Stockholders (opens in new window)
+
+  * Presentation for NVIDIA 2026 Annual Meeting of Stockholders (opens in new window)
+
+June 4, 2026 08:40 AM PT
+
+BofA Securities Global Technology Conference 2026
+
+Listen to Webcast for BofA Securities Global Technology Conference 2026 (opens in new window)
+
+June 1, 2026 09:30 PM PT
+
+GTC Taipei 2026 Financial Analyst Q&A
+
+Listen to Webcast for GTC Taipei 2026 Financial Analyst Q&A (opens in new window)
+
+May 31, 2026 08:00 PM PT
+
+GTC Taipei 2026 Keynote
+
+Listen to Webcast for GTC Taipei 2026 Keynote (opens in new window)
+
+  * Presentation for GTC Taipei 2026 Keynote (opens in new window)
+--------------------------------------------------------------------------------
+NVIDIA Corporation - NVIDIA Sets Conference Call for Second-Quarter Financial Results (https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Second-Quarter-Financial-Results/default.aspx)
+citeturn447search4 [wordlim: 200] Published: 2 months ago; Crawled: 6 days ago; ET) to discuss its financial results for the second quarter of fiscal year 2027, which ended July 26, 2026.
+
+View all news
+
+### NVIDIA Sets Conference Call for Second-Quarter Financial Results
+
+July 29, 2026
+
+Download this Press Release PDF Format (opens in new window)
+
+Written CFO Commentary to Be Provided Ahead of Call
+
+SANTA CLARA, Calif., July 29, 2026 (GLOBE NEWSWIRE) -- NVIDIA will host a conference call on Wednesday, August 26, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the second quarter of fiscal year 2027, which ended July 26, 2026.
+
+The call will be webcast live (in listen-only mode) on investor.nvidia.com. The company’s prepared remarks will be followed by a Q&A session, which will be limited to questions from financial analysts and institutional investors.
+
+Ahead of the call, NVIDIA will provide written commentary on its second-quarter results from Colette Kress, the company’s executive vice president and chief financial officer. This material will be posted to investor.nvidia.com immediately after the company’s results are publicly announced at approximately 1:20 p.m. PT.
+
+The webcast will be recorded and available for replay until the company’s conference call to discuss financial results for its third quarter of fiscal year 2027.
+
+About NVIDIA
+NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing.
+
+For further information, contact:  |  
+Investor Relations  | Corporate Communications
+NVIDIA Corporation  | NVIDIA Corporation
+[REDACTED_EMAIL]  | [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Tesla Releases Second Quarter 2026 Financial Results | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-releases-second-quarter-2026-financial-results)
+citeturn447search5 [wordlim: 200] Published: 3 months ago; Crawled: 3 weeks ago; Q2 2026 Update: https://ir.tesla.com
+
+## Tesla Releases Second Quarter 2026 Financial Results
+
+Business Wire
+
+Jul 22, 2026
+
+AUSTIN, Texas, July 22, 2026 – Tesla has released its financial results for the second quarter of 2026 by posting an update on its Investor Relations website. Please visit https://ir.tesla.com to view the update.
+
+As previously announced, Tesla management will host a live company update and question and answer (Q&A) webcast at 4:30 p.m. Central Time (5:30 p.m. Eastern Time) to discuss the results and outlook.
+
+What: Tesla Second Quarter 2026 Financial Results Q&A Webcast 
+When: Wednesday, July 22, 2026 
+Time: 4:30 p.m. Central Time / 5:30 p.m. Eastern Time 
+Q2 2026 Update: https://ir.tesla.com
+Webcast: https://ir.tesla.com (live and replay) 
+
+The webcast will be archived on the company’s website following the call. --------------------------------------------------------------------------------
+Investor Relations → Scribe (https://investors.scribetx.com/)
+citeturn447search6 [wordlim: 200] Crawled: 2 weeks ago; Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights
+
+## Our Mission
+
+Scribe Therapeutics is a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention. While current genetic medicines are largely limited to rare disorders, we are engineering our technologies for use in common diseases affecting millions. By targeting prevalent diseases with significant unmet need and high clinical burden, we aim to usher in a new era of broadly scalable, transformative, and preventative genetic medicines.
+
+Our focus is on cardiovascular and metabolic diseases with initial programs to address the key drivers of atherosclerotic cardiovascular disease, or ASCVD. We are designing CRISPR-based genetic medicines to be well-tolerated, effective, durable, and scalable enough to shift the treatment paradigm from symptom-driven intervention and chronic care to population-level prevention, with the goal of broadly democratizing access to the cardioprotective effects of known genetic variants.
+
+## Press Releases
+
+Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights
+
+September 2, 2026
+
+Scribe Therapeutics to Participate in Upcoming Investor Conferences
+
+September 1, 2026
+
+Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement
+
+July 27, 2026
+
+## Recent Reports
+
+More information is coming soon.
+
+## Events
+
+More events are coming soon.
+
+### Past Events
+
+Cell & Gene Meeting on the Mesa
+
+October 5-7, 2026
+
+### Past Events
+
+Leerink Partners Biopharma Summit
+
+September 23-25, 2026
+
+### Past Events
+
+IPAVision 2026
+
+September 14-17, 2026
+
+  * All Events
+
+## Investor Contact
+
+1150 Marina Village Pkwy 
+Alameda, CA 94501
+drafts [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Tesla Second Quarter 2026 Production, Deliveries & Deployments | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments)
+citeturn447search7 [wordlim: 200] Published: 3 months ago; Crawled: today; At that time, Tesla will issue a brief advisory containing a link to the Q2 2026 update, which will be available on Tesla’s Investor Relations website.
+
+## Tesla Second Quarter 2026 Production, Deliveries & Deployments
+
+Business Wire
+
+Jul 2, 2026
+
+AUSTIN, Texas, July 2, 2026 – In the second quarter, we produced over 450,000 vehicles, delivered over 480,000 vehicles and deployed 13.5 GWh of energy storage products.
+
+Thank you to all of our customers, employees, suppliers, shareholders and supporters who helped us achieve these results.
+
+Q2 2026
+
+   | Production  | Deliveries  | Subject to operating lease accounting
+Model 3/Y  | 442,936  | 467,762  | 2%
+Other Models  | 8,822  | 12,364  | 2%
+Total  | 451,758  | 480,126  | 2%
+
+***
+
+Tesla will post its financial results for the second quarter of 2026 after market close on Wednesday, July 22, 2026. At that time, Tesla will issue a brief advisory containing a link to the Q2 2026 update, which will be available on Tesla’s Investor Relations website. Tesla management will hold a live question and answer webcast that day at 4:30 p.m. Central Time (5:30 p.m. Eastern Time) to discuss the Company’s financial and business results and outlook.
+--------------------------------------------------------------------------------
+Scribe → Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights (https://www.scribetx.com/newsroom/scribe-therapeutics-reports-second-quarter-2026-financial-results-and-recent-corporate-highlights)
+citeturn447search8 [wordlim: 200] Published: last month; Crawled: 5 days ago; (“Scribe Therapeutics” or “the Company”) (Nasdaq: SCTX), a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today reported financial results for the second quarter ended June 30, 2026, and provided recent corporate and pipeline updates.
+
+ALAMEDA, Calif., Sept. 02, 2026 (GLOBE NEWSWIRE) -- Scribe Therapeutics Inc. (“Scribe Therapeutics” or “the Company”) (Nasdaq: SCTX), a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today reported financial results for the second quarter ended June 30, 2026, and provided recent corporate and pipeline updates.
+
+“The second quarter and the weeks immediately following represented a transformational period for Scribe,” said Benjamin Oakes, Ph.D., co-founder and Chief Executive Officer of Scribe Therapeutics. “We advanced our lead silencing asset STX-1150 into the clinic, secured significant grant support from CIRM to develop our next two cardiometabolic assets, and successfully completed our initial public offering. These achievements position us to execute across a broadly differentiated portfolio of CRISPR genetic medicines designed to address the three major lipid drivers of atherosclerotic cardiovascular disease: LDL-C, Lp(a), and triglycerides. Our purpose-built technologies are uniquely poised to democratize access to the cardioprotective effects of beneficial human genetics. Guided by nature's blueprint for improved cardiovascular health, our aim is to shift the treatment paradigm of heart disease from chronic intervention of symptoms toward durable disease prevention and lifespan extension.”
+
+Pipeline Highlights
+
+STX-1150: In vivo epigenetic silencing therapy for LDL-C lowering
+
+--------------------------------------------------------------------------------
+Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement → Mon, 07/27/2026 - 16:05 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-announces-closing-initial-public-offering)
+citeturn447search9 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; Scribe Therapeutics’ common stock began trading on the Nasdaq Global Market on July 24, 2026 under the ticker symbol “SCTX.” ... Securities and Exchange Commission (the “SEC”) and became effective on July 23, 2026.
+
+# Release Details
+
+## 
+
+Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement
+
+July 27, 2026
+
+PDF Version
+
+ALAMEDA, Calif., July 27, 2026 (GLOBE NEWSWIRE) -- Scribe Therapeutics Inc. (“Scribe Therapeutics”) (Nasdaq: SCTX), a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today announced the closing of its upsized initial public offering of 9,867,000 shares of its common stock, which includes the exercise in full by the underwriters of their option to purchase 1,287,000 additional shares, at the initial public offering price of $15.00 per share. All of the shares were offered by Scribe Therapeutics. Scribe Therapeutics’ common stock began trading on the Nasdaq Global Market on July 24, 2026 under the ticker symbol “SCTX.”
+--------------------------------------------------------------------------------
+NVDA 2027 Q2 10-Q-2026-08-27-08-33 (https://investor.nvidia.com/files/doc_financials/2027/NVDA-2027-Q2-10Q-Final-including-exhibits.pdf)
+citeturn447search12 [wordlim: 200] Published: last month; Crawled: last month; <tr><td>Edge Computing</td><td>7,198</td><td>6,369</td><td>5,647</td><td>13 %</td><td>27 %</td></tr> ... (1) In the first quarter of fiscal year 2027, we changed our presentation of revenue by market platform and the comparable periods have been recast.(2) During the second quarter of fiscal year 2027, we reclassified a company from ACIE to Hyperscale due to a change in their business model and recast the prior period revenue associated with this company.
+--------------------------------------------------------------------------------
+NVIDIA Corp. (NVDA) (https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf)
+citeturn447search13 [wordlim: 200] Published: last month; Crawled: last month; 26-Aug-2026 ... At this time, I would like to welcome everyone to NVIDIA's Second Quarter Earnings Call. ... Good afternoon, and welcome to NVIDIA's conference call for the second quarter of fiscal 2027.
+--------------------------------------------------------------------------------
+NVIDIA Corporation - Search Results (https://investor.nvidia.com/search-results/default.aspx?PageNumber=58&SearchTerm=)
+citeturn447search10 [wordlim: 200] Crawled: last month; 26, 2026 (GL https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspxFinancial Reports Latest Report Earnings Release 2027 NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 Revenue of $96.2 billion, up 106% from a year ag https://investor.nvidia.com/financial-info/financial-reports/default.aspx
+--------------------------------------------------------------------------------
+SIGNATURES
+
+Pursuant to the requirements of the Se (https://ir.tesla.com/_flysystem/s3/sec/000162828026046717/tsla-20260702-gen.pdf)
+citeturn447search14 [wordlim: 200] Published: 3 months ago; Crawled: 3 months ago; At that time, Tesla will issue a brief advisory containing a link to the Q2 2026 update, which will be available on Tesla’s Investor Relations website.
+--------------------------------------------------------------------------------
+Doncasters Group - Financials - SEC Filings - SEC Filings Details (https://ir.doncasters.com/financials/sec-filings/sec-filings-details/default.aspx?FilingId=19557486)
+citeturn447search11 [wordlim: 200] Published: 3 months ago; Crawled: 4 days ago; Download / View Download / View, CERT, Certification by the exchange approving securities for listing, June 24, 2026, unknown format, opens in new window ... DPC Holdings PLC
+

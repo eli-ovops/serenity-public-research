@@ -1,0 +1,307 @@
+30. How long will the exchange offer remain open? Can the exchange offer be extended, and if so, how will I know if it is extended? (https://investors.formfactor.com/static-files/7a8f1116-76de-471d-b892-be0f895ce1e4)
+citeturn169search7 [wordlim: 200] Published: 6.8 years ago; Log in to https://formfactor.equitybenefits.com to make your election, or complete, sign, date and return the Election Form and deliver it to Hank Feir, SVP Human Resources, according to the instructions contained in the Election Form so that we receive it before the exchange offer expires. ... Pacific Time on the first business day after the exchange offer expires (i.e., if the expiration date is September 30, 2010, this communication will be no later than 6 a.m., U.S.Pacific Time on October 1, 2010). ... U.S. employees will generally be subject to tax (including income and employment tax withholding (e.g.,
+(See Section 5 of Part III.)
+
+35. Will FormFactor accept all eligible options tendered for exchange?
+
+We intend to accept all options that are properly tendered for exchange unless the exchange offer is terminated. If we terminate the exchange offer without accepting options for exchange, we will communicate this to you by 6 a.m., U.S. Pacific Time on the first business day after the exchange offer expires (i.e., if the expiration date is September 30, 2010, this communication will be no later than 6 a.m., U.S. Pacific Time on October 1, 2010). The communication may be made orally, by written or electronic notice or by public announcement. (See Sections 6 and 16 of Part III.)
+
+36. What happens to my eligible options if I do not accept the exchange offer or if my options are not accepted for exchange?
+
+Nothing. If you do not elect to participate in the exchange offer, or if we do not accept options that are tendered for exchange, you will keep all your current options, and you will not receive any new stock options. --------------------------------------------------------------------------------
+Onto Innovation - Onto Innovation Reports 2023 Third Quarter Results (https://investors.ontoinnovation.com/news/news-details/2023/Onto-Innovation-Reports-2023-Third-Quarter-Results/)
+citeturn169search0 [wordlim: 200] Published: 2.9 years ago; Crawled: 2 weeks ago; (NYSE: ONTO) (“Onto Innovation,” “Onto,” or the “Company”) today announced financial results for the third fiscal quarter of 2023. ...    |    | September 30, 2023  |    |    | July 1, 2023  |    |    | October 1, 2022  | ...   * Non-GAAP diluted earnings per share is expected to be in the range of $0.90 to $1.10. ... This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Act”) which include, but are not limited to, statements regarding Onto Innovation’s business momentum and future growth; technology development, product introduction and acceptance of our products and services; Onto Innovation’s manufacturing practices and ability to deliver both products and services consistent with our customers’ demands and expectations and strengthen its market position; Onto Innovation’s expectations regarding the semiconductor market outlook; Onto Innovation’s future quarterly financial outlook; as well as other matters that are not purely historical data.
+
+### Onto Innovation Reports 2023 Third Quarter Results
+
+11/09/2023
+
+WILMINGTON, Mass.--(BUSINESS WIRE)-- Onto Innovation Inc. (NYSE: ONTO) (“Onto Innovation,” “Onto,” or the “Company”) today announced financial results for the third fiscal quarter of 2023.
+
+Third Quarter Financial Highlights
+
+  * Revenue of $207 million was impacted by approximately $10 million as a result of two delayed lithography system shipments to chiplet substrate manufacturers.
+  * GAAP gross margin and non-GAAP gross margin of 52%.
+  * GAAP operating income of $34 million and GAAP net income of $36 million.
+  * Non-GAAP operating income of $50 million and non-GAAP net income of $48 million.
+  * GAAP diluted earnings per share of $0.73 and non-GAAP^{}diluted earnings per share of $0.96.
+
+Third Quarter Business Highlights
+
+  * Specialty and advanced packaging grew 19%, setting a new quarterly record of $135 million.
+  * Dragonfly^{®} G3 shipments to support AI packaging increased over 50% above the prior quarter.
+
+Onto Innovation Inc.
+Key Quarterly Financial Data
+(In thousands, except per share amounts)
+   | 
+US GAAP  |  
+   |    | September 30, 2023  |    |    | July 1, 2023  |    |    | October 1, 2022  |  
+Revenue  |    | $  | 207,185  |    |    | $  | 190,662  |    |    | $  | 254,253  |  
+Gross profit margin  |    |    | 52  | %  |    |    | 53  | %  |    |    | 55  | %
+Operating income  |    | $  | 34,006  |    |    | $  | 24,807  |    |    | $  | 59,307  |  
+Net income  |    | $  | 35,886  |    |    | $  | 25,896  |    |    | $  | 52,215  |  
+Net income per diluted share  |    | $  | 0.73  |    |    | $  | 0.53  |    |    | $  | 1.05  |  
+US NON-GAAP  |  
+   |    | September 30, 2023  |    |    | July 1, 2023  |    |    | October 1, 2022  |  
+Revenue  |    | $  | 207,185  |    |    | $  | 190,662  |    |    | $  | 254,253  |  
+Gross profit margin  |    |    | 52  | %  |    |    | 53  | %  |    |    | 55  | %
+Operating income  |    | $  | 49,592  |    |    | $  | 40,565  |    |    | $  | 78,252  |  
+Net income  |    | $  | 47,613  |    |    | $  | 38,754  |    |    | $  | 67,495  |  
+Net income per diluted share  |    | $  | 0.96  |    |    | $  | 0.79  |    |    | $  | 1.35  |  
+
+Current liabilities  |    |    |    |    |    |  
+Accounts payable and accrued liabilities  |    | $  | 83,797  |    |    | $  | 103,362  |  
+Other current liabilities  |    |    | 51,961  |    |    |    | 57,196  |  
+Total current liabilities  |    |    | 135,758  |    |    |    | 160,558  |  
+Other non-current liabilities  |    |    | 30,288  |    |    |    | 37,879  |  
+Total liabilities  |    |    | 166,046  |    |    |    | 198,437  |  
+Stockholders’ equity  |    |    | 1,696,142  |    |    |    | 1,596,426  |  
+Total liabilities and stockholders’ equity  |    | $  | 1,862,188  |    |    | $  | 1,794,863  |  
+ONTO INNOVATION INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share amounts) - (Unaudited)
+   |    |    |    |    |    |  
+   |    | Three Months Ended  |    |    | Nine Months Ended  |  
+   |    | September 30,
+2023  |    |    | October 1, 2022  |    |    | September 30,
+2023  |    |    | October 1, 2022  |  
+Revenue  |    | $  | 207,185  |    |    | $  | 254,253  |    |    | $  | 597,012  |    |    | $  | 751,913  |  
+Cost of revenue  |    |    | 100,333  |    |    |    | 115,404  |    |    |    | 284,724  |    |    |    | 349,914  |  
+Diluted  |    |    | 49,401  |    |    |    | 49,949  |    |    |    | 49,259  |    |    |    | 49,928  |  
+ONTO INNOVATION INC.
+NON-GAAP FINANCIAL SUMMARY
+(In thousands, except percentage and per share amounts) - (Unaudited)
+ 
+   | Three Months Ended  |    | Nine Months Ended  |  
+   | September 30, 2023  |    | October 1, 2022  |    | September 30, 2023  |    | October 1, 2022  |  
+Revenue  | $  | 207,185  |    | $  | 254,253  |    | $  | 597,012  |    | $  | 751,913  |  
+Gross profit  | $  | 106,893  |    | $  | 138,844  |    | $  | 314,688  |    | $  | 401,983  |  
+Gross margin as percentage of revenue  |    | 52  | %  |    | 55  | %  |    | 53  | %  |    | 53  | %
+Operating expenses  | $  | 57,301  |    | $  | 60,592  |    | $  | 175,636  |    | $  | 176,371  |  
+Operating income  | $  | 49,592  |    | $  | 78,252  |    | $  | 139,052  |    | $  | 225,612  |  
+Operating margin as a percentage of revenue  |    | 24  | %  |    | 31  | %  |    | 23  | %  |    | 30  | %
+Net income  | $  | 47,613  |    | $  | 67,495  |    | $  | 131,413  |    | $  | 197,124  |  
+Net income per diluted share  | $  | 0.96  |    | $  | 1.35  |    | $  | 2.67  |    | $  | 3.95  |  
+RECONCILIATION OF GAAP GROSS PROFIT,
+OPERATING EXPENSES AND OPERATING INCOME TO NON-GAAP
+GROSS PROFIT, OPERATING EXPENSES AND OPERATING INCOME
+(In thousands, except percentages) - (Unaudited)
+ 
+   | Three Months Ended  |    | Nine Months Ended  |  
+   | September 30, 2023  |    | October 1, 2022  |    | September 30, 2023  |    | October 1, 2022  |  
+U.S. GAAP gross profit  | $  | 106,852  |    | $  | 138,849  |    | $  | 312,288  |    | $  | 401,999  |  
+Pre-tax non-GAAP items:  |    |    |    |    |    |    |    |  
+Merger and acquisition related expenses  |    | 41  |    |    | (5  | )  |    | 121  |    |    | (16  | )
+Restructuring expenses  |    | —  |    |    | —  |    |    | 2,279  |    |    | —  |  
+Non-GAAP gross profit  | $  | 106,893  |    | $  | 138,844  |    | $  | 314,688  |    | $  | 401,983  |  
+U.S. GAAP gross margin as a percentage of revenue  |    | 52  | %  |    | 55  | %  |    | 52  | %  |    | 53  | %
+Non-GAAP gross margin as a percentage of revenue  |    | 52  | %  |    | 55  | %  |    | 53  | %  |    | 53  | %
+NON-GAAP NET INCOME
+(In thousands, except share and per share data) - (Unaudited)
+ 
+   | Three Months Ended  |    | Nine Months Ended  |  
+   | September 30, 2023  |    | October 1, 2022  |    | September 30, 2023  |    | October 1, 2022  |  
+U.S. GAAP net income  | $  | 35,886  |    | $  | 52,215  |    | $  | 90,850  |    | $  | 157,120  |  
+Pre-tax non-GAAP items:  |    |    |    |    |    |    |  
+Merger and acquisition related expenses  |    | 875  |    |    | 4,011  |    |    | 2,356  |    |    | 5,319  |  
+Restructuring expenses  |    | —  |    |    | —  |    |    | 5,505  |    |    | —  |  
+Litigation expenses  |    | 887  |    |    | 1,112  |    |    | 1,870  |    |    | 3,330  |  
+Amortization of intangibles  |    | 13,824  |    |    | 13,822  |    |    | 41,473  |    |    | 41,461  |  
+Net tax provision adjustments  |    | (3,859  | )  |    | (3,665  | )  |    | (10,641  | )  |    | (10,106  | )
+Non-GAAP net income  | $  | 47,613  |    | $  | 67,495  |    | $  | 131,413  |    | $  | 197,124  |  
+Non-GAAP net income per diluted share  | $  | 0.96  |    | $  | 1.35  |    | $  | 2.67  |    | $  | 3.95  |  
+--------------------------------------------------------------------------------
+Form 10-K for Formfactor INC filed 02/24/2023 (https://investors.formfactor.com/static-files/f8018e30-f925-4114-a4d2-43bf5689d5f1)
+citeturn169search8 [wordlim: 200] Published: 3.6 years ago; Crawled: 3.6 years ago; The present expiration date of the Lease as to the Building 6 Premises and the Building 9 Premises is December 31, 2019, the present expiration date of the Lease as to the Building 3 Premises is March 31, 2020, and the present expiration date of the Lease as to the Building 8 Premises is September 30, 2020. ... Landlord and Tenant presently desire to amend the Lease to (i) extend the expiration date of the Lease, as to the entire Premises, through and including December 31, 2027, (ii) modify the rent for the entire Premises effective as of October 1, 2018, (iii) provide Tenant with a construction allowance to be used by Tenant for renovations to be performed by Tenant in the Premises, (iv) grant Tenant an option to lease expansion space in either Building 3 or 9, provided such space can be made available, (v) grant Tenant the right to terminate this Amendment if Tenant elects to lease such expansion space but Landlord does not commit to provide the expansion space within the required delivery period, (vi) grant Tenant two (2) consecutive renewal options of five (5) years each, (vii) grant Tenant an ongoing right of first offer for available space in Building 8 and Building 3, and (viii) document certain other modifications to the Lease agreed to by Landlord and Tenant, all as more fully provided below.
+
+The Building 6 Premises, the Building 3 Premises, the Building 9 Premises and the Building 8 Premises are referred to herein collectively as the “Premises” and constitute all of the space covered by the Lease as of the date of this Amendment. Building 6, Building 3, Building 9 and Building 8 are sometimes referred to individually in this Amendment as a “Building.” The parties agree that, for all purposes of the Lease, the total rentable square footage of the Lease is deemed to be 98,946 rentable square feet of space. All capitalized terms not otherwise defined herein shall have the meaning given them in the Lease. The present expiration date of the Lease as to the Building 6 Premises and the Building 9 Premises is December 31, 2019, the present expiration date of the Lease as to the Building 3 Premises is March 31, 2020, and the present expiration date of the Lease as to the Building 8 Premises is September 30, 2020.
+
+B. Landlord and Tenant presently desire to amend the Lease to (i) extend the expiration date of the Lease, as to the entire Premises, through and including December 31, 2027, (ii) modify the rent for the entire Premises effective as of October 1, 2018, (iii) provide Tenant with a construction allowance to be used by Tenant for renovations to be performed by Tenant in the Premises, (iv) grant Tenant an option to lease expansion space in either Building 3 or 9, provided such space can be made available, (v) grant Tenant the right to terminate this Amendment if Tenant elects to lease such expansion space but Landlord does not commit to provide the expansion space within the required delivery period, (vi) grant Tenant two (2) consecutive renewal options of five (5) years each, (vii) grant Tenant an ongoing right of first offer for available space in Building 8 and Building 3, and (viii) document certain other modifications to the Lease agreed to by Landlord and Tenant, all as more fully provided below.
+
+1
+
+Nimbus/FormFactor BTN 7th AM v6  
+Das5-22-18--------------------------------------------------------------------------------
+Onto Innovation - Rudolph Technologies Appoints Michael Plisinski as Chief Operating Officer (https://investors.ontoinnovation.com/news/news-details/2014/Rudolph-Technologies-Appoints-Michael-Plisinski--as-Chief-Operating-Officer/default.aspx)
+citeturn169search1 [wordlim: 200] Published: 12.0 years ago; Crawled: 3 weeks ago; Flanders, New Jersey (September 29, 2014)—Rudolph Technologies, Inc.(NYSE: RTEC) announced today that Michael Plisinski, vice president and general manager of the Company’s Data Analysis and Review Business Unit has been appointed executive vice president and chief operating officer (COO) effective October 1, 2014. ... Prior to his assuming general management for our software business at the Company’s Data Analysis and Review Business Unit (DARBU) in 2006, Mike was vice president of engineering for our Inspection Business Unit.
+
+### Rudolph Technologies Appoints Michael Plisinski as Chief Operating Officer
+
+09/29/2014
+
+Flanders, New Jersey (September 29, 2014)—Rudolph Technologies, Inc. (NYSE: RTEC) announced today that Michael Plisinski, vice president and general manager of the Company’s Data Analysis and Review Business Unit has been appointed executive vice president and chief operating officer (COO) effective October 1, 2014.
+
+Paul McLaughlin, chairman and chief executive officer, stated, “Mike has been with Rudolph since 1999. Prior to his assuming general management for our software business at the Company’s Data Analysis and Review Business Unit (DARBU) in 2006, Mike was vice president of engineering for our Inspection Business Unit. Mike holds a Bachelor of Science degree in computer science from the University of Massachusetts and graduated from the advanced management program at Harvard Business School.”
+
+McLaughlin adds, “Mike’s success in working directly with customer executives combined with his intimate knowledge of our business units will accelerate Rudolph’s ability to efficiently meet the increasing demand for Rudolph’s growing suite of solutions in all of our served markets. --------------------------------------------------------------------------------
+Onto Innovation - Onto Innovation Announces Results for Second Quarter 2022 (https://investors.ontoinnovation.com/news/news-details/2022/Onto-Innovation-Announces-Results-for-Second-Quarter-2022/default.aspx)
+citeturn169search2 [wordlim: 200] Published: 4.1 years ago; Crawled: last week; (NYSE: ONTO) (“Onto Innovation,” “Onto,” or the “Company”) today announced financial results for the second quarter of 2022. ...   * GAAP diluted earnings per share of $1.03 increased 45% over the same period last year. ... For the third quarter ending October 1, 2022, the Company is providing the following guidance: ... Onto Innovation will host a conference call at 4:30 p.m.
+
+### Onto Innovation Announces Results for Second Quarter 2022
+
+08/09/2022
+
+Record revenue of $256 million, resulting in 33% growth over the same period last year
+
+Net income of $52 million, resulting in 47% growth over the same period last year
+
+WILMINGTON, Mass.--(BUSINESS WIRE)-- Onto Innovation Inc. (NYSE: ONTO) (“Onto Innovation,” “Onto,” or the “Company”) today announced financial results for the second quarter of 2022.
+
+2022 Second Quarter Financial Highlights
+
+  * Record quarterly revenue of $256 million grew 33% over the same period last year.
+  * GAAP operating margin of 22% and non-GAAP operating margin of 29%, as compared to 19% and 26%, respectively, during the same period last year.
+  * GAAP diluted earnings per share of $1.03 increased 45% over the same period last year.
+  * Non-GAAP diluted earnings per share of $1.28 increased 39% over the same period last year.
+  * Record cash balance totaled $545 million, or $10.98 per share.
+
+2022 Second Quarter Business Highlights
+
+  * Eleven customers pre-ordered 75 Dragonfly^{®} G3 systems combined with new EB40^{™} modules to be shipped over several quarters for high-speed, all-surface wafer inspection.
+Outlook
+
+For the third quarter ending October 1, 2022, the Company is providing the following guidance:
+
+  * Revenue is expected to be in the range of $242 million to $258 million
+  * GAAP diluted earnings per share is expected to be in the range of $0.95 to $1.16
+  * Non-GAAP diluted earnings per share is expected to be in the range of $1.21 to $1.42
+
+Webcast & Conference Call Details
+
+Onto Innovation will host a conference call at 4:30 p.m. Eastern Time today, August 9, 2022, to discuss its second quarter 2022 financial results in greater detail. To participate in the call, please dial (888) 220-8451 or international: +1 (646) 828-8193 and reference conference ID 2312657 at least five (5) minutes prior to the scheduled start time. A live webcast will also be available at www.ontoinnovation.com.
+
+To listen to the live webcast, please go to the website at least fifteen (15) minutes early to register, download and install any necessary audio software. There will be a replay of the conference call available from 7:30 p.m. --------------------------------------------------------------------------------
+Onto Innovation - Onto Innovation Reports 2022 Fourth Quarter and Full Year Results (https://investors.ontoinnovation.com/news/news-details/2023/Onto-Innovation-Reports-2022-Fourth-Quarter-and-Full-Year-Results/default.aspx)
+citeturn169search3 [wordlim: 200] Published: 3.6 years ago; Crawled: last week; (NYSE: ONTO) (“Onto Innovation,” “Onto,” or the “Company”) today announced financial results for the fourth quarter and full year 2022. ...   * Record quarterly GAAP diluted earnings per share of $1.34 increased 43% over the same period last year. ...    |    | December 31, 2022  |    |    | October 1, 2022  |    |    | January 1, 2022  | ... Onto Innovation will host a conference call at 4:30 p.m.
+
+### Onto Innovation Reports 2022 Fourth Quarter and Full Year Results
+
+02/09/2023
+
+Record annual revenue of $1.005 billion , resulting in 27 % year-over-year growth
+
+WILMINGTON, Mass.--(BUSINESS WIRE)-- Onto Innovation Inc. (NYSE: ONTO) (“Onto Innovation,” “Onto,” or the “Company”) today announced financial results for the fourth quarter and full year 2022.
+
+2022 Fourth Quarter Financial Highlights
+
+  * Quarterly revenue of $253 million, resulting in 12% growth over the same period last year.
+  * Record quarterly GAAP operating income of $61 million and GAAP net income of $66 million.
+  * Quarterly non-GAAP operating income of $76 million and record non-GAAP net income of $78 million.
+  * Record quarterly GAAP diluted earnings per share of $1.34 increased 43% over the same period last year.
+  * Record quarterly non-GAAP^{}diluted earnings per share of $1.57 increased 28% over the same period last year.
+  * Repurchased 846,336 shares of common stock in the fourth quarter, resulting in a return of capital to shareholders of $53.7 million.
+--------------------------------------------------------------------------------
+Onto Innovation - Onto Innovation Announces Third Quarter 2022 Results (https://investors.ontoinnovation.com/news/news-details/2022/Onto-Innovation-Announces-Third-Quarter-2022-Results/default.aspx)
+citeturn169search4 [wordlim: 200] Published: 3.9 years ago; Crawled: last week;   * GAAP diluted earnings per share of $1.05 increased 44% over the same period last year. ...    |    | October 1, 2022  |    |    | July 2, 2022  |    |    | September 25, 2021  | ... Onto Innovation will host a conference call at 4:30 p.m. ... This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Act”) which include, but are not limited to, statements regarding Onto Innovation’s business momentum and future growth; the benefit to customers of Onto Innovation’s products and customer service; Onto Innovation’s ability to both deliver products and services consistent with our customers’ demands and expectations and strengthen its market position; Onto Innovation’s expectations regarding the semiconductor market outlook; Onto Innovation’s future quarterly and annual financial outlook; as well as other matters that are not purely historical data.
+
+### Onto Innovation Announces Third Quarter 2022 Results
+
+10/27/2022
+
+Revenue of $254 million, resulting in 27% growth over the same period last year
+
+Net income of $52 million, resulting in 43% growth over the same period last year
+
+WILMINGTON, Mass.--(BUSINESS WIRE)-- Onto Innovation Inc. (NYSE: ONTO) (“Onto Innovation,” “Onto,” or the “Company”) today announced financial results for the third quarter of 2022.
+
+2022 Third Quarter Financial Highlights
+
+  * Quarterly revenue of $254 million, resulting in 27% growth over the same period last year.
+  * Gross profit margin improved sequentially to 55% from 52% in the second quarter.
+  * GAAP operating margin of 23% and non-GAAP operating margin of 31%, as compared to 21% and 29% respectively, during the same period last year.
+  * Record GAAP operating income of $59 million and non-GAAP operating income of $78 million.
+  * Record non-GAAP net income of $67 million.
+  * GAAP diluted earnings per share of $1.05 increased 44% over the same period last year.
+Michael Plisinski, chief executive officer for Onto Innovation, commented, “We are pleased to report that despite ongoing challenges in the supply chain and inflationary pressure, we achieved the performance outlined in our long-term operating model. In addition to our strong financial performance, the highlights from the third quarter demonstrate our success expanding into future growth markets such as gate all around transistors, heterogeneous packaging, and new compound semiconductor power devices to support vehicle electrification and power infrastructure.”
+
+He continued, “Our success establishing tool of record positions in several new growth markets, while also expanding served markets, positions the Company well to continue our multi-year trend of outperforming the industry despite the more challenging demand environment in 2023.”
+
+Onto Innovation Inc. Key Quarterly Financial Data (In thousands, except per share amounts)
+ |  
+GAAP  |  
+   |    | October 1, 2022  |    |    | July 2, 2022  |    |    | September 25, 2021  |  
+--------------------------------------------------------------------------------
+EXHIBIT INDEX (https://investors.formfactor.com/static-files/16005b59-8678-4421-8323-2a2c8fad8505)
+citeturn169search9 [wordlim: 200] Published: 5.6 years ago; <th>Date of First Filing</th> ... <td>7/22/2016</td> ... <td>Form of Indemnity Agreement</td> ... <td>Employee Incentive Plan, as amended and restated effective October 1, 2019</td> ... <td>2/21/2020</td>
+EXHIBIT INDEX
+
+<table id="e1">
+<tr>
+<th>Exhibit Number</th>
+<th>Exhibit Description</th>
+<th colspan="5">Incorporated by Reference</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Form</th>
+<th>File No</th>
+<th>Date of First Filing</th>
+<th>Exhibit Number</th>
+<th>Filed Herewith</th>
+</tr>
+<tr>
+<td>3.1</td>
+<td>Amended and Restated Certificate of Incorporation of the Registrant as filed with the Delaware Secretary of State on June 17, 2003</td>
+<td>S-1</td>
+<td>333-109815</td>
+<td>10/20/2003</td>
+<td>3.01</td>
+<td></td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>Amended and Restated Bylaws of the Registrant</td>
+<td>8-K</td>
+<td>000-50307</td>
+<td>7/22/2016</td>
+<td>3.2</td>
+<td></td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>Specimen Common Stock Certificate</td>
+<td>S-1/A</td>
+<td>333-86738</td>
+<td>5/28/2002</td>
+<td>4.01</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Description of Securities</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>10.3+</td>
+<td>Form of Indemnity Agreement</td>
+<td>S-1/A</td>
+<td>333-86738</td>
+<td>5/28/2002</td>
+<td>10.01</td>
+<td></td>
+</tr>
+<tr>
+<td>10.4+</td>
+<td>Form of Change of Control Severance Agreement</td>
+<td>10-K</td>
+<td>000-50307</td>
+<td>3/14/2005</td>
+<td>10.48</td>
+<td></td>
+</tr>
+<tr>
+<td>10.9+</td>
+<td>Employee Incentive Plan, as amended and restated effective October 1, 2019</td>
+--------------------------------------------------------------------------------
+Camtek Receives $15M Order from Two Large Manufacturers (https://www.camtek.com/news-and-events/fe_pr_oct2020/)
+citeturn169search5 [wordlim: 200] Published: 6.0 years ago; Crawled: 2 months ago; MIGDAL HAEMEK, Israel – October 1, 2020– Camtek Ltd.(NASDAQ: CAMT; TASE: CAMT), announced today that it received orders amounting to $15 million for systems serving front-end macro inspection applications from two large manufacturers.
+--------------------------------------------------------------------------------
+Onto Innovation - Onto Innovation Announces Results for Second Quarter 2022 (https://investors.ontoinnovation.com/news/news-details/2022/Onto-Innovation-Announces-Results-for-Second-Quarter-2022/)
+citeturn169search6 [wordlim: 200] Published: 4.1 years ago; Crawled: last week; Additional information and considerations regarding the risks faced by Onto Innovation are available in Onto Innovation’s Form 10-K report for the year ended January 1, 2022 and other filings with the Securities and Exchange Commission.As the forward-looking statements are based on Onto Innovation’s current expectations, the Company cannot guarantee any related future results, levels of activity, performance or achievements.
+

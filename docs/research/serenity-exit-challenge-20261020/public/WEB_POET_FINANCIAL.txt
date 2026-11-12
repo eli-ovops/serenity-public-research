@@ -1,0 +1,289 @@
+Tesla Third Quarter 2026 Production, Deliveries & Deployments | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)
+citeturn504view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn501view0","lineno":3}); Total lines: 39
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: ## Tesla Third Quarter 2026 Production, Deliveries & Deployments
+L4: 
+L5: Business Wire
+L6: 
+L7: Oct 2, 2026
+L8: 
+L9: AUSTIN, Texas, October 2, 2026 – In the third quarter, we produced over 464,000 vehicles, delivered over 486,000 vehicles and deployed 13.7 GWh of energy storage products.
+L10: 
+L11: Thank you to all of our customers, employees, suppliers, shareholders and supporters who helped us achieve these results.
+L12: 
+L13: Q3 2026
+L14:    | Production  | Deliveries  | Subject to operating lease accounting
+L15: Model 3/Y  | 457,387  | 478,237  | 1%
+L16: Other Models  | 7,004  | 8,295  | 4%
+L17: Total  | 464,391  | 486,532  | 1%
+L18: 
+L19: 
+L20: 
+L21: ***
+L22: Tesla will post its financial results for the third quarter of 2026 after market close on Wednesday, October 21, 2026. At that time, Tesla will issue a brief advisory containing a link to the Q3 2026 update, which will be available on Tesla’s Investor Relations website. Tesla management will hold a live question and answer webcast that day at 4:30 p.m. Central Time (5:30 p.m. Eastern Time) to discuss the Company’s financial and business results and outlook.
+L23: What: Tesla Q3 2026 Financial Results and Q&A Webcast
+L24: When: Wednesday, October 21, 2026
+L25: Time: 4:30 p.m. Central Time / 5:30 p.m. Eastern Time
+L26: Q3 2026 Update: cite2†https://ir.tesla.com L27: Webcast: cite2†https://ir.tesla.com (live and replay)
+L28: 
+L29: Approximately two hours after the Q&A session, an archived version of the webcast will be available on the Company’s website.
+L30: 
+L31: For additional information, please visit cite2†https://ir.tesla.com .
+L32: 
+L33: Investor Relations Contact:
+L34: [REDACTED_EMAIL]
+L35: 
+L36: ***
+L37: Our net income and cash flow results will be announced along with the rest of our financial performance when we announce Q3 earnings.
+L38: Tesla vehicle deliveries and storage deployments represent only two measures of the Company’s financial performance and should not be relied on as an indicator of quarterly financial results, which depend on a variety of factors, including average selling price, cost of sales, foreign exchange movements and others as to be disclosed in the 10-Q for the quarter ended on September 30, 2026. Vehicle production and delivery numbers represent passenger vehicles sold to customers.
+--------------------------------------------------------------------------------
+Q3 2026 Earnings Consensus | Tesla Investor Relations (https://ir.tesla.com/press-release/earnings-consensus-third-quarter-2026)
+citeturn504view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn501view3","lineno":3}); Total lines: 45
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: ## Q3 2026 Earnings Consensus
+L4: 
+L5: Oct 19, 2026
+L6: 
+L7: Please find below the latest company-compiled earnings consensus estimates of sell-side analysts. Tesla does not endorse any information, recommendations or conclusions made by the analysts. Q3-2026 and 2026 data represent company-compiled consensus estimates.
+L8: Estimates provided by: Baird, Barclays, BofA, BNP Paribas, Cantor Fitzgerald, Canaccord, Cowen, Daiwa, DB, Evercore ISI, GS, HSBC, Jefferies, JPM, Mizuho, Morgan Stanley, OpCo, RBC, StoneX, Truist, UBS, William Blair, Wolfe
+L9:    | Q3-2026  |    | 2026
+L10: P&L  | Average  | Median  | St. Deviation  | # of Inputs  |    | Average  | Median  | St. Deviation  | # of Inputs
+L11: Automotive  | 20,272  | 20,428  | 731  | 23  |    | 76,454  | 76,362  | 2,063  | 22
+L12: Energy generation and storage  | 3,720  | 3,556  | 634  | 23  |    | 13,736  | 13,482  | 1,222  | 22
+L13: Services and other  | 4,349  | 4,391  | 367  | 23  |    | 16,970  | 16,724  | 836  | 22
+L14: Total revenues  | 28,341  | 28,264  | 746  | 23  |    | 107,130  | 106,908  | 2,279  | 23
+L15: COGS  | -23,280  | -23,388  | 664  | 23  |    | -87,457  | -87,850  | 1,957  | 23
+L16: Gross profit  | 5,061  | 5,022  | 262  | 23  |    | 19,673  | 19,506  | 633  | 23
+L17: Gross margin  | 17.9%  | 18.0%  | 0.8%  | 23  |    | 18.4%  | 18.4%  | 0.5%  | 23
+L18: Operating Expenses GAAP  | -4,340  | -4,387  | 242  | 23  |    | -16,829  | -16,887  | 581  | 23
+L19: Income (loss) from operations  | 721  | 687  | 349  | 23  |    | 2,844  | 2,848  | 862  | 23
+L20: Operating margin  | 2.5%  | 2.5%  | 1.2%  | 23  |    | 2.6%  | 2.7%  | 0.8%  | 23
+L21: Interest and other  | 392  | 341  | 260  | 23  |    | 1,518  | 1,388  | 486  | 23
+L22: Income (loss) before income taxes  | 1,113  | 1,011  | 489  | 23  |    | 4,362  | 4,135  | 1,129  | 23
+L23: Taxes  | -285  | -244  | 127  | 23  |    | -1,113  | -989  | 312  | 23
+L24: Net income (loss)  | 828  | 768  | 390  | 23  |    | 3,323  | 3,248  | 910  | 22
+L25: Net income (loss) attributable to NCI and redeemable NCI  | 12  | 14  | 5  | 23  |    | 51  | 56  | 10  | 23
+L26: Net income (loss) attributable to common stockholders  | 815  | 755  | 390  | 23  |    | 3,221  | 3,187  | 921  | 23
+L27: Share count (diluted)  | 3,584  | 3,543  | 144  | 23  |    | 3,594  | 3,542  | 158  | 23
+L28: EPS - GAAP  | 0.23  | 0.21  | 0.11  | 23  |    | 0.90  | 0.90  | 0.26  | 23
+L29: Total SBC, net of tax  | 890  | 875  | 195  | 23  |    | 3,600  | 3,552  | 494  | 22
+L30: Digital assets unrealized (gain) loss, net of tax  | -288  | -217  | 390  | 7  |    | -333  | -14  | 968  | 13
+L31: SpaceX equity investment unrealized gain, net of tax  | 111  | 280  | 405  | 6  |    | -813  | -763  | 220  | 12
+L32: EPS - non-GAAP  | 0.45  | 0.45  | 0.10  | 23  |    | 1.69  | 1.67  | 0.28  | 23
+L33:    |    |    |    |    |    |    |    |    |
+L34: Cash Flow and Energy  | Average  | Median  | St. Deviation  | # of Inputs  |    | Average  | Median  | St. Deviation  | # of Inputs
+L35: Operating CF  | 3,267  | 3,246  | 1,522  | 20  |    | 15,622  | 14,908  | 2,178  | 20
+L36: Capex  | -7,771  | -8,000  | 564  | 21  |    | -25,354  | -25,546  | 838  | 21
+L37: FCF  | -4,506  | -4,385  | 1,511  | 20  |    | -9,717  | -9,800  | 2,319  | 20
+L38: Cash, cash equivalents and marketable securities  | 39,009  | 39,087  | 1,553  | 19  |    | 34,799  | 34,623  | 2,704  | 19
+L39:    |    |    |    |    |    |    |    |    |
+L40: Energy GWh  |    |    |    |    |    | 52.4  | 53.1  | 9.2  | 20
+L41:    |    |    |    |    |    |    |    |    |
+L42: Other Models deliveries  |    |    |    |    |    | 55,107  | 43,389  | 45,068  | 21
+L43: Model 3/Y deliveries  |    |    |    |    |    | 1,730,717  | 1,747,892  | 72,670  | 21
+L44: Total deliveries  |    |    |    |    |    | 1,783,692  | 1,790,181  | 37,714  | 23
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1437424/000149315226037615/ex99-1.htm)
+citeturn504view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn503view1","id":57}); Total lines: 1551
+L0: EX-99.1 2 ex99-1.htm EX-99.1
+L1: 
+L2: 
+L3: 
+L4: Exhibit 99.1
+L5: 
+L6: 
+L7: 
+L8: CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+L9: 
+L10: 
+L11: 
+L12: For the Three and Six Months Ended June 30, 2026
+L13: 
+L14: (Unaudited and Expressed in US Dollars)
+L15: 
+L16: 
+L17: 
+L18: POET TECHNOLOGIES INC.
+L19: 
+L20: 
+L21: 
+L22: Page 1
+L23: 
+L24: 
+L25: 
+L26: 
+L27: 
+L28: POET TECHNOLOGIES INC.
+L29: 
+L30: 
+L31: 
+L32: CONDENSED INTERIM CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+L33: 
+L34: (Expressed in US Dollars)
+L35: 
+L36: (Unaudited)
+L37:    |    | June 30,  |    |    | December 31,  |
+L38:    |    | 2026  |    |    | 2025  |
+L39:    |    |    |    |    |    |
+L40: Assets  |    |    |    |    |    |    |    |
+L41: Current  |    |    |    |    |    |    |    |
+L42: Cash and cash equivalents (Note 2)  |    | $  | 432,531,904  |    |    | $  | 39,959,201  |
+L43: Short-term investments (Note 2)  |    |    | 363,809,999  |    |    |    | 273,439,102  |
+L44: Accounts receivable (Note 10)  |    |    | 389,772  |    |    |    | -  |
+L45: Prepaids and other current assets (Note 4)  |    |    | 2,754,532  |    |    |    | 1,063,528  |
+L46:    |    |    | 799,486,207  |    |    |    | 314,461,831  |
+L47: Long term deposit (Note 15)  |    |    | 375,812  |    |    |    | 208,125  |
+L48: Deferred customer consideration (Note 24 )  |    |    | 30,142,069  |    |    |    | -  |
+L49: Loan receivable (Note 22)  |    |    | 30,644,384  |    |    |    | -  |
+L50: Investments (Note 23)  |    |    | 2,955,150  |    |    |    | -  |
+L51: Property and equipment (Note 6)  |    |    | 15,851,816  |    |    |    | 12,233,828  |
+L52: Patents and licenses (Note 7)  |    |    | 576,028  |    |    |    | 556,375  |
+L53: Right of use assets (Note 8)  |    |    | 1,773,843  |    |    |    | 1,112,279  |
+L54:    |    | $  | 881,805,309  |    |    | $  | 328,572,438  |
+L55: Liabilities  |    |    |    |    |    |    |    |
+L56: Current  |    |    |    |    |    |    |    |
+L57: Accounts payable and accrued liabilities (Note 9)  |    | $  | 4,433,795  |    |    | $  | 1,639,543  |
+L58: Convertible debt (Note 5)  |    |    | 5,800,000  |    |    |    | 5,800,000  |
+L59: Lease liability (Note 8)  |    |    | 391,548  |    |    |    | 236,304  |
+L60: Derivative warrant liability (Note 21)  |    |    | 22,020,827  |    |    |    | 135,631,585  |
+L61: Contract liability (Note 10)  |    |    | 45,412  |    |    |    | 445,840  |
+L62:    |    |    | 32,691,582  |    |    |    | 143,753,272  |
+L63: Non-current lease liability (Note 8)  |    |    | 1,606,311  |    |    |    | 1,029,894  |
+L64:    |    |    | 34,297,893  |    |    |    | 144,783,166  |
+L65: Shareholders’ Equity  |    |    |    |    |    |    |    |
+L66: Share capital (Note 11(b))  |    |    | 720,134,275  |    |    |    | 443,076,163  |
+L67: Warrants (Note 12)  |    |    | 435,942,629  |    |    |    | 30,599,602  |
+L68: Contributed surplus (Note 13)  |    |    | 14,507,999  |    |    |    | 9,329,724  |
+L69: Accumulated other comprehensive loss  |    |    | (2,301,007  | )  |    |    | (2,121,883  | )
+L70: Deficit  |    |    | (320,776,480  | )  |    |    | (297,094,334  | )
+L71:    |    |    | 847,507,416  |    |    |    | 183,789,272  |
+L72:    |    | $  | 881,805,309  |    |    | $  | 328,572,438  |
+L73: 
+L74: 
+L75: Commitments and contingencies (Note 15)
+L76: 
+L77: On behalf of the Board of Directors
+L78: 
+L79: 
+L80: 
+L81: /s/ Suresh Venkatesan  |    | /s/ Robert Tirva
+L82: Director  |    | Director
+L83: 
+L84: 
+L85: 
+L86: The accompanying notes are an integral part of these condensed interim consolidated financial statements.
+L87: 
+L88: 
+L89: 
+L90: Page 2
+L91: 
+L92: 
+L93: 
+L94: 
+L95: 
+L96: POET TECHNOLOGIES INC.
+L97: 
+L98: 
+L99: 
+L100: CONDENSED INTERIM CONSOLIDATED STATEMENTS OF OPERATIONS AND DEFICIT
+L101: 
+L102: (Expressed in US Dollars)
+L103:    |    | Three Months Ended  |    |    | Six Months Ended  |
+L104:    |    | June 30,  |    |    | June 30,  |
+L105:    |    | 2026  |    |    | 2025  |    |    | 2026  |    |    | 2025  |
+L106:    |    |    |    |    |    |    |    |    |    |    |    |
+L107: Revenue (Note 3)  |    | $  | 569,925  |    |    | $  | 268,469  |    |    | $  | 1,073,314  |    |    | $  | 435,229  |
+L108:    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+L109: Operating expenses  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+L110: Selling, marketing and administration (Note 20)  |    |    | 13,767,138  |    |    |    | 5,273,193  |    |    |    | 26,300,351  |    |    |    | 10,462,255  |
+L111: Research and development (Note 20)  |    |    | 6,993,258  |    |    |    | 3,752,352  |    |    |    | 12,833,592  |    |    |    | 8,266,459  |
+L112: Operating expenses  |    |    | 20,760,396  |    |    |    | 9,025,545  |    |    |    | 39,133,943  |    |    |    | 18,728,714  |
+L113: Operating loss before the following  |    |    | (20,190,471  | )  |    |    | (8,757,076  | )  |    |    | (38,060,629  | )  |    |    | (18,293,485  | )
+L114: Interest expense (Note 8)  |    |    | (67,894  | )  |    |    | (30,925  | )  |    |    | (114,411  | )  |    |    | (63,711  | )
+L115: Other income, including interest  |    |    | 4,299,496  |    |    |    | 533,308  |    |    |    | 8,269,787  |    |    |    | 1,061,090  |
+L116: Unrealized foreign exchange  |    |    | (910,975  | )  |    |    | (1,448,691  | )  |    |    | (910,975  | )  |    |    | (1,448,691  | )
+L117: Fair value adjustment to derivative warrant liability (Note 21)  |    |    | 5,531,784  |    |    |    | (7,559,991  | )  |    |    | 7,134,082  |    |    |    | 7,822,980  |
+L118: Net loss  |    |    | (11,338,060  | )  |    |    | (17,263,375  | )  |    |    | (23,682,146  | )  |    |    | (10,921,817  | )
+L119:    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+L120: Deficit, beginning of period  |    |    | (309,438,420  | )  |    |    | (264,645,290  | )  |    |    | (297,094,334  | )  |    |    | (270,986,848  | )
+L121: Net loss  |    |    | (11,338,060  | )  |    |    | (17,263,375  | )  |    |    | (23,682,146  | )  |    |    | (10,921,817  | )
+L122: Deficit, end of period  |    | $  | (320,776,480  | )  |    | $  | (281,908,665  | )  |    | $  | (320,776,480  | )  |    | $  | (281,908,665  | )
+L123: Basic and diluted loss per share (Note 14)  |    | $  | (0.07  | )  |    | $  | (0.21  | )  |    | $  | (0.15  | )  |    | $  | (0.14  | )
+L124: 
+L125: 
+L126: CONDENSED INTERIM CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+L127: 
+L128: (Expressed in US Dollars)
+L129:    |    | Three Months Ended  |    |    | Six Months Ended  |
+L130:    |    | June 30,  |    |    | June 30,  |
+L131:    |    | 2026  |    |    | 2025  |    |    | 2026  |    |    | 2025  |
+L132:    |    |    |    |    |    |    |    |    |    |    |    |
+L133: Net loss  |    | $  | (11,338,060  | )  |    | $  | (17,263,375  | )  |    | $  | (23,682,146  | )  |    | $  | (10,921,817  | )
+L134:    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+L135: Other comprehensive income (loss)  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+L136: Exchange differences on translating foreign operations  |    |    | 145,005  |    |    |    | 1,765,327  |    |    |    | (179,124  | )  |    |    | 1,600,496  |
+L137: Comprehensive income (loss)  |    | $  | (11,193,055  | )  |    | $  | (15,498,048  | )  |    | $  | (23,861,270  | )  |    | $  | (9,321,321  | )
+L138: 
+L139: 
+L140: The accompanying notes are an integral part of these condensed interim consolidated financial statements.
+L141: 
+L142: 
+L143: 
+L144: Page 3
+L145: 
+L146: 
+L147: 
+L148: 
+L149: 
+L150: POET TECHNOLOGIES INC.
+L151: 
+L152: 
+L153: 
+L154: CONDENSED INTERIM CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+L155: 
+L156: (Expressed in US Dollars)
+L157: For the Six Months Ended June 30,  |    | 2026  |    |    | 2025  |
+L158: Share Capital  |    |    |    |    |    |    |    |
+L159: Beginning balance  |    | $  | 443,076,163  |    |    | $  | 223,742,335  |
+L160: Funds from the exercise of warrants  |    |    | 665,304  |    |    |    | 4,673,721  |
+L161: Fair value assigned to warrants exercised  |    |    | 6,307,568  |    |    |    | 2,380,831  |
+L162: Value assigned to vested RSUs  |    |    | 375,445  |    |    |    | -  |
+L163: Funds from the exercise of stock options  |    |    | 869,404  |    |    |    | 1,079,658  |
+L164: Fair value assigned to stock options exercised  |    |    | 1,749,952  |    |    |    | 2,218,084  |
+L165: Funds from common shares issued on private placement or public offerings  |    |    | 550,000,026  |    |    |    | 30,000,000  |
+L166: Fair value of warrants issued on private placement  |    |    | (275,031,848  | )  |    |    | (20,077,238  | )
+L167: Share issue costs  |    |    | (7,877,739  | )  |    |    | (127,694  | )
+L168: June 30,  |    |    | 720,134,275  |    |    |    | 243,889,697  |
+L169: Warrants  |    |    |    |    |    |    |    |
+L170: Beginning balance  |    |    | 30,599,602  |    |    |    | 11,157,738  |
+L171: Fair value of warrants reclassified from derivative warrant liability  |    |    | 131,444,528  |    |    |    | -  |
+L172: Fair value assigned to warrants exercised  |    |    | (1,133,349  | )  |    |    | (2,015,951  | )
+L173: Fair value of warrants issued on private placement  |    |    | 275,031,848  |    |    |    | 20,077,238  |
+L174: June 30,  |    |    | 435,942,629  |    |    |    | 29,219,025  |
+L175: Contributed Surplus  |    |    |    |    |    |    |    |
+L176: Beginning balance  |    |    | 9,329,724  |    |    |    | 58,724,750  |
+L177: Stock-based compensation  |    |    | 7,303,672  |    |    |    | 2,007,275  |
+L178: Fair value of stock options exercised  |    |    | (1,749,952  | )  |    |    | (2,218,084  | )
+L179: Fair value of vested RSUs  |    |    | (375,445  | )  |    |    | -  |
+L180: June 30,  |    |    | 14,507,999  |    |    |    | 58,513,941  |
+L181: Accumulated Other Comprehensive Loss  |    |    |    |    |    |    |    |
+L182: Beginning balance  |    |    | (2,121,883  | )  |    |    | (1,949,088  | )
+L183: Other comprehensive loss attributable to common shareholders - translation adjustment  |    |    | (179,124  | )  |    |    | 1,600,496  |
+L184: June 30,  |    |    | (2,301,007  | )  |    |    | (348,592  | )
+L185: Deficit  |    |    |    |    |    |    |    |
+L186: Beginning balance  |    |    | (297,094,334  | )  |    |    | (270,986,848  | )
+L187: Net income (loss)  |    |    | (23,682,146  | )  |    |    | (10,921,817  | )
+L188: June 30,  |    |    | (320,776,480  | )  |    |    | (281,908,665  | )
+L189: Total shareholders’ equity  |    | $  | 847,507,416  |    |    | $  | 49,365,406  |
+L190: 
+L191: 
+L192: The accompanying notes are an integral part of these condensed interim consolidated financial statements.
+L193: 
+L194: 
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1437424/000149315226037615/ex99-2.htm)
+citeturn504view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn503view1","id":58}); Total lines: 1194
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1437424/000117184326005485/exh_991.htm)
+citeturn504view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn503view0","id":58}); Total lines: 87
+

@@ -1,0 +1,1302 @@
+
+nvt-20260630
+false000172063512/312026Q2xbrli:sharesiso4217:USDiso4217:USDxbrli:sharesnvt:segmentxbrli:pure00017206352026-01-012026-06-3000017206352026-06-3000017206352026-04-012026-06-3000017206352025-04-012025-06-3000017206352025-01-012025-06-3000017206352025-12-3100017206352024-12-3100017206352025-06-300001720635us-gaap:CommonStockMember2025-12-310001720635us-gaap:AdditionalPaidInCapitalMember2025-12-310001720635us-gaap:RetainedEarningsMember2025-12-310001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-12-310001720635us-gaap:RetainedEarningsMember2026-01-012026-03-3100017206352026-01-012026-03-310001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-01-012026-03-310001720635us-gaap:CommonStockMember2026-01-012026-03-310001720635us-gaap:AdditionalPaidInCapitalMember2026-01-012026-03-310001720635us-gaap:CommonStockMember2026-03-310001720635us-gaap:AdditionalPaidInCapitalMember2026-03-310001720635us-gaap:RetainedEarningsMember2026-03-310001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-03-3100017206352026-03-310001720635us-gaap:RetainedEarningsMember2026-04-012026-06-300001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-04-012026-06-300001720635us-gaap:CommonStockMember2026-04-012026-06-300001720635us-gaap:AdditionalPaidInCapitalMember2026-04-012026-06-300001720635us-gaap:CommonStockMember2026-06-300001720635us-gaap:AdditionalPaidInCapitalMember2026-06-300001720635us-gaap:RetainedEarningsMember2026-06-300001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-06-300001720635us-gaap:CommonStockMember2024-12-310001720635us-gaap:AdditionalPaidInCapitalMember2024-12-310001720635us-gaap:RetainedEarningsMember2024-12-310001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2024-12-310001720635us-gaap:RetainedEarningsMember2025-01-012025-03-3100017206352025-01-012025-03-310001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-01-012025-03-310001720635us-gaap:CommonStockMember2025-01-012025-03-310001720635us-gaap:AdditionalPaidInCapitalMember2025-01-012025-03-310001720635us-gaap:CommonStockMember2025-03-310001720635us-gaap:AdditionalPaidInCapitalMember2025-03-310001720635us-gaap:RetainedEarningsMember2025-03-310001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-03-3100017206352025-03-310001720635us-gaap:RetainedEarningsMember2025-04-012025-06-300001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-04-012025-06-300001720635us-gaap:CommonStockMember2025-04-012025-06-300001720635us-gaap:AdditionalPaidInCapitalMember2025-04-012025-06-300001720635us-gaap:CommonStockMember2025-06-300001720635us-gaap:AdditionalPaidInCapitalMember2025-06-300001720635us-gaap:RetainedEarningsMember2025-06-300001720635us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-06-300001720635us-gaap:DiscontinuedOperationsHeldforsaleMembernvt:ThermalManagementMember2025-01-300001720635srt:AmericasMembernvt:EnclosuresSegmentMember2026-04-012026-06-300001720635srt:AmericasMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-04-012026-06-300001720635srt:AmericasMember2026-04-012026-06-300001720635us-gaap:EMEAMembernvt:EnclosuresSegmentMember2026-04-012026-06-300001720635us-gaap:EMEAMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-04-012026-06-300001720635us-gaap:EMEAMember2026-04-012026-06-300001720635srt:AsiaPacificMembernvt:EnclosuresSegmentMember2026-04-012026-06-300001720635srt:AsiaPacificMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-04-012026-06-300001720635srt:AsiaPacificMember2026-04-012026-06-300001720635nvt:EnclosuresSegmentMember2026-04-012026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMember2026-04-012026-06-300001720635srt:AmericasMembernvt:EnclosuresSegmentMember2026-01-012026-06-300001720635srt:AmericasMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-01-012026-06-300001720635srt:AmericasMember2026-01-012026-06-300001720635us-gaap:EMEAMembernvt:EnclosuresSegmentMember2026-01-012026-06-300001720635us-gaap:EMEAMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-01-012026-06-300001720635us-gaap:EMEAMember2026-01-012026-06-300001720635srt:AsiaPacificMembernvt:EnclosuresSegmentMember2026-01-012026-06-300001720635srt:AsiaPacificMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-01-012026-06-300001720635srt:AsiaPacificMember2026-01-012026-06-300001720635nvt:EnclosuresSegmentMember2026-01-012026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMember2026-01-012026-06-300001720635srt:AmericasMembernvt:EnclosuresSegmentMember2025-04-012025-06-300001720635srt:AmericasMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-04-012025-06-300001720635srt:AmericasMember2025-04-012025-06-300001720635us-gaap:EMEAMembernvt:EnclosuresSegmentMember2025-04-012025-06-300001720635us-gaap:EMEAMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-04-012025-06-300001720635us-gaap:EMEAMember2025-04-012025-06-300001720635srt:AsiaPacificMembernvt:EnclosuresSegmentMember2025-04-012025-06-300001720635srt:AsiaPacificMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-04-012025-06-300001720635srt:AsiaPacificMember2025-04-012025-06-300001720635nvt:EnclosuresSegmentMember2025-04-012025-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMember2025-04-012025-06-300001720635srt:AmericasMembernvt:EnclosuresSegmentMember2025-01-012025-06-300001720635srt:AmericasMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-01-012025-06-300001720635srt:AmericasMember2025-01-012025-06-300001720635us-gaap:EMEAMembernvt:EnclosuresSegmentMember2025-01-012025-06-300001720635us-gaap:EMEAMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-01-012025-06-300001720635us-gaap:EMEAMember2025-01-012025-06-300001720635srt:AsiaPacificMembernvt:EnclosuresSegmentMember2025-01-012025-06-300001720635srt:AsiaPacificMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-01-012025-06-300001720635srt:AsiaPacificMember2025-01-012025-06-300001720635nvt:EnclosuresSegmentMember2025-01-012025-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMember2025-01-012025-06-300001720635nvt:EnclosuresSegmentMembernvt:InfrastructureSectorMember2026-04-012026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:InfrastructureSectorMember2026-04-012026-06-300001720635nvt:InfrastructureSectorMember2026-04-012026-06-300001720635nvt:EnclosuresSegmentMembernvt:IndustrialSectorMember2026-04-012026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:IndustrialSectorMember2026-04-012026-06-300001720635nvt:IndustrialSectorMember2026-04-012026-06-300001720635nvt:EnclosuresSegmentMembernvt:CommercialAndResidentialSectorMember2026-04-012026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:CommercialAndResidentialSectorMember2026-04-012026-06-300001720635nvt:CommercialAndResidentialSectorMember2026-04-012026-06-300001720635nvt:EnclosuresSegmentMembernvt:InfrastructureSectorMember2026-01-012026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:InfrastructureSectorMember2026-01-012026-06-300001720635nvt:InfrastructureSectorMember2026-01-012026-06-300001720635nvt:EnclosuresSegmentMembernvt:IndustrialSectorMember2026-01-012026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:IndustrialSectorMember2026-01-012026-06-300001720635nvt:IndustrialSectorMember2026-01-012026-06-300001720635nvt:EnclosuresSegmentMembernvt:CommercialAndResidentialSectorMember2026-01-012026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:CommercialAndResidentialSectorMember2026-01-012026-06-300001720635nvt:CommercialAndResidentialSectorMember2026-01-012026-06-300001720635nvt:EnclosuresSegmentMembernvt:InfrastructureSectorMember2025-04-012025-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:InfrastructureSectorMember2025-04-012025-06-300001720635nvt:InfrastructureSectorMember2025-04-012025-06-300001720635nvt:EnclosuresSegmentMembernvt:IndustrialSectorMember2025-04-012025-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:IndustrialSectorMember2025-04-012025-06-300001720635nvt:IndustrialSectorMember2025-04-012025-06-300001720635nvt:EnclosuresSegmentMembernvt:CommercialAndResidentialSectorMember2025-04-012025-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:CommercialAndResidentialSectorMember2025-04-012025-06-300001720635nvt:CommercialAndResidentialSectorMember2025-04-012025-06-300001720635nvt:EnclosuresSegmentMembernvt:InfrastructureSectorMember2025-01-012025-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:InfrastructureSectorMember2025-01-012025-06-300001720635nvt:InfrastructureSectorMember2025-01-012025-06-300001720635nvt:EnclosuresSegmentMembernvt:IndustrialSectorMember2025-01-012025-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:IndustrialSectorMember2025-01-012025-06-300001720635nvt:IndustrialSectorMember2025-01-012025-06-300001720635nvt:EnclosuresSegmentMembernvt:CommercialAndResidentialSectorMember2025-01-012025-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMembernvt:CommercialAndResidentialSectorMember2025-01-012025-06-300001720635nvt:CommercialAndResidentialSectorMember2025-01-012025-06-3000017206352026-07-012026-06-300001720635srt:MaximumMember2026-07-012026-06-300001720635nvt:SeveranceAndRelatedCostsMember2026-04-012026-06-300001720635nvt:SeveranceAndRelatedCostsMember2025-04-012025-06-300001720635nvt:SeveranceAndRelatedCostsMember2026-01-012026-06-300001720635nvt:SeveranceAndRelatedCostsMember2025-01-012025-06-300001720635us-gaap:OtherRestructuringMember2026-04-012026-06-300001720635us-gaap:OtherRestructuringMember2025-04-012025-06-300001720635us-gaap:OtherRestructuringMember2026-01-012026-06-300001720635us-gaap:OtherRestructuringMember2025-01-012025-06-300001720635us-gaap:OperatingSegmentsMembernvt:EnclosuresSegmentMember2026-04-012026-06-300001720635us-gaap:OperatingSegmentsMembernvt:EnclosuresSegmentMember2025-04-012025-06-300001720635us-gaap:OperatingSegmentsMembernvt:EnclosuresSegmentMember2026-01-012026-06-300001720635us-gaap:OperatingSegmentsMembernvt:EnclosuresSegmentMember2025-01-012025-06-300001720635us-gaap:OperatingSegmentsMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-04-012026-06-300001720635us-gaap:OperatingSegmentsMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-04-012025-06-300001720635us-gaap:OperatingSegmentsMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-01-012026-06-300001720635us-gaap:OperatingSegmentsMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-01-012025-06-300001720635us-gaap:OperatingSegmentsMemberus-gaap:CorporateAndOtherMember2026-04-012026-06-300001720635us-gaap:OperatingSegmentsMemberus-gaap:CorporateAndOtherMember2025-04-012025-06-300001720635us-gaap:OperatingSegmentsMemberus-gaap:CorporateAndOtherMember2026-01-012026-06-300001720635us-gaap:OperatingSegmentsMemberus-gaap:CorporateAndOtherMember2025-01-012025-06-300001720635nvt:ElectricalProductsGroupMember2025-05-010001720635nvt:ElectricalProductsGroupMember2026-03-310001720635nvt:ElectricalProductsGroupMember2026-06-300001720635nvt:ElectricalProductsGroupMemberus-gaap:CustomerRelationshipsMember2025-05-010001720635nvt:ElectricalProductsGroupMemberus-gaap:CustomerRelationshipsMembersrt:MinimumMember2025-05-010001720635nvt:ElectricalProductsGroupMemberus-gaap:CustomerRelationshipsMembersrt:MaximumMember2025-05-010001720635nvt:ElectricalProductsGroupMemberus-gaap:TechnologyBasedIntangibleAssetsMember2025-05-010001720635nvt:ElectricalProductsGroupMembernvt:CustomerBacklogMember2025-05-010001720635nvt:TrachteLLCAndECMInvestorsLLCMember2025-04-012025-06-300001720635nvt:TrachteLLCAndECMInvestorsLLCMember2025-01-012025-06-300001720635us-gaap:DiscontinuedOperationsHeldforsaleMember2025-01-300001720635us-gaap:DiscontinuedOperationsHeldforsaleMembernvt:ThermalManagementMember2025-04-012025-06-300001720635us-gaap:DiscontinuedOperationsHeldforsaleMember2026-04-012026-06-300001720635us-gaap:DiscontinuedOperationsHeldforsaleMember2025-04-012025-06-300001720635us-gaap:DiscontinuedOperationsHeldforsaleMember2026-01-012026-06-300001720635us-gaap:DiscontinuedOperationsHeldforsaleMember2025-01-012025-06-300001720635nvt:EnclosuresSegmentMember2025-12-310001720635nvt:EnclosuresSegmentMember2026-06-300001720635nvt:ElectricalandFasteningSolutionsSegmentMember2025-12-310001720635nvt:ElectricalandFasteningSolutionsSegmentMember2026-06-300001720635us-gaap:CustomerRelationshipsMember2026-06-300001720635us-gaap:CustomerRelationshipsMember2025-12-310001720635us-gaap:PatentedTechnologyMember2026-06-300001720635us-gaap:PatentedTechnologyMember2025-12-310001720635nvt:OtherFiniteLivedIntangibleAssetsMember2026-06-300001720635nvt:OtherFiniteLivedIntangibleAssetsMember2025-12-310001720635us-gaap:TradeNamesMember2026-06-300001720635us-gaap:TradeNamesMember2025-12-310001720635us-gaap:ForeignExchangeContractMember2026-06-300001720635us-gaap:ForeignExchangeContractMember2025-12-310001720635us-gaap:CurrencySwapMember2026-06-300001720635us-gaap:CurrencySwapMember2025-12-310001720635us-gaap:CarryingReportedAmountFairValueDisclosureMember2026-06-300001720635us-gaap:EstimateOfFairValueFairValueDisclosureMember2026-06-300001720635us-gaap:CarryingReportedAmountFairValueDisclosureMember2025-12-310001720635us-gaap:EstimateOfFairValueFairValueDisclosureMember2025-12-310001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel1Member2026-06-300001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel2Member2026-06-300001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel3Member2026-06-300001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueMeasuredAtNetAssetValuePerShareMember2026-06-300001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel1Member2026-06-300001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel2Member2026-06-300001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel3Member2026-06-300001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueMeasuredAtNetAssetValuePerShareMember2026-06-300001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001720635us-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel1Member2026-06-300001720635us-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel2Member2026-06-300001720635us-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel3Member2026-06-300001720635us-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueMeasuredAtNetAssetValuePerShareMember2026-06-300001720635us-gaap:FairValueMeasurementsRecurringMember2026-06-300001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel1Member2025-12-310001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel2Member2025-12-310001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel3Member2025-12-310001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueMeasuredAtNetAssetValuePerShareMember2025-12-310001720635us-gaap:CurrencySwapMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel1Member2025-12-310001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel2Member2025-12-310001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel3Member2025-12-310001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueMeasuredAtNetAssetValuePerShareMember2025-12-310001720635us-gaap:ForwardContractsMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001720635us-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel1Member2025-12-310001720635us-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel2Member2025-12-310001720635us-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueInputsLevel3Member2025-12-310001720635us-gaap:FairValueMeasurementsRecurringMemberus-gaap:FairValueMeasuredAtNetAssetValuePerShareMember2025-12-310001720635us-gaap:FairValueMeasurementsRecurringMember2025-12-310001720635us-gaap:RevolvingCreditFacilityMemberus-gaap:SeniorNotesMember2026-06-300001720635us-gaap:RevolvingCreditFacilityMemberus-gaap:SeniorNotesMember2025-12-310001720635us-gaap:LineOfCreditMembernvt:A2025TermLoanFacilityMemberus-gaap:SeniorNotesMember2026-06-300001720635us-gaap:LineOfCreditMembernvt:A2025TermLoanFacilityMemberus-gaap:SeniorNotesMember2025-12-310001720635nvt:SeniorNotesFourPointFiveFivePercentDueTwentyTwentyEightMemberus-gaap:SeniorNotesMember2018-03-310001720635nvt:SeniorNotesFourPointFiveFivePercentDueTwentyTwentyEightMemberus-gaap:SeniorNotesMember2026-06-300001720635nvt:SeniorNotesFourPointFiveFivePercentDueTwentyTwentyEightMemberus-gaap:SeniorNotesMember2025-12-310001720635nvt:SeniorNotesTwoPointSevenFiveMemberus-gaap:SeniorNotesMember2021-11-300001720635nvt:SeniorNotesTwoPointSevenFiveMemberus-gaap:SeniorNotesMember2026-06-300001720635nvt:SeniorNotesTwoPointSevenFiveMemberus-gaap:SeniorNotesMember2025-12-310001720635nvt:SeniorNotesFivePointSixFiveMemberus-gaap:SeniorNotesMember2023-05-310001720635nvt:SeniorNotesFivePointSixFiveMemberus-gaap:SeniorNotesMember2026-06-300001720635nvt:SeniorNotesFivePointSixFiveMemberus-gaap:SeniorNotesMember2025-12-310001720635us-gaap:LineOfCreditMemberus-gaap:SeniorNotesMember2025-06-012025-06-300001720635us-gaap:LineOfCreditMemberus-gaap:SeniorNotesMember2025-06-300001720635us-gaap:RevolvingCreditFacilityMemberus-gaap:SeniorNotesMember2025-06-012025-06-300001720635us-gaap:RevolvingCreditFacilityMemberus-gaap:SeniorNotesMember2025-06-300001720635nvt:SeniorCreditFacilitiesMembersrt:MinimumMemberus-gaap:SeniorNotesMember2026-06-300001720635nvt:SeniorCreditFacilitiesMembersrt:MaximumMemberus-gaap:SeniorNotesMember2026-06-300001720635nvt:SeniorCreditFacilitiesMemberus-gaap:SeniorNotesMember2026-06-3000017206352024-05-1700017206352026-05-160001720635us-gaap:OperatingSegmentsMember2026-04-012026-06-300001720635us-gaap:OperatingSegmentsMember2026-01-012026-06-300001720635us-gaap:OperatingSegmentsMember2025-04-012025-06-300001720635us-gaap:OperatingSegmentsMember2025-01-012025-06-300001720635us-gaap:MaterialReconcilingItemsMembernvt:EnterpriseAndOtherMember2026-04-012026-06-300001720635us-gaap:MaterialReconcilingItemsMembernvt:EnterpriseAndOtherMember2025-04-012025-06-300001720635us-gaap:MaterialReconcilingItemsMembernvt:EnterpriseAndOtherMember2026-01-012026-06-300001720635us-gaap:MaterialReconcilingItemsMembernvt:EnterpriseAndOtherMember2025-01-012025-06-300001720635us-gaap:MaterialReconcilingItemsMember2026-04-012026-06-300001720635us-gaap:MaterialReconcilingItemsMember2025-04-012025-06-300001720635us-gaap:MaterialReconcilingItemsMember2026-01-012026-06-300001720635us-gaap:MaterialReconcilingItemsMember2025-01-012025-06-300001720635us-gaap:OperatingSegmentsMembernvt:EnclosuresSegmentMember2026-06-300001720635us-gaap:OperatingSegmentsMembernvt:EnclosuresSegmentMember2025-12-310001720635us-gaap:OperatingSegmentsMembernvt:ElectricalandFasteningSolutionsSegmentMember2026-06-300001720635us-gaap:OperatingSegmentsMembernvt:ElectricalandFasteningSolutionsSegmentMember2025-12-310001720635us-gaap:OperatingSegmentsMember2026-06-300001720635us-gaap:OperatingSegmentsMember2025-12-310001720635us-gaap:CorporateNonSegmentMember2026-06-300001720635us-gaap:CorporateNonSegmentMember2025-12-310001720635us-gaap:CorporateNonSegmentMember2026-04-012026-06-300001720635us-gaap:CorporateNonSegmentMember2025-04-012025-06-300001720635us-gaap:CorporateNonSegmentMember2026-01-012026-06-300001720635us-gaap:CorporateNonSegmentMember2025-01-012025-06-300001720635us-gaap:RestrictedStockUnitsRSUMember2026-04-012026-06-300001720635us-gaap:RestrictedStockUnitsRSUMember2025-04-012025-06-300001720635us-gaap:RestrictedStockUnitsRSUMember2026-01-012026-06-300001720635us-gaap:RestrictedStockUnitsRSUMember2025-01-012025-06-300001720635us-gaap:PerformanceSharesMember2026-04-012026-06-300001720635us-gaap:PerformanceSharesMember2025-04-012025-06-300001720635us-gaap:PerformanceSharesMember2026-01-012026-06-300001720635us-gaap:PerformanceSharesMember2025-01-012025-06-300001720635us-gaap:EmployeeStockOptionMember2026-04-012026-06-300001720635us-gaap:EmployeeStockOptionMember2025-04-012025-06-300001720635us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001720635us-gaap:EmployeeStockOptionMember2025-01-012025-06-300001720635nvt:RSUsPSUsAndOptionsMember2026-06-300001720635us-gaap:PaymentGuaranteeMember2026-06-300001720635us-gaap:PaymentGuaranteeMember2025-12-31
+ | | | 
+ | 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+ | | | | | | | | | 
+ | ☑ | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ For the Quarterly Period Ended June 30, 2026    
+OR
+ | | | | | | 
+ | ☐ | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934Commission file number 001-38265
+nVent Electric plc 
+ | | | 
+ | 
+(Exact name of Registrant as specified in its charter)
+ | | | | | | | | | | | | | | | 
+ | Ireland | | 98-1391970
+ | (State or other jurisdiction of incorporation or organization) | | (I.R.S. Employer Identification No.)
+The Mille, 1000 Great West Road, 8th Floor (East), London, TW8 9DW, United Kingdom
+ | | | | | | | | | | | | | | | 
+ | (Address of principal executive offices)
+Registrant's telephone number, including area code: 44-20-3966-0279
+Securities registered pursuant to Section 12(b) of the Act:
+ | | | | | | | | | 
+ | Title of each class | Trading symbol | Name of each exchange on which registered
+ | Ordinary Shares, nominal value $0.01 per share | NVT | New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.  Yes ☑ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☑ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | Large accelerated filer | ☑ | Accelerated filer  | ☐ | Non-accelerated filer  | ☐ | Smaller reporting company  | ☐ | Emerging growthcompany  | ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☑
+On June 30, 2026, 161,857,939 shares of the registrant's common stock were outstanding.
+nVent Electric plc
+ | | | | | | | | | 
+ |   | Page
+ | | 
+ | PART I FINANCIAL INFORMATION | 
+ | | | 
+ | ITEM 1. | 
+Financial Statements (unaudited) | 
+ | | | 
+ | | 
+Condensed Consolidated Statements of Income and Comprehensive Income | 
+3
+ | | | 
+ | | 
+Condensed Consolidated Balance Sheets | 
+4
+ | | | 
+ | | 
+Condensed Consolidated Statements of Cash Flows | 
+5
+ | | | 
+ | | 
+Condensed Consolidated Statements of Changes in Equity | 
+6
+ | | | 
+ | | 
+Notes to Condensed Consolidated Financial Statements | 
+7
+ | | | 
+ | ITEM 2. | 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations | 
+24
+ | | | 
+ | ITEM 3. | 
+Quantitative and Qualitative Disclosures about Market Risk | 
+34
+ | | | 
+ | ITEM 4. | 
+Controls and Procedures | 
+34
+ | | | 
+ | PART II OTHER INFORMATION | 
+ | | | 
+ | ITEM 1. | 
+Legal Proceedings | 
+35
+ | | | 
+ | ITEM 1A. | 
+Risk Factors | 
+35
+ | | | 
+ | ITEM 2. | 
+Unregistered Sales of Equity Securities and Use of Proceeds | 
+35
+ | | | 
+ | ITEM 5. | 
+Other Information | 
+35
+ | | | 
+ | ITEM 6. | 
+Exhibits | 
+36
+ | | | 
+ | | 
+Signatures | 
+37
+2
+PART I FINANCIAL INFORMATION
+ITEM 1.    FINANCIAL STATEMENTS
+nVent Electric plc
+Condensed Consolidated Statements of Income and Comprehensive Income (Unaudited)
+ | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | Six months ended
+ | In millions, except per share data | June 30,2026 | June 30,2025 | | June 30,2026 | June 30,2025
+ | Net sales | $ | 1,471.3  | | $ | 963.1  | | | $ | 2,713.3  | | $ | 1,772.4  | 
+ | Cost of goods sold | 913.3  | | 591.3  | | | 1,709.7  | | 1,086.9  | 
+ | Gross profit | 558.0  | | 371.8  | | | 1,003.6  | | 685.5  | 
+ | Selling, general and administrative | 232.8  | | 196.0  | | | 460.0  | | 362.2  | 
+ | Research and development | 24.5  | | 19.1  | | | 47.2  | | 36.6  | 
+ | | | | | | 
+ | Operating income | 300.7  | | 156.7  | | | 496.4  | | 286.7  | 
+ | | | | | | 
+ | | | | | | 
+ | | | | | | 
+ | Net interest expense | 17.4  | | 17.6  | | | 34.9  | | 35.0  | 
+ | | | | | | 
+ | | | | | | 
+ | 
+Other expense | 1.3  | | 1.1  | | | 2.6  | | 2.2  | 
+ | Income from continuing operations before income taxes | 282.0  | | 138.0  | | | 458.9  | | 249.5  | 
+ | Provision for income taxes | 66.2  | | 31.3  | | | 102.7  | | 55.8  | 
+ | Net income from continuing operations | 215.8  | | 106.7  | | | 356.2  | | 193.7  | 
+ | | | | | | 
+ | | | | | | 
+ | | | | | | 
+ | | | | | | 
+ | Income from discontinued operations, net of tax (Note 6) | 0.1  | | 2.8  | | | 2.1  | | 276.5  | 
+ | Net income | $ | 215.9  | | $ | 109.5  | | | $ | 358.3  | | $ | 470.2  | 
+ | Comprehensive income, net of tax | | | | | 
+ | Net income | $ | 215.9  | | $ | 109.5  | | | $ | 358.3  | | $ | 470.2  | 
+ | 
+Changes in cumulative translation adjustment (six months ended June 30, 2025 includes $92.7 million reclassified to gain on sale included in Income from discontinued operations, net of tax) | 1.4  | | 22.6  | | | 1.0  | | 125.6  | 
+ | | | | | | 
+ | 
+Changes in market value of derivative financial instruments, net of tax | (1.2) | | (12.2) | | | 2.4  | | (15.7) | 
+ | Comprehensive income | $ | 216.1  | | $ | 119.9  | | | $ | 361.7  | | $ | 580.1  | 
+ | | | | | | 
+ | | | | | | 
+ | Earnings per ordinary share | | | | | 
+ | Basic | | | | | 
+ | Continuing operations | $ | 1.33  | | $ | 0.66  | | | $ | 2.20  | | $ | 1.19  | 
+ | Discontinued operations | —  | | 0.02  | | | 0.01  | | 1.69  | 
+ | Basic earnings per ordinary share | $ | 1.33  | | $ | 0.68  | | | $ | 2.21  | | $ | 2.88  | 
+ | Diluted | | | | | 
+ | Continuing operations | $ | 1.32  | | $ | 0.65  | | | $ | 2.17  | | $ | 1.17  | 
+ | Discontinued operations | —  | | 0.02  | | | 0.01  | | 1.67  | 
+ | Diluted earnings per ordinary share | $ | 1.32  | | $ | 0.67  | | | $ | 2.18  | | $ | 2.84  | 
+ | Weighted average ordinary shares outstanding | | | | | 
+ | Basic | 161.8  | | 161.7  | | | 161.8  | | 163.4  | 
+ | Diluted | 164.1  | | 163.6  | | | 164.1  | | 165.4  | 
+ | Cash dividends paid per ordinary share | $ | 0.21  | | $ | 0.20  | | | $ | 0.42  | | $ | 0.40  | 
+See accompanying notes to condensed consolidated financial statements.
+3
+nVent Electric plc
+Condensed Consolidated Balance Sheets (Unaudited)
+ | | | | | | | | | 
+ |   | June 30,2026 | December 31,2025
+ | In millions, except per share data
+ | Assets
+ | Current assets | | 
+ | Cash and cash equivalents | $ | 256.0  | | $ | 237.5  | 
+ | 
+Accounts and notes receivable, net of allowances of $16.7 and $13.7, respectively | 969.3  | | 693.0  | 
+ | Inventories | 522.4  | | 471.9  | 
+ | Other current assets | 256.5  | | 237.2  | 
+ | | | 
+ | Total current assets | 2,004.2  | | 1,639.6  | 
+ | Property, plant and equipment, net | 447.9  | | 434.5  | 
+ | Other assets | | 
+ | Goodwill | 2,676.3  | | 2,678.0  | 
+ | Intangibles, net | 1,793.3  | | 1,876.5  | 
+ | Other non-current assets | 224.6  | | 223.3  | 
+ | | | 
+ | Total other assets | 4,694.2  | | 4,777.8  | 
+ | Total assets | $ | 7,146.3  | | $ | 6,851.9  | 
+ | Liabilities and Equity
+ | Current liabilities | | 
+ | Current maturities of long-term debt and short-term borrowings | $ | 13.8  | | $ | 13.8  | 
+ | Accounts payable | 496.0  | | 358.9  | 
+ | Employee compensation and benefits | 131.1  | | 156.6  | 
+ | Other current liabilities | 472.5  | | 474.2  | 
+ | | | 
+ | Total current liabilities | 1,113.4  | | 1,003.5  | 
+ | Other liabilities | | 
+ | Long-term debt | 1,478.6  | | 1,546.0  | 
+ | Pension and other post-retirement compensation and benefits | 133.3  | | 135.6  | 
+ | Deferred tax liabilities | 232.0  | | 232.0  | 
+ | Other non-current liabilities | 202.1  | | 204.6  | 
+ | | | 
+ | Total liabilities | 3,159.4  | | 3,121.7  | 
+ | Equity | | 
+ | | | 
+ | 
+Ordinary shares $0.01 par value, 400.0 million authorized, 161.9 million and 161.7 million issued at June 30, 2026 and December 31, 2025, respectively | 1.6  | | 1.6  | 
+ | Additional paid-in capital | 2,035.4  | | 2,072.3  | 
+ | Retained earnings | 1,977.7  | | 1,687.5  | 
+ | Accumulated other comprehensive loss | (27.8) | | (31.2) | 
+ | | | 
+ | | | 
+ | Total equity | 3,986.9  | | 3,730.2  | 
+ | Total liabilities and equity | $ | 7,146.3  | | $ | 6,851.9  | 
+See accompanying notes to condensed consolidated financial statements.
+4
+nVent Electric plc
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+ | | | | | | | | | 
+ |   | Six months ended
+ | In millions | June 30,2026 | June 30,2025
+ | Operating activities | | 
+ | Net income | $ | 358.3  | | $ | 470.2  | 
+ | Less: Income from discontinued operations, net of tax | 2.1  | | 276.5  | 
+ | Net income from continuing operations | 356.2  | | 193.7  | 
+ | Adjustments to reconcile net income from continuing operations to net cash provided by (used for) operating activities of continuing operations | | 
+ | | | 
+ | Depreciation | 34.2  | | 28.2  | 
+ | Amortization | 82.2  | | 64.1  | 
+ | Deferred income taxes | 1.4  | | 2.0  | 
+ | Share-based compensation | 23.1  | | 20.1  | 
+ | | | 
+ | | | 
+ | | | 
+ | | | 
+ | | | 
+ | | | 
+ | | | 
+ | | | 
+ | | | 
+ | Changes in assets and liabilities, net of effects of business acquisitions | | 
+ | Accounts and notes receivable | (280.2) | | (152.8) | 
+ | Inventories | (56.0) | | (23.0) | 
+ | Other current assets | (12.2) | | 7.2  | 
+ | Contract assets and liabilities | (24.6) | | 22.5  | 
+ | Accounts payable | 145.7  | | 22.9  | 
+ | Employee compensation and benefits | (24.7) | | 0.8  | 
+ | Other current liabilities | 32.3  | | (32.2) | 
+ | Other non-current assets and liabilities | 1.3  | | 1.4  | 
+ | Net cash provided by (used for) operating activities of continuing operations | 278.7  | | 154.9  | 
+ | Net cash provided by (used for) operating activities of discontinued operations | (10.0) | | (111.6) | 
+ | Net cash provided by (used for) operating activities | 268.7  | | 43.3  | 
+ | Investing activities | | 
+ | Capital expenditures | (57.6) | | (38.0) | 
+ | Proceeds from sale of property and equipment | —  | | 1.6  | 
+ | | | 
+ | | | 
+ | | | 
+ | Acquisitions, net of cash acquired | —  | | (971.6) | 
+ | | | 
+ | Net cash provided by (used for) investing activities of continuing operations | (57.6) | | (1,008.0) | 
+ | Net cash provided by (used for) investing activities of discontinued operations | 1.7  | | 1,584.6  | 
+ | Net cash provided by (used for) investing activities | (55.9) | | 576.6  | 
+ | Financing activities | | 
+ | Net receipts of revolving credit facility | —  | | 200.0  | 
+ | | | 
+ | | | 
+ | Proceeds from long-term debt | —  | | 275.0  | 
+ | Repayments of long-term debt | (68.3) | | (866.3) | 
+ | | | 
+ | | | 
+ | | | 
+ | Debt issuance costs | —  | | (1.9) | 
+ | | | 
+ | Dividends paid | (68.2) | | (65.7) | 
+ | Shares issued to employees, net of shares withheld | (9.6) | | (2.0) | 
+ | Repurchases of ordinary shares | (50.4) | | (253.1) | 
+ | | | 
+ | Net cash provided by (used for) financing activities | (196.5) | | (714.0) | 
+ | Effect of exchange rate changes on cash and cash equivalents | 2.2  | | 30.0  | 
+ | Change in cash and cash equivalents | 18.5  | | (64.1) | 
+ | Cash and cash equivalents, beginning of period | 237.5  | | 131.2  | 
+ | Cash and cash equivalents within assets held for sale, beginning of period | —  | | 58.7  | 
+ | Less: Cash and cash equivalents within assets held for sale, end of period | —  | | —  | 
+ | Cash and cash equivalents, end of period | $ | 256.0  | | $ | 125.8  | 
+See accompanying notes to condensed consolidated financial statements.
+5
+nVent Electric plc
+Condensed Consolidated Statements of Changes in Equity (Unaudited)
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | In millions | Ordinary shares | | | Additional paid-in capital | Retained earnings | Accumulatedothercomprehensive loss | | | Total
+ | Number | Amount | | 
+ | December 31, 2025 | 161.7  | | $ | 1.6  | | | | | $ | 2,072.3  | | $ | 1,687.5  | | $ | (31.2) | | | | $ | 3,730.2  | 
+ | Net income | —  | | —  | | | | | —  | | 142.4  | | —  | | | | 142.4  | 
+ | | | | | | | | | | | | 
+ | Other comprehensive income, net of tax | —  | | —  | | | | | —  | | —  | | 3.2  | | | | 3.2  | 
+ | | | | | | | | | | | | 
+ | Dividends declared | —  | | —  | | | | | —  | | (34.2) | | —  | | | | (34.2) | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | Share repurchases | (0.4) | | —  | | | | | (50.4) | | —  | | —  | | | | (50.4) | 
+ | | | | | | | | | | | | 
+ | Exercise of options, net of shares tendered for payment | 0.1  | | —  | | | | | 3.0  | | —  | | —  | | | | 3.0  | 
+ | Issuance of restricted shares, net of cancellations | 0.4  | | —  | | | | | —  | | —  | | —  | | | | —  | 
+ | Shares surrendered by employees to pay taxes | (0.1) | | —  | | | | | (14.1) | | —  | | —  | | | | (14.1) | 
+ | Share-based compensation | —  | | —  | | | | | 16.4  | | —  | | —  | | | | 16.4  | 
+ | | | | | | | | | | | | 
+ | March 31, 2026 | 161.7  | | $ | 1.6  | | | | | $ | 2,027.2  | | $ | 1,795.7  | | $ | (28.0) | | | | $ | 3,796.5  | 
+ | Net income | —  | | —  | | | | | —  | | 215.9  | | —  | | | | 215.9  | 
+ | | | | | | | | | | | | 
+ | Other comprehensive income, net of tax | —  | | —  | | | | | —  | | —  | | 0.2  | | | | 0.2  | 
+ | | | | | | | | | | | | 
+ | Dividends declared | —  | | —  | | | | | —  | | (33.9) | | —  | | | | (33.9) | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | Exercise of options, net of shares tendered for payment | 0.1  | | —  | | | | | 3.7  | | —  | | —  | | | | 3.7  | 
+ | Issuance of restricted shares, net of cancellations | 0.1  | | —  | | | | | —  | | —  | | —  | | | | —  | 
+ | Shares surrendered by employees to pay taxes | —  | | —  | | | | | (2.2) | | —  | | —  | | | | (2.2) | 
+ | Share-based compensation | —  | | —  | | | | | 6.7  | | —  | | —  | | | | 6.7  | 
+ | | | | | | | | | | | | 
+ | June 30, 2026 | 161.9  | | $ | 1.6  | | | | | $ | 2,035.4  | | $ | 1,977.7  | | $ | (27.8) | | | | $ | 3,986.9  | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | In millions | Ordinary shares | | | Additional paid-in capital | Retained earnings | Accumulatedothercomprehensive loss | | |  Total
+ | Number | Amount | | 
+ | December 31, 2024 | 165.0  | | $ | 1.7  | | | | | $ | 2,271.7  | | $ | 1,108.6  | | $ | (144.4) | | | | $ | 3,237.6  | 
+ | Net income | —  | | —  | | | | | —  | | 360.7  | | —  | | | | 360.7  | 
+ | | | | | | | | | | | | 
+ | Other comprehensive loss, net of tax | —  | | —  | | | | | —  | | —  | | 99.5  | | | | 99.5  | 
+ | | | | | | | | | | | | 
+ | Dividends declared | —  | | —  | | | | | —  | | (33.3) | | —  | | | | (33.3) | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | Share repurchases | (1.0) | | (0.1) | | | | | (53.0) | | —  | | —  | | | | (53.1) | 
+ | | | | | | | | | | | | 
+ | Exercise of options, net of shares tendered for payment | 0.2  | | —  | | | | | 3.6  | | —  | | —  | | | | 3.6  | 
+ | Issuance of restricted shares, net of cancellations | 0.5  | | —  | | | | | —  | | —  | | —  | | | | —  | 
+ | Shares surrendered by employees to pay taxes | (0.1) | | —  | | | | | (8.3) | | —  | | —  | | | | (8.3) | 
+ | Share-based compensation | —  | | —  | | | | | 9.4  | | —  | | —  | | | | 9.4  | 
+ | | | | | | | | | | | | 
+ | March 31, 2025 | 164.6  | | $ | 1.6  | | | | | $ | 2,223.4  | | $ | 1,436.0  | | $ | (44.9) | | | | $ | 3,616.1  | 
+ | Net income | —  | | —  | | | | | —  | | 109.5  | | —  | | | | 109.5  | 
+ | | | | | | | | | | | | 
+ | Other comprehensive loss, net of tax | —  | | —  | | | | | —  | | —  | | 10.4  | | | | 10.4  | 
+ | | | | | | | | | | | | 
+ | Dividends declared | —  | | —  | | | | | —  | | (31.5) | | —  | | | | (31.5) | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | Share repurchases | (3.9) | | —  | | | | | (200.0) | | —  | | —  | | | | (200.0) | 
+ | | | | | | | | | | | | 
+ | Exercise of options, net of shares tendered for payment | 0.2  | | —  | | | | | 3.2  | | —  | | —  | | | | 3.2  | 
+ | | | | | | | | | | | | 
+ | Shares surrendered by employees to pay taxes | —  | | —  | | | | | (0.6) | | —  | | —  | | | | (0.6) | 
+ | Share-based compensation | —  | | —  | | | | | 11.6  | | —  | | —  | | | | 11.6  | 
+ | | | | | | | | | | | | 
+ | June 30, 2025 | 160.9  | | $ | 1.6  | | | | | $ | 2,037.6  | | $ | 1,514.0  | | $ | (34.5) | | | | $ | 3,518.7  | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+See accompanying notes to condensed consolidated financial statements.
+6
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+1.Basis of Presentation and Responsibility for Interim Financial Statements
+Business
+nVent Electric plc ("nVent," "we," "us," "our" or the "Company") is a leading global provider of electrical connection and protection solutions. The Company is comprised of two reporting segments: Systems Protection and Electrical Connections.
+The Company was incorporated in Ireland on May 30, 2017. Although our jurisdiction of organization is Ireland, we manage our affairs so that we are centrally managed and controlled in the United Kingdom (the "U.K.") and have tax residency in the U.K.
+Basis of presentation
+The accompanying unaudited Condensed Consolidated Financial Statements of nVent have been prepared following the requirements of the Securities and Exchange Commission ("SEC") for interim reporting. As permitted under those rules, certain footnotes or other financial information that are normally required by accounting principles generally accepted in the United States of America ("GAAP") can be condensed or omitted.
+We are responsible for the unaudited Condensed Consolidated Financial Statements included in this document. The financial statements include all normal recurring adjustments that are considered necessary for the fair presentation of our financial position and operating results. As these are condensed financial statements, one should also read our consolidated financial statements and notes thereto, which are included in our Annual Report on Form 10-K for the year ended December 31, 2025.
+Revenues, expenses, cash flows, assets and liabilities can and do vary during each quarter of the year. Therefore, the results and trends in these interim financial statements may not be indicative of those for a full year. We may experience changes in customer demand or constrained supply that could materially adversely impact our business, financial condition, results of operations and overall financial performance in future periods.
+In 2024, we entered into a definitive agreement to sell our Thermal Management business to BCP VI Summit Holdings LP (as assignee of BCP Acquisitions LLC), an affiliate of funds managed by Brookfield Asset Management. We completed the sale of the Thermal Management business on January 30, 2025, which resulted in $1.6 billion in net cash proceeds, subject to certain customary purchase price adjustments. As a result of the agreement, the Thermal Management business met the criteria set forth in Accounting Standards Codification ("ASC") 205-20 to be presented as a discontinued operation for sale for all periods presented. The Thermal Management business' results of operations and the related cash flows have been reclassified to Income from discontinued operations, net of tax in the Condensed Consolidated Statements of Income and cash flows from discontinued operations in the Condensed Consolidated Statements of Cash Flows, respectively, for all periods presented. For additional information regarding this transaction and its effect on our financial reporting, see Note 6 below.
+New accounting standards
+In November 2024, the Financial Accounting Standards Board issued Accounting Standards Update 2024-03, "Disaggregation of Income Statement Expenses", which is intended to improve disclosures about a public business entity's expenses. It requires public entities to disaggregate specific types of expenses, including disclosures for purchases of inventory, employee compensation, depreciation and intangible asset amortization, as well as selling expenses. The guidance is effective for annual periods beginning after December 15, 2026 and interim periods beginning after December 15, 2027 and may be adopted on a retrospective or prospective basis. We are currently evaluating the potential impact of this new guidance, and expect the standard will only impact our disclosures with no material impact to the consolidated financial statements.
+7
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+2.Revenue
+Disaggregation of revenue
+We disaggregate our revenue from contracts with customers by geographic location and vertical, as we believe these best depict how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors.
+Geographic net sales information, based on geographic destination of the sale, was as follows:
+ | | | | | | | | | | | | | 
+ | | Three months ended June 30, 2026
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Americas | $ | 917.0  | | $ | 340.0  | | | $ | 1,257.0  | 
+ | Europe, the Middle East and Africa ("EMEA") | 111.2  | | 43.5  | | | 154.7  | 
+ | Asia-Pacific | 43.9  | | 15.7  | | | 59.6  | 
+ | | | | | 
+ | Total | $ | 1,072.1  | | $ | 399.2  | | | $ | 1,471.3  | 
+ | | | | | 
+ | | Six months ended June 30, 2026
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Americas | $ | 1,672.6  | | $ | 634.6  | | | $ | 2,307.2  | 
+ | EMEA | 220.6  | | 84.4  | | | 305.0  | 
+ | Asia-Pacific | 73.7  | | 27.4  | | | 101.1  | 
+ | | | | | 
+ | Total | $ | 1,966.9  | | $ | 746.4  | | | $ | 2,713.3  | 
+ | | | | | | | | | | | | | 
+ | | Three months ended June 30, 2025
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Americas | $ | 495.5  | | $ | 282.4  | | | $ | 777.9  | 
+ | EMEA | 104.2  | | 37.7  | | | 141.9  | 
+ | Asia-Pacific | 32.3  | | 11.0  | | | 43.3  | 
+ | | | | | 
+ | Total | $ | 632.0  | | $ | 331.1  | | | $ | 963.1  | 
+ | | | | | 
+ | | Six months ended June 30, 2025
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Americas | $ | 874.4  | | $ | 537.4  | | | $ | 1,411.8  | 
+ | EMEA | 200.3  | | 73.6  | | | 273.9  | 
+ | Asia-Pacific | 65.5  | | 21.2  | | | 86.7  | 
+ | | | | | 
+ | Total | $ | 1,140.2  | | $ | 632.2  | | | $ | 1,772.4  | 
+ | | | | | 
+ | 
+8
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+Vertical net sales information was as follows:
+ | | | | | | | | | | | | | 
+ | | Three months ended June 30, 2026
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Infrastructure | $ | 729.3  | | $ | 153.2  | | | $ | 882.5  | 
+ | Industrial | 269.8  | | 60.4  | | | 330.2  | 
+ | Commercial & Residential | 73.0  | | 185.6  | | | 258.6  | 
+ | | | | | 
+ | Total | $ | 1,072.1  | | $ | 399.2  | | | $ | 1,471.3  | 
+ | | | | | 
+ | | Six months ended June 30, 2026
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Infrastructure | $ | 1,289.3  | | $ | 286.6  | | | $ | 1,575.9  | 
+ | Industrial | 534.0  | | 113.5  | | | 647.5  | 
+ | Commercial & Residential | 143.6  | | 346.3  | | | 489.9  | 
+ | | | | | 
+ | Total | $ | 1,966.9  | | $ | 746.4  | | | $ | 2,713.3  | 
+ | | | | | | | | | | | | | 
+ | | Three months ended June 30, 2025
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Infrastructure | $ | 292.5  | | $ | 116.8  | | | $ | 409.3  | 
+ | Industrial | 266.0  | | 50.6  | | | 316.6  | 
+ | Commercial & Residential | 73.5  | | 163.7  | | | 237.2  | 
+ | | | | | 
+ | Total | $ | 632.0  | | $ | 331.1  | | | $ | 963.1  | 
+ | | | | | 
+ | | Six months ended June 30, 2025
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Infrastructure | $ | 510.5  | | $ | 215.6  | | | $ | 726.1  | 
+ | Industrial | 497.3  | | 98.2  | | | 595.5  | 
+ | Commercial & Residential | 132.4  | | 318.4  | | | 450.8  | 
+ | | | | | 
+ | Total | $ | 1,140.2  | | $ | 632.2  | | | $ | 1,772.4  | 
+In the first quarter of 2026, based on benchmarking of industry peers and for purposes of how we assess performance, we updated the disaggregation categories on which we report revenue by vertical. For comparability, we have recategorized revenue for the three and six months ended June 30, 2025 to conform to the new presentation. This recategorization of revenue by vertical had no impact on our consolidated financial results.
+Contract balances
+Contract assets and liabilities consisted of the following:
+ | | | | | | | | | | | | | | | 
+ | In millions | June 30, 2026 | December 31, 2025 | $ Change | % Change
+ | Contract assets | $ | 168.5  | | $ | 160.8  | | $ | 7.7  | | 4.8  | %
+ | Contract liabilities | 159.9  | | 176.8  | | (16.9) | | (9.6) | %
+ | | | | | 
+ | Net contract assets | $ | 8.6  | | $ | (16.0) | | $ | 24.6  | | 153.8  | %
+The $24.6 million increase in net contract assets from December 31, 2025 to June 30, 2026 was primarily the result of the timing of milestone invoicing. The majority of our contract liabilities at December 31, 2025 were recognized in revenue during the six months ended June 30, 2026. There were no material impairment losses recognized on our contract assets for the three and six months ended June 30, 2026 and 2025.
+9
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+Remaining performance obligations
+On June 30, 2026, we had $2.5 billion of remaining performance obligations. We expect to recognize the majority of our remaining performance obligations on these contracts within the next twelve months.
+3.Restructuring
+During the six months ended June 30, 2026 and the year ended December 31, 2025, we initiated and continued execution of certain business restructuring initiatives aimed at reducing our fixed cost structure and realigning our business.
+Restructuring related costs included in Selling, general and administrative in the Condensed Consolidated Statements of Income and Comprehensive Income included costs for severance and other restructuring costs as follows:
+ | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | Six months ended
+ | In millions | June 30,2026 | June 30,2025 | | June 30,2026 | June 30,2025
+ | Severance and related costs | $ | 0.6  | | $ | 1.5  | | | $ | 2.9  | | $ | 2.2  | 
+ | Other | 0.7  | | 1.6  | | | 1.4  | | 1.8  | 
+ | Total restructuring costs | $ | 1.3  | | $ | 3.1  | | | $ | 4.3  | | $ | 4.0  | 
+Other restructuring costs primarily consist of asset impairment and various contract termination costs.
+Restructuring costs by reportable segment as well as Enterprise and other were as follows:
+ | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | Six months ended
+ | In millions | June 30,2026 | June 30,2025 | | June 30,2026 | June 30,2025
+ | Systems Protection | $ | 0.9  | | $ | 0.3  | | | $ | 2.3  | | $ | 0.6  | 
+ | Electrical Connections | 0.2  | | 0.5  | | | 1.2  | | 0.8  | 
+ | | | | | | 
+ | Enterprise and other | 0.2  | | 2.3  | | | 0.8  | | 2.6  | 
+ | Total | $ | 1.3  | | $ | 3.1  | | | $ | 4.3  | | $ | 4.0  | 
+Activity related to accrued severance and related costs recorded in Other current liabilities in the Condensed Consolidated Balance Sheets is summarized as follows:
+ | | | | | | | | | 
+ | | Six months ended
+ | In millions | June 30,2026 | June 30,2025
+ | Beginning balance | $ | 2.8  | | $ | 1.8  | 
+ | | | 
+ | Costs incurred | 2.9  | | 2.2  | 
+ | Cash payments and other | (3.5) | | (2.2) | 
+ | Ending balance | $ | 2.2  | | $ | 1.8  | 
+10
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+4.Earnings Per Share
+Basic and diluted earnings per share were calculated as follows:
+ | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | Six months ended
+ | In millions, except per share data | June 30,2026 | June 30,2025 | | June 30,2026 | June 30,2025
+ | Net income from continuing operations | $ | 215.8  | | $ | 106.7  | | | $ | 356.2  | | $ | 193.7  | 
+ | | | | | | 
+ | | | | | | 
+ | Income from discontinued operations, net of tax | 0.1  | | 2.8  | | | 2.1  | | 276.5  | 
+ | Net income | $ | 215.9  | | $ | 109.5  | | | $ | 358.3  | | $ | 470.2  | 
+ | Weighted average ordinary shares outstanding | | | | | 
+ | Basic | 161.8  | | 161.7  | | | 161.8  | | 163.4  | 
+ | Dilutive impact of stock options, restricted stock units and performance share units | 2.3  | | 1.9  | | | 2.3  | | 2.0  | 
+ | Diluted | 164.1  | | 163.6  | | | 164.1  | | 165.4  | 
+ | | | | | | 
+ | Earnings per ordinary share | | | | | 
+ | Basic | | | | | 
+ | Continuing operations | $ | 1.33  | | $ | 0.66  | | | $ | 2.20  | | $ | 1.19  | 
+ | Discontinued operations | —  | | 0.02  | | | 0.01  | | 1.69  | 
+ | Basic earnings per ordinary share | $ | 1.33  | | $ | 0.68  | | | $ | 2.21  | | $ | 2.88  | 
+ | Diluted | | | | | 
+ | Continuing operations | $ | 1.32  | | $ | 0.65  | | | $ | 2.17  | | $ | 1.17  | 
+ | Discontinued operations | —  | | 0.02  | | | 0.01  | | 1.67  | 
+ | Diluted earnings per ordinary share | $ | 1.32  | | $ | 0.67  | | | $ | 2.18  | | $ | 2.84  | 
+ | Anti-dilutive stock options excluded from the calculation of diluted earnings per share | 0.2 | 0.6  | | | 0.1  | | 0.5  | 
+5. Acquisitions
+Electrical Products Group Acquisition
+On May 1, 2025, we completed the acquisition of the enclosures, switchgear and bus systems businesses of Avail Infrastructure Solutions (the "Electrical Products Group") for approximately $979.6 million in cash. The Electrical Products Group is a leading provider of infrastructure solutions, designed to help ensure safe and reliable electrical operations primarily in the infrastructure vertical, including power utilities and data centers. We operate the Electrical Products Group predominantly within our Systems Protection reporting segment. We funded the purchase price for the acquisition with available cash on hand.
+The purchase price has been allocated based on the estimated fair value of assets acquired and liabilities assumed at the date of the Electrical Products Group acquisition. The purchase price allocation was completed in the second quarter of 2026.
+11
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+The following table summarizes the final fair values of the assets acquired and liabilities assumed in the Electrical Products Group acquisition as previously reported as of December 31, 2025 and revised as of June 30, 2026:
+ | | | | | | | | | 
+ | In millions | As Previously Reported | As Revised
+ | | | 
+ | Accounts receivable | $ | 98.0  | | $ | 97.7  | 
+ | Inventories | 22.0  | | 20.0  | 
+ | Other current assets | 87.4  | | 87.4  | 
+ | Property, plant and equipment | 38.9  | | 38.9  | 
+ | Identifiable intangible assets | 433.8  | | 433.8  | 
+ | Goodwill | 439.3  | | 441.6  | 
+ | Other assets | 26.2  | | 26.3  | 
+ | Current liabilities | (146.0) | | (146.1) | 
+ | Other liabilities | (20.0) | | (20.0) | 
+ | Purchase price | $ | 979.6  | | $ | 979.6  | 
+The excess purchase price over tangible net assets and identified intangible assets acquired has been allocated to goodwill in the amount of $441.6 million, substantially all of which is expected to be deductible for income tax purposes. Goodwill recognized from the Electrical Products Group acquisition reflects the future economic benefit resulting from synergies of our combined operations.
+Identifiable intangible assets acquired relate to $325.2 million of definite-lived customer relationships with estimated useful lives of 16 and 20 years, $32.8 million of definite-lived proprietary technologies with estimated useful lives of 8 years and $75.8 million of customer backlog with estimated useful lives of approximately 3 years. The fair values of proprietary technologies acquired in the acquisition were determined using a relief-from-royalty method, and the fair values of customer relationships and customer backlog acquired were determined using a multi-period excess earnings method. These methods utilize unobservable inputs that are significant to these fair value measurements and thus classified as Level 3 of the fair value hierarchy.
+The following table presents unaudited pro forma financial information as if the acquisition of the Electrical Products Group had occurred on January 1, 2024:
+ | | | | | | | | | | | | | | 
+ | | | Three months ended | | | Six months ended
+ | In millions, except per share data | | June 30,2025 | | | June 30,2025
+ | Pro forma net sales | | $ | 1,002.0  | | | | $ | 1,912.2  | 
+ | Pro forma net income from continuing operations | | 113.0  | | | | 207.4  | 
+ | Pro forma net income | | 115.8  | | | | 483.9  | 
+ | | | | | | 
+ | Pro forma earnings per ordinary share | | | | | 
+ | Basic | | | | | 
+ | Continuing operations | | $ | 0.70  | | | | $ | 1.27  | 
+ | Basic earnings per ordinary share | | $ | 0.72  | | | | $ | 2.96  | 
+ | Diluted | | | | | 
+ | Continuing operations | | $ | 0.69  | | | | $ | 1.25  | 
+ | Diluted earnings per ordinary share | | $ | 0.71  | | | | $ | 2.92  | 
+The unaudited pro forma net income includes adjustments for the amortization of acquired intangible assets, as well as the related income tax impact.
+The pro forma condensed consolidated financial information has been prepared for comparative purposes only and includes certain adjustments, as noted above. The adjustments are estimates based on currently available information and actual amounts 
+12
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+may differ materially from these estimates. They do not reflect the effect of costs or synergies that would have been expected to result from the integration of the Electrical Products Group acquisition. The pro forma information does not purport to be indicative of the results of operations that actually would have resulted had the Electrical Products Group acquisition occurred on January 1, 2024.
+6.Discontinued Operations
+On January 30, 2025, we completed the sale of the Thermal Management business to BCP VI Summit Holdings LP (as assignee of BCP Acquisitions LLC), an affiliate of funds managed by Brookfield Asset Management, for a purchase price of $1.7 billion in cash, subject to customary purchase price adjustments, resulting in total cash proceeds, net of transaction costs and cash transferred, of $1,586.8 million. The results of the Thermal Management business and the sale of the Thermal Management business have been presented as discontinued operations in our Condensed Consolidated Statements of Income and Comprehensive Income for all periods presented.
+During the six months ended June 30, 2025, the sale resulted in a pre-tax gain of $435.4 million, net of transaction costs of $32.8 million. The Provision for income taxes for the six months ended June 30, 2025 of $160.5 million predominately relates to tax expense on the gain on sale.
+The operating results of discontinued operations are summarized below:
+ | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | Six months ended
+ | In millions | June 30,2026 | June 30,2025 | | June 30,2026 | June 30,2025
+ | Net sales | $ | —  | | $ | —  | | | $ | —  | | $ | 40.5  | 
+ | Cost of goods sold | —  | | —  | | | —  | | 20.9  | 
+ | Gross profit | —  | | —  | | | —  | | 19.6  | 
+ | Selling, general and administrative | 0.4  | | 0.7  | | | 0.7  | | 16.7  | 
+ | Research and development | —  | | —  | | | —  | | 1.3  | 
+ | | | | | | 
+ | Operating income (loss) | (0.4) | | (0.7) | | | (0.7) | | 1.6  | 
+ | | | | | | 
+ | Income (loss) from discontinued operations before gain from sale and income taxes | (0.4) | | (0.7) | | | (0.7) | | 1.6  | 
+ | Gain from sale of discontinued operations before income taxes | —  | | (1.5) | | | (1.7) | | (435.4) | 
+ | Provision for (benefit from) income taxes | (0.5) | | (2.0) | | | (1.1) | | 160.5  | 
+ | Income from discontinued operations, net of tax | $ | 0.1  | | $ | 2.8  | | | $ | 2.1  | | $ | 276.5  | 
+13
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+7.Goodwill and Other Identifiable Intangible Assets
+The changes in the carrying amount of goodwill by reportable segment were as follows:
+ | | | | | | | | | | | | | | | | | 
+ | In millions | December 31,2025 | Acquisitions/divestitures | | | Foreign currencytranslation/other | June 30,2026
+ | Systems Protection | $ | 1,202.4  | | $ | 1.3  | | | | $ | (4.0) | | $ | 1,199.7  | 
+ | Electrical Connections | 1,475.6  | | 1.0  | | | | —  | | 1,476.6  | 
+ | | | | | | | 
+ | Total goodwill | $ | 2,678.0  | | $ | 2.3  | | | | $ | (4.0) | | $ | 2,676.3  | 
+Identifiable intangible assets consisted of the following:
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | June 30, 2026 | | December 31, 2025
+ | In millions | Cost | Accumulatedamortization | Net | | Cost | Accumulatedamortization | Net
+ | Definite-life intangibles | | | | | | | 
+ | Customer relationships | $ | 1,902.1  | | $ | (599.0) | | $ | 1,303.1  | | | $ | 1,904.0  | | $ | (551.5) | | $ | 1,352.5  | 
+ | | | | | | | | 
+ | Proprietary technologies and patents | 112.1  | | (38.7) | | 73.4  | | | 111.8  | | (31.8) | | 80.0  | 
+ | Other definite-lived intangible assets | 139.5  | | (90.3) | | 49.2  | | | 139.5  | | (63.1) | | 76.4  | 
+ | Total definite-life intangibles | 2,153.7  | | (728.0) | | 1,425.7  | | | 2,155.3  | | (646.4) | | 1,508.9  | 
+ | Indefinite-life intangibles | | | | | | | 
+ | Trade names | 367.6  | | —  | | 367.6  | | | 367.6  | | —  | | 367.6  | 
+ | Total intangibles | $ | 2,521.3  | | $ | (728.0) | | $ | 1,793.3  | | | $ | 2,522.9  | | $ | (646.4) | | $ | 1,876.5  | 
+Identifiable intangible asset amortization expense was $41.1 million and $35.9 million for the three months ended June 30, 2026 and 2025, respectively, and $82.2 million and $64.1 million for the six months ended June 30, 2026 and 2025, respectively.
+Estimated future amortization expense for identifiable intangible assets during the remainder of 2026 and the next five years is as follows:
+ | | | | | | | | | | | | | | | | | | | | | 
+ |   | Q3-Q4 |   |   |   |   |  
+ | In millions | 2026 | 2027 | 2028 | 2029 | 2030 | 2031
+ | Estimated amortization expense | $ | 71.7  | | $ | 136.3  | | $ | 110.9  | | $ | 110.9  | | $ | 107.8  | | $ | 105.6  | 
+14
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+8.Supplemental Balance Sheet Information
+ | | | | | | | | | 
+ | In millions | June 30,2026 | December 31,2025
+ | Inventories | | 
+ | Raw materials and supplies | $ | 253.5  | | $ | 213.5  | 
+ | Work-in-process | 46.4  | | 31.2  | 
+ | Finished goods | 222.5  | | 227.2  | 
+ | Total inventories | $ | 522.4  | | $ | 471.9  | 
+ | Other current assets | | 
+ | Contract assets | $ | 168.5  | | $ | 160.8  | 
+ | Prepaid expenses | 42.7  | | 46.8  | 
+ | Prepaid income taxes | 25.1  | | 12.1  | 
+ | | | 
+ | Other current assets | 20.2  | | 17.5  | 
+ | Total other current assets | $ | 256.5  | | $ | 237.2  | 
+ | Property, plant and equipment, net | | 
+ | Land and land improvements | $ | 28.0  | | $ | 28.3  | 
+ | Buildings and leasehold improvements | 229.1  | | 220.0  | 
+ | Machinery and equipment | 681.4  | | 651.1  | 
+ | Construction in progress | 65.2  | | 65.7  | 
+ | Total property, plant and equipment | 1,003.7  | | 965.1  | 
+ | Accumulated depreciation and amortization | 555.8  | | 530.6  | 
+ | Total property, plant and equipment, net | $ | 447.9  | | $ | 434.5  | 
+ | Other non-current assets | | 
+ | | | 
+ | Deferred compensation plan assets | $ | 22.4  | | $ | 18.8  | 
+ | Operating lease right-of-use assets | 132.8  | | 128.6  | 
+ | Deferred tax assets | 45.4  | | 46.7  | 
+ | Other non-current assets | 24.0  | | 29.2  | 
+ | Total other non-current assets | $ | 224.6  | | $ | 223.3  | 
+ | Other current liabilities | | 
+ | Dividends payable | $ | 34.3  | | $ | 34.6  | 
+ | | | 
+ | | | 
+ | Accrued rebates | 78.8  | | 91.5  | 
+ | Contract liabilities | 159.9  | | 176.8  | 
+ | Accrued taxes payable | 45.1  | | 56.7  | 
+ | | | 
+ | Current operating lease liabilities | 33.0  | | 30.3  | 
+ | Accrued interest | 9.8  | | 9.8  | 
+ | Other current liabilities | 111.6  | | 74.5  | 
+ | Total other current liabilities | $ | 472.5  | | $ | 474.2  | 
+ | Other non-current liabilities | | 
+ | Income taxes payable | $ | 9.4  | | $ | 10.3  | 
+ | | | 
+ | Deferred compensation plan liabilities | 22.4  | | 18.8  | 
+ | Cross currency swap liabilities | 28.8  | | 36.7  | 
+ | Non-current operating lease liabilities | 107.5  | | 105.0  | 
+ | Other non-current liabilities | 34.0  | | 33.8  | 
+ | Total other non-current liabilities | $ | 202.1  | | $ | 204.6  | 
+15
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+9.Derivatives and Financial Instruments
+Derivative financial instruments
+We are exposed to market risk related to changes in foreign currency exchange rates. To manage the volatility related to this exposure, we periodically enter into a variety of derivative financial instruments. Our objective is to reduce, where it is deemed appropriate to do so, fluctuations in earnings and cash flows associated with changes in foreign currency exchange rates. The derivative contracts contain credit risk to the extent that our bank counterparties may be unable to meet the terms of the agreements. The amount of such credit risk is generally limited to the unrealized gains, if any, in such contracts. Such risk is minimized by limiting those counterparties to major financial institutions of high credit quality.
+Foreign currency contracts
+We conduct business in various locations throughout the world and are subject to market risk due to changes in the value of foreign currencies. We manage our economic and transaction exposure to certain market-based risks through the use of derivative instruments. These derivative instruments primarily consist of forward foreign currency contracts used to mitigate foreign currency exposure for certain foreign currency assets and liabilities. Our objective in holding these derivatives is to reduce the volatility in net earnings and cash flows associated with changes in foreign currency rates. The majority of our foreign currency contracts have an original maturity date of less than one year. These foreign currency contracts are not designated as hedging instruments; accordingly, changes in the fair value are recorded in current period earnings.
+At June 30, 2026 and December 31, 2025, we had outstanding foreign currency derivative contracts with gross notional U.S. dollar equivalent amounts of $186.4 million and $155.4 million, respectively. The impact of these contracts on the Condensed Consolidated Statements of Income and Comprehensive Income was not material for any period presented.
+Cross currency swaps
+At June 30, 2026 and December 31, 2025, we had outstanding cross currency swap agreements with a combined notional amount of $350.5 million and $362.5 million, respectively. The agreements are accounted for as either cash flow hedges or fair value hedges, to hedge foreign currency fluctuations on certain intercompany debt, or as net investment hedges, to manage our exposure to fluctuations in the Euro-U.S. Dollar exchange rate. At June 30, 2026 and December 31, 2025, we had deferred foreign currency losses of $9.2 million and $0.9 million, respectively, in Accumulated other comprehensive loss associated with our cross currency swap activity.
+Fair value of financial instruments
+The following methods were used to estimate the fair values of each class of financial instrument:
+•short-term financial instruments (cash and cash equivalents, accounts and notes receivable, accounts and notes payable and variable-rate debt) — recorded amount approximates fair value because of the short maturity period;
+•long-term fixed-rate debt, including current maturities — fair value is based on market quotes available for issuance of debt with similar terms, which are inputs that are classified as Level 2 in the valuation hierarchy defined by the accounting guidance;
+•cross currency swap and foreign currency contract agreements — fair values are determined through the use of models that consider various assumptions, including time value, yield curves, as well as other relevant economic measures, which are observable inputs that are classified as Level 2 in the valuation hierarchy defined by the accounting guidance; and
+•deferred compensation plan assets (mutual funds, common/collective trusts and cash equivalents for payment of certain non-qualified benefits for retired, terminated and active employees) — fair value of mutual funds and cash equivalents are based on quoted market prices in active markets that are classified as Level 1 in the valuation hierarchy defined by the accounting guidance; fair value of common/collective trusts are valued at net asset value ("NAV"), which is based on the fair value of underlying securities owned by the fund divided by the number of shares outstanding.
+16
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+The recorded amounts and estimated fair values of total debt, excluding unamortized issuance costs and discounts, were as follows:
+ | | | | | | | | | | | | | | | | | | 
+ | | June 30,2026 | | December 31,2025
+ | In millions | RecordedAmount | FairValue | | RecordedAmount | FairValue
+ | Variable rate debt | $ | 200.0  | | $ | 200.0  | | | $ | 268.2  | | $ | 268.2  | 
+ | Fixed rate debt | 1,300.0  | | 1,277.2  | | | 1,300.0  | | 1,296.9  | 
+ | Total debt | $ | 1,500.0  | | $ | 1,477.2  | | | $ | 1,568.2  | | $ | 1,565.1  | 
+Financial assets and liabilities measured at fair value on a recurring basis were as follows:
+ | | | | | | | | | | | | | | | | | | 
+ | Recurring fair value measurements | June 30, 2026
+ | In millions | Level 1 | Level 2 | Level 3 | NAV | Total
+ | Cross currency swap liabilities | $ | —  | | $ | (28.8) | | $ | —  | | $ | —  | | $ | (28.8) | 
+ | Cross currency swap assets | —  | | 2.6  | | —  | | —  | | 2.6  | 
+ | Foreign currency contract liabilities | —  | | (2.1) | | —  | | —  | | (2.1) | 
+ | Foreign currency contract assets | —  | | 1.0  | | —  | | —  | | 1.0  | 
+ | | | | | | 
+ | Deferred compensation plan assets | 14.6  | | —  | | —  | | 7.8  | | 22.4  | 
+ | Total recurring fair value measurements | $ | 14.6  | | $ | (27.3) | | $ | —  | | $ | 7.8  | | $ | (4.9) | 
+ | | | | | | | | | | | | | | | | | | 
+ | Recurring fair value measurements | December 31, 2025
+ | In millions | Level 1 | Level 2 | Level 3 | NAV | Total
+ | Cross currency swap liabilities | $ | —  | | $ | (36.7) | | $ | —  | | $ | —  | | $ | (36.7) | 
+ | Cross currency swap assets | —  | | 0.8  | | —  | | —  | | 0.8  | 
+ | Foreign currency contract liabilities | —  | | (0.3) | | —  | | —  | | (0.3) | 
+ | Foreign currency contract assets | —  | | 0.6  | | —  | | —  | | 0.6  | 
+ | | | | | | 
+ | Deferred compensation plan assets | 12.1  | | —  | | —  | | 6.7  | | 18.8  | 
+ | Total recurring fair value measurements | $ | 12.1  | | $ | (35.6) | | $ | —  | | $ | 6.7  | | $ | (16.8) | 
+10.Debt
+Debt and the average interest rates on debt outstanding were as follows:
+ | | | | | | | | | | | | | | | 
+ | In millions | 
+Average interest
+rate at
+June 30, 2026 | MaturityYear | June 30,2026 | December 31,2025
+ | Revolving credit facility | N/A | 2030 | $ | —  | | $ | —  | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | Term loan facility | 4.903% | 2030 | 200.0  | | 268.2  | 
+ | Senior notes - fixed rate | 4.550% | 2028 | 500.0  | | 500.0  | 
+ | Senior notes - fixed rate | 2.750% | 2031 | 300.0  | | 300.0  | 
+ | Senior notes - fixed rate | 5.650% | 2033 | 500.0  | | 500.0  | 
+ | Unamortized debt issuance costs and discounts | N/A | N/A | (7.6) | | (8.4) | 
+ | Total debt | | | 1,492.4  | | 1,559.8  | 
+ | 
+Less: Current maturities and short-term borrowings | | | (13.8) | | (13.8) | 
+ | Long-term debt | | | $ | 1,478.6  | | $ | 1,546.0  | 
+Senior notes
+In March 2018, nVent Finance S.à r.l. (“nVent Finance”), a 100-percent owned subsidiary of nVent, issued $500.0 million aggregate principal amount of 4.550% senior notes due 2028 (the "2028 Notes").
+17
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+In November 2021, nVent Finance issued $300.0 million aggregate principal amount of 2.750% senior notes due 2031 (the "2031 Notes").
+In May 2023, nVent Finance issued $500.0 million aggregate principal amount of 5.650% Senior Notes due 2033 (the "2033 Notes" and, collectively with the 2028 Notes and the 2031 Notes, the "Notes").
+Interest on the 2028 Notes is payable semi-annually in arrears on April 15 and October 15 of each year, and interest on the 2031 Notes and 2033 Notes is payable semi-annually in arrears on May 15 and November 15 of each year.
+In February 2026, we entered into a supplemental indenture to the indenture governing the Notes as a result of which nVent Electric plc and Hoffman Schroff Holdings, Inc. fully and unconditionally and jointly and severally guarantee the Notes of nVent Finance (together with nVent Electric plc and Hoffman Schroff Holdings, Inc., the "Obligor Group"). nVent Electric plc is a holding company that has no independent assets or operations unrelated to its investments in consolidated subsidiaries. nVent Finance is a holding company that has no independent assets or operations unrelated to its investments in consolidated subsidiaries and the issuance of the Notes and other external debt. Hoffman Schroff Holdings, Inc. is a United States holding company and a 100 percent-owned indirect subsidiary of nVent Electric plc that has no independent assets or operations unrelated to its investments in consolidated subsidiaries and the guarantees of the Notes and other external debt. nVent Electric plc’s principal source of cash flow, including cash flow to make payments on the Notes pursuant to the guarantees, is dividends from its subsidiaries. nVent Finance's principal source of cash flow, including to make payments on the Notes, is interest income from its subsidiaries. Hoffman Schroff Holdings, Inc.'s principal source of cash flow, including to make payments on the Notes pursuant to the guarantees, is interest income from its subsidiaries. None of the other subsidiaries of any of the Obligor Group are under any direct obligation to pay or otherwise fund amounts due on the Notes or the guarantees, whether in the form of dividends, distributions, loans or other payments. In addition, there may be statutory and regulatory limitations on the payment of dividends from certain subsidiaries of the Obligor Group. If such subsidiaries are unable to transfer funds to the Obligor Group and sufficient cash or liquidity is not otherwise available, the Obligor Group may not be able to make principal and interest payments on their outstanding debt, including the Notes or the guarantees. 
+The Notes constitute general unsecured senior obligations of nVent Finance and rank equally in right of payment with all existing and future unsubordinated and unsecured indebtedness and liabilities of nVent Finance. The guarantees of the Notes by nVent Electric plc and Hoffman Schroff Holdings, Inc. constitute general unsecured obligations and rank equally in right of payment with all existing and future unsubordinated and unsecured indebtedness and liabilities of nVent Finance. Subject to certain qualifications and exceptions, the indenture pursuant to which the Notes were issued contains covenants that, among other things, restrict nVent Electric plc's, Hoffman Schroff Holdings, Inc.'s, nVent Finance’s and certain subsidiaries’ ability to merge or consolidate with another person, create liens or engage in sale and lease-back transactions.
+There are no significant restrictions on the ability of nVent Electric plc to obtain funds from its subsidiaries by dividend or loan. None of the assets of nVent Electric plc or its subsidiaries represents restricted net assets pursuant to the guidelines established by the Securities and Exchange Commission.
+Senior credit facilities
+In June 2025, nVent and its subsidiaries nVent Finance and Hoffman Schroff Holdings, Inc. entered into an amended and restated credit agreement (the "Credit Agreement") with a syndicate of banks providing for a five-year $275.0 million senior unsecured term loan facility (the "Term Loan Facility") and a five-year $600.0 million senior unsecured revolving credit facility (the "Revolving Credit Facility" and, together with the Term Loan Facility, the "Senior Credit Facilities"). Borrowings under the Revolving Credit Facility are permitted from time to time during the full five-year term of the Revolving Credit Facility. nVent Finance has the option to request to increase the Revolving Credit Facility in an aggregate amount of up to $300.0 million, subject to customary conditions, including the commitment of the participating lenders.
+As of June 30, 2026, the borrowing capacity under the Revolving Credit Facility was $600.0 million.
+Borrowings under the Senior Credit Facilities bear interest at a rate equal to an adjusted base rate, the Term Secured Overnight Financing Rate ("SOFR"), Euro Interbank Offer Rate (“EURIBOR”), Sterling Overnight Index Average (“SONIA”) or, solely for swingline loans denominated in Euro, the Euro Short Term Rate ("ESTR"), plus, in each case, an applicable margin. The applicable margin will be based on, at nVent Finance’s election, nVent's net leverage ratio or public debt rating.
+Our debt agreements contain certain financial covenants, the most restrictive of which are in the Senior Credit Facilities, including that we may not permit (i) the ratio of our consolidated debt (net of our consolidated unrestricted cash in excess of $5.0 million but not to exceed $250.0 million) to our consolidated net income (excluding, among other things, non-cash gains 
+18
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+and losses) before interest, taxes, depreciation, amortization and non-cash share-based compensation expense ("EBITDA") on the last day of any period of four consecutive fiscal quarters (each a "testing period") to exceed 3.75 to 1.00 (or, at nVent Finance's election and subject to certain conditions, 4.25 to 1.00 for four testing periods in connection with certain material acquisitions) and (ii) the ratio of our EBITDA to our consolidated interest expense for the same period to be less than 3.00 to 1.00. In addition, subject to certain qualifications and exceptions, the Senior Credit Facilities also contain covenants that, among other things, restrict our ability to create liens, merge or consolidate with another person, make acquisitions and incur subsidiary debt. As of June 30, 2026, we were in compliance with all financial covenants in our debt agreements, and there is no material uncertainty about our ongoing ability to meet those covenants.
+Debt outstanding at June 30, 2026, excluding unamortized issuance costs and discounts, matures on a calendar year basis as follows:
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Q3-Q4 |   |   |   |   |   |   |  
+ | In millions | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | Thereafter | Total
+ | Contractual debt obligation maturities | $ | 6.9  | | $ | 13.8  | | $ | 517.2  | | $ | 20.6  | | $ | 141.5  | | $ | 300.0  | | $ | 500.0  | | $ | 1,500.0  | 
+ | | | | | | | | | 
+11.Income Taxes
+The effective income tax rate was 22.4% for both the six months ended June 30, 2026 and June 30, 2025. The liability for uncertain tax positions was $9.4 million and $10.3 million at June 30, 2026 and December 31, 2025, respectively. We record penalties and interest related to unrecognized tax benefits in Provision for income taxes and Net interest expense, respectively, on the Condensed Consolidated Statements of Income and Comprehensive Income, which is consistent with our past practices.
+12.Shareholders' Equity
+Share repurchases
+On May 17, 2024, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $500.0 million (the "2024 Authorization"). The 2024 Authorization began on July 23, 2024 and expires on July 22, 2027. 
+During the six months ended June 30, 2026, we repurchased 0.4 million of our ordinary shares for $50.4 million under the 2024 Authorization. During the six months ended June 30, 2025, we repurchased 4.8 million of our ordinary shares for $253.1 million under the 2024 Authorization.
+As of June 30, 2026, we had $96.5 million available for share repurchases under the 2024 Authorization.
+On May 16, 2026, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $500.0 million (the "2026 Authorization"). The 2026 Authorization began on July 23, 2026 and expires on July 22, 2029.
+Dividends payable
+On May 16, 2026, the Board of Directors declared a quarterly cash dividend of $0.21 per ordinary share payable on August 7, 2026, to shareholders of record at the close of business on July 24, 2026. The balance of dividends payable included in Other current liabilities on our Condensed Consolidated Balance Sheets was $34.3 million and $34.6 million at June 30, 2026 and December 31, 2025, respectively.
+13.Segment Information
+Our continuing operations are comprised of two reporting segments: Systems Protection and Electrical Connections. 
+"Enterprise and other" activity primarily consists of enterprise expenses not allocated to the segments, including certain executive office, board of directors, and centrally-managed enterprise functional or shared service costs related to finance, human resources, legal, supply chain, digital and corporate development. These activities do not meet the criteria for a stand-alone reporting segment under ASC 280.
+19
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+The accounting policies of our reporting segments are the same as those described in the summary of significant accounting policies in our Annual Report on Form 10-K for the year ended December 31, 2025. The Company's primary measure of segment profitability is reportable segment income. Reportable segment income represents operating income, which includes certain corporate overhead allocations, and is exclusive of intangible amortization, acquisition related costs, costs of restructuring activities, reimbursements of tariffs previously remitted under the International Emergency Economic Powers Act ("IEEPA tariffs"), "mark-to-market" gain/loss for pension and other post-retirement plans, impairments and other unusual non-operating items.
+nVent's chief operating decision maker ("CODM") is our chief executive officer. This presentation is consistent with how the CODM evaluates the results of operations and makes strategic decisions about the business. The CODM uses reportable segment income for purposes of evaluating performance, allocating resources, setting incentive compensation targets, as well as internal forecasting of future period financial results. These results are not necessarily indicative of the results of operations that would have occurred had each segment been an independent, stand-alone entity during the periods presented.
+Net sales and significant expense categories to arrive at our measure of segment profitability by reportable segment were as follows:
+ | | | | | | | | | | | | | 
+ | | Three months ended June 30, 2026
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Net sales | $ | 1,072.1  | | $ | 399.2  | | | $ | 1,471.3  | 
+ | 
+Cost of goods sold(1) | 707.5  | | 227.1  | | | 
+ | 
+Selling, general and administrative(1) | 99.8  | | 57.3  | | | 
+ | 
+Research and development(1) | 16.6  | | 6.0  | | | 
+ | Reportable segment income | $ | 248.2  | | $ | 108.8  | | | $ | 357.0  | 
+ | | | | | 
+ | | Six months ended June 30, 2026
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Net sales | $ | 1,966.9  | | $ | 746.4  | | | $ | 2,713.3  | 
+ | 
+Cost of goods sold(1) | 1,293.9  | | 432.8  | | | 
+ | 
+Selling, general and administrative(1) | 190.0  | | 108.2  | | | 
+ | 
+Research and development(1) | 31.7  | | 11.8  | | | 
+ | Reportable segment income | $ | 451.3  | | $ | 193.6  | | | $ | 644.9  | 
+20
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+ | | | | | | | | | | | | | 
+ | | Three months ended June 30, 2025
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Net sales | $ | 632.0  | | $ | 331.1  | | | $ | 963.1  | 
+ | 
+Cost of goods sold(1) | 401.5  | | 184.7  | | | 
+ | 
+Selling, general and administrative(1) | 81.8  | | 45.9  | | | 
+ | 
+Research and development(1) | 11.6  | | 5.6  | | | 
+ | Reportable segment income | $ | 137.1  | | $ | 94.9  | | | $ | 232.0  | 
+ | | | | | 
+ | | Six months ended June 30, 2025
+ | In millions | Systems Protection | Electrical Connections | | Total
+ | Net sales | $ | 1,140.2  | | $ | 632.2  | | | $ | 1,772.4  | 
+ | 
+Cost of goods sold(1) | 726.4  | | 351.6  | | | 
+ | 
+Selling, general and administrative(1) | 150.3  | | 89.8  | | | 
+ | 
+Research and development(1) | 22.2  | | 10.8  | | | 
+ | Reportable segment income | $ | 241.3  | | $ | 180.0  | | | $ | 421.3  | 
+(1)    These costs exclude certain expenses reported in the Condensed Consolidated Statements of Income and Comprehensive Income that are reflected in 'Enterprise and other', as well as the costs that are excluded from reportable segment income as discussed above.
+The following table presents a reconciliation of reportable segment income to consolidated income before income taxes:
+ | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | Six months ended
+ | In millions | June 30,2026 | June 30,2025 | | June 30,2026 | June 30,2025
+ | Systems Protection | $ | 248.2  | | $ | 137.1  | | | $ | 451.3  | | $ | 241.3  | 
+ | Electrical Connections | 108.8  | | 94.9  | | | 193.6  | | 180.0  | 
+ | | | | | | 
+ | Reportable segment income | 357.0  | | 232.0  | | | 644.9  | | 421.3  | 
+ | | | | | | 
+ | | | | | | 
+ | | | | | | 
+ | Enterprise and other | (34.3) | | (32.0) | | | (73.7) | | (59.1) | 
+ | Restructuring and other | (2.0) | | (3.1) | | | (10.9) | | (4.0) | 
+ | Acquisition transaction and integration costs | (4.7) | | (4.3) | | | (7.5) | | (7.4) | 
+ | Intangible amortization | (41.1) | | (35.9) | | | (82.2) | | (64.1) | 
+ | | | | | | 
+ | | | | | | 
+ | | | | | | 
+ | | | | | | 
+ | | | | | | 
+ | IEEPA tariffs | 25.8  | | —  | | | 25.8  | | —  | 
+ | Net interest expense | (17.4) | | (17.6) | | | (34.9) | | (35.0) | 
+ | Other expense | (1.3) | | (1.1) | | | (2.6) | | (2.2) | 
+ | | | | | | 
+ | | | | | | 
+ | Income before income taxes | $ | 282.0  | | $ | 138.0  | | | $ | 458.9  | | $ | 249.5  | 
+21
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+ | | | | | | | | | 
+ | | Identifiable assets
+ | In millions | June 30,2026 | December 31,2025
+ | Systems Protection | $ | 3,581.1  | | $ | 3,342.2  | 
+ | Electrical Connections | 3,293.6  | | 3,281.0  | 
+ | | | 
+ | Total for reportable segments | 6,874.7  | | 6,623.2  | 
+ | Enterprise and other | 271.6  | | 228.7  | 
+ | Consolidated | $ | 7,146.3  | | $ | 6,851.9  | 
+ | | | | | | | | | | | | | | | | | | 
+ | | 
+Depreciation(1)
+ | | Three months ended | | Six months ended
+ | In millions | June 30,2026 | June 30,2025 | | June 30,2026 | June 30,2025
+ | Systems Protection | $ | 9.6  | | $ | 7.1  | | | $ | 18.7  | | $ | 14.0  | 
+ | Electrical Connections | 6.1  | | 6.1  | | | 12.3  | | 11.9  | 
+ | | | | | | 
+ | Total reportable segments | 15.7  | | 13.2  | | | 31.0  | | 25.9  | 
+ | Enterprise and other | 1.7  | | 1.2  | | | 3.2  | | 2.3  | 
+ | Consolidated | $ | 17.4  | | $ | 14.4  | | | $ | 34.2  | | $ | 28.2  | 
+(1)    These amounts of depreciation disclosed by reportable segment are included within the significant expense categories above, such as cost of goods sold and selling, general and administrative expenses.
+ | | | | | | | | | 
+ | | Capital expenditures
+ | | Six months ended
+ | In millions | June 30,2026 | June 30,2025
+ | Systems Protection | $ | 40.1  | | $ | 23.6  | 
+ | Electrical Connections | 12.8  | | 10.5  | 
+ | | | 
+ | Total reportable segments | 52.9  | | 34.1  | 
+ | Enterprise and other | 4.7  | | 3.9  | 
+ | Consolidated | $ | 57.6  | | $ | 38.0  | 
+14.Share-Based Compensation
+Total share-based compensation expense for the three and six months ended June 30, 2026 and 2025, was as follows:
+ | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | Six months ended
+ | In millions | June 30,2026 | June 30,2025 | | June 30,2026 | June 30,2025
+ | Restricted stock units | $ | 4.6  | | $ | 5.4  | | | $ | 11.6  | | $ | 9.3  | 
+ | Performance share units | 0.9  | | 4.0  | | | 6.8  | | 6.8  | 
+ | Stock options | 1.2  | | 2.2  | | | 4.7  | | 4.0  | 
+ | Total | $ | 6.7  | | $ | 11.6  | | | $ | 23.1  | | $ | 20.1  | 
+In the first quarter of 2026, we issued our annual share-based compensation grants under the 2018 Omnibus Incentive Plan to eligible employees. The total number of awards issued was approximately 0.4 million, of which 0.2 million were restricted stock units ("RSUs"), 0.1 million were performance share units ("PSUs") and 0.1 million were stock options. The weighted-average grant date fair value of the RSUs, PSUs and stock options issued was $120.27, $170.18 and $49.76, respectively. Beginning in the first quarter of 2026, we incurred higher share-based expense as a result of substantive vesting at the grant date for certain retirement eligible employees.
+22
+nVent Electric plc
+Notes to condensed consolidated financial statements (unaudited)
+We estimated the fair value of each stock option award issued in the annual share-based compensation grant using a Black-Scholes option pricing model, modified for dividends, and using the following assumptions:
+ | | | | | | 
+ | | 2026 Annual Grant
+ | Risk-free interest rate | 3.73  | %
+ | Expected dividend yield | 0.77  | %
+ | Expected share price volatility | 39.8  | %
+ | Expected term (years) | 6.1
+These estimates require us to make assumptions based on historical results, observance of trends in our share price, changes in option exercise behaviors, future expectations and other relevant factors. If other assumptions had been used, share-based compensation expense, as calculated and recorded under the accounting guidance, could have been affected.
+We based the expected life assumption on historical experience as well as the terms and vesting periods of the options granted. For purposes of determining expected volatility, we considered historical volatilities of peer companies over a period approximately equal to the expected option term. The risk-free rate for periods that coincide with the expected life of the options is based on the U.S. Treasury Department yield curve in effect at the time of grant.
+15.Commitments and Contingencies
+Warranties and guarantees
+In connection with the disposition of our businesses or product lines, we may agree to indemnify purchasers for various potential liabilities relating to the sold business, such as pre-closing tax, product liability, warranty, environmental, or other obligations. The subject matter, amounts and duration of any such indemnification obligations vary for each type of liability indemnified and may vary widely from transaction to transaction.
+Generally, the maximum obligation under such indemnifications is not explicitly stated and as a result, the overall amount of these obligations cannot be reasonably estimated. Historically, we have not made significant payments for these indemnifications. We believe that if we were to incur a loss in any of these matters, the loss would not have a material effect on our financial position, results of operations or cash flows.
+We recognize, at the inception of a guarantee, a liability for the fair value of the obligation undertaken in issuing the guarantee.
+We provide service and warranty policies on our products. Liability under service and warranty policies is based upon a review of historical warranty and service claim experience. Adjustments are made to accruals as claim data and historical experience warrant. Our liability for service and product warranties as of June 30, 2026 and December 31, 2025 was not material.
+Stand-by letters of credit, bank guarantees and bonds
+In the ordinary course of business, we are required to commit to bonds, letters of credit and bank guarantees that require payments to our customers for any non-performance. The outstanding face value of these instruments fluctuates with the value of our projects in process and in our backlog. In addition, we issue financial stand-by letters of credit primarily to secure our performance to third parties under self-insurance programs.
+As of June 30, 2026 and December 31, 2025, the outstanding value of bonds, letters of credit and bank guarantees totaled $102.0 million and $75.7 million, respectively.
+23
+ITEM 2.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Forward-looking Statements
+This report contains statements that we believe to be "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact are forward-looking statements. Without limitation, any statements preceded or followed by or that include the words "targets," "plans," "believes," "expects," "intends," "will," "likely," "may," "anticipates," "estimates," "projects," "forecasts," "should," "would," "could," "positioned," "strategy," "future," "are confident," or words, phrases or terms of similar substance or the negative thereof, are forward-looking statements. These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties, assumptions and other factors, some of which are beyond our control, which could cause actual results to differ materially from those expressed or implied by such forward-looking statements. Among these factors are adverse effects on our business operations or financial results, including the overall global economic and business conditions impacting our business; the ability to achieve the benefits of our restructuring plans; the ability to successfully identify, finance, complete and integrate acquisitions, including the Electrical Products Group acquisition; competition and pricing pressures in the markets we serve; impacts of tariffs; volatility in currency exchange rates, interest rates and commodity prices; inability to generate savings from excellence in operations initiatives consisting of lean enterprise, supply management and cash flow practices; inability to mitigate material and other cost inflation; risks related to the availability of, and cost inflation in, supply chain inputs, including labor, raw materials, commodities, packaging and transportation; increased risks associated with operating foreign businesses; risks associated with or arising from military conflicts; the ability to deliver backlog and win future project work; failure of markets to accept new product introductions and enhancements; the impact of changes in laws and regulations, including those that limit U.S. tax benefits; the outcome of litigation and governmental proceedings; and the ability to achieve our long-term strategic operating goals. Additional information concerning these and other factors is contained in our filings with the U.S. Securities and Exchange Commission (the "SEC"), including this Quarterly Report on Form 10-Q and ITEM 1A. of our Annual Report on Form 10-K for the year ended December 31, 2025. All forward-looking statements speak only as of the date of this report. nVent Electric plc assumes no obligation, and disclaims any obligation, to update the information contained in this report.
+Overview
+The terms "us," "we," "our," "the Company" or "nVent" refer to nVent Electric plc. nVent is a leading global provider of electrical connection and protection solutions. We believe our inventive electrical solutions enable safer systems and ensure a more secure world. We connect and protect some of the world's most critical electrical systems to make them safer, more efficient and resilient. We design, manufacture, market, install and service high performance products and solutions that connect and protect mission critical equipment, buildings and essential processes. We have a comprehensive portfolio of cable management, control buildings, cooling solutions, both liquid and air, electrical connections, enclosures, equipment protection, power connections and power management solutions, and we are recognized globally for quality, reliability and innovation.
+We classify our operations into business segments based primarily on types of products offered and markets served. We operate across two segments: Systems Protection and Electrical Connections, which represented approximately 72% and 28% of total revenues during the first six months of 2026, respectively. 
+•Systems Protection—The Systems Protection segment provides innovative solutions to help protect electronics, systems and data in mission critical applications, including data centers, that improve resiliency and energy efficiency. Our standard and custom protective enclosures, cooling solutions, both liquid and air, control buildings, switchgear systems and power distribution solutions help manage and protect operating environments for mission critical applications in infrastructure, industrial and commercial verticals.
+•Electrical Connections—The Electrical Connections segment provides innovative solutions that connect power and data infrastructure. Our offerings enhance end-user safety, reduce installation time and provide resiliency for critical systems. Our bus systems, cable management, electrical connections and solutions, and power connections help make electrical systems safe, efficient and resilient, and are used across commercial and residential, infrastructure and industrial verticals.
+On January 30, 2025, we completed the sale of our Thermal Management business to BCP VI Summit Holdings LP (as assignee of BCP Acquisitions LLC), an affiliate of funds managed by Brookfield Asset Management, for $1.6 billion in net cash proceeds, subject to certain customary purchase price adjustments. The results of the Thermal Management business have been presented as discontinued operations in our Condensed Consolidated Financial Statements for all periods presented.
+On May 1, 2025, we completed the acquisition of the enclosures, switchgear and bus systems businesses of Avail Infrastructure Solutions (the "Electrical Products Group") for approximately $1.0 billion. We funded the purchase price for the acquisition with available cash on hand. The Electrical Products Group is a leading provider of infrastructure solutions, designed to help 
+24
+ensure safe and reliable electrical operations primarily in the infrastructure vertical, including power utilities and data centers. We operate the Electrical Products Group predominantly within our Systems Protection reporting segment.
+Key Trends and Uncertainties Regarding our Existing Business
+The following trends and uncertainties affected our financial performance in 2025 and the first six months of 2026 and will likely impact our results in the future:
+•During 2025 and the first six months of 2026, we experienced general inflationary increases, including the impacts related to tariffs, primarily related to raw materials, labor and transportation costs. We may experience increased supply chain challenges, inflationary cost increases and economic uncertainty due to the rapid changes in global trade policies. We have taken pricing actions, and may take additional pricing actions going forward, and implemented, and plan to continue to implement, supply chain optimization and other productivity improvements that have helped, and could continue to help, offset expected cost increases. The potential impact of inflationary increases, including impacts related to tariffs, remains uncertain, but we expect inflationary cost increases, including impacts related to tariffs, to continue throughout 2026 and beyond, which could negatively impact our results of operations.
+•The converging megatrends of the electrification of everything, sustainability and digitalization, including the increased use of artificial intelligence, have led to sales growth, particularly in the infrastructure vertical, which includes our data centers business that is primarily in our Systems Protection segment. We expect these megatrends to continue and drive sales growth throughout 2026 and beyond.
+•We have invested in innovation and new products, which has contributed to sales growth. We expect continued investment in new products to further drive sales growth throughout 2026 and beyond.
+In 2026, our operating objectives include the following:
+•Achieving differentiated revenue growth through focus on higher growth verticals, new products and innovation, global expansion and acquisitions;
+•Deploying capital strategically to drive growth and value creation;
+•Integrating recent acquisitions with our existing operations;
+•Driving operational excellence through lean and agile, with specific focus on our digital transformation and supply chain resiliency;
+•Optimizing our technological capabilities to increasingly generate innovative new and connected products and advance digital transformation;
+•Enhancing and supporting employee engagement, development and retention; and
+•Executing our sustainability strategy focused on People, Products, Planet and Governance.
+25
+CONSOLIDATED RESULTS OF OPERATIONS
+The consolidated results of operations for the three months ended June 30, 2026 and 2025 were as follows:
+ | | | | | | | | | | | | | | | 
+ |   | Three months ended
+ | In millions | June 30,2026 | June 30,2025 | $ change | % / point change
+ | Net sales | $ | 1,471.3  | | $ | 963.1  | | $ | 508.2  | | 52.8  | %
+ | Cost of goods sold | 913.3  | | 591.3  | | 322.0  | | 54.5  | %
+ | Gross profit | 558.0  | | 371.8  | | 186.2  | | 50.1  | %
+ | 
+      % of net sales | 37.9  | % | 38.6  | % | | (0.7) |  pts
+ | | | | |  
+ | 
+Selling, general and administrative | 232.8  | | 196.0  | | 36.8  | | 18.8  | %
+ | 
+      % of net sales | 15.8  | % | 20.4  | % | | (4.6) |  pts
+ | 
+Research and development | 24.5  | | 19.1  | | 5.4  | | 28.3  | %
+ |       % of net sales | 1.7  | % | 2.0  | % | | (0.3) |  pts
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | Operating income | 300.7  | | 156.7  | | 144.0  | | 91.9  | %
+ |       % of net sales | 20.4  | % | 16.3  | % | | 4.1  |  pts
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | Net interest expense | 17.4  | | 17.6  | | (0.2) | | N.M.
+ | | | | | 
+ | | | | | 
+ | Other expense | 1.3  | | 1.1  | | 0.2  | | N.M.
+ | | | | | 
+ | Income from continuing operations before income taxes | 282.0  | | 138.0  | | 144.0  | | 104.3  | %
+ | Provision for income taxes | 66.2  | | 31.3  | | 34.9  | | 111.5  | %
+ |       Effective tax rate | 23.5  | % | 22.7  | % | | 0.8  |  pts
+ | | | | | 
+ | Net income from continuing operations | 215.8  | | 106.7  | | 109.1  | | 102.2  | %
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | Income from discontinued operations, net of tax | 0.1  | | 2.8  | | (2.7) | | N.M.
+ | | | | | 
+ | Net income | $ | 215.9  | | $ | 109.5  | | $ | 106.4  | | 97.2  | %
+N.M. Not Meaningful
+26
+The consolidated results of operations for the six months ended June 30, 2026 and 2025 were as follows:
+ | | | | | | | | | | | | | | | 
+ |   | Six months ended
+ | In millions | June 30,2026 | June 30,2025 | $ change | % / point change
+ | Net sales | $ | 2,713.3  | | $ | 1,772.4  | | $ | 940.9  | | 53.1  | %
+ | Cost of goods sold | 1,709.7  | | 1,086.9  | | 622.8  | | 57.3  | %
+ | Gross profit | 1,003.6  | | 685.5  | | 318.1  | | 46.4  | %
+ | 
+      % of net sales | 37.0  | % | 38.7  | % | | (1.7) |  pts
+ | | | | |  
+ | Selling, general and administrative | 460.0  | | 362.2  | | 97.8  | | 27.0  | %
+ | 
+      % of net sales | 17.0  | % | 20.4  | % | | (3.4) |  pts
+ | Research and development | 47.2  | | 36.6  | | 10.6  | | 29.0  | %
+ |       % of net sales | 1.7  | % | 2.1  | % | | (0.4) |  pts
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | Operating income | 496.4  | | 286.7  | | 209.7  | | 73.1  | %
+ |       % of net sales | 18.3  | % | 16.2  | % | | 2.1  |  pts
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | Net interest expense | 34.9  | | 35.0  | | (0.1) | | N.M.
+ | | | | | 
+ | | | | | 
+ | Other expense | 2.6  | | 2.2  | | 0.4  | | N.M.
+ | | | | | 
+ | Income from continuing operations before income taxes | 458.9  | | 249.5  | | 209.4  | | 83.9  | %
+ | Provision for income taxes | 102.7  | | 55.8  | | 46.9  | | 84.1  | %
+ |       Effective tax rate | 22.4  | % | 22.4  | % | | —  |  pts
+ | | | | | 
+ | Net income from continuing operations | 356.2  | | 193.7  | | 162.5  | | 83.9  | %
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | Income from discontinued operations, net of tax | 2.1  | | 276.5  | | (274.4) | | N.M.
+ | | | | | 
+ | Net income | $ | 358.3  | | $ | 470.2  | | $ | (111.9) | | (23.8) | %
+N.M. - Not Meaningful
+27
+Net sales
+The components of the change in consolidated net sales from the prior period were as follows:
+ | | | | | | | | | 
+ | | Three months ended June 30, 2026 | Six months ended June 30, 2026
+ | | over the prior year period | over the prior year period
+ | | | 
+ | | | 
+ | Organic growth | 46.9  | % | 41.2  | %
+ | Acquisition | 5.4  | | 10.7  | 
+ | Currency | 0.5  | | 1.2  | 
+ | Total | 52.8  | % | 53.1  | %
+The 52.8 and 53.1 percent increases in net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+•organic sales growth contribution of approximately 44.0% and 38.0% from our infrastructure business in the second quarter and first half of 2026 from 2025, respectively, and approximately 2.0% from our commercial & residential business in both the second quarter and first half of 2026 from 2025, which includes selective increases in selling prices and growth in the data centers business; and
+•sales of $51.6 million and $189.3 million in the second quarter and first half of 2026, respectively, as a result of the Electrical Products Group acquisition.
+Gross profit
+The 0.7 and 1.7 percentage point decreases in gross profit as a percentage of net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+•inflationary increases, primarily related to raw materials and labor costs, compared to 2025;
+•unfavorable product mix; and 
+•investments in capacity to drive growth.
+ These decreases were partially offset by:
+•higher sales volume resulting in increased leverage on fixed expenses; and
+•increased productivity as a result of supply chain management and manufacturing efficiencies.
+Gross profit for the second quarter and first half of 2026 also benefited from approximately $25 million in reimbursements of tariffs previously remitted under the International Emergency Economic Powers Act ("IEEPA tariffs"), which were offset by other incremental tariffs compared to the prior year periods.
+Selling, general and administrative ("SG&A")
+The 4.6 and 3.4 percentage point decreases in SG&A expense as a percentage of net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+•organic sales growth resulting in increased leverage on fixed expenses; and
+•savings generated from restructuring and other productivity initiatives.
+These decreases were partially offset by:
+•intangible amortization expense of $41.1 million and $82.2 million in the second quarter and first half of 2026, respectively, compared to $35.9 million and $64.1 million in the second quarter and first half of 2025, respectively, as a result of the Electrical Products Group acquisition;
+•inflationary increases impacting our labor costs, professional fees and other administrative costs; and
+•investments in capacity, new products and digital to drive growth.
+28
+Provision for income taxes
+The 0.8 percentage point increase in the effective tax rate in the second quarter of 2026 from 2025 was primarily the result of: 
+• tax expense of $3.6 million in the second quarter of 2026 related to a foreign tax audit settlement; and
+•increased earnings in higher tax rate jurisdictions.
+Income from discontinued operations, net of tax
+Income from discontinued operations, net of tax, of $276.5 million in the first half of 2025 was primarily the result of:
+•the gain on the sale of the Thermal Management business, net of transaction costs, of $435.4 million, partially offset by tax expense recorded as a result of the sale of $158.5 million.
+SEGMENT RESULTS OF OPERATIONS
+The summary that follows provides a discussion of the results of operations of each of our two reportable segments (Systems Protection and Electrical Connections). Each of these segments comprises various product offerings that serve multiple end users.
+We evaluate performance based on net sales and reportable segment income ("segment income") and use a variety of ratios to measure performance of our reporting segments. Segment income represents operating income, which includes certain corporate overhead allocations, and is exclusive of intangible amortization, acquisition related costs, costs of restructuring activities, IEEPA tariff reimbursements, "mark-to-market" gain/loss for pension, impairments and other unusual non-operating items.
+Systems Protection
+The net sales, segment income and segment income as a percentage of net sales for Systems Protection were as follows:
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | | | Six months ended | | 
+ | In millions | June 30,2026 | June 30,2025 | | % / point change | | June 30,2026 | June 30,2025 | | % / point change
+ | Net sales | $ | 1,072.1  | | $ | 632.0  | | | 69.6  | % | | $ | 1,966.9  | | $ | 1,140.2  | | | 72.5 | %
+ | Segment income | 248.2  | | 137.1  | | | 81.0  | % | | 451.3  | | 241.3  | | | 87.0 | %
+ |       % of net sales | 23.2  | % | 21.7  | % | | 1.5  |  pts | | 22.9  | % | 21.2  | % | | 1.7  |  pts
+Net sales
+The components of the change in Systems Protection net sales from the prior period were as follows:
+ | | | | | | | | | 
+ | | Three months ended June 30, 2026 | Six months ended June 30, 2026
+ | | over the prior year period | over the prior year period
+ | | | 
+ | | | 
+ | Organic growth | 62.0  | % | 56.7  | %
+ | Acquisition | 7.2  | | 14.6 | 
+ | Currency | 0.4  | | 1.2  | 
+ | Total | 69.6  | % | 72.5 | %
+The 69.6 and 72.5 percent increases in Systems Protection net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+•organic sales growth contribution of approximately 62.5% and 55.0% from our infrastructure business in the second quarter and first half of 2026 from 2025, respectively, which includes selective increases in selling prices and growth in the data centers business; and
+•sales of $45.2 million and $166.2 million in the second quarter and first half of 2026, respectively, as a result of the Electrical Products Group acquisition.
+Segment income
+The 1.5 and 1.7 percentage point increases in segment income for Systems Protection as a percentage of net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+•organic sales growth resulting in increased leverage on fixed expenses; and
+•increased productivity as a result of supply chain management and manufacturing efficiencies.
+29
+ These increases were partially offset by:
+•inflationary increases, including the impacts related to tariffs, primarily related to labor costs and raw materials, compared to 2025;
+•unfavorable product mix; and 
+•investments in capacity, new products and digital to drive growth.
+Electrical Connections
+The net sales, segment income and segment income as a percentage of net sales for Electrical Connections were as follows:
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three months ended | | | | Six months ended | | 
+ | In millions | June 30,2026 | June 30,2025 | | % / point change | | June 30,2026 | June 30,2025 | | % / point change
+ | Net sales | $ | 399.2  | | $ | 331.1  | | | 20.6  | % | | $ | 746.4  | | $ | 632.2  | | | 18.1  | %
+ | Segment income | 108.8  | | 94.9  | | | 14.6  | % | | 193.6  | | 180.0  | | | 7.6  | %
+ |       % of net sales | 27.3  | % | 28.7 | % | | (1.4) |  pts | | 25.9 | % | 28.5 | % | | (2.6) |  pts
+ | | | | | | | | | | 
+Net sales
+The components of the change in Electrical Connections net sales from the prior period were as follows:
+ | | | | | | | | | 
+ | | Three months ended June 30, 2026 | Six months ended June 30, 2026
+ | | over the prior year period | over the prior year period
+ | | | 
+ | | | 
+ | Organic growth | 17.9  | % | 13.1  | %
+ | Acquisition | 1.9  | | 3.7  | 
+ | Currency | 0.8  | | 1.3  | 
+ | Total | 20.6  | % | 18.1  | %
+The 20.6 and 18.1 percent increases in Electrical Connections net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+•organic sales growth contribution of approximately 8.5% and 7.0% from our infrastructure business in the second quarter and first half of 2026 from 2025, respectively; approximately 6.5% and 4.0% from our commercial & residential business in the second quarter and first half of 2026 from 2025, respectively; and approximately 3.0% and 2.0% from our industrial business in the second quarter and first half of 2026 from 2025, respectively.
+•sales of $6.4 million and $23.1 million in the second quarter and first half of 2026, respectively, as a result of the Electrical Products Group acquisition.
+Segment income
+The 1.4 and 2.6 percentage point decreases in segment income for Electrical Connections as a percentage of net sales in the second quarter and first half of 2026 from 2025, respectively, were primarily the result of:
+•inflationary increases, including the impacts related to tariffs, primarily related to raw materials and labor costs, compared to 2025; 
+•investments in digital, selling and marketing to drive growth; and
+•unfavorable product mix.
+These decreases were partially offset by:
+•organic sales growth resulting in increased leverage on fixed expenses.
+30
+LIQUIDITY AND CAPITAL RESOURCES
+The primary source of liquidity for our business is cash flows provided by operations. We expect to continue to have cash requirements to support working capital needs and capital expenditures, to pay interest and service debt and to pay dividends to shareholders quarterly. We believe we have the ability and sufficient capacity to meet these cash requirements by using available cash, internally generated funds and borrowing under committed credit facilities. We are focused on increasing our cash flow, while continuing to fund our research and development, sales and marketing and capital investment initiatives. Our intent is to maintain investment grade metrics and a solid liquidity position. As of June 30, 2026, we had $256.0 million of cash on hand, of which $79.6 million is held in certain countries in which the ability to repatriate is limited due to local regulations or significant potential tax consequences.
+We experience seasonal cash flows primarily due to increased demand for Electrical Connections products during the spring and summer months in the Northern Hemisphere.
+Operating activities
+Net cash provided by operating activities from continuing operations was $278.7 million in the first six months of 2026, which primarily reflects net income, net of non-cash depreciation, amortization and changes in deferred taxes, of $474.0 million, partially offset by a $219.7 million increase in net working capital. The increase in working capital is primarily attributed to accounts receivable driven by the overall increase and timing of sales.
+Net cash provided by operating activities from continuing operations was $154.9 million in the first six months of 2025, which primarily reflects net income, net of non-cash depreciation, amortization and changes in deferred taxes, of $288.0 million, partially offset by a $154.6 million increase in net working capital.
+Investing activities
+Net cash used for investing activities from continuing operations of $57.6 million in the first six months of 2026 relates to capital expenditures.
+Net cash used for investing activities from continuing operations of $1,008.0 million in the first six months of 2025 relates primarily to cash paid for the Electrical Products Group acquisition of $975.4 million and capital expenditures of $38.0 million. Net cash provided by investing activities from discontinued operations of $1,584.6 million in the first six months of 2025 primarily relates to the proceeds from the sale of the Thermal Management business, net of transaction costs and cash transferred.
+Financing activities
+Net cash used for financing activities from continuing operations of $196.5 million in the first six months of 2026 relates primarily to repayments of long-term debt of $68.3 million, dividends paid of $68.2 million and share repurchases of $50.4 million.
+Net cash used for financing activities from continuing operations of $714.0 million in the first six months of 2025 relates primarily to repayments of long-term debt of $866.3 million, share repurchases of $253.1 million and dividends paid of $65.7 million, partially offset by proceeds from long-term debt of $275.0 million and net receipts of revolving credit facility of $200.0 million.
+Senior notes
+In March 2018, nVent Finance S.à r.l. (“nVent Finance”), a 100-percent owned subsidiary of nVent, issued $500.0 million aggregate principal amount of 4.550% senior notes due 2028 (the "2028 Notes").
+In November 2021, nVent Finance issued $300.0 million aggregate principal amount of 2.750% senior notes due 2031 (the "2031 Notes").
+In May 2023, nVent Finance issued $500.0 million aggregate principal amount of 5.650% Senior Notes due 2033 (the "2033 Notes" and, collectively with the 2028 Notes and the 2031 Notes, the "Notes").
+Interest on the 2028 Notes is payable semi-annually in arrears on April 15 and October 15 of each year, and interest on the 2031 Notes and 2033 Notes is payable semi-annually in arrears on May 15 and November 15 of each year.
+In February 2026, we entered into a supplemental indenture to the indenture governing the Notes as a result of which nVent Electric plc and Hoffman Schroff Holdings, Inc. fully and unconditionally and jointly and severally guarantee the Notes of nVent Finance (together with nVent Electric plc and Hoffman Schroff Holdings, Inc., the "Obligor Group"). nVent Electric plc is a holding company that has no independent assets or operations unrelated to its investments in consolidated subsidiaries. nVent Finance is a holding company that has no independent assets or operations unrelated to its investments in consolidated 
+31
+subsidiaries and the issuance of the Notes and other external debt. Hoffman Schroff Holdings, Inc. is a United States holding company and a 100 percent-owned indirect subsidiary of nVent Electric plc that has no independent assets or operations unrelated to its investments in consolidated subsidiaries and the guarantees of the Notes and other external debt. nVent Electric plc’s principal source of cash flow, including cash flow to make payments on the Notes pursuant to the guarantees, is dividends from its subsidiaries. nVent Finance's principal source of cash flow, including to make payments on the Notes, is interest income from its subsidiaries. Hoffman Schroff Holdings, Inc.'s principal source of cash flow, including to make payments on the Notes pursuant to the guarantees, is interest income from its subsidiaries. None of the other subsidiaries of any of the Obligor Group are under any direct obligation to pay or otherwise fund amounts due on the Notes or the guarantees, whether in the form of dividends, distributions, loans or other payments. In addition, there may be statutory and regulatory limitations on the payment of dividends from certain subsidiaries of the Obligor Group. If such subsidiaries are unable to transfer funds to the Obligor Group and sufficient cash or liquidity is not otherwise available, the Obligor Group may not be able to make principal and interest payments on their outstanding debt, including the Notes or the guarantees. 
+The Notes constitute general unsecured senior obligations of nVent Finance and rank equally in right of payment with all existing and future unsubordinated and unsecured indebtedness and liabilities of nVent Finance. The guarantees of the Notes by nVent Electric plc and Hoffman Schroff Holdings, Inc. constitute general unsecured obligations and rank equally in right of payment with all existing and future unsubordinated and unsecured indebtedness and liabilities of nVent Finance. Subject to certain qualifications and exceptions, the indenture pursuant to which the Notes were issued contains covenants that, among other things, restrict nVent Electric plc's, Hoffman Schroff Holdings, Inc.'s, nVent Finance’s and certain subsidiaries’ ability to merge or consolidate with another person, create liens or engage in sale and lease-back transactions.
+There are no significant restrictions on the ability of nVent Electric plc to obtain funds from its subsidiaries by dividend or loan. None of the assets of nVent Electric plc or its subsidiaries represents restricted net assets pursuant to the guidelines established by the Securities and Exchange Commission.
+The following table presents summarized financial information as of June 30, 2026 for the Obligor Group on a combined basis after elimination of (i) intercompany transactions and balances among the guarantors and issuer and (ii) equity in earnings from and investments in any subsidiary that is a non-guarantor or issuer.
+ | | | | | | 
+ | In millions | June 30, 2026
+ | 
+Current assets(1) | $ | 7.8  | 
+ | 
+Noncurrent assets(2) | 1,599.9  | 
+ | Current liabilities | 58.7  | 
+ | 
+Noncurrent liabilities(3) | 1,510.8  | 
+(1) Includes assets due from non-guarantor subsidiaries of $0.8 million.
+(2) Includes assets due from non-guarantor subsidiaries of $1,592.1 million.
+(3) Includes liabilities due to non-guarantor subsidiaries of $20.7 million. 
+The Obligor Group does not have material results of operations on a combined basis.
+Senior credit facilities
+In June 2025, nVent and its subsidiaries nVent Finance and Hoffman Schroff Holdings, Inc. entered into an amended and restated credit agreement (the "Credit Agreement") with a syndicate of banks providing for a five-year $275.0 million senior unsecured term loan facility (the "Term Loan Facility") and a five-year $600.0 million senior unsecured revolving credit facility (the "Revolving Credit Facility" and, together with the Term Loan Facility, the "Senior Credit Facilities"). Borrowings under the Revolving Credit Facility are permitted from time to time during the full five-year term of the Revolving Credit Facility. nVent Finance has the option to request to increase the Revolving Credit Facility in an aggregate amount of up to $300.0 million, subject to customary conditions, including the commitment of the participating lenders.
+As of June 30, 2026, the borrowing capacity under the Revolving Credit Facility was $600.0 million.
+Borrowings under the Senior Credit Facilities bear interest at a rate equal to an adjusted base rate, the Term Secured Overnight Financing Rate ("SOFR"), Euro Interbank Offer Rate (“EURIBOR”), Sterling Overnight Index Average (“SONIA”) or, solely for swingline loans denominated in Euros, the Euro Short Term Rate ("ESTR"), plus, in each case, an applicable margin. The applicable margin will be based on, at nVent Finance’s election, nVent's net leverage ratio or public debt rating.
+Our debt agreements contain certain financial covenants, the most restrictive of which are in the Senior Credit Facilities, including that we may not permit (i) the ratio of our consolidated debt (net of our consolidated unrestricted cash in excess of 
+32
+$5.0 million but not to exceed $250.0 million) to our consolidated net income (excluding, among other things, non-cash gains and losses) before interest, taxes, depreciation, amortization and non-cash share-based compensation expense ("EBITDA") on the last day of any period of four consecutive fiscal quarters (each a "testing period") to exceed 3.75 to 1.00 (or, at nVent Finance's election and subject to certain conditions, 4.25 to 1.00 for four testing periods in connection with certain material acquisitions) and (ii) the ratio of our EBITDA to our consolidated interest expense for the same period to be less than 3.00 to 1.00. In addition, subject to certain qualifications and exceptions, the Senior Credit Facilities also contain covenants that, among other things, restrict our ability to create liens, merge or consolidate with another person, make acquisitions and incur subsidiary debt. As of June 30, 2026, we were in compliance with all financial covenants in our debt agreements, and there is no material uncertainty about our ongoing ability to meet those covenants.
+Share repurchases
+On May 17, 2024, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $500.0 million (the "2024 Authorization"). The 2024 Authorization began on July 23, 2024 and expires on July 22, 2027.
+During the six months ended June 30, 2026, we repurchased 0.4 million of our ordinary shares for $50.4 million under the 2024 Authorization. During the six months ended June 30, 2025, we repurchased 4.8 million of our ordinary shares for $253.1 million under the 2024 Authorization.
+As of June 30, 2026, we had $96.5 million available for share repurchases under the 2024 Authorization.
+On May 16, 2026, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $500.0 million (the "2026 Authorization"). The 2026 Authorization began on July 23, 2026 and expires on July 22, 2029.
+Dividends
+During the six months ended June 30, 2026, we paid dividends of $68.2 million, or $0.42 per ordinary share. During the six months ended June 30, 2025, we paid dividends of $65.7 million, or $0.40 per ordinary share.
+On May 16, 2026, the Board of Directors declared a quarterly cash dividend of $0.21 per ordinary share that will be paid on August 7, 2026, to shareholders of record at the close of business on July 24, 2026. The balance of dividends payable included in Other current liabilities on our Condensed Consolidated Balance Sheets was $34.3 million and $34.6 million at June 30, 2026 and December 31, 2025, respectively.
+Other financial measures
+In addition to measuring our cash flow generation or usage based upon operating, investing and financing classifications included in the Condensed Consolidated Statements of Cash Flows, we also measure our free cash flow. Free cash flow is a non-GAAP financial measure that we use to assess our cash flow performance. We believe free cash flow is an important measure of liquidity because it provides us and our investors a measurement of cash generated from operations that is available to pay dividends, make acquisitions, repay debt and repurchase shares. In addition, free cash flow is used as a criterion to measure and pay annual incentive compensation. Our measure of free cash flow may not be comparable to similarly titled measures reported by other companies.
+The following table is a reconciliation of free cash flow:
+ | | | | | | | | | 
+ |   | Six months ended
+ | In millions | June 30,2026 | June 30,2025
+ | Net cash provided by (used for) operating activities of continuing operations | $ | 278.7  | | $ | 154.9  | 
+ | Capital expenditures | (57.6) | | (38.0) | 
+ | Proceeds from sale of property and equipment | —  | | 1.6  | 
+ | Free cash flow of continuing operations | $ | 221.1  | | $ | 118.5  | 
+ | | | 
+ | | | 
+ | | | 
+ | | | 
+CRITICAL ACCOUNTING ESTIMATES
+We have adopted various accounting policies to prepare the consolidated financial statements in accordance with GAAP. Certain of our accounting policies require the application of significant judgment by management in selecting the appropriate assumptions for calculating financial estimates. In our 2025 Annual Report on Form 10-K, we identified the critical accounting policies which affect our more significant estimates and assumptions used in preparing our consolidated financial statements.
+There have been no material changes to our critical accounting policies and estimates from those previously disclosed in our 2025 Annual Report on Form 10-K for the year ended December 31, 2025.
+33
+ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+There have been no material changes in our market risk during the quarter ended June 30, 2026. For additional information, refer to our 2025 Annual Report on Form 10-K for the year ended December 31, 2025.
+ITEM 4.    CONTROLS AND PROCEDURES
+(a)    Evaluation of Disclosure Controls and Procedures
+We maintain a system of disclosure controls and procedures designed to provide reasonable assurance as to the reliability of our published financial statements and other disclosures included in this report. Our management evaluated, with the participation of our Chief Executive Officer and our Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the quarter ended June 30, 2026 pursuant to Rule 13a-15(b) of the Securities Exchange Act of 1934 (the "Exchange Act"). Based upon their evaluation, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were effective, at the reasonable assurance level, as of the end of the quarter ended June 30, 2026 to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules and forms, and to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosures.
+(b)    Changes in Internal Control over Financial Reporting
+ There were no changes in our internal control over financial reporting that occurred during the quarter ended June 30, 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+34
+PART II OTHER INFORMATION
+ITEM 1.    LEGAL PROCEEDINGS
+There have been no material developments with respect to the legal proceedings previously disclosed in Item 3 of our 2025 Annual Report on Form 10-K for the year ended December 31, 2025.
+ITEM 1A.    RISK FACTORS
+There have been no material changes from the risk factors previously disclosed in our 2025 Annual Report on Form 10-K for the year ended December 31, 2025.
+ITEM 2.    UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+The following table provides information with respect to purchases we made of our ordinary shares during the second quarter of 2026:
+ | | | | | | | | | | | | | | | 
+ | | (a) | (b) | (c) | (d)
+ | Period | Total number ofshares purchased | Average pricepaid per share | Total number ofshares purchased aspart of publiclyannounced plansor programs | Dollar value ofshares that mayyet be purchasedunder the plansor programs
+ | April 1 - April 25, 2026 | 7,635  | | $ | 130.45  | | —  | | $ | 96,520,092  | 
+ | April 26 - May 23, 2026 | 6,196  | | 169.23  | | —  | | 96,520,092  | 
+ | May 24 - June 30, 2026 | 1,222  | | 159.74  | | —  | | 96,520,092  | 
+ | Total | 15,053  | | | —  | | 
+(a)The purchases in this column include shares repurchased as part of our publicly announced plans and shares deemed surrendered to us by participants in the nVent Electric plc 2018 Omnibus Incentive Plan (the "2018 Plan") and earlier Pentair stock incentive plans that are now outstanding under the 2018 Plan (collectively the "Plans") to satisfy the exercise price or withholding of tax obligations related to the exercise of stock options, vesting of restricted shares and vesting of performance shares.
+(b)The average price paid in this column includes shares repurchased as part of our publicly announced plans and shares deemed surrendered to us by participants in the Plans to satisfy the exercise price of stock options and withholding tax obligations due upon stock option exercises and vesting of restricted and performance shares.
+(c)The number of shares in this column represents the number of shares repurchased as part of our publicly announced plans to repurchase our ordinary shares up to a maximum dollar limit authorized by the Board of Directors, discussed below.
+(d)On May 17, 2024, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $500.0 million (the "2024 Authorization"). The 2024 Authorization began on July 23, 2024 and expires on July 22, 2027. As of June 30, 2026, we had $96.5 million available for share repurchases under the 2024 Authorization. On May 16, 2026, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $500.0 million (the "2026 Authorization"). The 2026 Authorization began on July 23, 2026 and expires on July 22, 2029. 
+ITEM 5.     OTHER INFORMATION
+(c)
+During the second quarter of 2026, none of our directors or Section 16 officers adopted or terminated any "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement" (as each term is defined in Item 408(a) of Regulation S-K).
+35
+ITEM 6.     EXHIBITS
+The exhibits listed in the following Exhibit Index are filed as part of this Quarterly Report on Form 10-Q.
+Exhibit Index to Form 10-Q for the Period Ended June 30, 2026
+ | | | | | | | | | 
+ | 
+22 | | Guarantors and Subsidiary Issuers of Guaranteed Securities. (incorporated by reference to Exhibit 22 in the Annual Report on Form 10-K of nVent Electric plc filed with the Commission on February 17, 2026 (File No. 001-38265)).
+ | | | 
+ | 
+31.1 | | Certification of Chief Executive Officer.
+ | | 
+ | 
+31.2 | | Certification of Chief Financial Officer.
+ | | 
+ | 
+32.1 | | Certification of Chief Executive Officer, Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+ | | 
+ | 
+32.2 | | Certification of Chief Financial Officer, Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+ | | 
+ | 101 | | 
+The following materials from nVent Electric plc's Quarterly Report on Form 10-Q for the quarter ended June 30, 2026 are filed herewith, formatted in iXBRL (Inline Extensible Business Reporting Language): (i) the Condensed Consolidated Statements of Income and Comprehensive Income for the three and six months ended June 30, 2026 and 2025, (ii) the Condensed Consolidated Balance Sheets as of June 30, 2026 and December 31, 2025, (iii) the Condensed Consolidated Statements of Cash Flows for the six months ended June 30, 2026 and 2025, (iv) the Condensed Consolidated Statements of Changes in Equity for the three and six months ended June 30, 2026 and 2025, (v) Notes to Condensed Consolidated Financial Statements and (vi) the information included in Part II, Item 5(c). The instance document does not appear in the interactive data file because its XBRL tags are embedded within the Inline XBRL document.
+ | | | 
+ | 104 | | Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+* Denotes a management contract or compensatory plan or arrangement.
+36
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on July 31, 2026.
+ | | | | | | | | | 
+ | | | 
+ | | nVent Electric plc
+ | | Registrant
+ | | | 
+ | | By | /s/ Gary L. Corona
+ | | | Gary L. Corona
+ | | | Executive Vice President and Chief Financial Officer
+ | | | 
+ | | By | /s/ Randolph A. Wacker
+ | | | Randolph A. Wacker
+ | | | Senior Vice President, Chief Accounting Officer and Treasurer
+37

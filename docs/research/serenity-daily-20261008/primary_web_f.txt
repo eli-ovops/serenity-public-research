@@ -1,0 +1,241 @@
+Internal Error ()
+citeturn376view0 [wordlim: 200] Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1601830/000160183026000120/xslF345X06/wk-form4_1791410921.xml","lineno":null}); Total lines: 1
+L0: URL https://www.sec.gov/Archives/edgar/data/1601830/000160183026000120/xslF345X06/wk-form4_1791410921.xml is not accessible via this tool.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn376view1 [wordlim: 200] Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1601830/000160183026000119/xslF345X06/wk-form4_1791410900.xml","lineno":null}); Total lines: 1
+L0: URL https://www.sec.gov/Archives/edgar/data/1601830/000160183026000119/xslF345X06/wk-form4_1791410900.xml is not accessible via this tool.
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/67347/000110465926114220/mod-ex99d1.htm)
+citeturn376view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn371view7","id":0}); Total lines: 313
+L0: EX-99.1 2 mod-ex99d1.htm EX-99.1
+L1: 
+L2: Exhibit 99.1
+L3: 
+L4: UNAUDITED PRO FORMA CONSOLIDATED FINANCIAL INFORMATION
+L5: 
+L6: Reverse Morris Trust Transaction
+L7: On October 1, 2026, Modine Manufacturing Company (“Modine” or the “Company”), completed the previously-announced spin-off of the Company’s Performance Technologies business (the “Performance Technologies Business”), which was contributed to a wholly-owned subsidiary of the Company, Platinum Spinco Inc.
+L8: (“SpinCo”) pursuant to the Separation Agreement, dated as of January 29, 2026, among the Company, SpinCo and Gentherm Incorporated, a Michigan corporation (“Gentherm”) (the “Separation Agreement”), and merger of SpinCo with a wholly-owned subsidiary of Gentherm pursuant to an Agreement and Plan of Merger, dated as of January 29, 2026, among the Company, SpinCo, Gentherm and Platinum Gold Merger Sub Inc. (the “Merger Agreement”) in a Reverse Morris Trust transaction (the “Transaction”).
+L9: Beginning with the third quarter of fiscal 2027, the historical financial results of the Performance Technologies Business will be reflected in Modine’s consolidated financial statements as discontinued operations under U.S. generally accepted accounting principles (“U.S. GAAP”) for all periods presented.
+L10: 
+L11: Unaudited Pro Forma Consolidated Financial Information
+L12: The following unaudited pro forma consolidated financial information (“pro forma financial information”) as of and for the three months ended June 30, 2026 and for each of the years ended March 31, 2026, 2025, and 2024 reflects adjustments to the Company’s historical financial results related to the Transaction and related events.
+L13: The unaudited pro forma consolidated statements of operations for the three months ended June 30, 2026 and for the year ended March 31, 2026 give effect to the Transaction and related events as if they occurred April 1, 2025. The unaudited pro forma consolidated balance sheet as of June 30, 2026, gives effect to the Transaction and related events as if they occurred June 30, 2026.
+L14: The pro forma financial information reflects the Performance Technologies Business as a discontinued operation for all periods presented.
+L15: The pro forma financial information has been prepared in accordance with Regulation S-X Article 11, Pro Forma Financial Information. The pro forma financial information provided herein is intended for illustrative and informational purposes only.
+L16: The pro forma financial information is not necessarily indicative of and does not purport to represent the Company’s financial position or results of operations had the Transaction and related events been completed on the dates indicated or what the Company’s future operating results will be after giving effect to these events. The pro forma financial information includes management’s estimates and is subject to the assumptions and adjustments described in the accompanying notes.
+L17: The pro forma financial information should be read in conjunction with the Company’s historical consolidated financial statements and accompanying notes. The “Historical Modine” columns present the Company’s historical results for the periods shown and do not include any adjustments related to the Transaction or related events. The “Performance Technologies Discontinued Operations” columns include adjustments which are consistent with the guidance for discontinued operations under U.S. GAAP.
+L18: The Company's current estimates for its discontinued operations are preliminary and could change as the Company finalizes the discontinued operations accounting to be reported in its Quarterly Report on Form 10-Q for the three and nine months ended December 31, 2026.
+L19: ​
+L20: 
+L21: ​
+L22: 
+L23: ​
+L24: 
+L25: 1
+L26: 
+L27: ​
+L28: 
+L29: * * *
+L30: 
+L31: ​
+L32: 
+L33: Unaudited Pro Forma Consolidated Balance Sheet
+L34: 
+L35: As of June 30, 2026
+L36: 
+L37: (in millions, except per share amounts)
+L38: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L39: ​  | ​  | ​  | ​  | Performance  | ​  | ​  | ​  | ​  | ​  | ​
+L40: ​  | ​  | ​  | ​  | ​  | Technologies  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L41: ​  | ​  | ​  | ​  | ​  | Discontinued  | ​  | Transaction  | ​  | ​  | ​  | ​
+L42: ​  | ​  | Historical  | ​  | Operations  | ​  | Accounting  | ​  | ​  | Pro Forma
+L43: ​  | ​  | Modine  | ​  | (a)  | ​  | Adjustments  |   ​ ​ ​  | ​  | Modine
+L44: ASSETS  |   ​ ​ ​  | ​  |   ​  | ​  | ​  | ​  | ​  | ​  | ​  |    | ​  | ​  |   ​
+L45: Cash and cash equivalents  | ​  | $  | 95.3  | ​  | $  | (41.2)  | ​  | $  | —  | ​  | ​  | $  | 54.1
+L46: Trade accounts receivable – net  | ​  |    | 659.9  | ​  | ​  | (227.3)  | ​  | ​  | —  | ​  | ​  |    | 432.6
+L47: Inventories  | ​  |    | 609.0  | ​  | ​  | (170.1)  | ​  | ​  | —  | ​  | ​  |    | 438.9
+L48: Other current assets  | ​  |    | 162.7  | ​  | ​  | (35.3)  | ​  | ​  | —  | ​  | ​  |    | 127.4
+L49: Total current assets  | ​  |    | 1,526.9  | ​  | ​  | (473.9)  | ​  | ​  | —  | ​  | ​  |    | 1,053.0
+L50: Property, plant and equipment – net  | ​  |    | 536.1  | ​  | ​  | (182.6)  | ​  | ​  | —  | ​  | ​  |    | 353.5
+L51: Intangible assets – net  | ​  |    | 190.2  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  |    | 190.2
+L52: Goodwill  | ​  |    | 290.2  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  |    | 290.2
+L53: Deferred income taxes  | ​  |    | 88.7  | ​  | ​  | (16.3)  | ​  | ​  | —  | ​  | ​  |    | 72.4
+L54: Other noncurrent assets  | ​  |    | 163.3  | ​  | ​  | (22.2)  | ​  | ​  | —  | ​  | ​  |    | 141.1
+L55: Total assets  | ​  | $  | 2,795.4  | ​  | $  | (695.0)  | ​  | $  | —  | ​  | ​  | $  | 2,100.4
+L56: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L57: LIABILITIES AND SHAREHOLDERS’ EQUITY  | ​  |    |   ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  |    |   ​
+L58: Short-term debt  | ​  | $  | 8.1  | ​  | $  | (8.1)  | ​  | $  | —  | ​  | ​  | $  | —
+L59: Long-term debt – current portion  | ​  |    | 43.9  | ​  | ​  | (0.5)  | ​  | ​  | —  | ​  | ​  |    | 43.4
+L60: Accounts payable  | ​  |    | 508.9  | ​  | ​  | (153.0)  | ​  | ​  | 31.0  | (d)  | ​  |    | 386.9
+L61: Accrued compensation and employee benefits  | ​  |    | 84.1  | ​  | ​  | (26.7)  | ​  | ​  | —  | ​  | ​  |    | 57.4
+L62: Other current liabilities  | ​  |    | 104.8  | ​  | ​  | (21.7)  | ​  | ​  | —  | ​  | ​  |    | 83.1
+L63: Total current liabilities  | ​  |    | 749.8  | ​  | ​  | (210.0)  | ​  | ​  | 31.0  | ​  | ​  |    | 570.8
+L64: Long-term debt  | ​  |    | 476.2  | ​  | ​  | (1.6)  | ​  | ​  | (198.6)  | (b)  | ​  |    | 276.0
+L65: Deferred income taxes  | ​  |    | 24.8  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  |    | 24.8
+L66: Other noncurrent liabilities  | ​  |    | 334.8  | ​  | ​  | (23.5)  | ​  | ​  | —  | ​  | ​  |    | 311.3
+L67: Total liabilities  | ​  |    | 1,585.6  | ​  | ​  | (235.1)  | ​  | ​  | (167.6)  | ​  | ​  |    | 1,182.9
+L68: ​  | ​  |    |   ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  |    |   ​
+L69: Shareholders’ equity:  | ​  |    |   ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  |    |   ​
+L70: Preferred stock, $0.025 par value, authorized 16.0 million shares, issued – none  | ​  |    | —  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  |    | —
+L71: Common stock, $0.625 par value, authorized 80.0 million shares, issued 57.5 million shares  | ​  |    | 35.9  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  |    | 35.9
+L72: Additional paid-in capital  | ​  |    | 343.8  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  |    | 343.8
+L73: Retained earnings  | ​  |    | 1,038.4  | ​  | ​  | (538.0)  | ​  | ​  | 167.6  | (b)(d)  | ​  |    | 668.0
+L74: Accumulated other comprehensive loss  | ​  |    | (47.4)  | ​  | ​  | 86.4  | ​  | ​  | —  | ​  | ​  |    | 39.0
+L75: Treasury stock, at cost, 4.4 million shares  | ​  |    | (169.2)  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  |    | (169.2)
+L76: Total Modine shareholders’ equity  | ​  |    | 1,201.5  | ​  | ​  | (451.6)  | ​  | ​  | 167.6  | ​  | ​  |    | 917.5
+L77: Noncontrolling interest  | ​  |    | 8.3  | ​  | ​  | (8.3)  | ​  | ​  | —  | ​  | ​  |    | —
+L78: Total equity  | ​  |    | 1,209.8  | ​  | ​  | (459.9)  | ​  | ​  | 167.6  | ​  | ​  |    | 917.5
+L79: Total liabilities and equity  | ​  | $  | 2,795.4  | ​  | $  | (695.0)  | ​  | $  | —  | ​  | ​  | $  | 2,100.4
+L80: ​
+L81: 
+L82: See the accompanying notes to the unaudited pro forma consolidated financial information.
+L83: 
+L84: 2
+L85: 
+L86: ​
+L87: 
+L88: * * *
+L89: 
+L90: ​
+L91: 
+L92: Unaudited Pro Forma Consolidated Statement of Operations
+L93: 
+L94: For the three months ended June 30, 2026
+L95: 
+L96: (in millions, except per share amounts)
+L97: 
+L98: ​
+L99: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L100: ​  | ​  | ​  | ​  | ​  | Performance  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L101: ​  | ​  | ​  | ​  | ​  | Technologies  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L102: ​  | ​  | ​  | ​  | ​  | Discontinued  | ​  | Transaction  | ​  | ​  | ​  | ​
+L103: ​  | ​  | Historical  | ​  | Operations  | ​  | Accounting  | ​  | ​  | Pro Forma
+L104: ​  |   ​ ​ ​  | Modine  |   ​ ​ ​  | (a)  | ​  | Adjustments  |   ​ ​ ​  | ​  | Modine
+L105: Net sales  | ​  | $  | 874.1  | ​  | $  | (277.8)  | ​  | $  | —  | ​  | ​  | $  | 596.3
+L106: Cost of sales  | ​  |    | 692.1  | ​  |    | (227.4)  | ​  |    | —  | ​  | ​  |    | 464.7
+L107: Gross profit  | ​  |    | 182.0  | ​  |    | (50.4)  | ​  |    | —  | ​  | ​  |    | 131.6
+L108: Selling, general and administrative expenses  | ​  |    | 103.3  | ​  |    | (25.1)  | ​  |    | —  | ​  | ​  |    | 78.2
+L109: Restructuring expenses  | ​  |    | 3.9  | ​  |    | (1.7)  | ​  |    | —  | ​  | ​  |    | 2.2
+L110: Operating income  | ​  |    | 74.8  | ​  |    | (23.6)  | ​  |    | —  | ​  | ​  |    | 51.2
+L111: Interest expense  | ​  |    | (6.4)  | ​  |    | —  | ​  |    | 2.5  | (c)  | ​  | ​  | (3.9)
+L112: Other income – net  | ​  |    | 0.2  | ​  |    | 0.1  | ​  |    | —  | ​  | ​  | ​  | 0.3
+L113: Earnings before income taxes  | ​  |    | 68.6  | ​  |    | (23.5)  | ​  |    | 2.5  | ​  | ​  |    | 47.6
+L114: Benefit for income taxes  | ​  |    | 5.7  | ​  |    | 6.0  | ​  |    | (0.6)  | (e)  | ​  | ​  | 11.1
+L115: Net earnings  | ​  |    | 74.3  | ​  |    | (17.5)  | ​  |    | 1.9  | ​  | ​  |    | 58.7
+L116: Net earnings attributable to noncontrolling interest  | ​  |    | (0.4)  | ​  |    | 0.4  | ​  |    | —  | ​  | ​  | ​  | —
+L117: Net earnings attributable to Modine  | ​  | $  | 73.9  | ​  | $  | (17.1)  | ​  | $  | 1.9  | ​  | ​  | $  | 58.7
+L118: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L119: Net earnings per share attributable to Modine shareholders:  | ​  |    |   ​  | ​  |    |   ​  | ​  |    |   ​  | ​  | ​  |    |   ​
+L120: Basic  | ​  | $  | 1.39  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | $  | 1.10
+L121: Diluted  | ​  | $  | 1.37  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | $  | 1.09
+L122: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L123: Weighted-average shares outstanding:  | ​  |    |   ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  |    |   ​
+L124: Basic  | ​  |    | 53.3  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | 53.3
+L125: Diluted  | ​  |    | 54.0  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | 54.0
+L126: ​
+L127: 
+L128: See the accompanying notes to the unaudited pro forma consolidated financial information.
+L129: 
+L130: ​
+L131: 
+L132: 3
+L133: 
+L134: ​
+L135: 
+L136: * * *
+L137: 
+L138: ​
+L139: 
+L140: Unaudited Pro Forma Consolidated Statement of Operations
+L141: 
+L142: For the year ended March 31, 2026
+L143: 
+L144: (in millions, except per share amounts)
+L145: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L146: ​  | ​  | ​  | ​  | ​  | Performance  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L147: ​  | ​  | ​  | ​  | ​  | Technologies  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L148: ​  | ​  | ​  | ​  | ​  | Discontinued  | ​  | Transaction  | ​  | ​  | ​  | ​
+L149: ​  | ​  | Historical  | ​  | Operations  | ​  | Accounting  | ​  | ​  | Pro Forma
+L150: ​  |   ​ ​ ​  | Modine  |   ​ ​ ​  | (a)  | ​  | Adjustments  |   ​ ​ ​  | ​  | Modine
+L151: Net sales  | ​  | $  | 3,181.1  | ​  | $  | (1,125.7)  | ​  | $  | —  | ​  | ​  | $  | 2,055.4
+L152: Cost of sales  | ​  |    | 2,450.0  | ​  |    | (915.2)  | ​  |    | —  | ​  | ​  |    | 1,534.8
+L153: Gross profit  | ​  |    | 731.1  | ​  |    | (210.5)  | ​  |    | —  | ​  | ​  |    | 520.6
+L154: Selling, general and administrative expenses  | ​  |    | 360.1  | ​  |    | (86.9)  | ​  |    | —  | ​  | ​  |    | 273.2
+L155: Restructuring expenses  | ​  |    | 20.6  | ​  |    | (11.9)  | ​  |    | —  | ​  | ​  |    | 8.7
+L156: Impairment charge  | ​  | ​  | 4.1  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  | ​  | 4.1
+L157: Loss on sale of assets  | ​  | ​  | 3.9  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  | ​  | 3.9
+L158: Operating income  | ​  |    | 342.4  | ​  |    | (111.7)  | ​  |    | —  | ​  | ​  |    | 230.7
+L159: Interest expense  | ​  |    | (31.6)  | ​  |    | 0.3  | ​  |    | 11.0  | (c)  | ​  | ​  | (20.3)
+L160: Pension termination charge  | ​  | ​  | (116.1)  | ​  | ​  | —  | ​  | ​  | —  | ​  | ​  | ​  | (116.1)
+L161: Other expense – net  | ​  |    | (8.2)  | ​  |    | (0.2)  | ​  |    | —  | ​  | ​  | ​  | (8.4)
+L162: Earnings before income taxes  | ​  |    | 186.5  | ​  |    | (111.6)  | ​  |    | 11.0  | ​  | ​  |    | 85.9
+L163: Provision for income taxes  | ​  |    | (63.2)  | ​  |    | 34.1  | ​  |    | (2.8)  | (e)  | ​  | ​  | (31.9)
+L164: Net earnings  | ​  |    | 123.3  | ​  |    | (77.5)  | ​  |    | 8.2  | ​  | ​  |    | 54.0
+L165: Net earnings attributable to noncontrolling interest  | ​  |    | (1.8)  | ​  |    | 1.8  | ​  |    | —  | ​  | ​  | ​  | —
+L166: Net earnings attributable to Modine  | ​  | $  | 121.5  | ​  | $  | (75.7)  | ​  | $  | 8.2  | ​  | ​  | $  | 54.0
+L167: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L168: Net earnings per share attributable to Modine shareholders:  | ​  |    |   ​  | ​  |    |   ​  | ​  |    |   ​  | ​  | ​  |    |   ​
+L169: Basic  | ​  | $  | 2.30  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | $  | 1.02
+L170: Diluted  | ​  | $  | 2.26  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | $  | 1.00
+L171: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L172: Weighted-average shares outstanding:  | ​  |    |   ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  |    |   ​
+L173: Basic  | ​  |    | 52.8  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | 52.8
+L174: Diluted  | ​  |    | 53.8  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | 53.8
+L175: ​
+L176: 
+L177: See the accompanying notes to the unaudited pro forma consolidated financial information.
+L178: 
+L179: ​
+L180: 
+L181: 4
+L182: 
+L183: ​
+L184: 
+L185: * * *
+L186: 
+L187: ​
+L188: 
+L189: Unaudited Pro Forma Consolidated Statement of Operations
+L190: 
+L191: For the year ended March 31, 2025
+L192: 
+L193: (in millions, except per share amounts)
+L194: 
+L195: ​
+L196: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L197: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L198: ​  | ​  | ​  | ​  | ​  | Performance Technologies  | ​  | ​  | ​
+L199: ​  | ​  | Historical  | ​  | Discontinued Operations  | ​  | Pro Forma
+L200: ​  |   ​ ​ ​  | Modine  |   ​ ​ ​  | (a)  | ​  | Modine
+L201: Net sales  | ​  | $  | 2,583.5  | ​  | $  | (1,142.9)  | ​  | $  | 1,440.6
+L202: Cost of sales  | ​  |    | 1,939.7  | ​  |    | (903.7)  | ​  |    | 1,036.0
+L203: Gross profit  | ​  |    | 643.8  | ​  |    | (239.2)  | ​  |    | 404.6
+L204: Selling, general and administrative expenses  | ​  |    | 332.1  | ​  |    | (99.8)  | ​  |    | 232.3
+L205: Restructuring expenses  | ​  |    | 28.2  | ​  |    | (20.5)  | ​  |    | 7.7
+L206: Operating income  | ​  |    | 283.5  | ​  |    | (118.9)  | ​  |    | 164.6
+L207: Interest expense  | ​  |    | (26.4)  | ​  |    | 0.2  | ​  | ​  | (26.2)
+L208: Other expense – net  | ​  |    | (3.1)  | ​  |    | (2.2)  | ​  | ​  | (5.3)
+L209: Earnings before income taxes  | ​  |    | 254.0  | ​  |    | (120.9)  | ​  |    | 133.1
+L210: Provision for income taxes  | ​  |    | (68.5)  | ​  |    | 34.5  | ​  | ​  | (34.0)
+L211: Net earnings  | ​  |    | 185.5  | ​  |    | (86.4)  | ​  |    | 99.1
+L212: Net earnings attributable to noncontrolling interest  | ​  |    | (1.5)  | ​  |    | 1.5  | ​  | ​  | —
+L213: Net earnings attributable to Modine  | ​  | $  | 184.0  | ​  | $  | (84.9)  | ​  | $  | 99.1
+L214: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L215: Net earnings per share attributable to Modine shareholders:  | ​  |    |   ​  | ​  |    |   ​  | ​  |    |   ​
+L216: Basic  | ​  | $  | 3.50  | ​  | ​  | ​  | ​  | $  | 1.88
+L217: Diluted  | ​  | $  | 3.42  | ​  | ​  | ​  | ​  | $  | 1.84
+L218: ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​  | ​
+L219: Weighted-average shares outstanding:  | ​  |    |   ​  | ​  | ​  | ​  | ​  |    |   ​
+L220: Basic  | ​  |    | 52.6  | ​  | ​  | ​  | ​  | ​  | 52.6
+L221: Diluted  | ​  |    | 53.9  | ​  | ​  | ​  | ​  | ​  | 53.9
+L222: ​
+L223: 
+L224: See the accompanying notes to the unaudited pro forma consolidated financial information.
+L225: 
+L226: ​
+--------------------------------------------------------------------------------
+AAON Reports Record Second Quarter 2026 Results Driven by Strong Demand, Accelerating Throughput, and Improved Operating Execution (https://investors.aaon.com/investor-news/aaon-reports-record-second-quarter-2026-results-driven-by-strong-demand-accelerating-throughput-and-improved-operating-execution)
+citeturn376view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn372view4","id":5}); Total lines: 184
+

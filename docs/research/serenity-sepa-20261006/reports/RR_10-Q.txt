@@ -1,0 +1,2620 @@
+
+ rr-20260630
+ P2Y
+ P6Y
+ 1
+ http://fasb.org/srt/2026#ChiefExecutiveOfficerMember
+ 0001963685
+ false
+ Q3
+ --09-30
+ 0001963685
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ 2026-06-30
+ 0001963685
+ 2025-09-30
+ 0001963685
+ us-gaap:ResearchAndDevelopmentArrangementMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:ResearchAndDevelopmentArrangementMember
+ 2026-06-30
+ 0001963685
+ 2026-04-30
+ 0001963685
+ 2025-06-02
+ 2025-06-02
+ 0001963685
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ us-gaap:RestrictedStockUnitsRSUMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:WarrantsToPurchaseClassBCommonStockMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:WarrantsToPurchaseClassBCommonStockMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:QuarterlyStockAwardsMember
+ 2026-05-17
+ 2026-05-17
+ 0001963685
+ rr:QuarterlyStockAwardsMember
+ 2026-05-17
+ 0001963685
+ rr:QuarterlyStockAwardsMember
+ 2026-02-17
+ 2026-02-17
+ 0001963685
+ rr:QuarterlyStockAwardsMember
+ 2026-02-17
+ 0001963685
+ rr:TwoZeroTwoThreeStockOptionPlanMember
+ 2026-06-30
+ 0001963685
+ 2026-01-01
+ 2026-03-31
+ 0001963685
+ 2025-12-04
+ 2025-12-04
+ 0001963685
+ us-gaap:WarrantMember
+ 2025-12-04
+ 2025-12-04
+ 0001963685
+ rr:GeneralAndAdministrativeExpensesMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:GeneralAndAdministrativeExpensesMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ rr:GeneralAndAdministrativeExpensesMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ rr:GeneralAndAdministrativeExpensesMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:SalesAndMarketingExpensesMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:SalesAndMarketingExpensesMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ rr:SalesAndMarketingExpensesMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ rr:SalesAndMarketingExpensesMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:ResearchandDevelopmentExpensesMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:ResearchandDevelopmentExpensesMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ rr:ResearchandDevelopmentExpensesMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ rr:ResearchandDevelopmentExpensesMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ 2025-06-30
+ 0001963685
+ rr:TwoZeroTwoThreeStockOptionPlanMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonClassBMember
+ srt:MaximumMember
+ 2026-02-17
+ 2026-02-17
+ 0001963685
+ us-gaap:CommonClassBMember
+ srt:MinimumMember
+ 2026-02-17
+ 2026-02-17
+ 0001963685
+ us-gaap:CommonClassBMember
+ rr:TwoZeroTwoThreeStockOptionPlanMember
+ 2026-02-17
+ 0001963685
+ us-gaap:CommonClassBMember
+ rr:TwoZeroTwoThreeStockOptionPlanMember
+ 2024-11-10
+ 0001963685
+ rr:TwoZeroTwoThreeStockOptionPlanMember
+ srt:MaximumMember
+ 2024-10-23
+ 0001963685
+ rr:TwoZeroTwoThreeStockOptionPlanMember
+ srt:MinimumMember
+ 2024-09-06
+ 0001963685
+ us-gaap:CommonClassBMember
+ rr:TwoZeroTwoThreeStockOptionPlanMember
+ 2023-12-08
+ 0001963685
+ us-gaap:CommonClassBMember
+ 2025-09-30
+ 0001963685
+ us-gaap:CommonClassBMember
+ 2026-06-30
+ 0001963685
+ us-gaap:PrivatePlacementMember
+ 2026-01-29
+ 2026-01-29
+ 0001963685
+ us-gaap:CommonClassBMember
+ us-gaap:PrivatePlacementMember
+ 2026-01-27
+ 2026-01-27
+ 0001963685
+ us-gaap:CommonClassBMember
+ us-gaap:PrivatePlacementMember
+ 2026-01-27
+ 0001963685
+ us-gaap:CommonClassBMember
+ us-gaap:PrivatePlacementMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonClassBMember
+ us-gaap:WarrantMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonClassBMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonClassBMember
+ rr:AtTheMarketATMMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonClassBMember
+ us-gaap:CommonStockMember
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonClassBMember
+ srt:MaximumMember
+ 2025-11-10
+ 0001963685
+ us-gaap:CommonClassBMember
+ srt:MinimumMember
+ 2025-11-10
+ 0001963685
+ us-gaap:CommonClassAMember
+ 2025-09-30
+ 0001963685
+ us-gaap:CommonClassAMember
+ 2026-06-30
+ 0001963685
+ rr:EquityClassifiedWarrantsMember
+ 2023-11-30
+ 0001963685
+ rr:MezzanineEquityMember
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityMember
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityMember
+ 2026-06-30
+ 0001963685
+ rr:MezzanineEquityMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:MezzanineEquityMember
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityMember
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityMember
+ 2025-09-30
+ 0001963685
+ rr:MezzanineEquityMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:MezzanineEquityMember
+ 2024-09-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityMember
+ 2024-09-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ 2026-06-30
+ 0001963685
+ rr:MezzanineEquityWarrantMember
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2026-06-30
+ 0001963685
+ rr:MezzanineEquityWarrantMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:MezzanineEquityWarrantMember
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2025-09-30
+ 0001963685
+ rr:MezzanineEquityWarrantMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:MezzanineEquityWarrantMember
+ 2024-09-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2024-09-30
+ 0001963685
+ rr:MezzanineEquityClassifiedWarrantsMember
+ 2025-02-10
+ 0001963685
+ rr:MezzanineEquityClassifiedWarrantsMember
+ 2024-09-30
+ 0001963685
+ srt:MaximumMember
+ us-gaap:NoteWarrantMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ srt:MinimumMember
+ us-gaap:NoteWarrantMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ srt:MaximumMember
+ us-gaap:NoteWarrantMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ srt:MinimumMember
+ us-gaap:NoteWarrantMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ srt:MaximumMember
+ us-gaap:NoteWarrantMember
+ 2025-09-30
+ 0001963685
+ srt:MinimumMember
+ us-gaap:NoteWarrantMember
+ 2025-09-30
+ 0001963685
+ srt:MaximumMember
+ us-gaap:NoteWarrantMember
+ 2026-06-30
+ 0001963685
+ srt:MinimumMember
+ us-gaap:NoteWarrantMember
+ 2026-06-30
+ 0001963685
+ us-gaap:NoteWarrantMember
+ 2025-09-30
+ 0001963685
+ us-gaap:NoteWarrantMember
+ 2026-06-30
+ 0001963685
+ rr:CommonInducementWarrantsMember
+ 2026-06-30
+ 0001963685
+ rr:PublicOfferingWarrantsMember
+ 2026-06-30
+ 0001963685
+ rr:CommonInducementWarrantsMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:PublicOfferingWarrantsMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:CommonInducementWarrantsMember
+ 2025-09-30
+ 0001963685
+ rr:PublicOfferingWarrantsMember
+ 2025-09-30
+ 0001963685
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:CommonInducementWarrantsMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:PublicOfferingWarrantsMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ 2024-09-30
+ 0001963685
+ rr:PublicOfferingWarrantsMember
+ 2024-09-30
+ 0001963685
+ us-gaap:WarrantMember
+ 2026-06-30
+ 0001963685
+ us-gaap:WarrantMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:WarrantMember
+ 2025-09-30
+ 0001963685
+ us-gaap:WarrantMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ us-gaap:WarrantMember
+ 2024-09-30
+ 0001963685
+ rr:LiabilityClassifiedWarrantMember
+ 2025-02-10
+ 0001963685
+ rr:LiabilityClassifiedWarrantMember
+ 2024-09-03
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ 2025-09-30
+ 0001963685
+ rr:PlacementAgentWarrantsMember
+ 2025-09-30
+ 0001963685
+ rr:RepresentativesWarrantsMember
+ 2025-09-30
+ 0001963685
+ rr:RepresentativesWarrantsMember
+ 2026-06-30
+ 0001963685
+ rr:RepresentativesWarrantsMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:LandMember
+ 2025-09-30
+ 0001963685
+ us-gaap:LandMember
+ 2026-06-30
+ 0001963685
+ us-gaap:BuildingMember
+ 2025-09-30
+ 0001963685
+ us-gaap:BuildingMember
+ 2026-06-30
+ 0001963685
+ us-gaap:LandImprovementsMember
+ 2025-09-30
+ 0001963685
+ us-gaap:LandImprovementsMember
+ 2026-06-30
+ 0001963685
+ rr:EquipmentHeldForLeaseMember
+ 2025-09-30
+ 0001963685
+ rr:EquipmentHeldForLeaseMember
+ 2026-06-30
+ 0001963685
+ us-gaap:FurnitureAndFixturesMember
+ 2025-09-30
+ 0001963685
+ us-gaap:FurnitureAndFixturesMember
+ 2026-06-30
+ 0001963685
+ us-gaap:MoneyMarketFundsMember
+ 2025-09-30
+ 0001963685
+ us-gaap:CertificatesOfDepositMember
+ 2025-09-30
+ 0001963685
+ us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+ 2025-09-30
+ 0001963685
+ us-gaap:CashMember
+ 2025-09-30
+ 0001963685
+ us-gaap:MoneyMarketFundsMember
+ 2026-06-30
+ 0001963685
+ us-gaap:CertificatesOfDepositMember
+ 2026-06-30
+ 0001963685
+ us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+ 2026-06-30
+ 0001963685
+ us-gaap:CashMember
+ 2026-06-30
+ 0001963685
+ us-gaap:FairValueInputsLevel3Member
+ 2025-09-30
+ 0001963685
+ us-gaap:FairValueInputsLevel2Member
+ 2025-09-30
+ 0001963685
+ us-gaap:FairValueInputsLevel1Member
+ 2025-09-30
+ 0001963685
+ us-gaap:FairValueInputsLevel3Member
+ 2026-06-30
+ 0001963685
+ us-gaap:FairValueInputsLevel2Member
+ 2026-06-30
+ 0001963685
+ us-gaap:FairValueInputsLevel1Member
+ 2026-06-30
+ 0001963685
+ us-gaap:FairValueInputsLevel3Member
+ rr:LiabilityClassifiedWarrantsMember
+ 2025-09-30
+ 0001963685
+ rr:LiabilityClassifiedWarrantsMember
+ 2025-09-30
+ 0001963685
+ us-gaap:FairValueInputsLevel3Member
+ rr:LiabilityClassifiedWarrantsMember
+ 2026-06-30
+ 0001963685
+ rr:LiabilityClassifiedWarrantsMember
+ 2026-06-30
+ 0001963685
+ us-gaap:MoneyMarketFundsMember
+ us-gaap:FairValueInputsLevel1Member
+ 2025-09-30
+ 0001963685
+ us-gaap:MoneyMarketFundsMember
+ us-gaap:FairValueInputsLevel1Member
+ 2026-06-30
+ 0001963685
+ us-gaap:CertificatesOfDepositMember
+ us-gaap:FairValueInputsLevel2Member
+ 2025-09-30
+ 0001963685
+ us-gaap:CertificatesOfDepositMember
+ us-gaap:FairValueInputsLevel2Member
+ 2026-06-30
+ 0001963685
+ us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+ us-gaap:FairValueInputsLevel1Member
+ 2025-09-30
+ 0001963685
+ us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+ us-gaap:FairValueInputsLevel1Member
+ 2026-06-30
+ 0001963685
+ us-gaap:CustomerConcentrationRiskMember
+ us-gaap:SalesRevenueNetMember
+ rr:OneCustomerMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ us-gaap:CustomerConcentrationRiskMember
+ us-gaap:SalesRevenueNetMember
+ rr:OneCustomerMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ us-gaap:CustomerConcentrationRiskMember
+ us-gaap:SalesRevenueNetMember
+ rr:OneCustomerMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CustomerConcentrationRiskMember
+ us-gaap:SalesRevenueNetMember
+ rr:OneCustomerMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:ProductAndServiceOtherMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ us-gaap:ProductAndServiceOtherMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ us-gaap:ProductAndServiceOtherMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ us-gaap:ProductAndServiceOtherMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:RaaSMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:RaaSMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ rr:RaaSMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ rr:RaaSMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:EventServicesMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:EventServicesMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ rr:EventServicesMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ rr:EventServicesMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:ProductSalesMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:ProductSalesMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ rr:ProductSalesMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ rr:ProductSalesMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:RevenueRecognizedAtAPointInTimeMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:RevenueRecognizedAtAPointInTimeMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ rr:RevenueRecognizedAtAPointInTimeMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ rr:RevenueRecognizedAtAPointInTimeMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:RevenueRecognizedOverTimeMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ rr:RevenueRecognizedOverTimeMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ rr:RevenueRecognizedOverTimeMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ rr:RevenueRecognizedOverTimeMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:RaaSContractsMember
+ 2026-06-30
+ 0001963685
+ srt:MaximumMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ srt:MinimumMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ rr:ServiceContractsMember
+ 2025-09-30
+ 0001963685
+ us-gaap:NoncontrollingInterestMember
+ 2025-06-30
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2025-06-30
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2025-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2025-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2025-06-30
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ us-gaap:NoncontrollingInterestMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ 2025-03-31
+ 0001963685
+ us-gaap:NoncontrollingInterestMember
+ 2025-03-31
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2025-03-31
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2025-03-31
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2025-03-31
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2025-03-31
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2026-06-30
+ 0001963685
+ us-gaap:AccumulatedOtherComprehensiveIncomeMember
+ 2026-06-30
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2026-06-30
+ 0001963685
+ us-gaap:TreasuryStockCommonMember
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2026-06-30
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ us-gaap:AccumulatedOtherComprehensiveIncomeMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ us-gaap:TreasuryStockCommonMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ 2026-03-31
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2026-03-31
+ 0001963685
+ us-gaap:AccumulatedOtherComprehensiveIncomeMember
+ 2026-03-31
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2026-03-31
+ 0001963685
+ us-gaap:TreasuryStockCommonMember
+ 2026-03-31
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2026-03-31
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2026-03-31
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ us-gaap:NoncontrollingInterestMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2024-09-30
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2024-09-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2024-09-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2024-09-30
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:AccumulatedOtherComprehensiveIncomeMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:NoncontrollingInterestMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:TreasuryStockCommonMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:NoncontrollingInterestMember
+ 2025-09-30
+ 0001963685
+ us-gaap:RetainedEarningsMember
+ 2025-09-30
+ 0001963685
+ us-gaap:AccumulatedOtherComprehensiveIncomeMember
+ 2025-09-30
+ 0001963685
+ us-gaap:AdditionalPaidInCapitalMember
+ 2025-09-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassBMember
+ 2025-09-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2025-09-30
+ 0001963685
+ us-gaap:CommonClassBMember
+ 2026-08-19
+ 0001963685
+ us-gaap:CommonClassAMember
+ 2026-08-19
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ rr:CommonInducementWarrantsMember
+ 2024-09-30
+ 0001963685
+ us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+ us-gaap:FairValueInputsLevel2Member
+ 2026-06-30
+ 0001963685
+ us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+ us-gaap:FairValueInputsLevel3Member
+ 2026-06-30
+ 0001963685
+ us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+ us-gaap:FairValueInputsLevel2Member
+ 2025-09-30
+ 0001963685
+ us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+ us-gaap:FairValueInputsLevel3Member
+ 2025-09-30
+ 0001963685
+ us-gaap:CertificatesOfDepositMember
+ us-gaap:FairValueInputsLevel1Member
+ 2026-06-30
+ 0001963685
+ us-gaap:CertificatesOfDepositMember
+ us-gaap:FairValueInputsLevel3Member
+ 2026-06-30
+ 0001963685
+ us-gaap:CertificatesOfDepositMember
+ us-gaap:FairValueInputsLevel1Member
+ 2025-09-30
+ 0001963685
+ us-gaap:CertificatesOfDepositMember
+ us-gaap:FairValueInputsLevel3Member
+ 2025-09-30
+ 0001963685
+ us-gaap:MoneyMarketFundsMember
+ us-gaap:FairValueInputsLevel2Member
+ 2026-06-30
+ 0001963685
+ us-gaap:MoneyMarketFundsMember
+ us-gaap:FairValueInputsLevel3Member
+ 2026-06-30
+ 0001963685
+ us-gaap:MoneyMarketFundsMember
+ us-gaap:FairValueInputsLevel2Member
+ 2025-09-30
+ 0001963685
+ us-gaap:MoneyMarketFundsMember
+ us-gaap:FairValueInputsLevel3Member
+ 2025-09-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2024-10-01
+ 2025-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:TreasuryStockCommonMember
+ 2025-09-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2026-04-01
+ 2026-06-30
+ 0001963685
+ us-gaap:CommonStockMember
+ us-gaap:CommonClassAMember
+ 2025-04-01
+ 2025-06-30
+ 0001963685
+ us-gaap:NoncontrollingInterestMember
+ 2026-06-30
+ 0001963685
+ us-gaap:NoncontrollingInterestMember
+ 2024-09-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityMember
+ 2024-09-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ srt:MinimumMember
+ 2026-06-30
+ 0001963685
+ srt:MaximumMember
+ 2026-06-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2024-09-30
+ 0001963685
+ rr:PlacementAgentInducementWarrantsMember
+ rr:MezzanineEquityWarrantMember
+ 2025-10-01
+ 2026-06-30
+ 0001963685
+ us-gaap:FairValueInputsLevel1Member
+ rr:LiabilityClassifiedWarrantsMember
+ 2026-06-30
+ 0001963685
+ us-gaap:FairValueInputsLevel2Member
+ rr:LiabilityClassifiedWarrantsMember
+ 2026-06-30
+ 0001963685
+ us-gaap:FairValueInputsLevel1Member
+ rr:LiabilityClassifiedWarrantsMember
+ 2025-09-30
+ 0001963685
+ us-gaap:FairValueInputsLevel2Member
+ rr:LiabilityClassifiedWarrantsMember
+ 2025-09-30
+ 0001963685
+ rr:RaaSContractsMember
+ 2025-09-30
+ 0001963685
+ rr:ServiceContractsMember
+ 2026-06-30
+ 0001963685
+ us-gaap:RestrictedStockUnitsRSUMember
+ 2024-10-01
+ 2025-09-30
+ 0001963685
+ us-gaap:CommonClassAMember
+ us-gaap:WarrantMember
+ 2025-10-01
+ 2026-06-30
+ iso4217:USD
+ xbrli:pure
+ utr:sqft
+ xbrli:shares
+ iso4217:USD
+ xbrli:shares
+ rr:Segment
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+ FORM 10-Q 
+ | (Mark One)
+ | ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ |  
+ | For the quarterly period ended June 30, 2026 
+ |  
+ | ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ |  
+ | For the transition period from             to              
+ Commission File No. 001-41866 
+ | RICHTECH ROBOTICS INC. 
+ | (Exact name of registrant as specified in its charter)
+ | Nevada |   | 88-2870106 
+ | (State or other jurisdiction of incorporation or organization)
+ |  
+ | (I.R.S. Employer Identification No.)
+ | 
+2975 Lincoln Rd 
+Las Vegas, NV 89115 
+(Address of principal executive offices) (Zip Code) 
+ | (866) 236-3835 
+ | (Registrant’s telephone number, including area code)
+ | 
+4175 Cameron St Ste 1 
+Las Vegas, NV 89103
+ | (Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act: 
+ | Title of Each Class:
+ |  
+ | Trading Symbol(s):
+ |  
+ | Name of Each Exchange on Which Registered:
+ | Class B Common Stock, par value $0.0001 per share |   | RR |   | The Nasdaq Stock Market LLC 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☐ No ☒ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. 
+ | ☐
+ | Large accelerated filer
+ | ☐
+ | Accelerated filer
+ | ☒ | Non-accelerated filer | ☒  | Smaller reporting company 
+ |   | ☒  | Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes ☐ No ☒ 
+ As of August 19, 2026, there were 39,934,846 shares of our Class A common stock and 185,167,097 shares of our Class B common stock issued and outstanding. 
+RICHTECH ROBOTICS INC.
+Quarterly Report on Form 10-Q
+Table of Contents
+ | PART I. FINANCIAL INFORMATION |   
+ |   |   |   
+ | Item 1. | Financial Statements (Unaudited) | 1 
+ |   |   |   
+ |   | Condensed Consolidated Balance Sheets as of June 30, 2026 and September 30, 2025 (Unaudited) | 1 
+ |   |   |   
+ |   | Condensed Consolidated Statements of Operations for the Three and Nine Months Ended June 30, 2026 and 2025 (Unaudited) | 2 
+ |   |   |   
+ |   | Condensed Consolidated Statements of Comprehensive Loss for the Three and Nine Months Ended June 30, 2026 and 2025 (Unaudited) | 3 
+ |   |   |   
+ |   | Condensed Consolidated Statements of Stockholders’ Equity for the Three and Nine Months Ended June 30, 2026 and 2025 (Unaudited) | 4 
+ |   |   |   
+ |   | Condensed Consolidated Statements of Cash Flows for the Nine Months Ended June 30, 2026 and 2025 (Unaudited) | 6 
+ |   |   |   
+ |   | Notes to Unaudited Condensed Consolidated Financial Statements | 7 
+ |   |   |   
+ | Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 33 
+ |   |   |   
+ | Item 3. | Quantitative and Qualitative Disclosures About Market Risk | 41 
+ |   |   |   
+ | Item 4. | Controls and Procedures | 41 
+ |   |   |   
+ | PART II. OTHER INFORMATION |   
+ |   |   |   
+ | Item 1. | Legal Proceedings | 43 
+ |   |   |   
+ | Item 1A. | Risk Factors | 43 
+ |   |   |   
+ | Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 43 
+ |   |   |   
+ | Item 3. | Defaults Upon Senior Securities | 43 
+ |   |   |   
+ | Item 4. | Mine Safety Disclosures | 43 
+ |   |   |   
+ | Item 5. | Other Information | 44 
+ |   |   |   
+ | Item 6. | Exhibits | 44 
+ |   |   |   
+ | SIGNATURES | 45 
+i
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q (this “Report”) contains “forward-looking statements” (as defined in Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) that reflect our current expectations and views of future events. The forward-looking statements are contained principally in the section of this Report entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Readers are cautioned that significant known and unknown risks, uncertainties and other important factors (including those over which we may have no control and others listed in this Report and in the “Risk Factors” section of our Annual Report on Form 10-K/A for the fiscal year ended September 30, 2025 (“2025 Annual Report”), as filed with the Securities and Exchange Commission (the “SEC”) on August 7, 2026, may cause our actual results, performance or achievements to be materially different from those expressed or implied by the forward-looking statements. You can identify some of these forward-looking statements by words or phrases such as “may,” “will,” “expect,” “anticipate,” “aim,” “estimate,” “intend,” “plan,” “believe,” “is/are likely to,” “potential,” “continue” or other similar expressions. We have based these forward-looking statements on our current expectations and projections about future events that we believe may affect our financial condition, results of operations, business strategy and financial needs.
+Our operations and business prospects are always subject to risks and uncertainties including, among others:
+ |   | ● | Our ability to secure raw materials and components to manufacture sufficient quantities of robots to match demand; 
+ |   | ● | Our ability to secure enterprise clients and deals in the face of growing competition; 
+ |   | ● | Assumptions around the speed of robotic adoption in service environments; 
+ |   | ● | Assumptions relating to the size of the market for our products and services; 
+ |   | ● | Unanticipated regulations of robots and automation that add barriers to adoption and have a negative effect on our business; 
+ |   | ● | Our ability to obtain and maintain intellectual property protection for our products; 
+ |   | ● | Investigations, claims, disputes, enforcement actions, litigation and/or other regulatory or legal proceedings, including with respect to our intellectual property and our technology; 
+ |   | ● | Level of product service failures that could lead our customers to use competitors’ services; 
+ |   | ● | Our estimates of expenses, future revenue, capital requirements and our needs for, or ability to obtain, additional financing 
+ |   | ● | Our ability to procure inventory and components from China may be affected by geopolitical tensions, conflict, tariffs, trade restrictions, public health issues, and other business interruptions; 
+ |   | ● | The possibility that we may be adversely affected by other economic, business, and/or competitive factors; and 
+ |   | ● | Other risks and uncertainties described under the section titled “Risk Factors” in the 2025 Annual Report. 
+These forward-looking statements involve numerous and significant risks and uncertainties. Although we believe that our expectations expressed in these forward-looking statements are reasonable, our expectations may later be found to be incorrect. Our actual results of operations or the results of other matters that we anticipate herein could be materially different from our expectations. Important risks and factors that could cause our actual results to be materially different from our expectations are generally set forth in the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section contained in this Report and in the “Risk Factors” and other sections of the 2025 Annual Report. You should thoroughly read this Report and the documents that we refer to with the understanding that our actual future results may be materially different from, and worse than, what we expect. We qualify all our forward-looking statements by these cautionary statements.
+The forward-looking statements made in this Report relate only to events or information as of the date of this Report. Except as required by law, we undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise, after the date on which the statements are made or to reflect the occurrence of unanticipated events. You should read this Report completely and with the understanding that our actual future results may be materially different from what we expect.
+ii
+PART I - FINANCIAL INFORMATION
+ITEM 1. Financial Statements
+RICHTECH ROBOTICS INC. 
+Unaudited Condensed Consolidated Balance Sheets 
+(In thousands, except share and per share data) 
+ |  
+ |  
+ | As of June 30,
+ |  
+ |  
+ | As of September 30,
+ |  
+ |  
+ |  
+ | 2026
+ |  
+ |  
+ | 2025
+ |  
+ | ASSETS
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Current assets:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Cash and cash equivalents |   | $ | 301,962 |   |   | $ | 185,574 |   
+ | Short-term investments |   |   | 37,633 |   |   |   | 66,363 |   
+ | Accounts receivable, net |   |   | 922 |   |   |   | 1,780 |   
+ | Inventory |   |   | 2,715 |   |   |   | 1,124 |   
+ | Prepaid expenses and other current assets |   |   | 1,552 |   |   |   | 429 |   
+ | Total current assets |   |   | 344,784 |   |   |   | 255,270 |   
+ | Property and equipment, net |   |   | 27,181 |   |   |   | 5,794 |   
+ | Notes receivable |   |   | - |   |   |   | 523 |   
+ | Operating lease right-of-use-assets |   |   | 615 |   |   |   | 731 |   
+ | Intangible assets, net |   |   | 371 |   |   |   | 10,715 |   
+ | Other assets, non-current |   |   | 443 |   |   |   | 640 |   
+ | Total assets |   | $ | 373,394 |   |   | $ | 273,673 |   
+ | LIABILITIES, MEZZANINE EQUITY AND STOCKHOLDERS’ EQUITY
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Current liabilities:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Accounts payable |   | $ | 348 |   |   | $ | 397 |   
+ | Deferred revenue |   |   | 388 |   |   |   | 248 |   
+ | Accrued expenses and other payables |   |   | 157 |   |   |   | 1,376 |   
+ | Tax payables |   |   | 79 |   |   |   | 55 |   
+ | Operating lease liabilities, current |   |   | 310 |   |   |   | 301 |   
+ | Warrant liabilities |   |   | 2,401 |   |   |   | 19,285 |   
+ | Total current liabilities |   |   | 3,683 |   |   |   | 21,662 |   
+ | Long-term payables |   |   | 102 |   |   |   | 118 |   
+ | Operating lease liabilities, non-current |   |   | 319 |   |   |   | 429 |   
+ | Total liabilities |   |   | 4,104 |   |   |   | 22,209 |   
+ | Commitments and contingencies (Notes 11) |   |   |   |   |   |   |   |   
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Mezzanine equity |   |   | 249 |   |   |   | 634 |   
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Stockholders’ equity:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Class A common stock, $0.0001 par, 100,000,000 shares authorized as of June 30, 2026 and September 30, 2025; 39,934,846 shares issued and outstanding as of June 30, 2026 and September 30, 2025. |   | $ | 4 |   |   | $ | 4 |   
+ | Class B common stock, $0.0001 par, 1,000,000,000 and 200,000,000 shares authorized as of June 30, 2026 and September 30, 2025, respectively; 184,451,609 shares and 154,656,592 shares issued and outstanding as of June 30, 2026 and September 30, 2025, respectively. |   |   | 19 |   |   |   | 16 |   
+ | Additional Paid-in Capital |   |   | 441,191 |   |   |   | 300,701 |   
+ | Accumulated other comprehensive income |   |   | 239 |   |   |   | 393 |   
+ | Accumulated deficit |   |   | (70,643 | ) |   |   | (50,241 | ) 
+ | Treasury stock, at cost; 396,724 and nil shares, as of June 30, 2026 and September 30, 2025, respectively |   |   | (1,769 | ) |   |   | - |   
+ | Total controlling stockholders’ equity |   |   | 369,041 |   |   |   | 250,873 |   
+ | Non-controlling interests |   |   | - |   |   |   | (43 | ) 
+ | Total stockholders’ equity |   |   | 369,041 |   |   |   | 250,830 |   
+ | Total liabilities, mezzanine equity and stockholders’ equity |   | $ | 373,394 |   |   | $ | 273,673 |   
+See accompanying Notes to Unaudited Consolidated Financial Statements 
+1
+RICHTECH ROBOTICS INC. 
+Unaudited Condensed Consolidated Statements of Operations 
+(In thousands, except share and per share data) 
+ |  
+ |  
+ | For the Nine months ended
+ |  
+ |  
+ | For the Three months ended
+ |  
+ |  
+ |  
+ | June 30,
+ |  
+ |  
+ | June 30,
+ |  
+ |  
+ |  
+ | 2026
+ |  
+ |  
+ | 2025
+ |  
+ |  
+ | 2026
+ |  
+ |  
+ | 2025
+ |  
+ | Revenues, net |   |   | 3,945 |   |   |   | 3,601 |   |   |   | 1,373 |   |   |   | 1,177 |   
+ | Cost of revenues |   |   | 2,448 |   |   |   | 1,991 |   |   |   | 571 |   |   |   | 746 |   
+ | Gross profit |   |   | 1,497 |   |   |   | 1,610 |   |   |   | 802 |   |   |   | 431 |   
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Operating expenses:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Research and development |   |   | 3,144 |   |   |   | 1,337 |   |   |   | 950 |   |   |   | 533 |   
+ | Sales and marketing |   |   | 4,011 |   |   |   | 903 |   |   |   | 602 |   |   |   | 288 |   
+ | General and administrative |   |   | 15,546 |   |   |   | 10,180 |   |   |   | 3,049 |   |   |   | 1,409 |   
+ | Impairment of long-lived assets |   |   | 9,468 |   |   |   | - |   |   |   | 9,468 |   |   |   | - |   
+ | Total operating expenses |   |   | 32,169 |   |   |   | 12,420 |   |   |   | 14,069 |   |   |   | 2,230 |   
+ | Loss from operations |   |   | (30,672 | ) |   |   | (10,810 | ) |   |   | (13,267 | ) |   |   | (1,799 | ) 
+ | Non-operating income(expense):
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Investment Income |   |   | 9,848 |   |   |   | 1,143 |   |   |   | 3,111 |   |   |   | 423 |   
+ | Gain (loss) from change in fair value of warrant liability |   |   | 552 |   |   |   | (22,123 | ) |   |   | 177 |   |   |   | (286 | ) 
+ | Loss on disposition of subsidiary |   |   | (132 | ) |   |   | - |   |   |   |   |   |   |   | - |   
+ | Interest expense, net |   |   | (6 | ) |   |   | (28 | ) |   |   | (2 | ) |   |   | (19 | ) 
+ | Total other income (expense) |   |   | 10,262 |   |   |   | (21,008 | ) |   |   | 3,286 |   |   |   | 118 |   
+ | Loss before income tax expense |   |   | (20,410 | ) |   |   | (31,818 | ) |   |   | (9,981 | ) |   |   | (1,681 | ) 
+ | Income tax benefit/(expense) |   |   | - |   |   |   | (9 | ) |   |   | - |   |   |   | (9 | ) 
+ | Net loss |   |   | (20,410 | ) |   |   | (31,827 | ) |   |   | (9,981 | ) |   |   | (1,690 | ) 
+ | Less: Net loss Attributable to Non-Controlling Interest |   |   | (8 | ) |   |   | (78 | ) |   |   | - |   |   |   | (40 | ) 
+ | Net loss attributable to Richtech |   |   | (20,402 | ) |   |   | (31,749 | ) |   |   | (9,981 | ) |   |   | (1,650 | ) 
+ | Basic and diluted net loss per share of Richtech |   | $ | (0.09 | ) |   |   | (0.29 | ) |   | $ | (0.04 | ) |   |   | (0.01 | ) 
+ | Weighted average shares used to compute basic and diluted net loss per share |   |   | 217,342,358 |   |   |   | 110,225,078 |   |   |   | 224,320,751 |   |   |   | 119,585,747 |   
+See accompanying Notes to Unaudited Consolidated Financial Statements 
+2
+RICHTECH ROBOTICS INC. 
+Unaudited Condensed Consolidated Statements of Comprehensive Loss 
+(In thousands, except share and per share data) 
+ |  
+ |  
+ | For the Nine months ended
+ |  
+ |  
+ | For the Three months ended
+ |  
+ |  
+ |  
+ | June 30,
+ |  
+ |  
+ | June 30,
+ |  
+ |  
+ |  
+ | 2026
+ |  
+ |  
+ | 2025
+ |  
+ |  
+ | 2026
+ |  
+ |  
+ | 2025
+ |  
+ | Net loss |   | $ | (20,410 | ) |   | $ | (31,827 | ) |   | $ | (9,981 | ) |   | $ | (1,690 | ) 
+ | Other comprehensive loss:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Unrealized net gain (loss) on investments, net of tax |   |   | (154 | ) |   |   | - |   |   |   | 67 |   |   |   | - |   
+ | Comprehensive loss |   | $ | (20,564 | ) |   | $ | (31,827 | ) |   | $ | (9,914 | ) |   | $ | (1,690 | ) 
+See accompanying Notes to Unaudited Consolidated Financial Statements 
+3
+Richtech Robotics Inc. 
+Unaudited Condensed Consolidated Statements of Stockholders’ Equity 
+For the nine months ended June 30, 2026 and 2025 
+(In thousands except share data) 
+ |  
+ |  
+ | Common stock
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Additional
+ |  
+ |  
+ | Accumulated Other
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Total
+ |  
+ |  
+ |  
+ | Class A
+ |  
+ |  
+ | Class B
+ |  
+ |  
+ | Treasury stock
+ |  
+ |  
+ | Paid-in
+ |  
+ |  
+ | Comprehensive
+ |  
+ |  
+ | Accumulated
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Shareholders’
+ |  
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Capital
+ |  
+ |  
+ | Income
+ |  
+ |  
+ | Deficit
+ |  
+ |  
+ | NCI
+ |  
+ |  
+ | Equity
+ |  
+ | Balance at September 30, 2025 |   |   | 39,934,846 |   |   | $ | 4 |   |   |   | 154,656,592 |   |   | $ | 16 |   |   |   | - |   |   | $ | - |   |   | $ | 300,701 |   |   | $ | 393 |   |   | $ | (50,241 | ) |   | $ | (43 | ) |   | $ | 250,830 |   
+ | Issuance of shares upon exercise of warrants for cash |   |   | - |   |   |   | - |   |   |   | 4,485,946 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 26,530 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 26,530 |   
+ | Stock-based compensation |   |   | - |   |   |   | - |   |   |   | 1,190,173 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 7,077 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 7,077 |   
+ | Shares issued for services |   |   | - |   |   |   | - |   |   |   | 462,213 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 1,929 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 1,929 |   
+ | Repurchase of shares to settle employee tax liability |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 396,724 |   |   |   | (1,769 | ) |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (1,769 | ) 
+ | Issuance of new shares for cash, net of issuance cost |   |   | - |   |   |   | - |   |   |   | 23,656,685 |   |   |   | 3 |   |   |   | - |   |   |   | - |   |   |   | 104,954 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 104,957 |   
+ | Net Loss attributable to NCI |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (8 | ) |   |   | (8 | ) 
+ | Disposal of subsidiary |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (132 | ) |   |   | 47 |   |   |   | (85 | ) 
+ | Capital Contribution from NCI |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 4 |   |   |   | 4 |   
+ | Unrealized gain or (loss) on available-for-sale investments |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (154 | ) |   |   | - |   |   |   | - |   |   |   | (154 | ) 
+ | Net loss |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (20,270 | ) |   |   | - |   |   |   | (20,270 | ) 
+ | Balance at June 30, 2026 |   |   | 39,934,846 |   |   | $ | 4 |   |   |   | 184,451,609 |   |   | $ | 19 |   |   |   | 396,724 |   |   | $ | (1,769 | ) |   | $ | 441,191 |   |   | $ | 239 |   |   | $ | (70,643 | ) |   | $ | - |   |   | $ | 369,041 |   
+ |  
+ |  
+ | Common stock
+ |  
+ |  
+ | Additional
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Total
+ |  
+ |  
+ |  
+ | Class A
+ |  
+ |  
+ | Class B
+ |  
+ |  
+ | Paid-in
+ |  
+ |  
+ | Accumulated
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Shareholders’
+ |  
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Capital
+ |  
+ |  
+ | deficit
+ |  
+ |  
+ | NCI
+ |  
+ |  
+ | equity
+ |  
+ | Balance at September 30, 2024 |   |   | 39,934,846 |   |   | $ | 4 |   |   |   | 53,795,254 |   |   | $ | 6 |   |   | $ | 35,044 |   |   | $ | (1,168 | ) |   | $ | - |   |   | $ | 33,886 |   
+ | Issuance of common shares for intangible asset acquisition |   |   | - |   |   |   | - |   |   |   | 5,788,849 |   |   |   |   |   |   |   | 3,701 |   |   |   | - |   |   |   | - |   |   |   | 3,701 |   
+ | Issuance of shares upon exercise of warrants for cash |   |   | - |   |   |   | - |   |   |   | 12,488,075 |   |   |   | 1 |   |   |   | 38,514 |   |   |   | - |   |   |   | - |   |   |   | 38,515 |   
+ | Stock based compensation |   |   | - |   |   |   | - |   |   |   | 939,672 |   |   |   | - |   |   |   | 905 |   |   |   | - |   |   |   | - |   |   |   | 905 |   
+ | Shares issued for services |   |   | - |   |   |   | - |   |   |   | 1,743,095 |   |   |   | - |   |   |   | 2,524 |   |   |   | - |   |   |   | - |   |   |   | 2,524 |   
+ | Issuance of new shares for cash |   |   | - |   |   |   | - |   |   |   | 23,682,395 |   |   |   | 2 |   |   |   | 48,646 |   |   |   | - |   |   |   | - |   |   |   | 48,648 |   
+ | Capital contribution to controlled subsidiary |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 105 |   |   |   | - |   |   |   | (78 | ) |   |   | 27 |   
+ | Net loss |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (31,749 | ) |   |   | - |   |   |   | (31,749 | ) 
+ | Balance at June 30, 2025 |   |   | 39,934,846 |   |   | $ | 4 |   |   |   | 98,437,340 |   |   | $ | 9 |   |   | $ | 129,439 |   |   | $ | (32,917 | ) |   | $ | (78 | ) |   | $ | 96,457 |   
+See accompanying Notes to Unaudited Consolidated Financial Statements 
+4 
+Richtech Robotics Inc. 
+Unaudited Condensed Consolidated Statements of Stockholders’ Equity 
+For the three months ended June 30, 2026 and 2025 
+(in thousands, except per share data) 
+ |  
+ |  
+ | Common stock*
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Additional
+ |  
+ |  
+ | Accumulated Other
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Total
+ |  
+ |  
+ |  
+ | Class A
+ |  
+ |  
+ | Class B
+ |  
+ |  
+ | Treasury stock
+ |  
+ |  
+ | Paid-in
+ |  
+ |  
+ | Comprehensive
+ |  
+ |  
+ | Accumulated
+ |  
+ |  
+ | Shareholders’
+ |  
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Capital
+ |  
+ |  
+ | Income
+ |  
+ |  
+ | Deficit
+ |  
+ |  
+ | Equity
+ |  
+ | Balance at March 31, 2026 |   |   | 39,934,846 |   |   | $ | 4 |   |   |   | 184,274,146 |   |   | $ | 19 |   |   |   | 383,060 |   |   | $ | (1,733 | ) |   | $ | 440,769 |   |   | $ | 172 |   |   | $ | (60,662 | ) |   | $ | 378,569 |   
+ | Stock-based compensation |   |   | - |   |   |   | - |   |   |   | 40,993 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 146 |   |   |   | - |   |   |   | - |   |   |   | 146 |   
+ | Shares issued for services |   |   | - |   |   |   | - |   |   |   | 136,470 |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 276 |   |   |   | - |   |   |   | - |   |   |   | 276 |   
+ | Repurchase of shares to settle employee tax liability |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 13,664 |   |   |   | (36 | ) |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (36 | ) 
+ | Unrealized gain or (loss) on available-for-sale investments |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 67 |   |   |   | - |   |   |   | 67 |   
+ | Net loss |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (9,981 | ) |   |   | (9,981 | ) 
+ | Balance at June 30, 2026 |   |   | 39,934,846 |   |   | $ | 4 |   |   |   | 184,451,609 |   |   | $ | 19 |   |   |   | 396,724 |   |   | $ | (1,769 | ) |   | $ | 441,191 |   |   | $ | 239 |   |   | $ | (70,643 | ) |   | $ | 369,041 |   
+ |  
+ |  
+ | Common stock
+ |  
+ |  
+ | Additional
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Total
+ |  
+ |  
+ |  
+ | Class A
+ |  
+ |  
+ | Class B
+ |  
+ |  
+ | Paid-in
+ |  
+ |  
+ | Accumulated
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Shareholders’
+ |  
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Shares
+ |  
+ |  
+ | Amount
+ |  
+ |  
+ | Capital
+ |  
+ |  
+ | Deficit
+ |  
+ |  
+ | NCI
+ |  
+ |  
+ | Equity
+ |  
+ | Balance at March 31, 2025 |   |   | 39,934,846 |   |   | $ | 4 |   |   |   | 74,592,918 |   |   | $ | 7 |   |   | $ | 80,401 |   |   | $ | (31,267 | ) |   | $ | (38 | ) |   | $ | 49,107 |   
+ | Shares issued for services |   |   | - |   |   |   | - |   |   |   | 80,000 |   |   |   | - |   |   |   | 140 |   |   |   | - |   |   |   | - |   |   |   | 140 |   
+ | Stock-based compensation |   |   | - |   |   |   | - |   |   |   | 82,027 |   |   |   | - |   |   |   | 212 |   |   |   | - |   |   |   | - |   |   |   | 212 |   
+ | Issuance of new shares for cash |   |   | - |   |   |   | - |   |   |   | 23,682,395 |   |   |   | 2 |   |   |   | 48,646 |   |   |   | - |   |   |   | - |   |   |   | 48,648 |   
+ | Capital contribution to controlled subsidiary |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | 40 |   |   |   | - |   |   |   | (40 | ) |   |   | - |   
+ | Net loss |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   |   |   | (1,650 | ) |   |   | - |   |   |   | (1,650 | ) 
+ | Balance at June 30, 2025 |   |   | 39,934,846 |   |   | $ | 4 |   |   |   | 98,437,340 |   |   | $ | 9 |   |   | $ | 129,439 |   |   | $ | (32,917 | ) |   | $ | (78 | ) |   | $ | 96,457 |   
+See accompanying Notes to Unaudited Consolidated Financial Statements 
+5
+RICHTECH ROBOTICS, INC. 
+Unaudited Condensed Consolidated Statements of Cash Flows 
+For the nine months ended June 30, 2026 and 2025 
+(In thousands) 
+ |  
+ |  
+ | 2026
+ |  
+ |  
+ | 2025
+ |  
+ | Cash flows from operating Activities:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Net loss |   | $ | (20,410 | ) |   | $ | (31,827 | ) 
+ | Adjustments to reconcile net loss to net cash provided by operating activities:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Depreciation and amortization |   |   | 1,228 |   |   |   | 941 |   
+ | Impairment of long-lived assets |   |   | 9,468 |   |   |   |   |   
+ | Allowance for credit loss |   |   | 886 |   |   |   | (111 | ) 
+ | Allowance for inventory obsolescence and slow-moving inventory |   |   | 41 |   |   |   | - |   
+ | Loss on disposition of subsidiary |   |   | 132 |   |   |   | - |   
+ | Change in fair value of warrant liability |   |   | (552 | ) |   |   | 22,123 |   
+ | Liability instrument issuance costs |   |   | - |   |   |   | 189 |   
+ | Stock based compensation |   |   | 9,006 |   |   |   | 3,429 |   
+ | Change in operating assets and liabilities:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Accounts receivable |   |   | (28 | ) |   |   | (224 | ) 
+ | Inventory |   |   | (1,118 | ) |   |   | (3 | ) 
+ | Prepaid expenses and other current assets |   |   | (1,126 | ) |   |   | (133 | ) 
+ | Right-of-use asset |   |   | 116 |   |   |   | (289 | ) 
+ | Other noncurrent assets |   |   | (13 | ) |   |   | - |   
+ | Accounts payable |   |   | (43 | ) |   |   | 187 |   
+ | Deferred revenue |   |   | 140 |   |   |   | - |   
+ | Tax payable |   |   | 24 |   |   |   | 35 |   
+ | Accrued expenses and other payables |   |   | (1,219 | ) |   |   | (15 | ) 
+ | Operating lease liabilities |   |   | (100 | ) |   |   | 289 |   
+ | Net cash used in operating activities |   |   | (3,568 | ) |   |   | (5,409 | ) 
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Cash flows from investing activities:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Purchase of property and equipment |   |   | (21,749 | ) |   |   | (4,839 | ) 
+ | Purchase of intangible assets |   |   | (30 | ) |   |   | (84 | ) 
+ | Purchase of short-term investments |   |   | (68,273 | ) |   |   | (36,676 | ) 
+ | Net cash effect of deconsolidation of subsidiary |   |   | (3 | ) |   |   | - |   
+ | Proceeds from sale of long-term investments |   |   | 193 |   |   |   | - |   
+ | Purchase of long-term investments |   |   | (18 | ) |   |   | (142 | ) 
+ | Proceeds from maturities and sales of short-term investments |   |   | 96,848 |   |   |   | - |   
+ | Net cash provided by (used in) investing activities |   |   | 6,968 |   |   |   | (41,741 | ) 
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Cash flows from financing activities:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Payment of loans received from third parties |   |   | (16 | ) |   |   | (53 | ) 
+ | Loans received from third parties |   |   | - |   |   |   | 22 |   
+ | Payments of tax withholdings for restricted stock awards |   |   | (1,769 | ) |   |   | - |   
+ | Contributions from Non-controlling Interests |   |   | 4 |   |   |   | - |   
+ | Proceeds from warrants exercise |   |   | 9,812 |   |   |   | 18,038 |   
+ | Payment of issuance cost of ordinary shares |   |   | (5,344 | ) |   |   | (1,180 | ) 
+ | Proceeds from issuance of ordinary shares |   |   | 110,301 |   |   |   | 48,650 |   
+ | Net cash provided by financing activities |   |   | 112,988 |   |   |   | 65,477 |   
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Net change in cash and cash equivalents |   |   | 116,388 |   |   |   | 18,327 |   
+ | Cash and cash equivalents at beginning of the period |   | $ | 185,574 |   |   | $ | 14,566 |   
+ | Cash and cash equivalents at end of the period |   | $ | 301,962 |   |   | $ | 32,893 |   
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Supplemental noncash disclosures:
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | Intangible assets acquired in exchange for common shares |   | $ | - |   |   | $ | 3,701 |   
+ | Reduction of ROU asset from partial termination |   |   | 97 |   |   |   | - |   
+ | Reduction of lease liability from partial termination |   |   | 104 |   |   |   | - |   
+ | Transfer of notes receivable in settlement for inventory purchases |   |   | 523 |   |   |   | - |   
+ | Reclassification of warrant from mezzanine equity to permanent equity upon exercise |   |   | 385 |   |   |   | - |   
+See accompanying Notes to Unaudited Consolidated Financial Statements. 
+6
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 1: Nature of Business 
+Description of Business 
+ Richtech Robotics Inc. (“we”, “us”, “our” or “Richtech”), is a C-Corporation registered in Nevada. Richtech was originally established as Richtech Creative Displays, LLC in Nevada on July 19, 2016, and converted to a Nevada corporation on June 22, 2022. We completed our initial public offering on November 21, 2023, and shares of our Class B common stock began trading on the Nasdaq Capital Market on November 17, 2023 under the symbol “RR.” 
+We are a robotics and artificial intelligence (“AI”) technology company focused on developing advanced embodied AI systems that aim to improve the efficiency and productivity of U.S. businesses. Richtech trains proprietary artificial intelligence models on in-house data to operate advanced robotic systems in the real world. We design, engineer, manufacture, and deploy next generation embodied AI systems to serve a wide range of industries—including food service, retail, industrial manufacturing, automotive, healthcare, and hospitality. Our robots are designed to be user friendly, reliable, and highly customizable, with the goal of driving tangible profit and loss (“P&L”) improvements for our customers. 
+NOTE 2: Summary of Significant Accounting Policies 
+Basis of Presentation and consolidation 
+These unaudited condensed consolidated financial statements and accompanying notes have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”), pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) and include the accounts of the Company and its wholly owned subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation. 
+As permitted under SEC rules, certain footnotes or other financial information normally required by U.S. GAAP have been condensed or omitted. The balance sheet as of September 30, 2025, has been derived from audited consolidated financial statements at such date. The accompanying unaudited condensed consolidated financial statements have been prepared on the same basis as the Company’s annual consolidated financial statements, and in the opinion of management, include all adjustments, consisting only of routine recurring adjustments, necessary for a fair statement of the Company’s unaudited condensed consolidated financial information. 
+The unaudited condensed consolidated results of operations for the three and nine months ended June 30, 2026, are not necessarily indicative of the consolidated results to be expected for the year ending September 30, 2026, or for any other interim period or for any other future periods. The accompanying unaudited condensed consolidated financial statements and related unaudited condensed consolidated financial information should be read in conjunction with the Company’s audited consolidated financial statements and related notes thereto as of and for the year ended September 30, 2025, included in the Company’s Annual Report on Form 10-K/A. 
+All amounts in the accompanying unaudited condensed consolidated financial statements and the notes thereto are presented in thousands of dollars, if not otherwise noted as being presented in millions of dollars, except for shares and per share amounts. 
+Use of Estimates 
+The preparation of the financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the dates of the financial statements and the reported amounts of revenues and expenses during the reporting periods. Significant estimates in these unaudited condensed consolidated financial statements include those related to the estimated fair value of warrant liabilities, allowance for credit loss, inventory reserve, useful lives of intangible assets and property and equipment. Other significant estimates include the estimated incremental borrowing rate, the provision or benefit for income taxes and the corresponding valuation allowance on deferred tax assets, and estimates related to the allocation of transaction price to performance obligations, including the determination of standalone selling prices for distinct goods and services in contracts with customers. On an ongoing basis, the Company evaluates its estimates and assumptions. The Company bases its estimates on historical experience and on various other assumptions believed to be reasonable. Due to inherent uncertainty involved in making estimates, actual results reported in future periods may be affected by changes in these estimates. 
+7
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+Warrants 
+We have issued certain warrants that are classified as either liabilities or equity. Warrants classified as liabilities are measured at fair value at each reporting period end. Prefunded warrants for which the only valuation input is the quoted price of our common stock are valued using observable market prices and, when outstanding, are classified within Level 1 of the fair value hierarchy. All other liability-classified warrants are valued using an option pricing model, such as the Black-Scholes model, which incorporates inputs including the expected volatility of our common stock, the expected term of the warrant, a risk-free interest rate based on U.S. Treasury yields, and an expected dividend yield of zero. Because these valuations include significant unobservable inputs, such warrants are classified within Level 3 of the fair value hierarchy. Changes in the fair value of liability-classified warrants are recognized in earnings in the period of change. 
+For equity-classified warrants, fair value is measured at issuance with no subsequent remeasurement. 
+Accounts Receivable 
+Our accounts receivable primarily consist of trade receivables, which represent amounts owed to us by customers for products and services provided. These receivables are presented net of any rebates, price protection adjustments, and an allowance for credit losses. In addition to trade receivables, our accounts receivable also include unbilled receivables. These primarily relate to work completed on development services for which revenue has been recognized but not yet invoiced to customers. We expect these unbilled receivables to be billed and collected within twelve months. 
+We actively manage our exposure to customer credit risk through various measures, including credit limits, credit lines, ongoing monitoring procedures, and credit approvals. We perform in-depth credit evaluations of all new customers and periodically reassess the creditworthiness of existing customers. If deemed necessary, we may require letters of credit, bank or corporate guarantees, or advance payments to mitigate credit risk. 
+To account for potential losses from uncollectible accounts, we maintain an allowance for credit losses. This allowance considers both specific troubled accounts and an overall estimate of potential uncollectible receivables based on historical experience and current credit quality assessments. 
+Inventories 
+We value inventory at standard cost, adjusted to approximate the lower of actual cost or estimated net realizable value using assumptions about future demand and market conditions. Cost is determined using the first-in, first-out (FIFO) method. In determining excess or obsolescence reserves for our products, we consider assumptions such as changes in business and economic conditions, other-than-temporary decreases in demand for our products, and changes in technology or customer requirements. In determining the lower of cost or net realizable value reserves, we consider assumptions such as recent historical sales activity and selling prices, as well as estimates of future selling prices. We fully reserve for inventories and non-cancellable purchase orders for inventory deemed obsolete. We perform periodic reviews of inventory items to identify excess inventories on hand by comparing on-hand balances and non-cancellable purchase orders to anticipated usage using recent historical activity as well as anticipated or forecasted demand. If estimates of customer demand diminish further or market conditions become less favorable than those projected by us, additional inventory carrying value adjustments may be required. 
+Intangible Assets 
+ Our intangible assets consist of multiple systems purchased for our robotic product. These assets are amortized using the straight-line method over their estimated useful life of 10 years. 
+8
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+Impairment of Long-lived Assets 
+We evaluate our long-lived assets, including property and equipment and finite-lived intangible assets, for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or asset group may not be recoverable in accordance with ASC 360, Property, Plant, and Equipment. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset or asset group to the estimated future undiscounted cash flows expected to be generated by such asset or asset group. If the carrying amount of an asset or asset group exceeds its estimated future undiscounted cash flows, an impairment loss is recognized for the amount by which the carrying amount exceeds the fair value of the asset or asset group. Fair value is generally determined using discounted cash flow analyses, market comparable data, or other valuation techniques, as appropriate. Long-lived assets to be disposed of are reported at the lower of carrying amount or fair value less costs to sell. We review the remaining useful lives of its long-lived assets on a periodic basis and revises such lives, if appropriate, based on changes in circumstances or business plans that indicate a shorter or longer useful life is warranted. 
+Stock-based Compensation 
+We account for stock-based compensation in accordance with ASC 718, Compensation—Stock Compensation. Currently, we grant only restricted stock awards (RSAs) to employees, non-employees, and directors. 
+For RSAs classified as equity, compensation cost is measured at the grant date based on the fair value of our common stock. The fair value of each RSA is determined using the closing market price of our common stock on the grant date. For RSAs that vest immediately (where the grant date and vesting date are the same), the full compensation cost is recognized on the grant date. For RSAs that have a service period (generally a vesting period), compensation cost is recognized over the requisite service period using the straight-line attribution method, including for awards that vest in tranches. Forfeitures are accounted for as they occur; when an award is forfeited prior to completing the service period, any previously recognized compensation cost is reversed in the period of forfeiture. 
+Stock-based compensation expense is recognized in the consolidated statements of operations as a component of research and development, sales and marketing, and general and administrative expenses. 
+Mezzanine Equity  
+We classify certain equity instruments as mezzanine equity when they contain redemption features that are not solely within our control. Under ASC 480-10-S99-3A and SEC Regulation S-X Rule 5-02, instruments that are redeemable for cash or other assets upon the occurrence of events not solely within our control are presented outside of permanent equity in a separate mezzanine section of the consolidated balance sheets. 
+Mezzanine equity instruments are initially measured at fair value on the issuance date. Subsequent measurement is based on the estimated redemption value, with changes in the carrying amount recognized through accretion to retained earnings (or additional paid-in capital if retained earnings is insufficient) as redemption becomes probable. We classify mezzanine equity in a separate caption between liabilities and stockholders’ equity on the balance sheet and disclose the terms of each issue, including redemption features and dividend rights. 
+9
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+Revenue Recognition 
+We generate revenue from contracts with customers through the following primary business models: 
+ |   | ● | Product Sales: Sale of robotic systems (which consist of robotic hardware together with installation services) and related hardware, which may be standalone or bundled with software subscriptions. Installation services are included in all product sales. 
+ |   | ● | Event Services: Short-term rental of robotic equipment for specific events, including installation, on-site support, and maintenance during the event period. These contracts typically have a duration of one to three days and do not contain purchase options. 
+ |   | ● | Robotics-as-a-Service (“RaaS”): Provision of robotic equipment and ongoing maintenance and support services over a contract term, with revenue recognized over time. Under these arrangements, customers pay a fixed monthly fee for the use of our robotic equipment, along with maintenance and technical support services. 
+ |   | ● | Other: Miscellaneous revenue streams not included in the above categories, including food and beverage sales from our brick-and-mortar experience store, repair and maintenance services provided on a time-and-materials basis, and data collection services for third parties, none of which are material to the consolidated financial statements. 
+Product sales and certain other service revenues are accounted for under ASC 606, Revenue from Contracts with Customers. Event services and RaaS arrangements are evaluated under ASC 842, Leases, because those arrangements may convey to the customer the right to control the use of identified robotic equipment for a period of time in exchange for consideration. 
+For arrangements that contain both lease and non-lease components, the Company evaluates the appropriate accounting model based on the nature of the promised goods or services and the applicable guidance. ASC 842 applies to lease components, while the Company applies ASC 606 to non-lease components unless it has elected and qualifies for a practical expedient to account for lease and non-lease components together. For lessors, the practical expedient to combine lease and non-lease components is available only when the specified criteria are met; if the non-lease component is predominant, the combined component is accounted for under ASC 606, and otherwise the combined component is accounted for as an operating lease under ASC 842. 
+Product Sales 
+The Company recognizes product sales in accordance with ASC 606 because the customer obtains goods or services that are outputs of the Company’s ordinary activities in exchange for consideration. Revenue is recognized when a customer obtains control of promised goods or services, in an amount that reflects the consideration which the entity expects to receive in exchange for those goods or services. In order to achieve this core principle, the Company applies the following five steps when recording revenue: (1) identify the contract, or contracts, with the customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price to the performance obligations in the contract and (5) recognize revenue when, or as, performance obligations are satisfied. 
+We consider customer purchase orders, which in some cases are governed by master sales agreements, to be the contracts with our customers when the criteria under ASC 606 are met, including approval and commitment of the parties, identification of each party’s rights, identification of payment terms, commercial substance, and probable collectability of substantially all consideration to which the Company expects to be entitled. If these criteria are not met, consideration received from a customer is generally recognized as a liability until the criteria are satisfied or the consideration becomes nonrefundable and the Company has no remaining obligation to transfer goods or services. 
+10
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+Determination of Performance Obligation 
+We identify performance obligations by evaluating whether the promised goods or services are distinct. A promised good or service is accounted for separately only if the customer can benefit from the good or service either on its own or together with other readily available resources and the promise is separately identifiable from other promises in the contract. For contracts that include the sale of robotic hardware and related installation services, we have concluded that the robotic system and installation services generally represent a single performance obligation when installation is not distinct in the context of the contract or is immaterial in the context of the contract. We recognize revenue for such arrangements at the point in time when control of the robotic system transfers to the customer, which generally occurs upon completion of installation, when the customer has physical possession of the robotic system, can direct its use, receive the significant risks and rewards of ownership, and have an obligation to pay. When product sales include software or service subscription components, we evaluate whether those components are separate performance obligations under ASC 606. If the software or service subscription is determined to be distinct and material in the context of the contract, the Company allocates the transaction price to each performance obligation based on relative standalone selling prices and recognizes revenue when, or as, each performance obligation is satisfied. As of June 30, 2026, revenue from contracts that include a software subscription component was immaterial to the consolidated financial statements, as the Company is in the early stages of offering this bundled solution. 
+Transaction Price 
+The transaction price is the fixed, non-refundable consideration stated in the contract. We do not offer variable consideration elements such as usage-based fees, rebates, penalties, or performance bonuses. Payment terms for product sales generally require advance payment upon execution of the contract. We apply the practical expedient not to adjust the transaction price for the effects of a significant financing component when the period between customer payment and the transfer of goods or services is one year or less, which is the case for substantially all of our contracts. 
+Returns, Refunds and Warranties 
+We generally do not offer rights of return on product sales. We provide assurance-type warranties on its robotic systems, which guarantee that the products will function in accordance with agreed-upon specifications. These warranties are not sold separately and do not give rise to a separate performance obligation under ASC 606. 
+Revenue from event services 
+We generate revenue from event service, which consists of the short-term rental of robotic equipment for specific events, including installation, on-site support, and maintenance during the event period. These contracts typically have a duration of one to three days and do not contain purchase options. 
+Revenue from event services is evaluated under ASC 842, Leases, to determine whether the arrangement contains a lease. We have concluded that these contracts contain a lease component, as the customer obtains the right to control the use of an identified piece of robotic equipment for a specified event period. The Company elected the lessor practical expedient to combine the lease component and non-lease components including installation, support, and maintenance into a single lease component when the applicable criteria are met. Because the lease component is predominant, the entire contract is accounted for as an operating lease, and lease income is recognized on a straight-line basis over the lease term, which generally occurs within a single reporting period and over a short duration. Due to the short duration of these arrangements, the resulting pattern of recognition occurs within the event period. 
+11
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+ As of June 30, 2026, we had no deferred revenue related to event service contracts classified as operating leases under ASC 842. As of September 30, 2025, the deferred revenue balance related to event services was $47. This balance represents advance lease payments received from customers for which the related lease income has not yet been recognized. 
+Advance payments received from customers for these services are recorded as contract liabilities and recognized as revenue over the lease term as the event services are provided. 
+Revenue from Robots-as-a-Service (RaaS) 
+We generate revenue through our Robots-as-a-Service (RaaS) offerings, which provide customers with ongoing access to our robotic solutions under long-term contracts. Under these arrangements, customers pay a fixed monthly fee for the use of our robotic equipment, along with maintenance and technical support services. 
+ Our RaaS contracts are typically structured with an initial non-cancelable term ranging from 12 to 36 months. The contracts include an automatic renewal provision, whereby the lease term extends for successive renewal periods (generally 12 months) unless either party provides written notice of non-renewal at least 30 days prior to the end of the then-current term. Renewal rates are subject to an annual increase of 3% from the then-current rate. Certain contracts may also include an early termination clause, under which the total remaining amount payable under the contract becomes due upon early termination by the customer. Our RaaS contracts do not include purchase options that would allow the lessee to acquire the underlying robotic equipment at the end of the lease term. 
+We account for RaaS arrangements under ASC 842, Leases. We have evaluated these contracts and determined that they contain a lease component, as the customer has the right to control the use of an identified piece of robotic equipment for a period of time in exchange for consideration. These leases are classified as operating leases, as they do not meet any of the criteria for sales-type or direct financing leases. At contract inception, the Company has determined that customers are not reasonably certain to exercise renewal options. Accordingly, renewal periods are excluded from the lease term unless and until the Company’s assessment changes based on the specific facts and circumstances. 
+ For operating leases, we recognize lease income on a straight-line basis over the non-cancelable lease term. The robotic equipment remains on our balance sheet as property and equipment and is depreciated over its estimated useful life. The Company considers the economic life of most of our products to be 5 years. The Company believes 5 years is representative of the period during which the equipment is expected to be economically usable by one or more users, with normal service, for the purpose for which it is intended. The unguaranteed residual value is estimated to be the value at the end of the lease term based on the anticipated fair market value of the units. The Company mitigates residual value risk of our leased equipment by performing regular management and maintenance, as necessary. We have elected the practical expedient to combine the lease component and non-lease components (including maintenance and technical support) into a single lease component for our RaaS contracts, when the applicable criteria are met, as the timing and pattern of transfer are the same and the lease component is the predominant component. 
+ As of June 30, 2026, we had $2 of deferred revenue related to RaaS contracts classified as operating leases under ASC 842. This balance represents advance lease payments received from customers for which the related lease income has not yet been recognized. As of September 30, 2025, the deferred revenue balance related to RaaS contracts was nil. 
+ As of June 30, 2026, we expect to receive $2,142 of future lease payments under non-cancelable RaaS contracts classified as operating leases under ASC 842. Of this amount, $1,205 is expected to be collected within the next 12 months, $714 is expected to be collected between 13 and 24 months, and the remaining $223 is expected to be collected beyond 24 months. 
+12
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+Remaining Performance Obligations 
+Remaining performance obligations represent the aggregate amount of the transaction price allocated to unsatisfied or partially unsatisfied performance obligations as of the balance sheet date. As of June 30, 2026, the Company did not have material remaining performance obligations related to contracts accounted for under ASC 606. 
+Contract assets and contract liabilities 
+We maintain contract-related balance sheet accounts under ASC 606, Revenue from Contracts with Customers, which primarily arise from product sales contracts. 
+ Contract Assets (Unbilled Receivables) represent revenue recognized for performance obligations satisfied but not yet billed as of the balance sheet date. Contract assets are reclassified to accounts receivable when the right to payment becomes unconditional. As of June 30, 2026 and September 30, 2025, we had no contract assets. 
+ Contract Liabilities (Deferred Revenue) consist of payments received from customers in advance of performance. These liabilities relate primarily to advance payments and are recognized as revenue as the related services are provided over the contract term. As of June 30, 2026 and September 30, 2025, the balance of contract liabilities was $388 and $201, respectively. Revenue recognized during the nine months and three months ended June 30, 2026 that was included in the contract liability balance at September 30, 2025 was $108 and $19, respectively. 
+Other Revenue Policies 
+Sales, value add, and other taxes collected on behalf of third parties are excluded from revenue. 
+We do not assess whether a contract has a significant financing component if the expectation at contract inception is such that the period between payment by the customer and the transfer of the promised products to the customer will be one year or less, which is the case with substantially all customers. Our customer contracts typically feature monthly invoicing, with payment terms primarily due on receipt or Net 30. (Refer to the discussion of significant financing component under “Transaction Price” above.) 
+We recognize the incremental costs of obtaining contracts as an expense when incurred if the amortization period of the assets that we otherwise would have recognized is one year or less. These costs are included in selling expenses. 
+We account for shipping and handling activities related to contracts with customers as costs to fulfill the promise to transfer the associated products. We record the related costs within cost of goods sold. 
+Disaggregation of Revenue 
+We disaggregate revenue into revenue from contracts with customers (ASC 606) and lease revenue (ASC 842). The following table presents revenue by source: 
+ |   |   | For the Nine months ended |   |   | For the Three months ended |   
+ |   |   | June 30, |   |   | June 30, |   
+ |   |   | 2026 |   |   | 2025 |   |   | 2026 |   |   | 2025 |   
+ | Revenue recognized under ASC 606 |   | $ | 1,345 |   |   | $ | 2,083 |   |   | $ | 352 |   |   | $ | 328 |   
+ | Revenue recognized under ASC 842 |   |   | 2,600 |   |   |   | 1,518 |   |   |   | 1,021 |   |   |   | 849 |   
+ | Total revenue recognized |   | $ | 3,945 |   |   | $ | 3,601 |   |   | $ | 1,373 |   |   | $ | 1,177 |   
+13
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+The following summarizes the revenue we recognized by revenue stream:  
+ |   |   | For the Nine months ended |   |   | For the Three months ended |   
+ |   |   | June 30, |   |   | June 30, |   
+ |   |   | 2026 |   |   | 2025 |   |   | 2026 |   |   | 2025 |   
+ | Revenues |   |   |   |   |   |   |   |   |   |   |   |   
+ | Product sales |   | $ | 861 |   |   | $ | 1,569 |   |   | $ | 264 |   |   | $ | 156 |   
+ | Event services |   |   | 1,516 |   |   |   | 1,143 |   |   |   | 627 |   |   |   | 719 |   
+ | RaaS |   |   | 1,084 |   |   |   | 375 |   |   |   | 394 |   |   |   | 130 |   
+ | Others |   |   | 484 |   |   |   | 514 |   |   |   | 88 |   |   |   | 172 |   
+ | Total revenues |   | $ | 3,945 |   |   | $ | 3,601 |   |   | $ | 1,373 |   |   | $ | 1,177 |   
+Substantially all of our revenue is generated from customers located in the United States. Accordingly, no further geographic disaggregation is presented. 
+Earnings Per Share 
+We compute earnings per share in accordance with ASC 260, Earnings Per Share. 
+Basic EPS 
+Basic loss per share is calculated by dividing net loss attributable to common stockholders by the weighted-average number of shares of common stock outstanding during the period. The weighted-average number of shares outstanding includes issued common shares that are not subject to any vesting conditions. Warrants that are exercisable for little or no consideration (“penny warrants”) are included in the denominator of basic EPS from the date of issuance, as they are considered common equivalent shares. 
+Diluted EPS 
+Diluted loss per share is calculated using the same method as basic loss per share, as the inclusion of all potential common shares from unvested restricted stock awards (“RSAs”) and outstanding warrants would be antidilutive during periods of net loss. Under ASC 260, potentially dilutive securities are excluded from the diluted EPS calculation when their effect would reduce the loss per share (i.e., make the loss per share less severe), as this would not be representative of the Company’s performance. Therefore, diluted loss per share is equal to basic loss per share for all periods presented. 
+Antidilutive Securities 
+For periods in which we report a net loss, unvested RSAs and outstanding warrants are considered antidilutive and are excluded from the diluted EPS calculation. A reconciliation of the number of antidilutive securities excluded from the diluted EPS computation is disclosed in the notes to the financial statements. 
+Participating Securities 
+Unvested RSAs that have nonforfeitable rights to dividends or dividend equivalents are treated as participating securities under ASC 260. Under the two-class method, earnings are allocated between common stockholders and participating security holders. However, because participating security holders are not contractually obligated to share in losses, losses are not allocated to these securities. During periods of net loss, the two-class method does not require further allocation, and the calculation of loss per share is unaffected by the participation rights of unvested RSAs. 
+14
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+Concentrations of Risk 
+Concentration of Revenue 
+ For the three and nine months ended June 30, 2026 and 2025, no single customer accounted for 10% or more of total revenue. We operate in a single reportable segment, and all of our revenue is derived from this segment. Refer to Note 13—Segment Information for further details. 
+Concentration of Credit Risk 
+Financial instruments that potentially subject us to a concentration of credit risk consist primarily of cash and cash equivalents held at major financial institutions. We maintain cash balances with several well-established financial institutions with high credit ratings. At times, such balances may exceed federally insured limits; however, management monitors the financial stability of these institutions and believes the risk of loss is minimal. 
+Recent Accounting Pronouncements 
+Adopted 
+Tax Legislation – One Big Beautiful Bill Act 
+In July 2025, the One Big Beautiful Bill Act (OBBBA) was enacted, modifying provisions related to research and experimental expenditures, bonus depreciation, and business interest expense deductibility. The Company assessed the impact of these changes for the three and nine months ended June 30, 2026. Given the Company’s historical losses, current period pretax loss, and full valuation allowance on deferred tax assets, the new legislation had no material effect on its income tax provision, deferred tax balances, or effective tax rate. The Company will continue to monitor future guidance and its ability to realize deferred tax assets.  
+ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures 
+In December 2023, the FASB issued ASU 2023-09, which expands annual income tax disclosure requirements, including enhanced rate reconciliation tables and disclosure of income taxes paid disaggregated by jurisdiction. The ASU is effective for fiscal years beginning after December 15, 2024, and for interim periods within fiscal years beginning after December 15, 2025. Early adoption is permitted. 
+For our fiscal year ending September 30, the ASU is effective for our fiscal year beginning October 1, 2025 (fiscal year 2026) and for interim periods within our fiscal year beginning October 1, 2026 (fiscal year 2027). We adopted this guidance on October 1, 2025. The adoption did not have any impact on our financial position, results of operations, or cash flows, as it only affects disclosures. The guidance was applied prospectively, which means the new disclosure requirements are applied to the fiscal year 2026 financial statements, with prior periods presented under the legacy format.  
+15
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 2: Summary of Significant Accounting Policies (cont.) 
+Not Yet Adopted 
+ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures 
+In November 2024, the FASB issued ASU 2024-03, which requires public business entities to disaggregate certain income statement expense captions into specified natural expense categories (including purchases of inventory, employee compensation, depreciation, and intangible asset amortization) in a tabular format within the footnotes. 
+For our fiscal year ending September 30, the ASU is effective for our fiscal year beginning October 1, 2026 (fiscal year 2027) and for interim periods within our fiscal year beginning October 1, 2027 (fiscal year 2028). We do not plan to early adopt this guidance. We are currently evaluating the impact of this guidance on our financial statement disclosures. 
+ASU 2025-05, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets 
+In July 2025, the FASB issued ASU 2025-05, which provides a practical expedient and an accounting policy election related to the estimation of expected credit losses for current accounts receivable and contract assets. The ASU is effective for annual reporting periods beginning after December 15, 2025, and interim reporting periods within those annual periods. Early adoption is permitted. 
+For our fiscal year ending September 30, the ASU is effective for our fiscal year beginning October 1, 2026 (FY2027) and for interim periods within that fiscal year. Early adoption is permitted. We do not plan to early adopt this guidance. We are currently evaluating the impact of this guidance on our financial statements. 
+ASU 2025-06, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software 
+In September 2025, the FASB issued ASU 2025-06, which modernizes the accounting for internal-use software costs by removing all references to software development project stages. The amendments require that an entity capitalize software costs when both: (i) management has authorized and committed to funding the software project, and (ii) it is probable that the project will be completed and the software will be used to perform the function intended (the “probable-to-complete recognition threshold”). In evaluating this threshold, an entity is required to consider whether there is significant uncertainty associated with the development activities. 
+The ASU is effective for all entities for annual reporting periods beginning after December 15, 2027, and interim reporting periods within those annual reporting periods. Early adoption is permitted as of the beginning of an annual reporting period. The amendments may be applied prospectively, using a modified transition approach based on the status of the project at the date of adoption, or retrospectively. We are currently evaluating the impact of this guidance on our financial statements and related disclosures. 
+16
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+Note 3: Fair Value of Financial Instruments 
+ASC 820, Fair Value Measurements (“ASC 820”) states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability. The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data. The fair value hierarchy requires the use of observable market data when available in determining fair value. Our assets and liabilities that were measured at fair value on a recurring basis were as follows: 
+ |   |   | June 30, 2026 |   |   | September 30, 2025 |   
+ |   |   | Fair Value |   |   | Level I |   |   | Level II |   |   | Level III |   |   | Fair Value |   |   | Level I |   |   | Level II |   |   | Level III |   
+ | U.S. government securities |   | $ | 32,457 |   |   | $ | 32,457 |   |   | $ | - |   |   | $ | - |   |   | $ | 18,391 |   |   | $ | 18,391 |   |   | $ | - |   |   | $ | - |   
+ | Certificates of deposit |   |   | 5,176 |   |   |   | - |   |   |   | 5,176 |   |   |   | - |   |   |   | 47,972 |   |   |   | - |   |   |   | 47,972 |   |   |   | - |   
+ | Money market funds |   |   | 6,681 |   |   |   | 6,681 |   |   |   | - |   |   |   | - |   |   |   | 45,532 |   |   |   | 45,532 |   |   |   | - |   |   |   | - |   
+ | Liability-classified Warrants |   |   | 2,401 |   |   |   | - |   |   |   | - |   |   |   | 2,401 |   |   |   | 19,285 |   |   |   | - |   |   |   | - |   |   |   | 19,285 |   
+ | Total |   | $ | 46,715 |   |   | $ | 39,138 |   |   | $ | 5,176 |   |   | $ | 2,401 |   |   | $ | 131,180 |   |   | $ | 63,923 |   |   | $ | 47,972 |   |   | $ | 19,285 |   
+Our U.S. government securities are classified within Level I of the fair value hierarchy because their fair values are based on quoted prices in active markets. Our certificates of deposit are classified within Level II of the fair value hierarchy and are measured using observable market inputs. There were no transfers between Level 1, Level 2 or Level 3 of the fair value hierarchy during the periods presented. 
+Our liability-classified warrants are measured at fair value on a recurring basis using Level III inputs. Refer to Note 8 for details on the valuation technique and significant unobservable inputs used and a rollforward of the fair value balance. 
+17
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+Note 3: Fair Value of Financial Instruments (cont.) 
+Our cash, cash equivalents and investments classified by security type as of June 30, 2026 and September 30, 2025 consisted of the following: 
+ |   |   | June 30, 2026 |   
+ |   |   |   |   |   | Gross |   |   | Gross |   |   |   |   |   | Cash and |   |   |   |   
+ |   |   | Adjusted |   |   | Unrealized |   |   | Unrealized |   |   |   |   |   | Cash |   |   | Short-Term |   
+ |   |   | Cost |   |   | Gains |   |   | Losses |   |   | Fair Value |   |   | equivalents |   |   | Investments |   
+ | Cash |   | $ | 295,281 |   |   | $ | - |   |   | $ |      - |   |   | $ | 295,281 |   |   | $ | 295,281 |   |   | $ | - |   
+ | U.S. government securities |   |   | 32,218 |   |   |   | 239 |   |   |   | - |   |   |   | 32,457 |   |   |   | - |   |   |   | 32,457 |   
+ | Certificates of deposit and time deposits |   |   | 5,176 |   |   |   | - |   |   |   | - |   |   |   | 5,176 |   |   |   | - |   |   |   | 5,176 |   
+ | Money market funds |   |   | 6,681 |   |   |   | - |   |   |   | - |   |   |   | 6,681 |   |   |   | 6,681 |   |   |   | - |   
+ | Total cash, cash equivalents and short-term investments |   | $ | 339,356 |   |   | $ | 239 |   |   | $ | - |   |   | $ | 339,595 |   |   | $ | 301,962 |   |   | $ | 37,633 |   
+ |   |   | September 30, 2025 |   
+ |   |   |   |   |   | Gross |   |   | Gross |   |   |   |   |   |  Cash and |   |   |   |   
+ |   |   | Adjusted |   |   | Unrealized |   |   | Unrealized |   |   |   |   |   | Cash |   |   | Short-Term |   
+ |   |   | Cost |   |   | Gains |   |   | Losses |   |   | Fair Value |   |   | Equivalents |   |   | Investments |   
+ | Cash |   | $ | 76,441 |   |   | $ | - |   |   | $ |        - |   |   | $ | 76,441 |   |   | $ | 76,441 |   |   | $ | - |   
+ | U.S. government securities |   |   | 80,915 |   |   |   | 393 |   |   |   | - |   |   |   | 81,308 |   |   |   | 62,917 |   |   |   | 18,391 |   
+ | Certificates of deposit and time deposits |   |   | 48,656 |   |   |   | - |   |   |   | - |   |   |   | 48,656 |   |   |   | 684 |   |   |   | 47,972 |   
+ | Money market funds |   |   | 45,532 |   |   |   | - |   |   |   | - |   |   |   | 45,532 |   |   |   | 45,532 |   |   |   | - |   
+ | Total cash, cash equivalents and short-term investments |   | $ | 251,544 |   |   | $ | 393 |   |   | $ | - |   |   | $ | 251,937 |   |   | $ | 185,574 |   |   | $ | 66,363 |   
+As of June 30, 2026, all of our short-term investments had contractual maturity dates within one year. 
+18
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 4: Accounts Receivable 
+Accounts receivable as of June 30, 2026 and September 30, 2025 are as follows: 
+ |   |   | As of June 30, |   |   | As of September 30, |   
+ |   |   | 2026 |   |   | 2025 |   
+ | Accounts receivable, gross |   | $ | 1,947 |   |   | $ | 1,919 |   
+ | Allowance for credit loss |   |   | (1,025 | ) |   |   | (139 | ) 
+ | Accounts receivable, net |   | $ | 922 |   |   | $ | 1,780 |   
+ As of June 30, 2026, the allowance for doubtful accounts was $1,025, compared to $139 as of September 30, 2025. 
+Activity in the allowance for credit losses was as follows: 
+ |   |   | Nine months ended |   |   | Nine months ended |   
+ |   |   | June 30, |   |   | June 30, |   
+ |   |   | 2026 |   |   | 2025 |   
+ | Beginning Balance |   | $ | 139 |   |   | $ | 197 |   
+ | Provision for (reversal of) expected credit losses |   |   | 886 |   |   |   | (111 | ) 
+ | Write-offs charged against allowance |   |   | - |   |   |   | - |   
+ | Ending Balance |   | $ | 1,025 |   |   | $ | 86 |   
+NOTE 5: Inventory 
+Inventory as of June 30, 2026 and September 30, 2025 are as follows: 
+ |   |   | June 30, |   |   | September 30, |   
+ |   |   | 2026 |   |   | 2025 |   
+ | Raw materials |   | $ | 2,269 |   |   | $ | 811 |   
+ | Finished goods |   |   | 446 |   |   |   | 313 |   
+ | Total inventories |   | $ | 2,715 |   |   | $ | 1,124 |   
+ Finished goods inventory includes products-in-transit to fulfill customer orders and robotic products available for sale. We regularly evaluate inventory for excess, obsolescence, or declines in net realizable value below cost, considering factors such as aging, historical sales trends, customer demand, and technological changes. As of June 30, 2026 and September 30, 2025, the allowance for inventory obsolescence and slow-moving inventory was $41 and nil, respectively. During the three and nine months ended June 30, 2026 and 2025, we recorded no material inventory write-downs. 
+19
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 6: Property, and Equipment 
+ Property and equipment, net is stated at cost less accumulated depreciation and amortization and is depreciated using the straight-line method over the estimated useful lives of the assets. Estimated useful lives of equipment are two to six years; buildings are depreciated over their estimated useful lives of 39 years; and leasehold improvements are measured by the shorter of the remaining terms of the leases or the estimated useful economic lives of the improvements. 
+Property and equipment, as of June 30, 2026 and September 30, 2025 are as follows: 
+ |   |   | June 30, |   |   | September 30, |   
+ |   |   | 2026 |   |   | 2025 |   
+ | Furniture, fixtures & equipment |   | $ | 1,723 |   |   | $ | 1,435 |   
+ | Equipment held for lease |   |   | 820 |   |   |   | 536 |   
+ | Leasehold improvements |   |   | 134 |   |   |   | 4 |   
+ | Building |   |   | 19,114 |   |   |   | 2,973 |   
+ | Land |   |   | 6,015 |   |   |   | 1,109 |   
+ |   |   |   | 27,806 |   |   |   | 6,057 |   
+ | Accumulated depreciation |   |   | (625 | ) |   |   | (263 | ) 
+ | Property and equipment, net |   | $ | 27,181 |   |   | $ | 5,794 |   
+ Depreciation expenses for the nine months ended June 30, 2026 and June 30, 2025 were $362 and $106, respectively. Depreciation expenses for the three months ended June 30, 2026 and June 30, 2025 were $136 and $53, respectively. 
+ During the three months ended June 30, 2026, we completed the acquisition of a building located at 9530 S. Rainbow Blvd., Las Vegas, Nevada. The building has approximately 79,325 square feet and was acquired for a total purchase price of $21,047, which was paid in cash. The transaction closed on May 29, 2026 and was accounted for as an asset acquisition. The purchase price was allocated between land and building based on their relative fair values. The building will be depreciated on a straight-line basis over its estimated useful life once it is placed into service. As of June 30,2026, the building has not yet been placed into service. 
+NOTE 7: Intangible Asset 
+Intangible Asset, as of June 30, 2026 and September 30, 2025 are as follows:  
+ |   |   | June 30, |   |   | September 30, |   
+ |   |   | 2026 |   |   | 2025 |   
+ | Intangible asset |   | $ | 11,968 |   |   | $ | 11,977 |   
+ | Accumulated amortization |   |   | (2,129 | ) |   |   | (1,262 | ) 
+ | Impairment loss |   |   | (9,468 | ) |   |   |   |   
+ | Intangible asset, net |   | $ | 371 |   |   | $ | 10,715 |   
+ Amortization expenses for the nine months ended June 30, 2026 and June 30, 2025 were $867 and $835, respectively. Amortization expenses for the three months ended June 30, 2026 and June 30, 2025 were $298 and $383, respectively. 
+20
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 7: Intangible Asset (cont.) 
+ In January 2026, we launched a strategic transformation initiative referred to internally as “AI Across All” (“AAA”), under which we are transitioning our operations, software platforms, and technology infrastructure to an AI-native architecture. As part of this initiative, we undertook a comprehensive redevelopment and modernization of our existing internal-use software assets. We evaluated the impact of this transformation on the expected future economic benefits associated with certain software-related intangible assets. Based on the accelerated deployment of our next-generation AI-native systems, we determined that our existing software platforms would have no future economic benefit upon completion of the transition to the AI-native environment. By June 30, 2026, we completed the transition, redevelopment, and deployment of substantially all affected software platforms, with those legacy platforms being fully replaced by AI-native systems. As a result of the transition, we determined that the legacy platforms had no future service potential and were no longer recoverable, and we recognized impairment of long-lived assets of $9,468 related to these affected assets during the three months ended June 30, 2026.   
+Estimated amortization expense related to existing finite-lived intangible assets for each of the next five years is as follows: 
+ | Fiscal Year |   | Estimated Amortization Expense |   
+ | Remainder of 2026 (July 1, 2026 – September 30, 2026) |   | $ | 10 |   
+ | FY2027 |   | $ | 39 |   
+ | FY2028 |   | $ | 39 |   
+ | FY2029 |   | $ | 39 |   
+ | FY2030 |   | $ | 39 |   
+ | Total |   | $ | 166 |   
+NOTE 8: Warrants 
+The following table summarizes warrants outstanding as of June 30, 2026 and September 30, 2025: 
+ | Instrument |   | Classification |   | Exercise Price |   |   | Expiration |   | June 30, 2026 |   |   | September 30, 2025 |   
+ | Representative’s Warrants |   | Equity |   | $ | 6.00 |   |   | Nov-28 |   |   | 105,000 |   |   |   | 105,000 |   
+ | Public Offering Warrants |   | Liability |   | $ | 1.35 |   |   | Sep-29 |   |   | 411,111 |   |   |   | 3,013,408 |   
+ | Placement Agent Warrants |   | Mezzanine equity |   | $ | 1.69 |   |   | Aug-29 |   |   | 82,389 |   |   |   | 616,139 |   
+ | Common Inducement Warrants |   | Liability |   | $ | 4.00 |   |   | Feb-30 |   |   | 1,349,898 |   |   |   | 2,699,797 |   
+ | Placement Agent Inducement Warrants |   | Mezzanine equity |   | $ | 5.00 |   |   | Mar-30 |   |   | 188,986 |   |   |   | 188,986 |   
+ | Total warrants outstanding |   |   |   |   |   |   |   |   |   |   | 2,137,384 |   |   |   | 6,623,330 |   
+21
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 8: Warrants (cont.) 
+Liability Classified Warrants 
+ On September 3, 2024, in connection with a registered public offering, we issued warrants to investors (the “Public Offering Warrants”) with an exercise price of $1.35 per share. In connection with the inducement transaction on February 10, 2025, we issued new common stock purchase warrants to certain holders that exercised outstanding warrants (the “Common Inducement Warrants”) with an exercise price of $4.00 per share. The Public Offering Warrants were issued to investors in exchange for capital, and the Common Inducement Warrants were issued in exchange for the exercise of previously outstanding warrants. The terms of the Public Offering Warrants and Common Inducement Warrants include settlement features that, under specified transactions involving a change in control or similar corporate events, could require the Company to settle the warrants for cash in circumstances outside the Company’s control. As a result, the warrants do not qualify for equity classification and are recorded as liabilities, measured initially and subsequently at fair value with changes in fair value recognized in earnings. 
+The following table presents the changes in the liability-classified warrants outstanding. 
+ |   |   | Public Offering Warrants |   |   | Common Inducement Warrants |   |   | Total |   
+ | Warrants outstanding as of September 30, 2024 |   |   | 15,555,557 |   |   |   | — |   |   |   | 15,555,557 |   
+ | Issuance |   |   | — |   |   |   | 2,699,797 |   |   |   | 2,699,797 |   
+ | Exercises |   |   | (12,542,149 | ) |   |   | — |   |   |   | (12,542,149 | ) 
+ | Warrants outstanding as of September 30, 2025 |   |   | 3,013,408 |   |   |   | 2,699,797 |   |   |   | 5,713,205 |   
+ | Exercises |   |   | (2,602,297 | ) |   |   | (1,349,899 | ) |   |   | (3,952,196 | ) 
+ | Warrants outstanding as of June 30, 2026 |   |   | 411,111 |   |   |   | 1,349,898 |   |   |   | 1,761,009 |   
+Both the Public Offering Warrants and the Common Inducement Warrants are included within Level III of the fair value hierarchy. We use a Black-Scholes option pricing model to determine the fair value of our liability-classified warrants. The valuation incorporates both observable inputs, including our stock price and risk-free interest rates, and significant unobservable inputs, including expected stock price volatility. The expected volatility is based on a combination of the implied volatility of our publicly traded common stock and the historical volatility of comparable publicly traded companies with similar expected terms, while the expected term is generally based on the contractual term of the warrants as they are immediately exercisable. The dividend yield is assumed to be zero, consistent with our historical practice on our Class B common stock. Changes in significant unobservable inputs, particularly expected volatility, could result in a significantly higher or lower fair value measurement. 
+Key assumptions utilized in the issuance-date valuation of the Public Offering Warrants and Common Inducement Warrants are summarized in the table below: 
+ |   |   | Public Offering Warrants |   |   | Common Inducement Warrants |   
+ | Stock price |   | $ | 1.27 |   |   | $ | 3.01 |   
+ | Exercise price |   | $ | 1.35 |   |   | $ | 4.00 |   
+ | Expected term (in years) |   |   | 5.00 |   |   |   | 5.00 |   
+ | Volatility |   |   | 73.6 | % |   |   | 75.2 | % 
+ | Risk-free interest rate |   |   | 3.62 | % |   |   | 4.29 | % 
+22
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 8: Warrants (cont.) 
+The following table presents the change in the liability balance associated with the liability-classified warrants. Changes in the fair value of the liability-classified warrants are included within other income (loss) on the consolidated statements of operations.  
+ |   |   | Public Offering Warrants |   |   | Common Inducement Warrants |   |   | Total |   
+ | Balance as of September 30, 2024 |   | $ | 6,940 |   |   | $ | — |   |   | $ | 6,940 |   
+ | Issuance |   |   | — |   |   |   | 4,758 |   |   |   | 4,758 |   
+ | Exercises |   |   | (26,585 | ) |   |   | — |   |   |   | (26,585 | ) 
+ | Change in fair value |   |   | 30,648 |   |   |   | 3,524 |   |   |   | 34,172 |   
+ | Balance as of September 30, 2025 |   |   | 11,003 |   |   |   | 8,282 |   |   |   | 19,285 |   
+ | Exercises |   |   | (12,849 | ) |   |   | (3,483 | ) |   |   | (16,332 | ) 
+ | Change in fair value |   |   | 2,477 |   |   |   | (3,029 | ) |   |   | (552 | ) 
+ | Balance as of June 30, 2026 |   | $ | 631 |   |   | $ | 1,770 |   |   | $ | 2,401 |   
+Key assumptions utilized in the valuation of the liability-classified warrants as of the balance sheet dates are summarized in the table below: 
+ |   |   | June 30, 2026 |   |   | September 30, 2025 |   
+ | Stock price |   | $ | 2.11 |   |   | $ | 4.29 |   
+ | Exercise price |   | $ | 1.35 – 4.00 |   |   | $ | 1.35 – 4.00 |   
+ | Expected term (in years) |   |   | 3.18 – 3.61 |   |   |   | 3.93 – 4.36 |   
+ | Volatility |   |   | 100.0 – 108.9 | % |   |   | 95.1 – 100.8 | % 
+ | Risk-free interest rate |   |   | 4.11 – 4.12 | % |   |   | 3.64 – 3.66 | % 
+Mezzanine Equity Classified Warrants 
+ In September 2024, in connection with a registered public offering, we issued warrants to placement agents (the “Placement Agent Warrants”) with an exercise price of $1.69 per share. In connection with the inducement transaction on February 10, 2025, we issued inducement warrants to certain placement agents with an exercise price of $5.00 (the “Placement Agent Inducement Warrants,” and together with the Placement Agent Warrants, the “Mezzanine Equity Warrants”). The Placement Agent Warrants were issued on September 3, 2024, and the Placement Agent Inducement Warrants were issued on March 12, 2025. Both were issued in exchange for placement agent services and are accounted for as share-based payment awards. Due to certain settlement features that are not solely within the Company’s control, including a change in control or similar corporate events, the Mezzanine Equity Warrants are classified within mezzanine equity. The warrants were recorded at their issuance-date fair value. As of June 30, 2026 and September 30, 2025, the warrants were not currently redeemable and, therefore, the Company did not adjust the carrying amounts to redemption value. The warrants are exercisable into shares of Class B common stock. 
+23
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 8: Warrants (cont.) 
+The following table presents the changes in the Mezzanine Equity Warrants. 
+ |   |   | Placement Agent Warrants |   |   | Placement Agent Inducement Warrants |   |   | Total |   
+ | Warrants outstanding as of September 30, 2024 |   |   | 1,088,889 |   |   |   | — |   |   |   | 1,088,889 |   
+ | Issuance |   |   | — |   |   |   | 188,986 |   |   |   | 188,986 |   
+ | Exercises |   |   | (472,750 | ) |   |   | — |   |   |   | (472,750 | ) 
+ | Warrants outstanding as of September 30, 2025 |   |   | 616,139 |   |   |   | 188,986 |   |   |   | 805,125 |   
+ | Exercises |   |   | (533,750 | ) |   |   | — |   |   |   | (533,750 | ) 
+ | Warrants outstanding as of June 30, 2026 |   |   | 82,389 |   |   |   | 188,986 |   |   |   | 271,375 |   
+Key assumptions utilized in the issuance-date valuation of the Placement Agent Warrants and Placement Agent Inducement Warrants are summarized in the table below: 
+ |   |   | Placement Agent Warrants |   |   | Placement Agent Inducement Warrants |   
+ | Stock price |   | $ | 1.27 |   |   | $ | 1.98 |   
+ | Exercise price |   | $ | 1.69 |   |   | $ | 5.00 |   
+ | Expected term (in years) |   |   | 5.00 |   |   |   | 4.95 |   
+ | Volatility |   |   | 73.6 | % |   |   | 82.7 | % 
+ | Risk-free interest rate |   |   | 3.62 | % |   |   | 3.92 | % 
+The following table summarizes activity in mezzanine equity: 
+ |   |   | Placement Agent Warrants |   |   | Placement Agent Inducement Warrants |   |   | Total |   
+ | Balance as of September 30, 2024 |   | $ | 786 |   |   | $ | — |   |   | $ | 786 |   
+ | Issuance |   |   | — |   |   |   | 189 |   |   |   | 189 |   
+ | Exercises |   |   | (341 | ) |   |   | — |   |   |   | (341 | ) 
+ | Remeasurement |   |   | — |   |   |   | — |   |   |   | — |   
+ | Balance as of September 30, 2025 |   |   | 445 |   |   |   | 189 |   |   |   | 634 |   
+ | Exercises |   |   | (385 | ) |   |   | — |   |   |   | (385 | ) 
+ | Remeasurement |   |   | — |   |   |   | — |   |   |   | — |   
+ | Balance as of June 30, 2026 |   | $ | 60 |   |   | $ | 189 |   |   | $ | 249 |   
+ Because the Placement Agent Warrants and Placement Agent Inducement Warrants were not currently redeemable as of June 30, 2026 or September 30, 2025, no redemption value adjustment was recorded during the nine months ended June 30, 2026 or the year ended September 30, 2025. 
+24
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 8: Warrants (cont.) 
+Equity Classified Warrants 
+ In connection with our initial public offering in November 2023, we issued warrants with an exercise price of $6.00 per share to the representative of the offering to purchase shares of our common stock (the “Representative’s Warrants”). The Representative’s Warrants were issued as consideration for underwriting services and are accounted for as share-based payment awards. The Representative’s Warrants do not contain any cash settlement or redemption features outside the Company’s control, and are classified in permanent equity. The Representative’s Warrants issued at our initial public offering remained outstanding as of both June 30, 2026 and September 30, 2025, with no issuances, exercises, forfeitures, or expirations during the period from September 30, 2024 through June 30, 2026. 
+NOTE 9: Stockholders’ Equity 
+ We had 100,000,000 shares of class A common stock authorized as of June 30, 2026 and September 30, 2025, with a par value of $0.0001 per share. 39,934,846 shares of class A common stock issued and outstanding as of June 30, 2026 and September 30, 2025. We had 1,000,000,000 and 200,000,000 shares of class B common stock authorized as of June 30, 2026 and September 30, 2025, respectively, (the authorized shares were increased from 200,000,000 to 1,000,000,000 on November 10, 2025), with a par value of $0.0001 per share. 184,451,609 shares and 154,656,592 shares of class B common stock issued and outstanding as of June 30, 2026 and September 30, 2025, respectively. 
+ During the nine months ended June 30, 2026, we issued an aggregate of 29,795,017 shares of Class B common stock and no shares of Class A common stock. These issuances consisted of 1,652,386 shares of Class B common stock issued as stock-based compensation to employees and contractors, 15,156,685 shares of Class B common stock sold through our at-the-market (“ATM”) offering program, for aggregate gross proceeds of $71,623, with total issuance costs of $2,559, resulting in net proceeds to the Company of $69,064, 4,485,946 shares of Class B common stock issued upon the exercise of investor warrants, and 8,500,000 shares of Class B common stock issued in a private placement. See below for additional information regarding the private placement. 
+Private Placement 
+ On January 27, 2026, we entered into a securities purchase agreement (the “Purchase Agreement”) with an institutional investor. Pursuant to the Purchase Agreement, we agreed to issue and sell to the investor, and the investor agreed to purchase from us, in a private placement (the “Private Placement”), 8,500,000 shares of our Class B common stock, at a purchase price of $4.55 per share, for aggregate gross proceeds of $38,675, prior to deducting placement agent’s fees and other offering expenses. The Private Placement closed on January 29, 2026. The net proceeds from the Private Placement were approximately $35,890, after deducting placement agent fees, legal fees, and other offering expenses totaling approximately $2,785. 
+ As of June 30, 2026 and September 30, 2025, we had 815,151,667 and 45,343,408 authorized but unissued shares of Class B common stock, respectively, which are available for issuance upon the exercise of outstanding warrants and the settlement of outstanding and future equity-based awards. 
+25
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 9: Stockholders’ Equity (cont.) 
+Stock-based Compensation 
+Stock Incentive Plan 
+We maintain the Richtech Robotics Inc. 2023 Stock Option Plan (the “Plan”), which provides for the granting of restricted stock awards (“RSAs”) and other equity-based awards to employees, directors, and consultants. 
+ The Plan was originally approved by the Board of Directors and adopted effective as of December 8, 2023, with an initial reserve of 6,000,000 shares of Class B common stock. On September 26, 2024, the Board and the holders of a majority of the voting power of the outstanding common stock approved an amendment and restatement of the Plan, effective October 23, 2024, increasing the number of shares authorized for issuance under the Plan from 6,000,000 shares to 14,311,215 shares. 
+ Effective as of November 10, 2025, the Company adopted the Second Amended and Restated Richtech Robotics Inc. 2023 Stock Option Plan, which includes an “evergreen” provision. Under this provision, the number of shares reserved for grant and issuance under the Plan automatically increases on the later of November 1, 2025 or the effective date of the Second Amended Plan, and on each subsequent November 1 until and including November 1, 2034, by a number of shares equal to the lesser of (i) 18% of the total outstanding Class B common stock as of the immediately preceding September 30, or (ii) such smaller number as determined by the Board. 
+ On February 17, 2026, the Company filed a Registration Statement on Form S-8 to register an additional 8,000,000 shares of Class B common stock for issuance under the Plan, in connection with an increase in the number of shares available for issuance pursuant to the evergreen provision, further increasing the number of shares authorized for issuance under the Plan from 14,311,215 shares to 22,311,215 shares. 
+ During the nine months ended June 30, 2026, 2,092,110 shares were granted as RSAs under the Plan. As of June 30, 2026, 6,858,048 shares remained available for future grants under the Plan. 
+RSA Activity 
+The Company grants restricted stock awards (RSAs) to employees, non-employees and directors under its equity incentive plan. Each RSA entitles the holder to one share of Class B common stock upon vesting. The fair value of each RSA is determined based on the closing market price of the Company’s common stock on the grant date. 
+26
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 9: Stockholders’ Equity (cont.) 
+The following table summarizes the activity of unvested RSAs for the nine months ended June 30, 2026 and 2025: 
+ |   |   | Nine months ended |   |   | Nine months ended |   
+ |   |   | June 30, 2026 |   |   | June 30, 2025 |   
+ |   |   | Number of Shares |   |   | Weighted-Average Grant-Date Fair Value per Share |   |   | Number of Shares |   |   | Weighted-Average Grant-Date Fair Value per Share |   
+ | Unvested at beginning of period |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   
+ | Granted |   |   | 2,092,110 |   |   |   | 4.38 |   |   |   | 939,672 |   |   |   | 0.92 |   
+ | Vested |   |   | 2,049,110 |   |   |   | 4.39 |   |   |   | 939,672 |   |   |   | 0.92 |   
+ | Forfeited |   |   | - |   |   |   | - |   |   |   | - |   |   |   | - |   
+ | Unvested at end of period |   |   | 43,000 |   |   |   | 3.73 |   |   |   | - |   |   |   | 0.92 |   
+ As of June, 30 2026, total unrecognized stock-based compensation cost related to unvested RSAs was approximately $160, which is expected to be recognized over the remaining vesting period through December 2026. 
+For RSAs that vest immediately (grant date equals vesting date), compensation cost is recognized in full on the grant date. For RSAs with service-based vesting conditions, compensation cost is recognized on a straight-line basis over the vesting period. Forfeitures are accounted for as they occur. 
+The following table presents the allocation of stock-based compensation expense by line item in the condensed consolidated statements of operations: 
+ |   |   | Nine months ended |   |   | Three months ended |   
+ |   |   | June 30, |   |   | June 30, |   
+ |   |   | 2026 |   |   | 2025 |   |   | 2026 |   |   | 2025 |   
+ | Research and development |   | $ | 654 |   |   | $ | 304 |   |   | $ | 72 |   |   | $ | 54 |   
+ | Sales and marketing |   |   | 2,907 |   |   |   | 349 |   |   |   | 9 |   |   |   | 75 |   
+ | General and administrative |   |   | 5,445 |   |   |   | 2,776 |   |   |   | 341 |   |   |   | 222 |   
+ | Total |   | $ | 9,006 |   |   | $ | 3,429 |   |   | $ | 422 |   |   | $ | 351 |   
+ On December 4, 2025, our board approved the grant of restricted stock awards (“RSAs”) to our employees and non-employees. These RSAs were fully vested upon grant and amounted to a total of 1,785,006 shares, with a grant-date fair value of $4.59 per share, based on the closing price of our common stock on December 4, 2025. The total compensation expense of $8,201 was recognized in research and development, selling and marketing, general, and administrative expenses in our condensed consolidated statement of operations for the three months ended December 31, 2025, with a corresponding credit to additional paid-in capital – stock compensation. 
+ During the three months ended March 31, 2026, we issued 1,735,006 shares of common stock to settle the majority of the restricted stock awards that were granted on December 4, 2025. The current-period issuance represents only a reclassification within equity (to common stock at par value and additional paid-in capital in excess of par) with no impact on our results of operations or cash flows. All shares were issued under our 2023 Stock Option Plan. We withheld 368,999 shares valued at $1,694 to cover the expected income tax effect of the grants. As a result, the actual number of shares issued to award recipients was less than the number of vested shares underlying the RSA grants. 
+ On February 17, 2026 and May 17, 2026, we issued routine quarterly stock awards of 122,977 shares and 141,127 shares. We withheld 14,061 shares valued at $39 and 13,664 shares valued at $37 to cover the expected income tax effect of the grants for each issuance. 
+From time to time, as restricted stock awards vest, certain employees surrender their vested shares to satisfy their tax liability on vesting. The fair value of those shares on the vesting date are then used by us to pay those employees’ tax obligations. The shares surrendered are reported as treasury stock in our statements of stockholders’ equity. 
+27
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 10: Earnings/Loss per Share 
+Because we reported a net loss for all periods presented, no potentially dilutive securities have been included in the computation of diluted net loss per share.  
+ |   |   | Three months ended |   
+ |   |   | June 30, |   
+ |   |   | 2026 |   |   | 2025 |   
+ | Numerators: |   |   |   |   |   |   
+ | Net loss attributable to common stockholders |   | $ | (9,981 | ) |   | $ | (1,650 | ) 
+ | Denominator: |   |   |   |   |   |   |   |   
+ | Weighted Average shares used to compute basic and diluted net loss per share |   |   | 224,320,751 |   |   |   | 119,585,747 |   
+ | Basic and diluted net loss per share |   | $ | (0.04 | ) |   | $ | (0.01 | ) 
+ |   |   | Nine Months Ended |   
+ |   |   | June 30, |   
+ |   |   | 2026 |   |   | 2025 |   
+ | Numerators: |   |   |   |   |   |   
+ | Net loss attributable to common stockholders |   | $ | (20,402 | ) |   | $ | (31,749 | ) 
+ | Denominator: |   |   |   |   |   |   |   |   
+ | Weighted Average shares used to compute basic and diluted net loss per share |   |   | 217,342,358 |   |   |   | 110,225,078 |   
+ | Basic and diluted net loss per share |   | $ | (0.09 | ) |   | $ | (0.29 | ) 
+The following potential common stock outstanding were excluded from the computation of diluted net loss per share because including them would have been anti-dilutive: 
+ |   |   | June 30, 2026 |   |   | September 30, 2025 |   
+ | Warrants to purchase Class B common stock |   |   | 2,137,384 |   |   |   | 6,623,330 |   
+ | Unvested RSAs |   |   | 43,000 |   |   |   | - |   
+28
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 11: Income Taxes 
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities, projected future taxable income, and tax planning strategies in making this assessment. 
+ Based upon the level of historical losses and projections for future taxable losses over the periods in which the deferred tax assets are deductible, management believes it is more likely than not that we will not realize the benefits of these deductible differences. Accordingly, we have maintained a full valuation allowance against its net deferred tax assets as of June 30, 2026. As a result of the full valuation allowance, no material income tax benefit was recognized in the consolidated statements of operations, and no net deferred tax asset or liability recorded on the consolidated balance sheets for the three and nine months ended June 30, 2026 and 2025. 
+The table below presents the effective income tax rate for the following periods: 
+ |   |   | Nine Months Ended June 30, |   
+ |   |   | 2026 |   |   | 2025 |   
+ | Effective Tax Rate |   |   | - |   |   |   | - |   
+ The Company was taxed as a corporation for federal, state and local income tax purposes for the nine months ended June 30, 2026 and 2025. The effective tax rate for the nine months periods ended June 30, 2026 and 2025 differ from the U.S. federal income tax rate of 21.0% primarily due to the full valuation allowance maintained against the Company’s deferred tax assets. 
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was enacted in the U.S. The OBBBA includes significant provisions, such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework and the restoration of favorable tax treatment for certain business provisions. We have assessed its impact on our financial statements and OBBBA did not have a material impact on our financial statements. 
+29
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 12: Commitments and Contingencies 
+Legal Proceedings 
+From time to time, we may be involved in judicial or administrative proceedings concerning matters arising in the ordinary course of business. Although the ultimate aggregate amount of monetary liability or financial impact with respect to these matters is subject to many uncertainties and is therefore not predictable with assurance, management believes that any monetary liability or financial impact to the Company from these matters, individually and in the aggregate, would not be material to the Company’s consolidated financial position, results of operations or cash flows. 
+ On June 2, 2025, a civil action was filed against the Company and certain of our officers in the Supreme Court of the State of New York, County of Kings (Index No. 517888/2025). The complaint asserts claims for breach of contract, breach of express and implied warranties, fraud, and joint venture liability. The plaintiff seeks damages in excess of $600,000, including compensatory and punitive damages. On September 26, 2025, we filed a motion to dismiss the case. On July 16, 2026, the court entered an order denying the motion to dismiss. We believe the claims are meritless and are vigorously defending the action. Based on the current stage of litigation and consultation with outside counsel, management has concluded that a loss is not probable. 
+On February 2, 2026, a putative securities class action lawsuit was filed against the Company and certain of its officers in the United States District Court for the District of Nevada, captioned Luiz Gonzalez Diez v. Richtech Robotics Inc., et al., No. 2:26-cv-00231 (D. Nev.). The complaint asserts claims for alleged violations of federal securities laws related to statements made in a press release issued by the Company on January 27, 2026. The plaintiff seeks to represent a class of persons and entities who purchased or otherwise acquired Richtech’s publicly traded securities during the period from January 27, 2026 through 12:00 PM EST on January 29, 2026 and seeks unspecified damages and other relief. On May 5, 2026, the Court entered an order appointing Charles Talisman and Hudson Max Cayman as co-lead plaintiffs, approving lead plaintiffs’ selection of lead counsel, and recaptioning the case as In re Richtech Robotics Inc. Securities Litigation. Lead plaintiffs’ amended complaint is presently due to be filed on or before September 11, 2026. We dispute the allegations in the complaint and intend to defend the case vigorously. The case is at an early stage and we cannot reasonably estimate the amount of any potential financial loss or cost that could result from the lawsuit. 
+Subsequent to the filing of the Diez securities class action complaint, three separate putative shareholder derivative lawsuits were filed purportedly on behalf of the Company, as nominal defendant, against certain of the Company’s officers and directors, in the United States District Court for the District of Nevada: Morly Gourdet v. Zhenwu Huang, et al., Case No. 2:26-cv-01048, filed April 2, 2026; Charvi Shah v. Wayne Huang, et al., Case No. 2:26-cv-01273, filed April 24, 2026; and Kenneth Dawson v. Zhenwu Huang, et al., Case No. 2:26-cv-01466, filed May 13, 2026 (collectively, the “Derivative Actions”). The Derivative Actions are based on substantially similar factual allegations as the Diez securities class action complaint and assert claims, among others, for breach of fiduciary duties and/or contribution. The Derivative Actions seek to recover, on behalf of the Company, unspecified damages, corporate governance reforms, costs, attorneys’ fees, and expenses. On July 15, 2026, the parties filed a stipulation to consolidate the Derivative Actions, which is pending. The Derivative Actions are in their early procedural stages, and no responsive pleadings have been filed. The director and officer defendants deny all allegations of liability and intend to defend the Derivative Actions vigorously. Given the preliminary stage of the Derivative Actions and the inherent uncertainties of litigation, we cannot determine with certainty the outcome of these cases at this time. 
+30
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 12: Commitments and Contingencies (cont.) 
+Lease 
+ We lease office facilities and retail space under noncancelable operating lease agreements. Following the purchase of the new corporate headquarters in April 2025, the existing facilities at 4175 Cameron St, Las Vegas, Nevada, continue to be leased and are now utilized for dedicated Research and Development (“R&D”) laboratory space and overflow administrative support. During April 2026, we entered into an agreement to early terminate the lease for approximately 1,909 square feet of space located at 4175 Cameron Street, Suite A1. The lease, which was originally scheduled to expire on August 31, 2027, was terminated effective April 30, 2026. In connection with the early termination, we derecognized approximately $97 of operating lease right-of-use assets and approximately $104 of operating lease liabilities and recognized a lease termination fee of approximately $11. We closed our second office space in Austin, Texas, in April 2024. The total operating lease liabilities primarily relate to the Cameron Street R&D facility, the Clouffee & Tea retail space (Town Square Las Vegas) and Bingo Street Coffee (San Francisco). 
+ For the three and nine months ended June 30, 2026, we recognized operating lease expense of approximately $ 82 and $ 280, respectively. Cash paid for amounts included in the measurement of operating lease liabilities was approximately $ 71 and $ 233 for the three and nine months ended June 30, 2026, respectively. As of June 30, 2026, our operating lease liabilities were measured using a weighted average remaining lease term of approximately 2.6 years and a weighted average discount rate of approximately 4.8%. 
+The components of leases and lease costs are as follows (in thousands): 
+ |   |   | As of |   |   | As of |   
+ |   |   | June 30, |   |   | September 30, |   
+ | Operating leases |   | 2026 |   |   | 2025 |   
+ | Operating lease right-of use assets |   | $ | 615 |   |   | $ | 731 |   
+ | Operating lease liabilities, current portion |   | $ | 310 |   |   | $ | 301 |   
+ | Operating lease liabilities, non-current portion |   |   | 319 |   |   |   | 429 |   
+ | Total operating lease liabilities |   | $ | 629 |   |   | $ | 730 |   
+Future minimum lease payments under these leases as of June 30, 2026, are approximately as follows: 
+ | Fiscal Year |   | Amount |   
+ | 2026 |   | $ | 82 |   
+ | 2027 |   |   | 317 |   
+ | 2028 |   |   | 122 |   
+ | 2029 |   |   | 115 |   
+ | 2030 |   |   | 32 |   
+ | Total future minimum lease payments |   |   | 668 |   
+ | Less: present value adjustment |   |   | 39 |   
+ | Total lease liabilities |   | $ | 629 |   
+31
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED JUNE 30, 2026 AND 2025
+(Dollars in thousands, except number of shares and per-share amounts)
+NOTE 13: Segment Information 
+ We operate as a single reportable segment, which is the design, development, and commercialization of robotic systems and related solutions. Our Chief Executive Officer has been identified as our Chief Operating Decision Maker (“CODM”). The CODM manages the business on a consolidated basis and evaluates performance based on consolidated net loss, as reported in our condensed consolidated statements of operations. 
+ Our single reportable segment’s results are the same as those presented in our condensed consolidated financial statements. For information regarding our revenue, expenses, and net loss, refer to the condensed consolidated statements of operations included in this Quarterly Report. 
+The significant segment expenses regularly provided to the CODM and included in the measure of segment profit or loss consist of cost of revenues. Other segment items consist of all operating expenses not separately identified as significant segment expenses, including research and development, selling, general and administrative expenses, and other operating expenses. No single customer accounted for 10% or more of our revenue for the periods presented. Substantially all of our long-lived assets are located in the United States. The measure of segment assets is reported on the balance sheet as total consolidated assets, and concentrated in the United States. 
+32
+ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with our Unaudited condensed consolidated financial statements and the related notes contained elsewhere in this Report and in our other filings with the SEC. The following discussion may contain predictions, estimates, and other forward-looking statements that involve a number of risks and uncertainties, including those discussed under “Risk Factors” in our 2025 Annual Report and elsewhere in this Report. These risks could cause our actual results to differ materially from any future performance suggested below.
+Overview
+We are a robotics company focused on the development of embodied AI systems for manufacturing, retail, hospitality, and other sectors. We develop proprietary hardware and software that employ the latest robotics and AI innovations. Our goal is to deploy robotics at scale in business operations across our target markets.
+Key Business Highlights for the Third Quarter of Fiscal Year 2026
+Strategic and Operational Milestones
+ |   | ● | RaaS Contract Acceleration: Successfully expanded our Robots-as-a-Service (RaaS) footprint, demonstrating continued market adoption of our recurring revenue model. This growth validates our long-term strategy to shift away from one-time hardware sales toward a high-quality, predictable revenue base. 
+ |   |   |   
+ |   | ● | Continued Investment in Research and Development: During the third quarter of fiscal year 2026, we continued to invest in research and development focused on artificial intelligence, system autonomy, and intelligent human-machine interaction across our robotic platforms. As a member of the NVIDIA Connect program, we have continued to utilize NVIDIA-based AI computing platforms and robotics software frameworks to enhance real-time perception, decision-making, and on-device autonomy. 
+ |   |   |   
+ |   |   | These efforts are intended to enhance product functionality and support scalable commercial deployment across multiple industry verticals. 
+ |   | ● | Expansion of Hospitality Management Operations (AlphaMax): Advanced the strategic rollout of our proprietary hospitality concepts by commencing development of a new Clouffee and Tea location in the San Francisco Financial District. Site preparation and operational workflows are currently in progress, with the location having commenced operations in August 2026, prior to the filing of this Quarterly Report. 
+Financial Milestones
+ |   | ● | Despite higher operating expenses from strategic investments, we achieved year-over-year improvement in net loss for the nine months ended June 30, 2026. Consolidated net loss narrowed to $20.4 million, a 35.8% reduction from $31.8 million in the prior-year period. This improvement was primarily driven by $9.8 million in investment income, compared to $1.1 million in the prior-year period, as well as a non-cash gain of $0.6 million from the change in fair value of warrant liabilities, compared to a non-cash loss of $22.1 million in the prior-year period. 
+ |   | ● | During the nine months ended June 30, 2026, we achieved significant progress in strengthening our financial position and advancing our strategic objectives. Total stockholders’ equity increased by $118.2 million, or approximately 47.1%, to $369.0 million from $250.8 million at September 30, 2025, reflecting the successful execution of our capital-raising initiatives. Our cash and cash equivalents grew to $302.0 million, up from $185.6 million at the beginning of the fiscal year, positioning us with strong liquidity to fund ongoing operations and future growth investments. Total liabilities decreased substantially from $22.2 million to $4.1 million, driven by a significant reduction in warrant liabilities, which further strengthened our balance sheet. We also invested $21.7 million in property and equipment during the period, including the acquisition of a facility in Las Vegas, Nevada, to support our long-term operational scalability. These improvements collectively reflect our continued progress in building a solid financial foundation to drive sustainable growth. 
+33
+Factors and Trends Affecting Our Business and Results of Operations
+The following trends and uncertainties either affected our financial performance historically or are likely to impact our results of operations in the future:
+ |   | ● | As our robotic products’ market potential is seen by others, more competitors could enter the market, which may lead to price competition and a decline in profit margins; 
+ |   | ● | A recession could lead to a decline in customer demand in our robotic products and services; 
+ |   | ● | Some of our foundational hardware components continue to be manufactured and assembled by engineering partners in East Asia, which presents structural exposure to international freight disruptions, geopolitical dynamics, and regional logistical bottlenecks; 
+ |   |   |   
+ |   | ● | We anticipate that our general and administrative expenses will trend upward as we continue to invest in organizational maturement. These expansionary costs will primarily represent enhanced compliance infrastructure, regulatory audit overhead, continuous internal control remediation (specifically surrounding accounting oversight under ASC 606 and ASC 842), and necessary adjustments to our director and officer (D&O) coverage; 
+ |   | ● | Inflationary pressures are also a concern as it is difficult to make reliable projections for the cost of components. This means profit margins could be affected, and our pricing would need to be re-evaluated on a regular basis. 
+Results of Operations
+Comparison of the nine and three months ended June 30, 2026 and 2025
+The following table summarizes our results of operations (in thousands) for the nine and the three months ended June 30, 2026 and 2025, together with the dollar change in those items from period to period:
+ |   |   | Nine months ended June 30, |   |   | Three months ended June 30, |   
+ |   |   | 2026 |   |   | 2025 |   |   | Change |   |   | 2026 |   |   | 2025 |   |   | Change |   
+ | Revenue |   | $ | 3,945 |   |   | $ | 3,601 |   |   | $ | 344 |   |   | $ | 1,373 |   |   | $ | 1,177 |   |   | $ | 196 |   
+ | Cost of revenue |   |   | 2,448 |   |   |   | 1,991 |   |   |   | 457 |   |   |   | 571 |   |   |   | 746 |   |   |   | (175 | ) 
+ | Gross profit |   |   | 1,497 |   |   |   | 1,610 |   |   |   | (113 | ) |   |   | 802 |   |   |   | 431 |   |   |   | 371 |   
+ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   
+ | Operating expenses: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   
+ | Research and development |   |   | 3,144 |   |   |   | 1,337 |   |   |   | 1,807 |   |   |   | 950 |   |   |   | 533 |   |   |   | 417 |   
+ | Sales and marketing |   |   | 4,011 |   |   |   | 903 |   |   |   | 3,108 |   |   |   | 602 |   |   |   | 288 |   |   |   | 314 |   
+ | General and administrative |   |   | 15,546 |   |   |   | 10,180 |   |   |   | 5,366 |   |   |   | 3,049 |   |   |   | 1,409 |   |   |   | 1,640 |   
+ | Impairment of long-lived assets |   |   | 9,468 |   |   |   | - |   |   |   | 9,468 |   |   |   | 9,468 |   |   |   | - |   |   |   | 9,468 |   
+ | Total operating expenses |   |   | 32,169 |   |   |   | 12,420 |   |   |   | 19,749 |   |   |   | 14,069 |   |   |   | 2,230 |   |   |   | 11,839 |   
+ | Loss from operations |   |   | (30,672 | ) |   |   | (10,810 | ) |   |   | (19,862 | ) |   |   | (13,267 | ) |   |   | (1,799 | ) |   |   | (11,468 | ) 
+ | Non-operating income(expense): |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   
+ | Investment Income |   |   | 9,848 |   |   |   | 1,143 |   |   |   | 8,705 |   |   |   | 3,111 |   |   |   | 423 |   |   |   | 2,688 |   
+ | Gain (loss) from change in fair value of warrant liability |   |   | 552 |   |   |   | (22,123 | ) |   |   | 22,675 |   |   |   | 177 |   |   |   | (286 | ) |   |   | 463 |   
+ | Loss on disposition of subsidiary |   |   | (132 | ) |   |   | - |   |   |   | (132 | ) |   |   | - |   |   |   | - |   |   |   | - |   
+ | Interest expenses, net |   |   | (6 | ) |   |   | (28 | ) |   |   | 22 |   |   |   | (2 | ) |   |   | (19 | ) |   |   | 17 |   
+ | Total other expenses |   |   | 10,262 |   |   |   | (21,008 | ) |   |   | 31,270 |   |   |   | 3,286 |   |   |   | 118 |   |   |   | 3,168 |   
+ | Loss before income tax expense |   |   | (20,410 | ) |   |   | (31,818 | ) |   |   | 11,408 |   |   |   | (9,981 | ) |   |   | (1,681 | ) |   |   | (8,300 | ) 
+ | Income tax benefit/(expense) |   |   | - |   |   |   | (9 | ) |   |   | 9 |   |   |   | - |   |   |   | (9 | ) |   |   | 9 |   
+ | Net loss |   |   | (20,410 | ) |   |   | (31,827 | ) |   |   | 11,417 |   |   |   | (9,981 | ) |   |   | (1,690 | ) |   |   | (8,291 | ) 
+ | Less: Net loss Attributable to Non-Controlling Interest |   |   | (8 | ) |   |   | (78 | ) |   |   | 70 |   |   |   | - |   |   |   | (40 | ) |   |   | 40 |   
+ | Net loss attributable to Richtech |   | $ | (20,402 | ) |   | $ | (31,749 | ) |   | $ | 11,347 |   |   | $ | (9,981 | ) |   |   | (1,650 | ) |   | $ | (8,331 | ) 
+34
+Revenue
+ |   |   | Nine months ended June 30, |   |   | Three months ended June 30, |   
+ |   |   | 2026 |   |   | 2025 |   |   | Change |   |   | 2026 |   |   | 2025 |   |   | Changes |   
+ | Revenues |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   
+ | Product sales |   | $ | 861 |   |   | $ | 1,569 |   |   | $ | (708 | ) |   | $ | 264 |   |   | $ | 156 |   |   | $ | 108 |   
+ | Event services |   |   | 1,516 |   |   |   | 1,143 |   |   |   | 373 |   |   |   | 627 |   |   |   | 719 |   |   |   | (92 | ) 
+ | RaaS |   |   | 1,084 |   |   |   | 375 |   |   |   | 709 |   |   |   | 394 |   |   |   | 130 |   |   |   | 264 |   
+ | Others |   |   | 484 |   |   |   | 514 |   |   |   | (30 | ) |   |   | 88 |   |   |   | 172 |   |   |   | (84 | ) 
+ | Total revenues |   | $ | 3,945 |   |   | $ | 3,601 |   |   | $ | 344 |   |   | $ | 1,373 |   |   | $ | 1,177 |   |   | $ | 196 |   
+For the nine months ended June 30, 2026, net revenue increased by $0.3 million, or approximately 9.6%, to $3.9 million, compared to $3.6 million for the same period in 2025.
+For the three months ended June 30, 2026, net revenue increased by $0.2 million, or approximately 16.7%, to $1.4 million, compared to $1.2 million for the same period in 2025.
+The overall revenue growth reflects continued strong customer engagement, increased revenue from event rental services, the successful scaling of our Robots-as-a-Service (RaaS) model, and the ongoing expansion of Alphamax Management LLC, our wholly-owned subsidiary. Alphamax manages the complete operational workflow of our robot-operated restaurant locations, seamlessly blending our advanced AI robotics (such as the ADAM beverage system) into commercial foodservice environments. Rather than pursuing a broad multi-state rollout, Alphamax is currently focusing on an optimized, high-visibility geographic footprint; it currently operates one restaurant location in Georgia, maintains an operational storefront in Las Vegas, Nevada, and is in the process of opening an additional automated location in San Francisco, California. This targeted footprint establishes a steady, repeatable blueprint to scale our robotics solutions and capture predictable food and beverage revenue. These drivers collectively underscore the growing market acceptance of our offerings and our ability to capture increasing demand across our target markets. We remain confident in our revenue momentum as we continue to execute on our growth strategy.
+Product Sales Revenue: Product revenue decreased for both periods, reflecting our strategic shift towards increased RaaS:
+ | | ● | For the nine months ended June 30, 2026, product revenue decreased by $0.7 million, or approximately 45.1%, to $0.9 million, compared to $1.5 million in 2025. 
+ | | ● | For the three months ended June 30, 2026, product revenue increased by $0.1 million, or approximately 69.2%, to $0.3 million, compared to $0.2 million in 2025. 
+Event Services Revenue: Event Services revenue increased for the nine months ended June 30, 2026, driven by higher customer activity, while revenue for the three-month period declined modestly, reflecting the timing of event scheduling rather than a change in underlying demand:
+ | | ● | For the nine months ended June 30, 2026, event services revenue increased by $0.4 million, or approximately 32.6%, to $1.5 million, compared to $1.1 million in 2025. 
+ | | ● | For the three months ended June 30, 2026, event services revenue decreased by $0.1 million, or approximately 12.8%, to $0.6 million, compared to $0.7 million in 2025. 
+35
+RaaS Revenue: RaaS revenue showed a notable increase over the nine-month period, demonstrating the growing adoption of our RaaS model:
+ | | ● | For the nine months ended June 30, 2026, RaaS revenue increased by $0.7 million, or approximately 189.1%, to $1.1 million, compared to $0.4 million in 2025. 
+ | | ● | For the three months ended June 30, 2026, RaaS revenue increased by $0.3 million, or approximately 203.1%, to $0.4 million, compared to $0.1 million in 2025. 
+Cost of Revenue, net
+Cost of revenue, net, increased for both the nine and three months ended June 30, 2026:
+For the nine months ended June 30, 2026, cost of revenue, net, increased by $0.5 million, or approximately 23.0%, to $2.5 million, compared to $2.0 million for the same period in 2025.
+For the three months ended June 30, 2026, cost of revenue, net, decreased by $0.1 million, or approximately 23.5%, to $0.6 million, compared to $0.7 million for the same period in 2025.
+The overall variance reflects the structural shift in our revenue mix toward recurring service-based models. The increase in cost of revenue for the nine-month period was primarily driven by higher deployment activities, expanded logistics and installation efforts, and increased depreciation associated with our growing base of robotic equipment under active RaaS and Event Services contracts. These cost increases are directly correlated with the revenue growth in these recurring service lines. For the three-month period ended June 30, 2026, the decline in cost of revenue was primarily attributable to our strategic shift toward increased leasing arrangements, where the cost associated with the robots is recognized differently over the lease term rather than as an immediate cost of goods sold upon an outright sale. The quarter-over-quarter fluctuation reflects the variability in the timing of deployments and customer demand across periods.
+Gross Profit
+Gross profit experienced mixed trends for the nine and three months ended June 30, 2026:
+For the nine months ended June 30, 2026, gross profit decreased by $0.1 million, or approximately 7.0%, to $1.5 million, compared to $1.6 million for the same period in 2025. Gross margin decreased to approximately 37.9% for the nine months ended June 30, 2026, compared to approximately 44.7% for the same period in 2025.
+For the three months ended June 30, 2026, gross profit increased by $0.4 million, or approximately 86.1%, to $0.8 million, compared to $0.4 million for the same period in 2025. Gross margin improved to approximately 58.4% for the three months ended June 30, 2026, compared to approximately 36.6% for the same period in 2025.
+The decrease in gross profit for the nine-month period was primarily driven by a $0.5 million increase in cost of revenue, which outpaced the $0.3 million increase in revenue. The decline in gross margin primarily reflected higher costs associated with the expansion of our operations and service capabilities as we continued to invest in the resources, infrastructure, and operational support needed to accommodate future growth. These investments are expected to strengthen our capacity to support greater business volumes and the continued expansion of our service offerings.
+The improvement for the three-month period was primarily driven by a $0.2 million increase in revenue, combined with a $0.2 million decrease in cost of revenue. Gross margin improved significantly, largely attributable to the growing revenue contribution from our RaaS and event services categories, which benefited from improved operational efficiency and better cost absorption as volumes increased during the quarter. The higher revenue base enabled these service lines to absorb fixed costs more effectively, resulting in improved margin performance. This improvement reflects the positive impact of our ongoing efforts to enhance cost efficiency across our service operations.
+36
+Research and development expenses
+Research and development expenses increased for both the nine months and three months ended June 30, 2026:
+For the nine months ended June 30, 2026, research and development expenses increased by $1.8 million, or approximately 135.2%, to $3.1 million, compared to $1.3 million for the same period in 2025.
+For the three months ended June 30, 2026, research and development expenses increased by $0.4 million, or approximately 78.2%, to $0.9 million, compared to $0.5 million for the same period in 2025.
+These increases reflect our continued commitment to advancing our product roadmap and strengthening our competitive position through strategic investments in product development, engineering capabilities, and technology initiatives. We believe these investments are critical to driving long-term growth and delivering innovative solutions to our customers, and we remain focused on scaling our R&D efforts to capitalize on market opportunities. 
+Sales and Marketing Expenses
+Sales and marketing expenses increased for both the nine and three months ended June 30, 2026:
+For the nine months ended June 30, 2026, sales and marketing expenses increased by $3.1 million, or approximately 344.2%, to $4.0 million, compared to $0.9 million for the same period in 2025. The increase was primarily attributable to two factors: (i) higher non-cash stock-based compensation expense, which included a significant one-time equity incentive award granted to employees and management within our sales and marketing organization during the first quarter of fiscal 2026, and (ii) increased spending on industry trade shows and events to promote our sales and enhance brand visibility. The equity award was designed to recognize performance achievements and support key talent retention within the commercial team. As stock-based compensation is a non-cash item, this component of the increase did not impact our operating cash flows for the nine-month period. Excluding the impact of the one-time equity award and the incremental trade show and event-related investments, the remaining increase in sales and marketing expenses for the nine-month period was largely in line with our normal operating cost structure, reflecting disciplined spending across other expense categories. The one-time equity award was recorded entirely in the first quarter and did not recur in the second and third quarter; accordingly, it affected the year-to-date comparison but not the three-month comparative period discussed below.
+For the three months ended June 30, 2026, sales and marketing expenses increased by $0.3 million, or approximately 109.0%, to $0.6 million, compared to $0.3 million for the same period in 2025. The increase was primarily driven by continued investments in industry trade shows and events to enhance brand visibility and generate new business opportunities. This increase is consistent with our strategic focus on expanding market presence and driving revenue growth through targeted marketing initiatives.
+We are continuously evaluating the effectiveness of our sales and marketing investments to ensure they align with our strategic objectives and drive sustainable revenue growth.
+37
+General and Administrative Expenses
+General and administrative expenses increased for both the nine and three months ended June 30, 2026:
+For the nine months ended June 30, 2026, general and administrative expenses increased by $5.4 million, or approximately 52.7%, to $15.5 million, compared to $10.1 million for the same period in 2025. The increase was primarily attributable to three factors: (i) higher non-cash stock-based compensation expense, which included a significant one-time equity incentive award granted to employees and management during the first quarter of fiscal year 2026; (ii) an approximately $0.9 million provision for expected credit losses, primarily associated with a limited number of past-due customer receivables. The one-time equity award was designed to recognize performance achievements and support key talent retention. As stock-based compensation, accelerated amortization, and the provision for expected credit losses are non-cash items, these increases did not impact our operating cash flows for the nine-month period. Excluding these impacts, the remaining increase in G&A for the nine-month period was largely in line with our normal operating cost structure, reflecting disciplined spending across other expense categories. The one-time equity award was recorded entirely in the first quarter and did not recur in the second and third quarters; accordingly, it affected the year-to-date comparison but not the three-month comparative period discussed below.
+For the three months ended June 30, 2026, general and administrative expenses increased by $1.6 million, or approximately 116.4%, to $3.0 million, compared to $1.4 million for the same period in 2025. The increase was primarily attributable to expanded facility operations and enhanced infrastructure to support our growing business, including higher utilities and building maintenance costs, increased information technology and software expenses, and a strategic decision to optimize our facility footprint.
+We are committed to carefully managing our general and administrative expenses while ensuring we have the necessary resources to support the company’s growth and meet our obligations. While the increase in G&A expenses is a natural consequence of our growth and transition to becoming a public company, we are committed to managing these expenses effectively. We are actively implementing cost optimization measures, streamlining processes, and leveraging technology to improve efficiency and control costs. We believe that our strategic investments in human capital, infrastructure, and compliance are essential to support our long-term growth objectives. As we continue to scale our operations and expand our market presence, we anticipate that G&A expenses will continue to increase, but we are committed to managing these costs prudently and ensuring that they align with our overall financial performance.
+Impairment of long-lived assets
+In January 2026, we launched a strategic transformation initiative referred to internally as “AI Across All” (“AAA”), under which we are transitioning our operations, software platforms, and technology infrastructure to an AI-native architecture. As part of this initiative, we undertook a comprehensive redevelopment and modernization of our existing software assets. We evaluated the impact of this transformation on the expected future economic benefits associated with certain software-related intangible assets. Based on the accelerated deployment of our next-generation AI-native systems, we determined that the remaining useful lives of certain existing software platforms have been significantly shortened. We completed the transition, redevelopment, and deployment of substantially all affected software platforms by June 30, 2026. Accordingly, we concluded that the remaining carrying value of such software-related intangible assets will no longer provide future economic benefit beyond June 30, 2026. As a result, we fully impaired the remaining carrying value of $9.5 million for these assets during the three months ended June 30, 2026. This impairment was a non-cash charge and did not impact our operating cash flows.
+Investment Income
+Investment income increased substantially for both the nine and three months ended June 30, 2026.
+For the nine months ended June 30, 2026, investment income increased by $8.7 million to $9.8 million, compared to $1.1 million for the same period in 2025.
+For the three months ended June 30, 2026, investment income increased by $2.7 million to $3.1 million, compared to $0.4 million for the same period in 2025.
+These increases are primarily attributable to higher average invested cash balances and higher interest rates on our cash balances.
+Gain (Loss) from Change in Fair Value of Warrant Liabilities
+For the nine months ended June 30, 2026, we recognized a gain of $0.6 million from the change in fair value of warrant liabilities, compared to a loss of $22.1 million in the same period of the prior year. The favorable variance of $22.7 million was primarily driven by a decrease in the fair value of the underlying warrants during the current period. The change in fair value is a non-cash item and does not impact our operating cash flows.
+For the three months ended June 30, 2026, we recognized a gain of $0.2 million from the change in fair value of warrant liabilities, compared to a loss of $0.3 million in the same period of the prior year. The favorable variance of $0.5 million was primarily attributable to changes in the Company’s stock price. This non-cash gain did not affect our operating cash flows for the period.
+38
+Liquidity and Capital Resources
+Our primary sources of liquidity are cash and cash equivalents and short-term investments, which consist of cash on hand and highly liquid short-term investments. As of June 30, 2026, our cash and cash equivalents and short-term investments totaled $339.6 million, representing an increase of $87.7 million from $251.9 million at September 30, 2025. This increase was primarily driven by net proceeds of $105.0 million received from the issuance of new shares. These proceeds significantly strengthened our balance sheet and enhanced our financial flexibility to invest in growth initiatives, including expanding our research and development team and purchasing property and equipment to support our growing operations. The increase was partially offset by cash used in operating activities, primarily attributable to our net loss and investments in working capital. 
+ |   |   | Nine months ended |   |   |   |   
+ |   |   | June 30, |   |   |   |   
+ |   |   | 2026 |   |   | 2025 |   |   | Change |   
+ | Net Cash provided by (used in): |   |   |   |   |   |   |   |   |   
+ | Operating activities |   | $ | (3,568 | ) |   | $ | (5,409 | ) |   | $ | 1,841 |   
+ | Investing activities |   |   | 6,968 |   |   |   | (41,741 | ) |   |   | 48,709 |   
+ | Financing Activities |   |   | 112,988 |   |   |   | 65,477 |   |   |   | 47,511 |   
+ | Net increase (decrease) in cash |   | $ | 116,388 |   |   | $ | 18,327 |   |   | $ | 98,061 |   
+Operating Activities
+Net cash used in operating activities was $3.6 million for the nine months ended June 30, 2026, compared to $5.4 million for the same period in 2025. The $1.8 million improvement in operating cash flow was primarily attributable to a reduced net loss of $20.4 million in the current period, compared to a net loss of $31.8 million in the prior-year period, partially offset by changes in working capital.
+Non-cash adjustments to reconcile net loss to net cash used in operating activities for the current period mainly included stock-based compensation of $9.0 million, allowance for credit loss of $0.9 million, depreciation and amortization of $1.2 million, impairment of long-lived assets of $9.5m, a $0.1 million loss on disposition of a subsidiary, and a $0.6 million gain from the change in fair value of warrant liabilities, compared to a $22.1 million loss in the prior-year period. The net amount of these adjustments positively contributed to the year-over-year improvement in operating cash flow.
+Changes in net operating assets and liabilities resulted in a net outflow of approximately $3.4 million for the current period, primarily driven by an increase in inventory of $1.1 million, an increase in prepaid expenses and other current assets of $1.1 million, and a decrease in accrued expenses and other payables of $1.2 million, partially offset by an increase in deferred revenue of $0.1 million and other changes in operating assets and liabilities. In the prior-year period, changes in net operating assets and liabilities resulted in a net outflow of approximately $0.2 million.
+Investing Activities
+Net cash provided by investing activities was $7.0 million for the nine months ended June 30, 2026, compared to net cash used in investing activities of $41.7 million for the same period in 2025. The $48.7 million favorable variance was primarily driven by $96.8 million in proceeds from maturities and sales of short-term investments, partially offset by $21.7 million in purchases of property and equipment and $68.3 million in purchases of short-term investments. In the prior-year period, cash used in investing activities was primarily attributable to $36.7 million in purchases of short-term investments, $4.8 million in purchases of property and equipment, and $0.1 million in purchases of long-term investments. 
+39
+Financing Activities
+Net cash provided by financing activities totaled $113.0 million for the nine months ended June 30, 2026, compared to $65.5 million for the same period in 2025. The increase was primarily due to $110.3 million in proceeds from the issuance of ordinary shares and $9.8 million in proceeds from warrant exercises, partially offset by $5.3 million in issuance costs of ordinary shares and $1.8 million of payments of employee tax withholdings in connection with restricted stock awards. In the prior-year period, cash provided by financing activities primarily consisted of $48.7 million in proceeds from the issuance of ordinary shares and $18.0 million in proceeds from warrant exercises, partially offset by $1.2 million in issuance costs of ordinary shares.
+Contractual Obligations
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item.
+Trend Information
+Other than as disclosed elsewhere in this report, we are not aware of any trends, uncertainties, demands, commitments, or events that are reasonably likely to have a material effect on our net revenues, income from continuing operations, profitability, liquidity or capital resources, or that would cause reported financial information not necessarily to be indicative of future operating results or financial condition.
+Seasonality
+Seasonality does not materially affect our business or the results of our operations.
+Off-Balance Sheet Arrangements
+We do not have off-balance sheet arrangements.
+Recent Accounting Pronouncements Not Yet Adopted
+See Note 2 to our unaudited financial statements included elsewhere in this report for more information.
+Critical Accounting Policies and Estimates
+The consolidated financial statements are prepared in accordance with accounting principles generally accepted in the U.S. (“GAAP”). The preparation of the consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. We base our estimates on historical experience, as appropriate, and on various other assumptions that we believe to be reasonable under the circumstances. Changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, actual results could differ significantly from the estimates made by our management. We evaluate our estimates and assumptions on an ongoing basis. To the extent that there are material differences between these estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows may be affected.
+In particular, the fair value of warrant liabilities is determined using the Black-Scholes option pricing model, which requires significant assumptions, including expected volatility, expected term, risk-free interest rate, and dividend yield. The expected volatility is based on a combination of the implied volatility of our publicly traded common stock and the historical volatility of comparable publicly traded companies with similar expected terms. Changes in significant unobservable inputs, particularly expected volatility, could result in a significantly higher or lower fair value measurement, which could have a material impact on our financial statements.
+We have assessed the impact of these estimates and are not aware of any specific events or circumstances that required an update to our estimates and assumptions, or materially affected the carrying value of our assets or liabilities, as of the date of issuance of this Quarterly Report on Form 10-Q. These estimates may change as new events occur and additional information is obtained. Actual results could differ materially from these estimates under different assumptions or conditions.
+40
+JOBS Act
+Section 107 of the JOBS Act also provides that an “emerging growth company” can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an “emerging growth company” can delay the adoption of new or revised accounting standards until those standards would otherwise apply to private companies. We have elected to avail ourselves of this extended transition period.
+For as long as we remain an “emerging growth company” under the recently enacted JOBS Act, we will, among other things:
+ | | ● | be exempt from the provisions of Section 404(b) of the Sarbanes-Oxley Act, which requires that our independent registered public accounting firm provide an attestation report on the effectiveness of our internal controls over financial reporting; 
+ | | ● | be permitted to omit the detailed compensation discussion and analysis from proxy statements and reports filed under the Exchange Act and instead provide a reduced level of disclosure concerning executive compensation; and 
+ | | ● | be exempt from any rules that may be adopted by the Public Company Accounting Oversight Board requiring mandatory audit firm rotation or a supplement to the auditor’s report on the financial statements. 
+Although we are still evaluating the JOBS Act, we currently intend to take advantage of some or all of the reduced regulatory and reporting requirements that will be available to us so long as we qualify as an “emerging growth company,” including the extension of time to comply with new or revised financial accounting standards available under Section 102(b) of the JOBS Act. Among other things, this means that our independent registered public accounting firm will not be required to provide an attestation report on the effectiveness of our internal control over financial reporting so long as we qualify as an emerging growth company, which may increase the risk that weaknesses or deficiencies in our internal control over financial reporting go undetected. Likewise, so long as we qualify as an emerging growth company, we may elect not to provide you with certain information, including certain financial information and certain information regarding compensation of our executive officers, that we would otherwise have been required to provide in filings we make with the SEC, which may make it more difficult for investors and securities analysts to evaluate our company. As a result, investor confidence in our company and the market price of our common stock may be materially and adversely affected.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+Not required for smaller reporting companies.
+Item 4. Controls and Procedures.
+(a) Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our Chief Executive Officer, and Chief Financial Officer (our “Certifying Officers”), evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) as of June 30, 2026.
+In our Annual Report on Form 10-K/A for the fiscal year ended September 30, 2025 (“2025 Annual Report”), management concluded that our disclosure controls and procedures were not effective due to a material weakness in internal control over financial reporting. This material weakness related to the design and operation of controls over the identification, evaluation, and accounting for complex and non-routine transactions, including equity-linked financial instruments and derivative accounting, as well as certain controls over financial statement account classification and disclosures, and the controls over the application of U.S. GAAP to specific transactions and account balances.
+Based on the evaluation performed as of December 31, 2025, and notwithstanding the remediation measures implemented during the quarter as described below, our Certifying Officers have concluded that our disclosure controls and procedures were not effective as of the end of the period covered by this Report because the material weakness had not been fully remediated.
+41
+(b) Changes in Internal Control over Financial Reporting
+During the fiscal quarter ended June 30, 2026, we continued implementing remediation measures to address the material weakness previously identified in our 2025 Annual Report. These remediation measures include enhancing technical accounting resources and review procedures; strengthening controls over the evaluation and accounting for complex and non-routine transactions, including equity-linked financial instruments, derivative accounting matters, and significant estimates and judgments; improving documentation standards; implementing additional review and approval controls over financial reporting and account classifications; and providing additional training to personnel responsible for the preparation and review of financial information.
+While these remediation efforts are ongoing, the material weakness cannot be considered remediated until the applicable controls have operated for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively.
+Other than the continued implementation of the remediation activities described above, there were no changes in our internal control over financial reporting during the three months ended June 30, 2026, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+(c) Ongoing Monitoring
+Management recognizes the importance of ongoing monitoring and continuous improvement of our internal control over financial reporting. We have established a process for regularly evaluating the effectiveness of our controls, including periodic self-assessments, internal audits, and ongoing monitoring activities. This process allows us to identify and address any emerging risks or control deficiencies in a timely manner.
+Inherent Limitations on Internal Controls
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness for future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. No evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. 
+42
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings.
+On June 2, 2025, a civil action was filed against the Company and certain of our officers in the Supreme Court of the State of New York, County of Kings (Index No. 517888/2025). The complaint asserts claims for breach of contract, breach of express and implied warranties, fraud, and joint venture liability. The plaintiff seeks damages in excess of $600,000, including compensatory and punitive damages. On September 26, 2025, we filed a motion to dismiss the case. On July 16, 2026, the court entered an order denying the motion to dismiss. We believe the claims are meritless and are vigorously defending the action. Based on the current stage of litigation and consultation with outside counsel, management has concluded that a loss is not probable.
+On February 2, 2026, a putative securities class action lawsuit was filed against the Company and certain of its officers in the United States District Court for the District of Nevada, captioned Luiz Gonzalez Diez v. Richtech Robotics Inc., et al., No. 2:26-cv-00231 (D. Nev.). The complaint asserts claims for alleged violations of federal securities laws related to statements made in a press release issued by the Company on January 27, 2026. The plaintiff seeks to represent a class of persons and entities who purchased or otherwise acquired Richtech’s publicly traded securities during the period from January 27, 2026 through 12:00 PM EST on January 29, 2026 and seeks unspecified damages and other relief. On May 5, 2026, the Court entered an order appointing Charles Talisman and Hudson Max Cayman as co-lead plaintiffs, approving lead plaintiffs’ selection of lead counsel, and recaptioning the case as In re Richtech Robotics Inc. Securities Litigation. Lead plaintiffs’ amended complaint is presently due to be filed on or before September 11, 2026. We dispute the allegations in the complaint and intend to defend the case vigorously. The case is at an early stage and we cannot reasonably estimate the amount of any potential financial loss or cost that could result from the lawsuit.
+Subsequent to the filing of the Diez securities class action complaint, three separate putative shareholder derivative lawsuits were filed purportedly on behalf of the Company, as nominal defendant, against certain of the Company’s officers and directors, in the United States District Court for the District of Nevada: Morly Gourdet v. Zhenwu Huang, et al., Case No. 2:26-cv-01048, filed April 2, 2026; Charvi Shah v. Wayne Huang, et al., Case No. 2:26-cv-01273, filed April 24, 2026; and Kenneth Dawson v. Zhenwu Huang, et al., Case No. 2:26-cv-01466, filed May 13, 2026 (collectively, the “Derivative Actions”). The Derivative Actions are based on substantially similar factual allegations as the Diez securities class action complaint and assert claims, among others, for breach of fiduciary duties and/or contribution. The Derivative Actions seek to recover, on behalf of the Company, unspecified damages, corporate governance reforms, costs, attorneys’ fees, and expenses. On July 15, 2026, the parties filed a stipulation to consolidate the Derivative Actions, which is pending. The Derivative Actions are in their early procedural stages, and no responsive pleadings have been filed. The director and officer defendants deny all allegations of liability and intend to defend the Derivative Actions vigorously. Given the preliminary stage of the Derivative Actions and the inherent uncertainties of litigation, we cannot determine with certainty the outcome of these cases at this time.
+Item 1A. Risk Factors.
+As a smaller reporting company under Rule 12b-2 of the Exchange Act, we are not required to include risk factors in this Report. However, as of the date of this Report, there have been no material changes with respect to those risk factors previously disclosed in our (i) registration statement for our initial public offering and (ii) 2025 Annual Report. Any of these factors could result in a significant or material adverse effect on the results of our operations or financial condition. We may disclose changes to such risk factors or disclose additional risk factors from time to time in our future filings with the SEC.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+None.
+Item 3. Defaults Upon Senior Securities
+None.
+Item 4. Mine Safety Disclosures
+Not applicable.
+43
+Item 5. Other Information 
+Trading Arrangements 
+ No director or Section 16 officer adopted or terminated a trading arrangement intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or a “non-Rule 10b5-1” trading arrangement during the periods reported in this Report. 
+Other Information 
+None. 
+Item 6. Exhibits
+The following exhibits are filed as part of, or incorporated by reference into, this Report.
+ | No. |   | Description of Exhibit 
+ | 10.1 |   | Purchase and Sale Agreement, dated April 1, 2026, by and between the Company and PSFI EBS Rainbow LLC. 
+ | 31.1* |   | Certification of Principal Executive Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ | 31.2* |   | Certification of Principal Financial Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ | 32.1** |   | Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ | 32.2** |   | Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ | 101.INS* |   | Inline XBRL Instance Document. 
+ | 101.SCH* |   | Inline XBRL Taxonomy Extension Schema Document. 
+ | 101.CAL* |   | Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+ | 101.DEF* |   | Inline XBRL Taxonomy Extension Definition Linkbase Document. 
+ | 101.LAB* |   | Inline XBRL Taxonomy Extension Label Linkbase Document. 
+ | 101.PRE* |   | Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+ | 104* |   | Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ | * | Filed herewith. 
+ |   |   
+ | ** | Furnished. 
+ | # | Certain portions of this exhibit have been omitted because the omitted information is (i) not material and (ii) would likely cause competitive harm to Richtech if publicly disclosed. 
+44
+SIGNATURES
+In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ |   | RICHTECH ROBOTICS INC. 
+ |   |   |   
+ | Date: August 19, 2026 | By: | /s/ Zhenwu Huang 
+ |   | Name:  | Zhenwu Huang 
+ |   | Title: | Chief Executive Officer 
+ |   |   | (Principal Executive Officer) 
+ |   |   |   
+ | Date: August 19, 2026 | By: | /s/ Zhenqiang Huang 
+ |   | Name: | Zhenqiang Huang 
+ |   | Title: | Chief Financial Officer 
+ |   |   | (Principal Financial and Accounting Officer) 
+45

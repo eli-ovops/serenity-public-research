@@ -1,0 +1,342 @@
+Investor Relations → Scribe (https://investors.scribetx.com/)
+citeturn223search0 [wordlim: 200] Crawled: 6 days ago; October 5-7, 2026 ... September 14-16, 2026
+
+## Our Mission
+
+Scribe Therapeutics is a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention. While current genetic medicines are largely limited to rare disorders, we are engineering our technologies for use in common diseases affecting millions. By targeting prevalent diseases with significant unmet need and high clinical burden, we aim to usher in a new era of broadly scalable, transformative, and preventative genetic medicines.
+
+Our focus is on cardiovascular and metabolic diseases with initial programs to address the key drivers of atherosclerotic cardiovascular disease, or ASCVD. We are designing CRISPR-based genetic medicines to be well-tolerated, effective, durable, and scalable enough to shift the treatment paradigm from symptom-driven intervention and chronic care to population-level prevention, with the goal of broadly democratizing access to the cardioprotective effects of known genetic variants.
+
+## Press Releases
+
+Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights
+
+September 2, 2026
+
+Scribe Therapeutics to Participate in Upcoming Investor Conferences
+
+September 1, 2026
+
+Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement
+
+July 27, 2026
+
+## Recent Reports
+
+More information is coming soon.
+
+## Events
+
+### Upcoming Events
+
+Cell & Gene Meeting on the Mesa
+
+October 5-7, 2026
+
+### Past Events
+
+Leerink Partners Biopharma Summit
+
+September 23-25, 2026
+
+### Past Events
+
+IPAVision 2026
+
+September 14-17, 2026
+
+### Past Events
+
+H.C. Wainwright 28th Annual Global Investment Conference
+
+September 14-16, 2026
+
+  * All Events
+
+## Investor Contact
+
+1150 Marina Village Pkwy 
+Alameda, CA 94501
+drafts [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Scribe Therapeutics to Participate in Upcoming Investor Conferences → Tue, 09/01/2026 - 08:00 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-participate-upcoming-investor-conferences-0)
+citeturn223search1 [wordlim: 200] Published: 4 weeks ago; Crawled: 2 days ago; Oct. 5, 2026 at 5:15 PM MT
+
+# Release Details
+
+## 
+
+Scribe Therapeutics to Participate in Upcoming Investor Conferences
+
+September 1, 2026
+
+PDF Version
+
+ALAMEDA, Calif., Sept. 01, 2026 (GLOBE NEWSWIRE) -- Scribe Therapeutics Inc. (“Scribe Therapeutics”) (Nasdaq: SCTX), a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today announced that management will participate in the following upcoming investor conferences:
+
+Wells Fargo Healthcare Conference
+Boston, MA
+Sept. 9, 2026 at 8:00 AM ET
+Benjamin Oakes, Ph.D., Co-founder and CEO, will participate in a fireside chat.
+
+H.C. Wainwright 28th Annual Global Investment Conference
+New York, NY
+Sept. 15, 2026
+Benjamin Oakes, Ph.D., Co-founder and CEO, will present.
+
+Cell & Gene Meeting on the Mesa
+Phoenix, AZ
+Oct. 5, 2026 at 5:15 PM MT
+David Parrot, M.B.A., CFO, will deliver an Innovation Spotlight presentation.
+
+About Scribe Therapeutics Inc.
+--------------------------------------------------------------------------------
+Scribe Therapeutics Reports Preclinical Data at ASGCT 2026 Demonstrating Enhanced Potency and Specificity of Engineered CRISPR Technologies for Epigenetic Silencing and Gene Editing → Mon, 05/18/2026 - 08:00 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-reports-preclinical-data-asgct-2026)
+citeturn223search2 [wordlim: 200] Published: 4 months ago; Crawled: yesterday; Scribe Therapeutics Reports Preclinical Data at ASGCT 2026 Demonstrating Enhanced Potency and Specificity of Engineered CRISPR Technologies for Epigenetic Silencing and Gene Editing
+
+# Release Details
+
+## 
+
+Scribe Therapeutics Reports Preclinical Data at ASGCT 2026 Demonstrating Enhanced Potency and Specificity of Engineered CRISPR Technologies for Epigenetic Silencing and Gene Editing
+
+May 18, 2026
+
+PDF Version
+
+  * Oral presentation on novel allosteric ELXR epigenetic silencer showcases Scribe’s development in achieving highly precise, potent, and durable target repression
+  * XE gene editor oral presentation demonstrates how mechanistic insight underlying guide potency and AI-based predictive modeling supports the engineering of CRISPR-CasX systems for specific therapeutic targets
+  * Invited talk highlights how a full-stack of iterative, closed-loop CRISPR engineering, from XE foundation to ELXR silencing machinery, together enabled Scribe’s lead cardiometabolic therapeutic program for LDL-C lowering‍
+
+ALAMEDA, Calif., May 18, 2026 – Scribe Therapeutics, Inc. (Scribe), a biotechnology company engineering purpose-built CRISPR technologies to reshape the treatment of disease by enabling earlier intervention, improved outcomes, and longer, healthier lives, presented preclinical data on the latest advances across the company’s engineered CRISPR technologies at the 29th American Society of Gene & Cell Therapy (ASGCT) Annual Meeting.
+By combining this engineered CasX-derived foundation with optimized epigenetic silencing components, Scribe developed ELXR molecules designed to achieve potent and durable silencing of target genes without permanent DNA alterations. These learnings were applied to STX-1150, with preclinical prototype data showing durable PCSK9 repression following single-dose LNP delivery and specific target repression in transcriptome-wide specificity studies, with sustained epigenetic silencing activity that translated into durable LDL-C lowering observed in non-human primates for nearly 18 months and ongoing. ‍
+
+About Scribe Therapeutics
+
+Scribe Therapeutics is a biotechnology company developing optimized in vivo CRISPR-based technologies and genetic medicines designed to become standard of care treatments for patients suffering from highly prevalent diseases, starting with cardiometabolic disease. Leveraging its CRISPR by Design™ approach and nature’s blueprint for improved cardiovascular health, Scribe’s initial programs focus on addressing the key drivers of ASCVD such as elevated LDL-C, lipoprotein(a), and triglycerides. The company’s lead candidate, STX-1150, is a novel liver-targeted therapy designed to epigenetically silence the PCSK9 gene and reduce LDL-C levels without inducing permanent DNA changes. To broaden and accelerate the impact of its engineered CRISPR technologies for patients, Scribe has formed strategic collaborations with world-leading pharmaceutical companies including Sanofi and Eli Lilly. Co-founded by Nobel Prize winner Jennifer Doudna and backed by leading life sciences investors, Scribe is advancing scalable, transformative, and preventative genetic medicines with the goal of improving outcomes and democratizing access to the protective effects of beneficial human genetics. To learn more, visit www.scribetx.com.--------------------------------------------------------------------------------
+Scribe Therapeutics Achieves Regulatory Clearance to Initiate First-in-Human Clinical Study of STX-1150 for LDL-C Reduction → Thu, 05/21/2026 - 08:00 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-achieves-regulatory-clearance-initiate-first)
+citeturn223search3 [wordlim: 200] Published: 4 months ago; Crawled: yesterday; May 21, 2026 ... Moreover, treatment is often initiated only after decades of substantial silent cumulative arterial injury or an acute cardiovascular event.
+
+# Release Details
+
+## 
+
+Scribe Therapeutics Achieves Regulatory Clearance to Initiate First-in-Human Clinical Study of STX-1150 for LDL-C Reduction
+
+May 21, 2026
+
+ALAMEDA, Calif., May 21, 2026 – Scribe Therapeutics, Inc. (Scribe) a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today announced that it has secured clearance from the Australian Therapeutic Goods Administration (TGA) to initiate a first-in-human clinical study of STX-1150 for the treatment of hypercholesterolemia, a major driver of atherosclerotic cardiovascular disease (ASCVD). 
+
+Cardiovascular disease is the leading cause of death worldwide, with elevated low-density lipoprotein cholesterol (LDL-C) recognized as a key causal driver of atherosclerosis and ASCVD. Despite the availability of multiple lipid-lowering therapies, many patients remain above recommended LDL-C levels in real-world settings due to treatment burden, adherence challenges, delayed treatment initiation, and the need for ongoing chronic administration. I look forward to working with Scribe to evaluate this therapy in patients with elevated LDL-C and increased cardiovascular risk.” 
+
+Scribe will deliver a late-breaking oral presentation highlighting the preclinical data for STX-1150 at the 94th European Atherosclerosis Society Congress, taking place May 24–27, 2026, in Athens, Greece. Additional details can be found on Scribe’s website. ‍
+
+About STX-1150
+
+STX-1150 is a novel, investigational, epigenetic silencing therapy designed to durably reduce LDL-C by silencing transcription of PCSK9, a genetically and clinically validated regulator of cholesterol. The therapy leverages Scribe’s proprietary ELXR technology to enable long-lasting gene silencing in the liver without permanently altering DNA. STX-1150 consists of a messenger RNA encoding a highly engineered ELXR and a single guide RNA that targets the PCSK9 gene encapsulated by a liver-tropic lipid nanoparticle licensed from Acuitas Therapeutics.‍
+
+About Scribe’s Epigenetic Long-Term X-Repressor (ELXR)
+These limitations underscore the importance of developing durable therapies that can be administered safely earlier in the course of disease. Scribe’s goal is to develop CRISPR-based therapeutics that are safe, effective, durable, and scalable enough to preemptively reduce lifetime cardiovascular risk with the aim to reduce the global burden of ASCVD.‍
+
+About Scribe Therapeutics
+
+Scribe Therapeutics is a clinical-stage biotechnology company engineering CRISPR-based technologies into purpose-built in vivo genetic medicines designed to become standard of care treatments for patients suffering from highly prevalent diseases, starting with cardiometabolic disease. Leveraging its CRISPR by Design™ approach and nature’s blueprint for improved cardiovascular health, Scribe’s initial programs focus on addressing the key lipid drivers of ASCVD such as elevated LDL-C, lipoprotein(a), and triglycerides. The company’s lead candidate, STX-1150, is a novel liver-targeted therapy designed to epigenetically silence the PCSK9 gene and reduce LDL-C levels without inducing permanent DNA changes. To broaden and accelerate the impact of its engineered CRISPR technologies for patients, Scribe has formed strategic collaborations with world-leading pharmaceutical companies including Sanofi and Eli Lilly. Co-founded by Nobel Prize winner Jennifer Doudna and backed by leading life sciences investors, Scribe is advancing scalable, transformative, and preventative genetic medicines with the goal of improving outcomes and democratizing access to the protective effects of beneficial human genetics. To learn more, visit www.scribetx.com.
+
+## Investor Contact
+
+1150 Marina Village Pkwy 
+Alameda, CA 94501
+drafts [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Scribe Therapeutics to Highlight Engineered CRISPR Platform Advances and Lead Cardiometabolic Pipeline at ASGCT and EAS Congress 2026 → Thu, 04/30/2026 - 08:00 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-highlight-engineered-crispr-platform)
+citeturn223search4 [wordlim: 200] Published: 5 months ago; Crawled: yesterday; Scribe Therapeutics to Highlight Engineered CRISPR Platform Advances and Lead Cardiometabolic Pipeline at ASGCT and EAS Congress 2026
+
+# Release Details
+
+## 
+
+Scribe Therapeutics to Highlight Engineered CRISPR Platform Advances and Lead Cardiometabolic Pipeline at ASGCT and EAS Congress 2026
+
+April 30, 2026
+
+PDF Version
+
+  * ASGCT oral presentations to showcase recent development in engineering highly specific and potent CRISPR gene editing and epigenetic silencing technologies 
+  * Late-breaking EAS oral presentation to report latest preclinical data for PCSK9-silencing therapy STX-1150 for ASCVD
+
+ALAMEDA, Calif., April 30, 2026 – Scribe Therapeutics, Inc. (Scribe), a biotechnology company engineering purpose-built CRISPR technologies designed to reshape the treatment of disease by enabling earlier intervention, improved outcomes, and longer, healthier lives, today announced its participation in the 29th American Society of Gene & Cell Therapy (ASGCT) Annual Meeting and the 94th European Atherosclerosis Society (EAS) Congress. 
+
+Scribe will deliver two oral presentations and one workshop presentation at ASGCT, taking place May 11-15 at the Thomas Michael Menino Convention & Exhibition Center in Boston and virtually. The sessions will feature the company’s ongoing advances to its Epigenetic Long-Term X-Repressor (ELXR) and X-Editor (XE) genome editing technologies, including DeepXE, an AI-enabled CRISPR design platform for accurately predicting editing efficiency for Scribe’s XE-based therapeutics. Collectively, these data demonstrate Scribe’s ability to engineer CRISPR systems with enhanced specificity and potency. The ELXR presentation will feature recently published work describing the engineering and mechanism underlying the platform. 
+
+At the EAS Congress occurring May 24-27 at the Megaron Athens International Convention Centre in Greece, Scribe will deliver a late-breaking oral presentation on the preclinical data for STX-1150, its PCSK9-targeting epigenetic silencing therapy for low-density lipoprotein cholesterol (LDL-C) lowering. 
+
+Full abstracts are available on the ASGCT conference website. The presentation details for ASGCT and EAS are listed below.
+
+‍ASGCT 2026 Annual Meeting, May 11-15 Oral Presentations
+
+‍Workshop title: Engineering CasX from clay to clinic: lessons in precision, potency, and translatability
+Workshop Session: Advancing the next generation of tools for precision gene editing in vivo
+Date: Monday, May 11, 2026
+Time: 3:07 PM - 3:33 PM ET
+Location: MCEC Room 052AB (Exhibit Level)
+Speaker: Brett Staahl, Ph.D., Co-founder and VP of External Innovation
+
+Title: Engineering CasX for therapeutic-grade in vivo editing with DeepXE, a predictive model for guide potency 
+Session: Genome editing III
+Date: Friday, May 15, 2026
+Time: 11:30 AM - 11:45 AM ET
+Location: Westin Seaport Grand Ballroom AB (Concourse Level)
+Speaker: Sarah Denny, Ph.D., Senior Director of Molecular Engineering
+Abstract Number: 482
+
+Title: ADDing a lock to epigenome editing: DNMT3A allostery enhances specificity and potency of CRISPR-CasX-based epigenetic repressors
+Session: Expanding cell and gene therapy through therapeutic RNA and epigenome engineering
+Date: Friday, May 15, 2026
+Time: 3:45 PM - 4:00 PM ET
+Location: MCEC Room 052AB (Exhibit Level)
+Speaker: Emeric Charles, Ph.D., Senior Scientist
+Abstract Number: 497‍
+
+EAS Congress 2026, May 24-27 Late-breaking Oral Presentation
+
+‍Title: Epigenetic PCSK9 silencing with STX-1150 provides durable LDL-C control after a single dose
+Session: Late breaker abstracts in PCSK9 pharmacology 
+Date: Monday, May 25, 2026
+Time: 4:21 PM - 4:39 PM EET
+Location: Aravanis Hall
+Speaker: Benjamin Oakes, Ph.D., Co-founder and Chief Executive Officer
+
+About Scribe Therapeutics
+
+Scribe Therapeutics is a biotechnology company developing optimized in vivo CRISPR-based technologies and genetic medicines designed to become standard of care treatments for patients suffering from highly prevalent diseases, starting with cardiometabolic disease. Leveraging its CRISPR by Design™ approach and nature’s blueprint for improved cardiovascular health, Scribe’s initial programs focus on addressing the key drivers of ASCVD such as elevated LDL-C, lipoprotein(a), and triglycerides. The company’s lead candidate, STX-1150, is a novel liver-targeted therapy designed to epigenetically silence the PCSK9 gene and reduce LDL-C levels without inducing permanent DNA changes. To broaden and accelerate the impact of its engineered CRISPR technologies for patients, Scribe has formed strategic collaborations with world-leading pharmaceutical companies including Sanofi and Eli Lilly. Co-founded by Nobel Prize winner Jennifer Doudna and backed by leading life sciences investors, Scribe is advancing scalable, transformative, and preventative genetic medicines with the goal of improving outcomes and democratizing access to the protective effects of beneficial human genetics. To learn more, visit www.scribetx.com.--------------------------------------------------------------------------------
+Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement → Mon, 07/27/2026 - 16:05 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-announces-closing-initial-public-offering)
+citeturn223search5 [wordlim: 200] Published: 2 months ago; Crawled: 3 days ago; LLC, Attention: Prospectus Department, 200 West Street, New York, New York 10282, telephone: 1-866-471-2526, facsimile: 212-902-9316 or by emailing [REDACTED_EMAIL]; Guggenheim Securities, LLC, Attention: Equity Syndicate Department, 330 Madison Avenue, 8th Floor, New York, NY 10017, by telephone at (212) 518-9544, or by email at [REDACTED_EMAIL]; and Wells Fargo Securities, LLC, 90 South 7th Street, 5th Floor, Minneapolis, Minnesota 55402, by telephone at (800) 645-3751 (option #5) or by email at [REDACTED_EMAIL].
+
+# Release Details
+
+Scribe Therapeutics Announces Closing of Initial Public Offering, Full Exercise of Underwriters’ Option to Purchase Additional Shares, and Closing of the Concurrent Private Placement
+
+July 27, 2026
+
+ALAMEDA, Calif., July 27, 2026 (GLOBE NEWSWIRE) -- Scribe Therapeutics Inc. (“Scribe Therapeutics”) (Nasdaq: SCTX), a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today announced the closing of its upsized initial public offering of 9,867,000 shares of its common stock, which includes the exercise in full by the underwriters of their option to purchase 1,287,000 additional shares, at the initial public offering price of $15.00 per share. All of the shares were offered by Scribe Therapeutics. Scribe Therapeutics’ common stock began trading on the Nasdaq Global Market on July 24, 2026 under the ticker symbol “SCTX.”
+
+Leerink Partners, Goldman Sachs & Co. LLC, Attention: Prospectus Department, 200 West Street, New York, New York 10282, telephone: 1-866-471-2526, facsimile: 212-902-9316 or by emailing [REDACTED_EMAIL]; Guggenheim Securities, LLC, Attention: Equity Syndicate Department, 330 Madison Avenue, 8th Floor, New York, NY 10017, by telephone at (212) 518-9544, or by email at [REDACTED_EMAIL]; and Wells Fargo Securities, LLC, 90 South 7th Street, 5th Floor, Minneapolis, Minnesota 55402, by telephone at (800) 645-3751 (option #5) or by email at [REDACTED_EMAIL].
+
+In addition to the shares sold in the initial public offering, Scribe Therapeutics today announced the closing on July 27, 2026 of its sale of 500,000 shares of its common stock at the initial public offering price per share in a concurrent private placement to Sanofi. The sale of the shares of common stock in the concurrent private placement was not registered under the Securities Act of 1933, as amended.
+
+This press release shall not constitute an offer to sell or the solicitation of an offer to buy any securities of Scribe, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+
+About Scribe Therapeutics Inc.
+
+Scribe Therapeutics is a clinical-stage biotechnology company engineering CRISPR-based technologies into purpose-built in vivo genetic medicines designed to become standard of care treatments for patients suffering from highly prevalent diseases, starting with cardiometabolic disease. Leveraging its CRISPR by Design™ approach and nature’s blueprint for improved cardiovascular health, Scribe’s initial programs focus on addressing the key drivers of ASCVD such as elevated LDL-C, lipoprotein(a), and triglycerides. The company’s lead candidate, STX-1150, is a novel liver-targeted therapy designed to epigenetically silence the PCSK9 gene and reduce LDL-C levels without inducing permanent DNA changes. To broaden and accelerate the impact of its engineered CRISPR technologies for patients, Scribe has formed strategic collaborations with world-leading pharmaceutical companies including Sanofi and Eli Lilly. Co-founded by Nobel Prize winner Jennifer Doudna and backed by leading life sciences investors, Scribe is advancing scalable, transformative, and preventative genetic medicines with the goal of improving outcomes and democratizing access to the protective effects of beneficial human genetics.
+
+Investor Contact:
+Investor Relations, Scribe Therapeutics
+[REDACTED_EMAIL]
+
+Media Contact:
+Thermal for Scribe Therapeutics
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+0000902664-26-003281 → SCHEDULE 13D → Scribe (https://investors.scribetx.com/sec-filings/sec-filing/schedule-13d/0000902664-26-003281)
+citeturn223search6 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; Jul 30, 2026
+
+# SEC Filing Details
+
+## Document Details
+
+Form
+
+SCHEDULE 13D
+
+Filing Date
+
+Jul 30, 2026
+
+Document Date
+
+Jul 30, 2026
+
+Form Description
+
+SCHEDULE 13D - Description
+
+Filing Group
+
+Other
+
+Company
+
+Scribe
+
+Issuer
+
+SCRIBE THERAPEUTICS, INC.
+
+## Filing Formats
+
+View HTML
+
+Download PDF
+
+## Investor Contact
+
+1150 Marina Village Pkwy 
+Alameda, CA 94501
+drafts [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Scribe Therapeutics Announces Pricing of Upsized Initial Public Offering → Thu, 07/23/2026 - 21:09 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-announces-pricing-upsized-initial-public)
+citeturn223search7 [wordlim: 200] Published: 2 months ago; Crawled: today; LLC, Attention: Prospectus Department, 200 West Street, New York, New York 10282, telephone: 1-866-471-2526, facsimile: 212-902-9316 or by emailing [REDACTED_EMAIL]; Guggenheim Securities, LLC, Attention: Equity Syndicate Department, 330 Madison Avenue, 8th Floor, New York, NY 10017, by telephone at (212) 518-9544, or by email at [REDACTED_EMAIL]; and Wells Fargo Securities, LLC, 90 South 7th Street, 5th Floor, Minneapolis, Minnesota 55402, by telephone at (800) 645-3751 (option #5) or by email at [REDACTED_EMAIL].
+
+# Release Details
+
+## 
+
+Scribe Therapeutics Announces Pricing of Upsized Initial Public Offering
+
+July 23, 2026
+
+PDF Version
+
+ALAMEDA, Calif., July 23, 2026 (GLOBE NEWSWIRE) -- Scribe Therapeutics Inc. (“Scribe Therapeutics”) (Nasdaq: SCTX), a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today announced the pricing of its upsized initial public offering of 8,580,000 shares of its common stock at the high end of the range at a public offering price of $15.00 per share. The gross proceeds from the offering, before deducting underwriting discounts and commissions and other offering expenses, are expected to be $128.7 million. All shares of common stock to be sold in the offering will be sold by Scribe Therapeutics. In addition, Scribe Therapeutics has granted the underwriters a 30-day option to purchase up to an additional 1,287,000 shares of common stock at the initial public offering price, less underwriting discounts and commissions. 
+About Scribe Therapeutics Inc.
+
+Scribe Therapeutics is a clinical-stage biotechnology company engineering CRISPR-based technologies into purpose-built in vivo genetic medicines designed to become standard of care treatments for patients suffering from highly prevalent diseases, starting with cardiometabolic disease. Leveraging its CRISPR by Design™ approach and nature’s blueprint for improved cardiovascular health, Scribe’s initial programs focus on addressing the key drivers of ASCVD such as elevated LDL-C, lipoprotein(a), and triglycerides. The company’s lead candidate, STX-1150, is a novel liver-targeted therapy designed to epigenetically silence the PCSK9 gene and reduce LDL-C levels without inducing permanent DNA changes. To broaden and accelerate the impact of its engineered CRISPR technologies for patients, Scribe has formed strategic collaborations with world-leading pharmaceutical companies including Sanofi and Eli Lilly. Co-founded by Nobel Prize winner Jennifer Doudna and backed by leading life sciences investors, Scribe is advancing scalable, transformative, and preventative genetic medicines with the goal of improving outcomes and democratizing access to the protective effects of beneficial human genetics.--------------------------------------------------------------------------------
+Scribe Therapeutics Awarded More Than $25 Million From CIRM to Accelerate Additional CRISPR-Based Gene Editing Therapies for Cardiometabolic Disease Into Clinical Trials → Thu, 06/18/2026 - 08:00 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-awarded-more-25-million-cirm-accelerate)
+citeturn223search8 [wordlim: 200] Published: 3 months ago; Crawled: 2 days ago; June 18, 2026 ... ALAMEDA, Calif., June 18, 2026 – Scribe Therapeutics, Inc. ... Moreover, treatment is often initiated only after decades of substantial silent cumulative arterial injury or following an acute cardiovascular event.
+The two awards will support the advancement of Scribe's wholly-owned CRISPR-based gene editing therapies toward clinical development.
+
+The research awards support two novel therapies in Scribe’s comprehensive cardiometabolic pipeline: STX-1200, which targets LPA to decrease lipoprotein(a) [Lp(a)] to treat and prevent atherosclerotic cardiovascular disease (ASCVD) in patients with genetically elevated Lp(a); and STX-1400, targeting APOC3 to lower triglyceride-rich lipoproteins to address acute pancreatitis in triglyceride-driven diseases such as severe hypertriglyceridemia (SHTG), in particular familial chylomicronemia syndrome (FCS) and multifactorial chylomicronemia syndrome (MCS). Both programs leverage Scribe's X-Editor (XE) gene editing technology, a platform highly engineered for enhanced activity, specificity, and deliverability. Scribe’s STX-1200 and STX-1400 programs are led by principal investigator Brett Staahl, Ph.D., co-founder and VP of External Innovation, and were selected as part of a cohort of awards supporting promising gene therapy and stem cell research. 
+
+"We are proud to share that two of Scribe’s CRISPR-based genetic medicine approaches have been recognized by CIRM for their strong therapeutic potential to address cardiovascular disease for millions of patients,” said Benjamin Oakes, Ph.D., co-founder and Chief Executive Officer of Scribe. “These grants support our efforts to advance potentially curative gene editing therapies to provide genetic solutions for the lifelong genetic diseases that underpin many cardiovascular events. Patients deserve a more practical and effective standard of care, and we aim to deliver a suite of fit-for-purpose approaches for each patient. We are honored to be supported by the CIRM vision for accelerating biomedical research and delivering cutting-edge technology to patients in our home state of California.”
+
+STX-1200 is designed to reduce Lp(a) and eliminate Lp(a)-driven cardiovascular disease risk by providing a potentially curative genetic medicine approach for this genetic disease.
+
+Elevated triglycerides and triglyceride-rich lipoproteins, which are fat-like particles in the blood, can increase the risk of heart disease and serious conditions such as acute pancreatitis in diseases such as familial chylomicronemia syndrome (FCS), multifactorial chylomicronemia syndrome (MCS), and severe hypertriglyceridemia (SHTG). SHTG affects approximately 8 million adults in the U.S. and Europe, while in FCS, up to 9 out of 10 patients experience acute pancreatitis requiring intensive care. STX-1400 targets the APOC3 gene, with the goal of lowering triglycerides durably through a potentially single-dose treatment. By targeting APOC3, a genetic regulator of triglyceride levels, STX-1400 is designed to provide a genetic solution that may help reduce the risk of acute pancreatitis and cardiovascular events, especially for patients who remain underserved by current drugs and restrictive diet regimens.
+
+With support from CIRM, Scribe will continue advancing STX-1200 and STX-1400 through preclinical development as part of its broader strategy to develop durable, potentially one-time CRISPR-based genetic medicines to target key lipid drivers of ASCVD. Together with Scribe’s clinical-stage lead asset, STX-1150, these programs reflect the company’s commitment to applying its CRISPR by Design^{TM} approach to expand the potential of genetic medicine for prevalent cardiometabolic diseases. ‍
+
+About Atherosclerotic Cardiovascular Disease (ASCVD)  
+
+Cardiovascular disease remains the leading cause of death worldwide and impacts over 120 million individuals in the United States alone. Every 40 seconds, someone in the United States suffers a heart attack.
+
+Elevated levels of low-density lipoprotein cholesterol (LDL-C), lipoprotein(a) [Lp(a)], and triglycerides carried by triglyceride-rich lipoproteins (TRLs) are key lipid drivers of atherosclerosis and ASCVD. Hypercholesterolemia, an excess of LDL-C in the bloodstream, promotes plaque formation in the arterial walls, restricting blood flow and increasing the risk of heart attacks and strokes. Similarly, elevated atherogenic Lp(a) and TRL particles drive increased risk of ASCVD independent of controlled LDL-C levels. 
+
+Despite major advances in the development of new classes of lipid-lowering therapies, today’s standard of care for ASCVD treatment and prevention is insufficient. Existing treatments struggle to demonstrate broad impact as they suffer from significant lack of durability, diminishing levels of adherence-adjusted efficacy, and onerous treatment burdens including well-documented side effects. All of this leads to poor uptake, low adherence, and limited real-world effectiveness. Moreover, treatment is often initiated only after decades of substantial silent cumulative arterial injury or following an acute cardiovascular event. These limitations underscore the importance of developing durable therapies that can be administered safely earlier in the course of disease. Scribe’s goal is to develop CRISPR-based therapeutics that are safe, effective, durable, and scalable enough to preemptively reduce lifetime cardiovascular risk, with the aim of reducing the global burden of ASCVD.‍
+
+About Scribe’s X-Editor (XE)
+
+XE is Scribe’s novel CRISPR-based gene editing technology designed for precise and versatile genetic modification. It uses a staggered DNA cleavage mechanism to achieve high on-target activity, specificity, and flexibility across a range of applications, including gene knock-out, knock-down, knock-in, exon skipping, genetic excision, and other targeted modifications. Scribe has engineered its novel CasX enzyme, XE, with improved nuclease stability, DNA binding, cleavage activity, and specificity, resulting in greater than 100-fold higher editing than naturally occurring CasX in cell-based assays while maintaining high specificity across target sites. XE’s compact size and engineered PAM recognition together provide a differentiated combination of potency, specificity, delivery, flexibility, and a broad therapeutic window, supporting its potential application in durable, one-time treatments for genetically defined diseases.‍
+
+About Scribe Therapeutics
+
+Scribe Therapeutics is a clinical-stage biotechnology company engineering CRISPR-based technologies into purpose-built in vivo genetic medicines designed to become standard of care treatments for patients suffering from highly prevalent diseases, starting with cardiometabolic disease. Leveraging its CRISPR by Design™ approach and nature’s blueprint for improved cardiovascular health, Scribe’s initial programs focus on addressing the key lipid drivers of ASCVD such as elevated LDL-C, lipoprotein(a), and triglycerides. The company’s lead candidate, STX-1150, is a novel liver-targeted therapy designed to epigenetically silence the PCSK9 gene and reduce LDL-C levels without inducing permanent DNA changes. To broaden and accelerate the impact of its engineered CRISPR technologies for patients, Scribe has formed strategic collaborations with world-leading pharmaceutical companies including Sanofi and Eli Lilly. Co-founded by Nobel Prize winner Jennifer Doudna and backed by leading life sciences investors, Scribe is advancing scalable, transformative, and preventative genetic medicines with the goal of improving outcomes and democratizing access to the protective effects of beneficial human genetics. To learn more, visit www.scribetx.com. ‍
+
+About the California Institute for Regenerative Medicine (CIRM)
+
+The California Institute for Regenerative Medicine (CIRM) is a state agency created by California voters to accelerate stem cell and gene therapies for people with unmet medical needs. Since 2004, Californians have entrusted CIRM with $8.5 billion to accelerate promising discoveries through clinical trials, train a regenerative medicine workforce, strengthen the state’s biotechnology economy, and expand access to transformative treatments. Today, CIRM is pioneering new models of therapy development and accelerating medical breakthroughs that change lives — in California and around the world. For more information, visit www.cirm.ca.gov.--------------------------------------------------------------------------------
+Scribe Therapeutics Projected to Enter the Clinic in Mid-2026 with STX-1150, a PCSK9-targeting CRISPR Epigenetic Silencing Therapy for Durable LDL-C Reduction → Tue, 01/20/2026 - 00:00 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-projected-enter-clinic-mid-2026-stx-1150)
+citeturn223search9 [wordlim: 200] Published: 8 months ago; Crawled: yesterday; Scribe Therapeutics Projected to Enter the Clinic in Mid-2026 with STX-1150, a PCSK9-targeting CRISPR Epigenetic Silencing Therapy for Durable LDL-C Reduction ... Moreover, treatment is often initiated only after decades of substantial silent cumulative arterial injury or an acute cardiovascular event.
+--------------------------------------------------------------------------------
+0000947871-26-000732 → SCHEDULE 13D → Scribe (https://investors.scribetx.com/sec-filings/sec-filing/schedule-13d/0000947871-26-000732)
+citeturn223search10 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; Jul 29, 2026
+--------------------------------------------------------------------------------
+Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights → Wed, 09/02/2026 - 16:05 (https://investors.scribetx.com/news-releases/news-release-details/scribe-therapeutics-reports-second-quarter-2026-financial)
+citeturn223search11 [wordlim: 200] Published: 4 weeks ago; Crawled: yesterday;   * Collaboration revenue: Collaboration revenue was $1.9 million for the three months ended June 30, 2026, compared with $4.9 million for the prior year period in 2025. ...   * Net loss: Net loss was $6.5 million, or $2.62 per basic and diluted share, for the three months ended June 30, 2026, compared with a net loss of $9.9 million, or $4.08 per basic and diluted share, for the same period in 2025.
+

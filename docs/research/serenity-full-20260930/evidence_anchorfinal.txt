@@ -1,0 +1,222 @@
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1046179/000104617926000660/tsm-monthend6kx20260924.htm)
+citeturn239view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1046179/000104617926000660/tsm-monthend6kx20260924.htm","lineno":null}); Total lines: 108
+L0: 6-K 1 tsm-monthend6kx20260924.htm 6-K Document
+L1: 
+L2: 1934 Act Registration No. 1-14700
+L3: 
+L4:  |  |
+L5: 
+L6: UNITED STATES
+L7: 
+L8: SECURITIES AND EXCHANGE COMMISSION
+L9: 
+L10: Washington, D.C. 20549
+L11: 
+L12: _____________________________
+L13: 
+L14: FORM 6-K
+L15: 
+L16: _____________________________
+L17: 
+L18: REPORT OF FOREIGN PRIVATE ISSUER
+L19: 
+L20: PURSUANT TO RULE 13a-16 OR 15d-16 UNDER
+L21: 
+L22: THE SECURITIES EXCHANGE ACT OF 1934
+L23: 
+L24: For the month of September 2026
+L25: 
+L26: (Commission File Number: 001-14700)
+L27: 
+L28: _____________________________
+L29: 
+L30: Taiwan Semiconductor Manufacturing Company Limited
+L31: (Translation of Registrant’s Name Into English)
+L32: 
+L33: _____________________________
+L34: 
+L35: No. 8, Li-Hsin Road 6
+L36: 
+L37: Hsinchu Science Park
+L38: 
+L39: Hsinchu 300-096, Taiwan
+L40: Republic of China
+L41: 
+L42: (Address of Principal Executive Offices)
+L43: 
+L44: _____________________________
+L45: 
+L46: Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.
+L47: 
+L48: Form 20-F  x            Form 40-F  o
+L49: Indicate by check mark if the registrant is submitting the Form 6-K in papers as permitted by Regulation S-T Rule 101(b)(1):o
+L50: 
+L51: Indicate by check mark if the registrant is submitting the Form 6-K in papers as permitted by Regulation S-T Rule 101(b)(7):o
+L52: 
+L53:  |  |
+L54: 
+L55: * * *
+L56:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L57:  | SIGNATURES  |
+L58:  |  |  |  |  |  |  |
+L59:  |  |  |  |  |  |  |
+L60:  |  |  |  |  |  |  |
+L61:  | Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  |
+L62:  |  |  |  |  |  |  |
+L63:  |
+L64:  |  |  |  |  |  |
+L65:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L66:  |  | Taiwan Semiconductor Manufacturing Company Limited
+L67:  |  |  |  |  |
+L68:  | Date:   September 24, 2026  | By  |  | /s/ Wendell Huang  |
+L69:  |  |  |  |  |
+L70:  |  |  |  | Wendell Huang  |
+L71:  |  |  |  |  |
+L72:  |  |  |  | Senior Vice President and Chief Financial Officer  |
+L73:  |  |  |  |      |
+L74: 
+L75: * * *
+L76: 
+L77: Taiwan Semiconductor Manufacturing Company Limited
+L78: 
+L79: ("TSMC"; NYSE: TSM)
+L80: This is to report 1) the changes in the shareholdings of TSMC board of directors, executive officers and shareholders who own more than 10% of total outstanding common shares of TSMC; 2) the changes in the pledge of TSMC common shares by TSMC board of directors, executive officers and shareholders who own more than 10% of total outstanding common shares of TSMC; 3) the acquisition and disposition of assets by TSMC and its subsidiaries; 4) the capital appropriations approved by TSMC board of directors; 5) the unsecured bonds issued by TSMC and its subsidiaries and 6) the cancellation of TSMC common shares for the month of August 2026.
+L81: 1.The changes in the shareholdings of TSMC board of directors, executive officers and shareholders who own more than 10% of total outstanding common shares of TSMC:
+L82:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L83: Title  | Name  | Number of shares held as of  | Changes  |
+L84: 7/31/2026  | 8/31/2026  |
+L85: Vice President  | B.Z. Tien  | 18,051  | 19,051  | 1,000   |  |
+L86: Vice President  | Lipen Yuan  | 6,650  | 9,000  | 2,350   |  |
+L87: Note: Shareholdings include shares held by the related parties.
+L88: 2.The changes in the pledge of TSMC common shares by TSMC board of directors, executive officers and shareholders who own more than 10% of total outstanding common shares of TSMC:
+L89: None.
+L90: 
+L91: 3.The acquisition and disposition of assets by TSMC and its subsidiaries:
+L92: 
+L93: None.
+L94: 
+L95: 4.The capital appropriations approved by TSMC board of directors:
+L96: 
+L97: (1) Machinery equipment for advanced technology capacity: US$16,035 million.
+L98: (2) Machinery equipment for advanced packaging, mature and/or specialty technology capacity: US$4,791 million.
+L99: 
+L100: (3) Real estate and capitalized leased assets: US$8,616 million.
+L101: 
+L102: 5.The unsecured bonds issued by TSMC and its subsidiaries:
+L103: None.
+L104: 
+L105: 6.The cancellation of TSMC common shares:
+L106: 
+L107: None.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn239view1 [wordlim: 200] Source: open({"ref_id":"https://investors.broadcom.com/company-information/events","lineno":null}); Total lines: 1
+L0: URL https://investors.broadcom.com/company-information/events is not accessible via this tool.
+--------------------------------------------------------------------------------
+avgo-20260902 (https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/avgo-20260902.htm)
+citeturn239view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/avgo-20260902.htm","lineno":null}); Total lines: 104
+L0: 0001730168FALSE00017301682026-09-022026-09-02
+L1: 
+L2:  |  |
+L3: 
+L4: UNITED STATES
+L5: 
+L6: SECURITIES AND EXCHANGE COMMISSION
+L7: 
+L8: Washington, D.C. 20549
+L9:  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L10:  |  |  |  |
+L11:  |  |  |  |
+L12: 
+L13: FORM 8-K
+L14: 
+L15:  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L16:  |  |  |  |
+L17: 
+L18: CURRENT REPORT
+L19: 
+L20: PURSUANT TO SECTION 13 OR 15(d)
+L21: 
+L22: OF THE SECURITIES EXCHANGE ACT OF 1934
+L23: 
+L24: Date of Report (Date of earliest event reported): September 2, 2026
+L25:  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L26:  |  |  |  |
+L27:  |  |  |  |
+L28: 
+L29:  Broadcom Inc.
+L30: (Exact Name of Registrant as Specified in Charter)
+L31: 
+L32: 
+L33:  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L34:  |  |  |  |
+L35:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L36: Delaware  | 001-38449  | 35-2617337
+L37: (State or other jurisdiction of incorporation)  | (Commission File Number)  | (I.R.S. Employer Identification No.)
+L38:  |  |  |
+L39:  |  |  | 3421 Hillview Avenue  |
+L40:  |  | Palo Alto,  | California  | 94304  |
+L41:  |  | (Address of principal executive offices including zip code)  |
+L42:  |  |  | (650)  | 427-6000  |  |
+L43:  |  | (Registrant’s telephone number, including area code)  |
+L44:  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L45:  |  |  |  |
+L46: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+L47:  |  |  |  |  |
+L48: ☐  | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+L49:  |
+L50: ☐  | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+L51:  |
+L52: ☐  | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+L53:  |
+L54: ☐  | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+L55:  |  |  |  |  |  |  |  |
+L56: Securities registered pursuant to Section 12(b) of the Act:
+L57: Title of Each Class  | Trading Symbol(s)  | Name of Each Exchange on Which Registered
+L58: Common Stock, $0.001 par value  | AVGO  | The NASDAQ Global Select Market
+L59:  |  |
+L60: 
+L61: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+L62: Emerging growth company ☐
+L63: 
+L64: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+L65:  |  |
+L66: 
+L67: * * *
+L68: 
+L69: Item 2.02    Results of Operations and Financial Condition.
+L70: On September 2, 2026, Broadcom Inc. (the “Company”) issued a press release announcing its unaudited financial results for the third quarter ended August 2, 2026.
+L71: 
+L72: A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+L73: 
+L74: The information in Item 2.02 of this Report and the press release attached hereto as Exhibit 99.1 are furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+L75: 
+L76: Item 8.01     Other Events.
+L77: On September 2, 2026, the Company announced that the Board of Directors has declared a quarterly cash dividend on the Company’s common stock of $0.65 per share. This dividend is payable on September 30, 2026 to common stockholders of record at the close of business (5:00 p.m., Eastern Time) on September 21, 2026.
+L78: 
+L79: Item 9.01    Financial Statements and Exhibits.
+L80: 
+L81: (d) Exhibits
+L82:  |  |  |  |  |  |  |  |
+L83: Exhibit No.  |  | Description
+L84:  |
+L85: cite0†99.1 |  | cite0†Press release issued by Broadcom Inc. dated cite0†September cite0†2 cite0†, 2026 .
+L86: 104  |  | Cover Page Interactive Data File (formatted as Inline XBRL).
+L87: 
+L88: 
+L89: 
+L90: * * *
+L91: 
+L92: SIGNATURE
+L93: 
+L94: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+L95: 
+L96: Date: September 2, 2026
+L97:  |  |  |  |  |  |  |  |
+L98:  |  |
+L99:  | Broadcom Inc.
+L100:  |  |
+L101:  | By:  | /s/ Amie Thuener
+L102:  |  | Amie Thuener
+L103:  |  | Chief Financial Officer
+

@@ -1,0 +1,577 @@
+Ouster Announces Upcoming Investor Events | Fri, 08/07/2026 - 08:00 (https://investors.ouster.com/news-releases/news-release-details/ouster-announces-upcoming-investor-events-1)
+citeturn206search0 [wordlim: 200] Published: last month; Crawled: yesterday; August 7, 2026 ... Event:  | Rosenblatt Securities' 6th Annual Age of AI Scaling Summit (Virtual)
+
+# Release Details
+
+## 
+
+Ouster Announces Upcoming Investor Events
+
+August 7, 2026
+
+PDF Version
+
+SAN FRANCISCO--(BUSINESS WIRE)--Aug. 7, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced that Ouster management will participate in the following investor events:
+
+Event:  | Oppenheimer 29th Annual Technology, Internet & Communications Conference (Virtual)
+Date:  | August 11, 2026
+Presentation:  | 2:55 p.m. ET / 11:55 a.m. PT
+Participants:  | Ken Gianella, CFO, and Chen Geng, SVP, Strategic Finance & Treasurer
+   |  
+Event:  | Rosenblatt Securities' 6th Annual Age of AI Scaling Summit (Virtual)
+Date:  | August 18, 2026
+Participants:  | Ken Gianella, CFO, and Chen Geng, SVP, Strategic Finance & Treasurer
+
+A webcast of the Oppenheimer conference presentation will be accessible from the investor relations section of the Company’s website at https://investors.ouster.com/news-events/events-presentations. Institutional investors interested in a meeting should contact their representative at either firm or email Ouster investor relations at [REDACTED_EMAIL].
+
+About Ouster
+
+Ouster (Nasdaq: OUST) is a leader in sensing and perception for Physical AI across industrial, robotics, automotive, and smart infrastructure. With a unified platform of high-performance digital lidar, cameras, AI compute, sensor fusion and perception software, and AI models, Ouster delivers solutions that improve quality of life in the physical world. Headquartered in San Francisco, CA, Ouster has a global presence serving thousands of customers with offices in the Americas, Europe, and Asia-Pacific. For more information about our products, visit www.ouster.com, contact our sales team, or connect with us on X or LinkedIn.--------------------------------------------------------------------------------
+Ouster Announces Results for Second Quarter 2026 | Thu, 08/06/2026 - 16:05 (https://investors.ouster.com/news-releases/news-release-details/ouster-announces-results-second-quarter-2026)
+citeturn206search1 [wordlim: 200] Published: last month; Crawled: last week; (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, announced financial results for the three months ended June 30, 2026. ... Adjusted EBITDA  | $  | (4,453  | )  |    | $  | (5,503  | )  |    | $  | (6,882  | )  |    | $  | (11,336  | )  |    | $  | (13,312  | )
+
+# Release Details
+
+Ouster Announces Results for Second Quarter 2026
+
+August 6, 2026
+
+Record product revenue, achieving 14th straight quarter of growth
+
+Lidar and camera shipments of more than 17,000 units
+
+SAN FRANCISCO--(BUSINESS WIRE)--Aug. 6, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, announced financial results for the three months ended June 30, 2026.
+
+“We delivered a strong second quarter, with $55 million in revenue and more than 17,000 total sensors shipped. These results reflect the strength of our unified sensing and perception platform and the continued momentum we have been seeing across our markets. Customers around the world have continued to scale their investments in Physical AI, and Ouster is well positioned to benefit as autonomy moves into more complex, real-world applications,” said Ouster CEO Angus Pacala.
+
+“The introduction of Rev8 was a pivotal moment for Ouster and the reaction from customers has been electric. Rev8’s native color and industry-leading performance are solidifying our market leadership and deepening relationships across key accounts. In addition to Rev8, the April launch of the ZED X Nano was the most successful launch in Stereolabs history. Our focus remains on providing the industry’s most performant products and solutions, dramatically simplifying system integration, and accelerating time to market for the world’s most innovative companies.”
+
+Second Quarter 2026 Highlights:
+
+  * $55 million in revenue, up 56% year over year and up 12% sequentially.
+  * Shipped more than 17,000 lidar and camera sensors for revenue, of which lidar was approximately 53% of the total.
+  * GAAP gross margin of 49%, up 400 bps year over year and up 600 bps sequentially.
+  * GAAP net loss of $18 million, an improvement of $2 million year over year and down $1 million sequentially.
+  * Non-GAAP gross margin^{1} of 53%, up 200 bps year over year and 700 bps sequentially.
+  * Adjusted EBITDA^{1} loss of $4 million, an improvement of $1 million year over year and $2 million sequentially.
+  * Cash, cash equivalents, restricted cash, and short-term investments of $263 million as of June 30, 2026.
+
+^{1} Adjusted EBITDA and non-GAAP gross margin are non-GAAP financial measures. See Non-GAAP Financial Measures for additional information and reconciliations of these measures to their respective most directly comparable financial measures calculated in accordance with U.S. GAAP.
+
+Revenue
+
+Ouster delivered second quarter revenue of $55 million, an increase of 56% year over year and 12% sequentially. Product revenue of $53 million was an increase of 51% year over year and 9% sequentially, primarily driven by customers in the industrial and smart infrastructure verticals for use cases in warehouse automation, yard logistics, and intelligent transportation. The Company shipped over 17,000 units - of which lidar was approximately 53% of the total.
+
+Gross Margin
+
+GAAP gross margin was 49%, compared with 45% in the second quarter of 2025 and 43% in the first quarter of 2026. Volume growth and operating efficiencies lifted profitability year over year. Non-GAAP gross margin was 53%, compared with 52% in the second quarter of 2025 and 46% in the first quarter of 2026. Non-GAAP gross margin excludes the impact of stock-based compensation expenses, and certain other items outside of ordinary operations.
+
+Third Quarter 2026 Outlook:
+
+For the third quarter of 2026, Ouster expects to achieve $54.5 million to $57.5 million in total revenue.
+
+Upcoming Investor Events
+
+Ouster management will participate in the following upcoming investor events:
+
+  * Oppenheimer 29th Annual Technology, Internet & Communications Conference - August 11, 2026 (Virtual)
+  * Rosenblatt Securities' 6th Annual Age of AI Scaling Summit - August 18, 2026 (Virtual)
+
+Conference Call Information
+
+Ouster will host a conference call and live webcast for analysts and investors at 5:00 p.m. ET today, August 6, 2026 to discuss its financial results and business outlook. Interested parties may listen to a live webcast of the conference call. Registration for the webcast can be completed by visiting the following website: https://edge.media-server.com/mmc/p/dgjwyrjv. The webcast will be available for replay for at least 30 days after the conference call on Ouster’s investor website at https://investors.ouster.com/.
+
+About Ouster
+
+Ouster (Nasdaq: OUST) is a leader in sensing and perception for Physical AI across industrial, robotics, automotive, and smart infrastructure. With a unified platform of high-performance digital lidar, cameras, AI compute, sensor fusion and perception software, and AI models, Ouster delivers solutions that improve quality of life in the physical world. Headquartered in San Francisco, CA, Ouster has a global presence serving thousands of customers with offices in the Americas, Europe, and Asia-Pacific. For more information about our products, visit www.ouster.com, contact our sales team, or connect with us on X or LinkedIn.
+
+--------------------------------------------------------------------------------
+Events and Presentations | Ouster, Inc. (https://investors.ouster.com/news-events/events-presentations)
+citeturn206search2 [wordlim: 200] Crawled: 2 weeks ago; August 6, 2026 5:00 PM EDT ... June 17, 2026 10:00 AM PDT
+
+# Events and Presentations
+
+## Latest Presentation
+
+August 11, 2026
+
+August 2026 Investor Presentation
+
+August 6, 2026
+
+Q2 2026 Earnings Presentation
+
+## Upcoming Events
+
+There are no upcoming events scheduled at this time.
+
+## Past Events
+
+Year [Select]
+
+[Input] [Input] [Input] [Input]
+
+Rosenblatt Securities' 6th Annual Age of AI Scaling Summit (Virtual)
+
+August 18, 2026
+
+Oppenheimer 29th Annual Technology, Internet & Communications Conference
+
+August 11, 2026
+
+Webcast
+
+Ouster Q2 2026 Earnings Call
+
+August 6, 2026 5:00 PM EDT
+
+Webcast
+
+Q2 2026 Earnings Presentation
+
+2026 Annual Meeting of Stockholders
+
+June 17, 2026 10:00 AM PDT
+
+Webcast
+
+Ouster Q1 2026 Earnings Call
+
+May 5, 2026 5:00 PM EDT
+
+Webcast
+
+Q1 2026 Earnings Presentation
+
+38th Annual Roth Conference
+
+March 24, 2026
+
+Location
+
+Laguna Nigel, CA
+
+Cantor Global Technology & Industrial Growth Conference
+
+March 10, 2026
+
+Location
+
+New York, NY
+
+Ouster Q4 2025 Earnings Call
+
+March 2, 2026 5:00 PM EST
+
+Webcast
+
+Q4 2025 Earnings Presentation
+
+Conference Call on Ouster's Acquisition of StereoLabs
+
+February 9, 2026 8:00 AM EST
+
+Webcast
+
+Ouster's Acquisition of StereoLabs Conference Call Presentation
+
+28th Annual Needham Growth Conference
+
+January 15, 2026 3:45 PM EST
+
+Webcast
+
+## Investor Contact
+
+Ouster, Inc.
+350 Treat Ave
+San Francisco, CA 94110
+
+drafts [REDACTED_EMAIL]
+
+## Shareholdings Information
+
+To report a change of address or lost stock certificate, or to request account information, please contact our transfer agent:
+
+Continental Stock Transfer & Trust Company
+Account Administration Address
+1 State Street – 30th Floor
+New York, NY 10004
+
+Tel: 800-509-5586 or 212-509-4000 (Outside the US)
+Email: [REDACTED_EMAIL]
+https://continentalstock.com/--------------------------------------------------------------------------------
+Ouster Announces Results for First Quarter 2026 (https://investors.ouster.com/node/11676/pdf)
+citeturn206search12 [wordlim: 200] Published: 3 months ago; Rosenblatt Securities 6th Annual Age of AI Scaling Summit – June 9, 2026 (virtual) ... by the Company’s Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2026, once filed, and as may be
+Second Quarter 2026 Outlook:
+For the second quarter of 2026, Ouster expects to achieve $49.5 million to $52.5 million in total revenue. This includes a full
+quarter of Stereolabs operations.
+Upcoming Investor Events
+Ouster management will participate in the following upcoming investor events:
+Craig-Hallum Annual Institutional Investor Conference – May 28, 2026 in Minneapolis
+Rosenblatt Securities 6th Annual Age of AI Scaling Summit – June 9, 2026 (virtual)
+TD Cowen Inaugural Disruptive Technology Summit – June 17, 2026 in New York City
+Conference Call Information
+Ouster will host a conference call and live webcast for analysts and investors at 5:00 p.m. ET today, May 5, 2026 to discuss its
+financial results and business outlook. Interested parties may listen to a live webcast of the conference call. Registration for the
+webcast can be completed by visiting the following website: https://edge.media-server.com/mmc/p/pt46y4as. The webcast will be
+available for replay for at least 30 days after the conference call on Ouster’s investor website at https://investors.ouster.com/.
+--------------------------------------------------------------------------------
+Ouster Announces Upcoming Investor Events | Wed, 03/04/2026 - 20:00 (https://investors.ouster.com/news-releases/news-release-details/ouster-announces-upcoming-investor-events-0)
+citeturn206search3 [wordlim: 200] Published: 7 months ago; Crawled: yesterday; March 4, 2026 ... Event:  |    | Cantor Global Technology & Industrial Growth Conference
+
+# Release Details
+
+## 
+
+Ouster Announces Upcoming Investor Events
+
+March 4, 2026
+
+PDF Version
+
+SAN FRANCISCO--(BUSINESS WIRE)--Mar. 4, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced that Ouster management will participate in the following investor events:
+
+Event:  |    | Cantor Global Technology & Industrial Growth Conference
+Date:  |    | March 10, 2026
+Location:  |    | New York, NY
+Participants:  |    | Ken Gianella, CFO, and Chen Geng, SVP, Strategic Finance & Treasurer
+Event:  |    | 38th Annual Roth Conference
+Date:  |    | March 24, 2026
+Location:  |    | Laguna Niguel, CA
+Participants:  |    | Ken Gianella, CFO, and Chen Geng, SVP, Strategic Finance & Treasurer
+
+Institutional investors interested in a meeting should contact their representative at either firm or email Ouster investor relations at [REDACTED_EMAIL].
+
+About Ouster
+
+Ouster (Nasdaq: OUST) is a leader in sensing and perception for Physical AI across industrial, robotics, automotive, and smart infrastructure. With a unified platform of high-performance digital lidar, cameras, AI compute, sensor fusion and perception software, and AI models, Ouster delivers solutions that improve quality of life in the physical world. Headquartered in San Francisco, CA, Ouster has a global presence serving thousands of customers with offices in the Americas, Europe, and Asia-Pacific. For more information about our products, visit www.ouster.com, contact our sales team, or connect with us on X or LinkedIn.--------------------------------------------------------------------------------
+Investor Relations | Ouster, Inc. (https://investors.ouster.com/)
+citeturn206search4 [wordlim: 200] Crawled: last week; September 14, 2026Flyability and Ouster Showcase Proven Lidar Partnership at INTERGEO 2026 to Elevate Next-Gen Industrial Inspection
+Headquartered in San Francisco, CA, Ouster has a global presence serving thousands of customers with offices in the Americas, Europe, and Asia-Pacific.
+
+## News Releases
+
+Ouster Raises the Bar on High-Altitude Drone Mapping with The World’s First Native Color Lidar and 2x Accuracy & Precision Breakthrough on REV8 OS1 Max
+
+September 14, 2026
+
+Flyability and Ouster Showcase Proven Lidar Partnership at INTERGEO 2026 to Elevate Next-Gen Industrial Inspection
+
+September 9, 2026
+
+GeoCue Elevates Survey-Grade Drone Mapping with Ouster's BABA-Compliant Native Color Rev8 Digital Lidar
+
+September 2, 2026
+
+## Recent Reports
+
+2026 Proxy Statement
+
+2025 Annual Report
+
+2025 Proxy Statement
+
+2024 Annual Report
+
+2024 Proxy Statement
+
+## Q2 2026 Results
+
+  * Earnings Release
+
+  * Financial Statement
+
+  * Webcast
+
+  * Presentation
+
+  * All Quarterly Results
+
+## Events
+
+There are no upcoming events scheduled at this time.
+
+### Past Events
+
+Rosenblatt Securities' 6th Annual Age of AI Scaling Summit (Virtual)
+
+August 18, 2026
+
+  * All Events
+
+## Ouster’s Commitment to Sustainability
+
+Ouster and Sustainability
+
+Ouster’s mission is to build a safer and more sustainable future through our high-resolution digital lidar sensors for the automotive, industrial, smart infrastructure, and robotics industries. Today, lidar is best known for being a critical sensor enabling autonomous vehicles. However, we believe that lidar will become a ubiquitous sensing modality. It is the building block of a new world in which advanced infrastructure and autonomous machines can see and understand their surroundings, improving safety and quality of life while driving efficiency, sustainability, and resiliency.
+
+Our goal is to execute on our long-term strategic priorities alongside an integrated and ambitious Sustainability Program – built on the tenets of Environmental, Social, and Governance (ESG) – that can produce growth and profitability for employees and investors while having a positive impact on our communities and our planet.
+
+  * Learn More
+
+## Investor Contact
+
+Ouster, Inc.
+350 Treat Ave
+San Francisco, CA 94110
+
+drafts [REDACTED_EMAIL]
+
+## Shareholdings Information
+
+To report a change of address or lost stock certificate, or to request account information, please contact our transfer agent:
+
+Continental Stock Transfer & Trust Company
+Account Administration Address
+1 State Street – 30th Floor
+New York, NY 10004
+
+Tel: 800-509-5586 or 212-509-4000 (Outside the US)
+Email: [REDACTED_EMAIL]
+https://continentalstock.com/--------------------------------------------------------------------------------
+Ouster Announces Upcoming Investor Events (https://investors.ouster.com/node/11391/pdf)
+citeturn206search13 [wordlim: 200] Published: 6 months ago; March 4, 2026 ... Event:
+Ouster Announces Upcoming Investor Events
+March 4, 2026
+SAN FRANCISCO--(BUSINESS WIRE)--Mar. 4, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in
+sensing and perception for Physical AI, today announced that Ouster management will participate in the following investor events:
+Event:
+ Cantor Global Technology & Industrial Growth Conference
+Date:
+ March 10, 2026
+Location:
+ New York, NY
+Participants:
+ Ken Gianella, CFO, and Chen Geng, SVP, Strategic Finance & Treasurer
+Event:
+ 38th Annual Roth Conference
+Date:
+ March 24, 2026
+Location:
+ Laguna Niguel, CA
+Participants:
+ Ken Gianella, CFO, and Chen Geng, SVP, Strategic Finance & Treasurer
+Institutional investors interested in a meeting should contact their representative at either firm or email Ouster investor relations at
+[REDACTED_EMAIL].
+About Ouster
+Ouster (Nasdaq: OUST) is a leader in sensing and perception for Physical AI across industrial, robotics, automotive, and smart
+infrastructure. With a unified platform of high-performance digital lidar, cameras, AI compute, sensor fusion and perception
+software, and AI models, Ouster delivers solutions that improve quality of life in the physical world. Headquartered in San
+Francisco, CA, Ouster has a global presence serving thousands of customers with offices in the Americas, Europe, and
+Asia-Pacific. For more information about our products, visit www.ouster.com, contact our sales team, or connect with us on X or
+LinkedIn.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20260304709100/en/
+For Investors
+[REDACTED_EMAIL]
+For Media
+[REDACTED_EMAIL]
+Source: Ouster, Inc.--------------------------------------------------------------------------------
+News Releases | Ouster, Inc. (https://investors.ouster.com/news-events/news-releases)
+citeturn206search5 [wordlim: 200] Crawled: 2 weeks ago; 14, 2026-- Ouster, Inc. ... (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced that Ouster management will participate in the following investor events: Event: Oppenheimer 29th Annual Technology, Internet
+
+# News Releases
+
+Ouster Raises the Bar on High-Altitude Drone Mapping with The World’s First Native Color Lidar and 2x Accuracy & Precision Breakthrough on REV8 OS1 Max
+
+Purpose-built for aerial survey operators seeking native RGB colorization and survey-grade performance on an NDAA §164 and BABA compliant digital lidar platform SAN FRANCISCO & MUNICH--(BUSINESS WIRE)--Sep. 14, 2026-- Ouster, Inc. (Nasdaq: OUST), a leader in sensing and perception for Physical AI,
+
+September 14, 2026
+
+Flyability and Ouster Showcase Proven Lidar Partnership at INTERGEO 2026 to Elevate Next-Gen Industrial Inspection
+
+Building on five years of joint innovation, Flyability evaluates Ouster’s new REV8 digital lidar to unlock native color 3D mapping in hazardous and GPS-denied industrial environments. SAN FRANCISCO & PAUDEX, Switzerland --(BUSINESS WIRE)--Sep. 9, 2026-- Ouster, Inc.
+
+September 9, 2026
+
+PDF Version
+
+GeoCue Elevates Survey-Grade Drone Mapping with Ouster's BABA-Compliant Native Color Rev8 Digital Lidar
+
+Pairing survey-grade precision with Ouster’s 256-channel Rev8 OS1 Max lidar, GeoCue’s latest TrueView lineup sets a new benchmark for U.S. drone surveying SAN FRANCISCO --(BUSINESS WIRE)--Sep. 2, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for
+
+September 2, 2026
+
+PDF Version
+
+GUSS Automation, a wholly owned John Deere Subsidiary, Plans to Advance Precision Autonomy in High-Value Crops with Ouster's Next-Generation REV8 Digital Lidar
+
+Unlocking Precision and Safety in Autonomous Agriculture: GUSS Plans Deployment of Rev8 to Revolutionize Orchard Operations SAN FRANCISCO --(BUSINESS WIRE)--Aug. 26, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced
+
+August 26, 2026
+
+PDF Version
+
+Trossen Robotics and Stereolabs, an Ouster Subsidiary, Partner to Put High-Fidelity Stereo Vision at the Heart of Physical AI Data Collection
+
+Trossen's new lineup of Physical AI platforms comes equipped with a Stereolabs ZED X Mini scene camera and dual ZED X Nano wrist cameras, giving robot-learning teams synchronized, training-grade visual data out of the box SAN FRANCISCO & DOWNERS GROVE, Ill. --(BUSINESS WIRE)--Aug.
+
+August 18, 2026
+
+PDF Version
+
+Ouster BlueCity with REV8 Lidar Wins Multimillion-Dollar Utah Traffic Modernization Expansion
+
+Econolite partnership leverages world's first native color digital lidar to expand Ouster BlueCity across 160 intersections with up to 500-foot advance detection for optimized mobility and enhanced safety. SAN FRANCISCO --(BUSINESS WIRE)--Aug. 11, 2026-- Ouster, Inc.
+
+August 11, 2026
+
+PDF Version
+
+Ouster Announces Upcoming Investor Events
+
+SAN FRANCISCO --(BUSINESS WIRE)--Aug. 7, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced that Ouster management will participate in the following investor events: Event: Oppenheimer 29th Annual Technology, Internet
+
+August 7, 2026
+
+PDF Version
+
+Ouster Announces Results for Second Quarter 2026
+
+Record product revenue, achieving 14th straight quarter of growth Lidar and camera shipments of more than 17,000 units SAN FRANCISCO --(BUSINESS WIRE)--Aug. 6, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, announced financial
+
+August 6, 2026
+
+PDF Version
+
+Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+
+A veteran leader at Google, Lyft, GM, and Nest, Fullove brings world-class, high-performance organizational DNA to Ouster SAN FRANCISCO --(BUSINESS WIRE)--Jul. 23, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced the
+
+July 23, 2026
+
+PDF Version
+
+Ouster Announces Date for Second Quarter 2026 Earnings Call
+
+Company to Report Q2 2026 Results on August 6, 2026 SAN FRANCISCO --(BUSINESS WIRE)--Jul. 14, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced that it will report its financial results for the quarter ended June 30,
+
+July 14, 2026
+
+PDF Version
+
+Displaying 1 - 10 of 188
+
+## Investor Contact
+
+Ouster, Inc.
+350 Treat Ave
+San Francisco, CA 94110
+
+drafts [REDACTED_EMAIL]
+
+## Shareholdings Information
+
+To report a change of address or lost stock certificate, or to request account information, please contact our transfer agent:
+
+Continental Stock Transfer & Trust Company
+Account Administration Address
+1 State Street – 30th Floor
+New York, NY 10004
+
+Tel: 800-509-5586 or 212-509-4000 (Outside the US)
+Email: [REDACTED_EMAIL]
+https://continentalstock.com/--------------------------------------------------------------------------------
+Ouster Announces Results for Fourth Quarter and Full Year 2025 | Mon, 03/02/2026 - 16:10 (https://investors.ouster.com/news-releases/news-release-details/ouster-announces-results-fourth-quarter-and-full-year-2025)
+citeturn206search6 [wordlim: 200] Published: 7 months ago; Crawled: 3 days ago; First Quarter 2026 Outlook:For the first quarter of 2026, Ouster expects to achieve $45 to $48 million in total revenue.
+
+First Quarter 2026 Outlook:
+
+For the first quarter of 2026, Ouster expects to achieve $45 to $48 million in total revenue. This includes approximately 7 weeks of Stereolabs operations.
+
+Ouster remains laser focused on maintaining its path to profitability and expects the Stereolabs acquisition to be accretive to that path. Taking into consideration Stereolabs’ 2025 results, Ouster remains confident in its long-term financial framework of annual revenue growth of 30% to 50%, GAAP gross margins of 35% to 40% and well controlled GAAP operating expense growth, which is estimated at 5-8% from its 2025 levels. This framework excludes the revenue and gross margin impact of royalties of approximately $23 million in 2025, which were primarily one time.
+
+Upcoming Investor Events
+
+Ouster management will participate in the following upcoming investor events:
+
+  * Cantor Global Technology & Industrial Growth Conference – March 10
+  * 38th Annual ROTH Conference – March 24
+
+Conference Call Information
+
+Ouster will host a conference call and live webcast for analysts and investors at 5:00 p.m. ET today, March 2, 2026 to discuss its financial results and business outlook.
+
+Interested parties may listen to a live webcast of the conference call. Registration for the webcast can be completed by visiting the following website: https://edge.media-server.com/mmc/p/yvxarmrm. The webcast will be available for replay for at least 30 days after the conference call on Ouster’s investor website at https://investors.ouster.com/.
+
+--------------------------------------------------------------------------------
+Form 8-K for Ouster INC filed 03/02/2026 (https://investors.ouster.com/static-files/1fae7a5a-f85b-44c8-b1a1-569826811cfc)
+citeturn206search14 [wordlim: 200] Published: 7 months ago; First Quarter 2026 Outlook:For the first quarter of 2026, Ouster expects to achieve $45 to $48 million in total revenue.
+First Quarter 2026 Outlook:
+For the first quarter of 2026, Ouster expects to achieve $45 to $48 million in total revenue. This includes approximately 7 weeks of Stereolabs
+operations.
+Ouster remains laser focused on maintaining its path to profitability and expects the Stereolabs acquisition to be accretive to that path.
+Taking into
+consideration Stereolabs’ 2025 results, Ouster remains confident in its long-term financial framework of annual revenue growth of 30% to 50%, GAAP
+gross margins of 35% to 40% and well controlled GAAP operating expense growth, which
+is estimated at 5-8% from its 2025 levels. This framework
+excludes the revenue and gross margin impact of royalties of approximately $23 million in 2025, which were primarily one time.
+Upcoming Investor Events
+Ouster management will
+participate in the following upcoming investor events:
+ 
+•
+  Cantor Global Technology & Industrial Growth Conference – March 10
+ 
+•
+  38th Annual ROTH Conference – March 24
+Conference Call Information
+Ouster will host a
+--------------------------------------------------------------------------------
+Ouster Announces Results for Fourth Quarter and Full Year 2025 (https://investors.ouster.com/node/11361/pdf)
+citeturn206search15 [wordlim: 200] Published: 3 months ago; First Quarter 2026 Outlook:For the first quarter of 2026, Ouster expects to achieve $45 to $48 million in total revenue.
+stock-based compensation expenses, and certain other items outside of ordinary operations.
+First Quarter 2026 Outlook:
+For the first quarter of 2026, Ouster expects to achieve $45 to $48 million in total revenue. This includes approximately 7 weeks of
+Stereolabs operations.
+Ouster remains laser focused on maintaining its path to profitability and expects the Stereolabs acquisition to be accretive to that
+path. Taking into consideration Stereolabs’ 2025 results, Ouster remains confident in its long-term financial framework of annual
+revenue growth of 30% to 50%, GAAP gross margins of 35% to 40% and well controlled GAAP operating expense growth, which
+is estimated at 5-8% from its 2025 levels. This framework excludes the revenue and gross margin impact of royalties of
+approximately $23 million in 2025, which were primarily one time.
+Upcoming Investor Events
+Ouster management will participate in the following upcoming investor events:
+Cantor Global Technology & Industrial Growth Conference – March 10
+38th Annual ROTH Conference – March 24
+--------------------------------------------------------------------------------
+Ouster, Inc. Announces Pricing of Public Offering of Common Stock | Thu, 07/02/2026 - 06:30 (https://investors.ouster.com/news-releases/news-release-details/ouster-inc-announces-pricing-public-offering-common-stock)
+citeturn206search7 [wordlim: 200] Published: 3 months ago; Crawled: 2 days ago; July 2, 2026 ... 2, 2026-- Ouster, Inc.
+
+# Release Details
+
+Ouster, Inc. Announces Pricing of Public Offering of Common Stock
+
+July 2, 2026
+
+PDF Version
+
+SAN FRANCISCO--(BUSINESS WIRE)--Jul. 2, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced the pricing of an underwritten public offering of 3,621,876 shares of the Company’s common stock (the “Offering”). The shares of common stock are being sold at a public offering price of $55.22 per share, before underwriting discounts and commissions. All of the shares in the Offering are being sold by the Company. The gross proceeds to Ouster from the Offering are expected to be approximately $200.0 million, before deducting underwriting discounts and commissions and other offering expenses. The Company has granted the underwriter of the Offering a 30-day option to purchase up to an additional 543,281 shares of common stock at the public offering price, less the underwriting discounts and commissions. The Offering is expected to close on or about July 6, 2026, subject to the satisfaction of customary closing conditions.
+--------------------------------------------------------------------------------
+Ouster BlueCity with REV8 Lidar Wins Multimillion-Dollar Utah Traffic Modernization Expansion | Tue, 08/11/2026 - 06:00 (https://investors.ouster.com/news-releases/news-release-details/ouster-bluecity-rev8-lidar-wins-multimillion-dollar-utah-traffic)
+citeturn206search8 [wordlim: 200] Published: last month; Crawled: 4 days ago; August 11, 2026
+Source: Ouster, Inc.--------------------------------------------------------------------------------
+Flyability and Ouster Showcase Proven Lidar Partnership at INTERGEO 2026 to Elevate Next-Gen Industrial Inspection | Wed, 09/09/2026 - 07:00 (https://investors.ouster.com/news-releases/news-release-details/flyability-and-ouster-showcase-proven-lidar-partnership-intergeo)
+citeturn206search9 [wordlim: 200] Published: 3 weeks ago; Crawled: last week; Flyability and Ouster Showcase Proven Lidar Partnership at INTERGEO 2026 to Elevate Next-Gen Industrial Inspection ... (Nasdaq: OUST), a leader in sensing and perception for Physical AI, and Flyability, a pioneer in confined-space inspection and mapping, will showcase their long-standing technology collaboration at INTERGEO 2026, taking place September 15–17 in Munich, Germany.
+
+# Release Details
+
+Flyability and Ouster Showcase Proven Lidar Partnership at INTERGEO 2026 to Elevate Next-Gen Industrial Inspection
+
+September 9, 2026
+
+Building on five years of joint innovation, Flyability evaluates Ouster’s new REV8 digital lidar to unlock native color 3D mapping in hazardous and GPS-denied industrial environments.
+
+SAN FRANCISCO & PAUDEX, Switzerland--(BUSINESS WIRE)--Sep. 9, 2026-- Ouster, Inc. (Nasdaq: OUST), a leader in sensing and perception for Physical AI, and Flyability, a pioneer in confined-space inspection and mapping, will showcase their long-standing technology collaboration at INTERGEO 2026, taking place September 15–17 in Munich, Germany.
+
+Image: Elios 3 with Ouster lidar navigating a dark, GPS-denied sewer tunnel
+
+Elios 3 with Ouster lidar navigating a dark, GPS-denied sewer tunnel
+
+Flyability will join Ouster at Booth B5I018 in Hall B5, where the companies will demonstrate how the combination of Flyability’s collision-tolerant Elios 3 drone and Ouster’s digital lidar enables industrial teams to capture accurate 3D data in environments that are difficult to access with conventional surveying equipment and unsafe for people to enter.
+--------------------------------------------------------------------------------
+Ouster Completes New Jersey DOT Deployment of Ouster BlueCity Ahead of 2026 FIFA World Cup | Tue, 06/09/2026 - 06:00 (https://investors.ouster.com/news-releases/news-release-details/ouster-completes-new-jersey-dot-deployment-ouster-bluecity-ahead)
+citeturn206search10 [wordlim: 200] Published: 3 months ago; Crawled: today; Ouster Completes New Jersey DOT Deployment of Ouster BlueCity Ahead of 2026 FIFA World CupJune 9, 2026
+--------------------------------------------------------------------------------
+Ouster BlueCity Unveils 500-Foot Advanced Detection with REV8 Native Color Lidar, Defining a New Era for Intelligent Transportation Systems | Wed, 06/10/2026 - 07:00 (https://investors.ouster.com/news-releases/news-release-details/ouster-bluecity-unveils-500-foot-advanced-detection-rev8-native)
+citeturn206search11 [wordlim: 200] Published: 3 months ago; Crawled: yesterday; June 10, 2026 ... 10, 2026-- Ouster, Inc. ... This breakthrough capability provides unmatched situational awareness, including precise, high-fidelity digital traffic twins, simplified zone set-up, and more intuitive event analysis through improved color visualization.
+

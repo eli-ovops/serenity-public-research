@@ -1,0 +1,409 @@
+Astera Labs Second Quarter 2026 Earnings Call - Astera Labs (https://ir.asteralabs.com/events/event-details/astera-labs-second-quarter-2026-earnings-call)
+citeturn143search0 [wordlim: 200] Published: last month; Crawled: yesterday; ## Astera Labs Second Quarter 2026 Earnings Call
+
+# Event Details
+
+## Astera Labs Second Quarter 2026 Earnings Call
+
+August 4, 2026 4:30 PM EDT
+
+Click here for webcast--------------------------------------------------------------------------------
+Investor Relations - Astera Labs (https://ir.asteralabs.com/)
+citeturn143search1 [wordlim: 200] Crawled: last week; Discover more at www.asteralabs.com. ... Astera Labs Reports Second Quarter 2026 Financial Results
+
+# Investor Relations
+
+Latest Release
+
+## Our Mission
+
+Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs’ Intelligent Connectivity Platform integrates CXL®, Ethernet, NVLink Fusion, PCIe®, and UALink™ semiconductor-based technologies with the company’s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company’s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com.
+
+## News Releases
+
+September 15, 2026
+
+Astera Labs Bolsters Leo Smart Memory Controller Family for Agentic AI and General-Purpose Cloud Workloads
+
+September 1, 2026
+
+Astera Labs to Participate in the Citi 2026 Global TMT Conference
+
+August 4, 2026
+
+Astera Labs Reports Second Quarter 2026 Financial Results
+
+All News Releases
+
+## Events
+
+More events are coming soon.
+
+All Events
+
+## Recent Reports
+
+More information is coming soon.
+
+All Reports--------------------------------------------------------------------------------
+News Releases - Astera Labs (https://ir.asteralabs.com/news-events/news-releases)
+citeturn143search2 [wordlim: 200] Crawled: 2 weeks ago; Astera Labs Reports Second Quarter 2026 Financial Results ... Astera Labs Announces Conference Call to Review Second Quarter 2026 Financial Results
+
+# News Releases
+
+September 15, 2026
+
+Astera Labs Bolsters Leo Smart Memory Controller Family for Agentic AI and General-Purpose Cloud Workloads
+
+As high-value AI applications drive explosive memory-footprint growth amid tight supply, new connectivity architectures enhance optimal memory utilization and reuse Highlights New Leo X-Series optimizes token economics: Paired with Astera Labs’ Scorpio X-Series Fabric Switches, Leo X-Series enables
+
+Read More
+
+September 1, 2026
+
+Astera Labs to Participate in the Citi 2026 Global TMT Conference
+
+SAN JOSE, Calif., Sept. 01, 2026 (GLOBE NEWSWIRE) -- Astera Labs, Inc. (Nasdaq: ALAB), a leader in semiconductor-based connectivity solutions for rack-scale AI infrastructure, today announced that it will participate in the Citi 2026 Global TMT Conference on Sept. 9, 2026.
+
+Read More
+
+August 4, 2026
+
+Astera Labs Reports Second Quarter 2026 Financial Results
+
+Record quarterly revenue of $392.4 million, up 27% QoQ and up 104% year-over-year Q2 revenue strength reflects diversified growth across AI fabrics and signal conditioning Q3 revenue inflection to be driven by Scorpio™ X-Series 320-lane fabric switch production ramp SAN JOSE, Calif., Aug.
+
+Read More
+
+July 21, 2026
+
+Astera Labs Expands Taurus Family with Industry’s First OCP-Standard Footprint Compatible 3.2T Smart Retimers and Smart Redrivers
+
+Unified COSMOS stack helps customers accelerate time to market with real-time link observability and advanced diagnostic features News Highlights: Expanded Taurus family adds 3.2T Ethernet Smart Retimers and Smart Redrivers for scale-up and scale-out AI infrastructure.
+
+Read More
+
+July 8, 2026
+
+Astera Labs Announces Conference Call to Review Second Quarter 2026 Financial Results
+
+SAN JOSE, Calif., July 08, 2026 (GLOBE NEWSWIRE) -- Astera Labs, Inc. (Nasdaq: ALAB), a leader in semiconductor-based connectivity solutions for rack-scale AI infrastructure, today announced that it will release its financial results for the second quarter 2026 after the close of market on Tuesday,
+
+Read More
+
+June 2, 2026
+
+Astera Labs Expands Taiwan Operations to Accelerate Global AI Infrastructure Buildout
+
+Expanded Cloud-Scale Interop Lab and growing engineering presence to strengthen AI system integration with leading AI platform providers and Taiwan system manufacturers TAIPEI, Taiwan, June 03, 2026 (GLOBE NEWSWIRE) -- Astera Labs, Inc. (Nasdaq: ALAB), a leader in semiconductor-based connectivity
+
+Read More
+
+May 26, 2026
+
+Astera Labs to Host Press Conference, Live Demos, and Technical Talks at Computex 2026
+
+TAIPEI, Taiwan, May 26, 2026 (GLOBE NEWSWIRE) -- Astera Labs, Inc. (Nasdaq: ALAB), a leader in semiconductor-based connectivity solutions for rack-scale AI infrastructure, will host press and industry analysts at Computex 2026 in the company’s room at the Taipei Nangang Exhibition Center, Hall 1
+
+Read More
+
+May 12, 2026
+
+Astera Labs Announces Second Quarter 2026 Financial Conference Participation
+
+SAN JOSE, Calif., May 12, 2026 (GLOBE NEWSWIRE) -- Astera Labs, Inc. (Nasdaq: ALAB), a leader in semiconductor-based connectivity solutions for rack-scale AI infrastructure, today announced that it will participate in the following upcoming financial conferences during the second quarter of 2026:
+
+Read More
+
+May 5, 2026
+
+Astera Labs Reports First Quarter 2026 Financial Results
+
+Record quarterly revenue of $308.4 million, up 14% QoQ and up 93% year-over-year Market-leading PCIe 6 AI fabric and signal conditioning portfolio delivered strong growth during Q1 Now shipping newly announced Scorpio™ X-Series 320-lane AI Fabric switch and expanded Scorpio P-Series PCIe 6 switch
+
+Read More
+
+May 5, 2026
+
+Astera Labs Extends Leadership in Open, AI Scale-Up Networking with New 320 Lane Scorpio X-Series Smart Fabric Switch
+
+Now Shipping to Leading Hyperscalers, Scorpio Smart Fabric Switch Family Delivers Breakthrough Accelerator Utilization Through Memory-Semantic Based Open and Platform-Specific Protocols News Highlights:  Largest open, memory-semantic fabric switch: The Scorpio™ X-Series 320 Lane AI fabric switch,
+
+Read More
+
+Displaying 1 - 10 of 17--------------------------------------------------------------------------------
+Astera Labs Reports Second Quarter 2026 Financial Results (https://ir.asteralabs.com/node/9231/pdf)
+citeturn143search12 [wordlim: 200] Published: last month; Crawled: last month; Astera Labs Reports Second Quarter 2026 Financial Results ... “Astera Labs delivered outstanding Q2 2026 results, with record revenue of $392.4 million, up 27% sequentially and 104% year-over-year, driven by broad-based strength across our portfolio, including record quarterly revenue for our Aries product line,” said Jitendra Mohan, Astera Labs’ Chief Executive Officer.
+Astera Labs Reports Second Quarter 2026 Financial Results
+
+August 4, 2026
+
+- Record quarterly revenue of $392.4 million, up 27% QoQ and up 104% year-over-year
+- Q2 revenue strength reflects diversified growth across AI fabrics and signal conditioning
+- Q3 revenue inflection to be driven by Scorpio™ X-Series 320-lane fabric switch production ramp
+
+SAN JOSE, Calif., Aug. 04, 2026 (GLOBE NEWSWIRE) -- Astera Labs, Inc. (Nasdaq: ALAB), a leader in semiconductor-based connectivity solutions for rack-scale AI infrastructure, today announced preliminary financial results for the second quarter of fiscal year 2026, ended June 30, 2026.
+
+“Astera Labs delivered outstanding Q2 2026 results, with record revenue of $392.4 million, up 27% sequentially and 104% year-over-year, driven by broad-based strength across our portfolio, including record quarterly revenue for our Aries product line,” said Jitendra Mohan, Astera Labs’ Chief Executive Officer. “We expect momentum to accelerate in Q3 as Scorpio fabric switches become our largest product family, one quarter ahead of our prior expectations. This milestone will mark our evolution into a complete AI fabric infrastructure provider. New design wins across a broadening set of customers coupled with our expansion into optical interconnects and custom solutions further expand our growth opportunity in 2027 and beyond.”
+
+Second Quarter of Fiscal 2026 Financial Highlights  
+GAAP Financial Results:
+
+- Revenue of $392.4 million, up 27% sequentially and up 104% year-over-year
+- GAAP gross margin of 73.3%
+- GAAP operating income of $89.2 million
+- GAAP operating margin of 22.7%
+- GAAP net income of $153.1 million
+- GAAP diluted net income per share of $0.83
+
+Non-GAAP Financial Results (1):
+
+- Non-GAAP gross margin of 73.7%
+- Non-GAAP operating income of $153.5 million
+- Non-GAAP operating margin of 39.1%
+- Non-GAAP net income of $145.8 million
+- Non-GAAP diluted net income per share of $0.80
+
+(1) See “Reconciliation of GAAP to Non-GAAP Financial Measures” table included below.
+
+Q2 2026 and Recent Business Highlights
+
+- Expanded Taurus signal conditioning portfolio to include 3.2T Smart Retimers and Smart Redrivers for 224G Ethernet and UALink connectivity, purpose-built for AI infrastructure. --------------------------------------------------------------------------------
+Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend | Broadcom Inc. (https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial)
+citeturn143search3 [wordlim: 200] Published: 4 weeks ago; Crawled: last week; Q3 AI semiconductor revenue of $16.7 billion grew 221% year-over-year, and 54% quarter-over-quarter," said Hock Tan, President and CEO of Broadcom Inc. ... Broadcom Inc. will host a conference call to review its financial results for the third quarter of fiscal year 2026 and to discuss the business outlook today at 2:00 p.m. ... Image: Cision View original content:https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302868129.html
+
+Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend
+
+PDF Version
+
+  * Revenue of $29.6 billion for the third quarter, up 86 percent from the prior year period
+  * GAAP operating income of $16.0 billion for the third quarter; Non-GAAP operating income of $20.1 billion for the third quarter
+  * GAAP diluted EPS of $2.68 for the third quarter; Non-GAAP diluted EPS of $3.32 for the third quarter
+  * Cash from operations of $14.2 billion for the third quarter, less capital expenditures of $0.5 billion, resulted in $13.7 billion of free cash flow, or 46 percent of revenue
+  * Quarterly common stock dividend of $0.65 per share
+  * Fourth quarter fiscal year 2026 revenue guidance of approximately $34.8 billion, an increase of 93 percent from the prior year period
+  * Fourth quarter fiscal year 2026 Non-GAAP operating income guidance of approximately 66 percent of projected revenue ^{(1)}
+
+PALO ALTO, Calif., Sept. 2, 2026 /PRNewswire/ -- Broadcom Inc. (Nasdaq: AVGO), a global technology leader that designs, develops and supplies semiconductor and infrastructure software solutions, today reported financial results for its third quarter of fiscal year 2026, ended August 2, 2026, provided guidance for its fourth quarter of fiscal year 2026 and announced its quarterly dividend.
+--------------------------------------------------------------------------------
+NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 (https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/)
+citeturn143search4 [wordlim: 200] Published: last month; Crawled: yesterday; ### NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 ... 26, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. ... GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. ... Investor Relations  | Corporate Communications
+
+View all news
+
+### NVIDIA Announces Financial Results for Second Quarter Fiscal 2027
+
+August 26, 2026
+
+Download this Press Release PDF Format (opens in new window)
+
+  * Revenue of $96.2 billion, up 106% from a year ago
+  * Data Center revenue of $89.0 billion, up 117% from a year ago
+
+SANTA CLARA, Calif., Aug. 26, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively.
+
+“AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,” said Jensen Huang, founder and CEO of NVIDIA. “And demand is accelerating. This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. and around the world. --------------------------------------------------------------------------------
+Events & Presentations | Astera Labs (https://ir.asteralabs.com/news-events/events-presentations)
+citeturn143search5 [wordlim: 200] Crawled: last week; Astera Labs Second Quarter 2026 Earnings Call
+
+# Events & Presentations
+
+## Upcoming Events
+
+There are no upcoming events available at this time.
+
+## Past Events
+
+September 9, 2026 8:50 AM EDT
+
+Citi 2026 Global TMT Conference
+
+Click here for webcast
+
+August 4, 2026 4:30 PM EDT
+
+Astera Labs Second Quarter 2026 Earnings Call
+
+Click here for webcast
+
+June 3, 2026 10:50 AM PDT
+
+2026 Evercore Global TMT Conference
+
+Click here for webcast
+
+Location
+
+San Francisco, CA
+
+May 27, 2026 10:05 AM EDT
+
+TD Cowen's 54th Annual Technology, Media & Telecom Conference
+
+Click here for webcast
+
+Location
+
+New York, NY
+
+May 19, 2026 10:05 AM EDT
+
+J.P. Morgan 2026 Global Technology, Media and Communications Conference
+
+Click here for webcast
+
+Location
+
+Boston, MA
+
+May 5, 2026 4:30 PM EDT
+
+Astera Labs First Quarter 2026 Earnings Call
+
+Click here for webcast
+
+March 23, 2026 11:30 AM PDT
+
+38th Annual Roth Conference
+
+Click here for webcast
+
+March 3, 2026 1:05 PM PST
+
+Morgan Stanley Technology, Media & Telecom Conference
+
+Webcast
+
+February 10, 2026 4:30 PM EST
+
+Astera Labs Fourth Quarter 2025 Earnings Call
+
+Webcast
+
+Live Teleconference Information
+
+Primary # -
+
+Dial-in: (800) 715-9871 / Conference ID: 5908687
+
+January 14, 2026 10:15 AM EST
+
+28th Annual Needham Growth Conference
+
+Webcast--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1736297/000173629726000033/q226exhibit991.htm)
+citeturn143search6 [wordlim: 200] Published: last month; Crawled: last month; IR CONTACT: Leslie [REDACTED_EMAIL] Labs Reports Second Quarter 2026 Financial Results
+EX-99.1 2 q226exhibit991.htm EX-99.1 Document
+
+Exhibit 99.1
+
+IR CONTACT: Leslie Green
+
+[REDACTED_EMAIL]
+
+Astera Labs Reports Second Quarter 2026 Financial Results
+
+•Record quarterly revenue of $392.4 million, up 27% QoQ and up 104% year-over-year
+
+•Q2 revenue strength reflects diversified growth across AI fabrics and signal conditioning
+
+•Q3 revenue inflection to be driven by Scorpio™ X-Series 320-lane fabric switch production ramp
+
+SAN JOSE, CA, U.S. – August 4, 2026 – Astera Labs, Inc. (Nasdaq: ALAB), a leader in semiconductor-based connectivity solutions for rack-scale AI infrastructure, today announced preliminary financial results for the second quarter of fiscal year 2026, ended June 30, 2026.
+
+“Astera Labs delivered outstanding Q2 2026 results, with record revenue of $392.4 million, up 27% sequentially and 104% year-over-year, driven by broad-based strength across our portfolio, including record quarterly revenue for our Aries product line,” said Jitendra Mohan, Astera Labs’ Chief Executive Officer. --------------------------------------------------------------------------------
+August 27, 2026 - EXHIBIT 99.1 - 8-K: Current report | Marvell Technology, Inc. (MRVL) (https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000022/q227_8kx812026ex-991.htm)
+citeturn143search7 [wordlim: 200] Published: last month; Crawled: yesterday; (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today reported financial results for the second quarter of fiscal year 2027. ... “Marvell delivered record second-quarter fiscal 2027 revenue of $2.739 billion, up 37% year over year, driven by continued strong demand across our Data Center portfolio, where revenue growth accelerated to 46% year over year,” said Matt Murphy, Marvell’s Chairman and CEO. ... Interested parties may also join the live conference call via telephone by using the ‘Call me TM’ link provided in the press release on August 3, 2026, and on the Quarterly Earnings section of the Marvell Investor Relations website, to receive an instant automated call back.
+
+### Form: 8-K
+
+Current report
+
+August 27, 2026
+
+Exhibit 99.1
+
+Marvell Technology, Inc. Reports Second Quarter of Fiscal Year 2027
+
+Financial Results
+
+•Q2 Net Revenue: $2.739 billion, a new record, grew by 37% year-on-year
+
+•Q2 Gross Margin: 53.1% GAAP gross margin; 58.9% non-GAAP gross margin
+
+•Q2 Diluted income per share: $0.33 GAAP diluted income per share; $0.94 non-GAAP diluted income per share
+
+Santa Clara, Calif. (August 27, 2026) - Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today reported financial results for the second quarter of fiscal year 2027.
+
+Net revenue for the second quarter of fiscal 2027 was $2.739 billion, $39.0 million above the mid-point of the Company’s guidance provided on May 27, 2026.
+
+GAAP net income for the second quarter of fiscal 2027 was $308.0 million, or $0.33 per diluted share. Non-GAAP net income for the second quarter of fiscal 2027 was $865.9 million, or $0.94 per diluted share. Cash flow from operations for the second quarter was $605.5 million.
+--------------------------------------------------------------------------------
+Financial Results | Marvell Technology, Inc. (MRVL) (https://investor.marvell.com/financial-information/financial-results)
+citeturn143search8 [wordlim: 200] Crawled: 4 days ago; ### Q2 2027 ... Earnings ReleaseHTML PDF ... Quarter Ended May 2, 2026 ... Fiscal Year Ended Jan 31, 2026 ... Marvell to Acquire Celestial AI Information DeckPDF
+--------------------------------------------------------------------------------
+Investor Center | Broadcom Inc. (https://investors.broadcom.com/)
+citeturn143search9 [wordlim: 200] Crawled: 4 days ago; Broadcom Enabling AI Infrastructure Investor Meeting ... Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend
+--------------------------------------------------------------------------------
+8-K - 08/27/2026 - Marvell Technology, Inc. (https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000022/0001835632-26-000022.pdf)
+citeturn143search13 [wordlim: 200] Published: last month; “Marvell delivered record second-quarter fiscal 2027 revenue of $2.739 billion, up 37% year over year, driven by continued strong demand across our Data Center portfolio, where revenue growth accelerated to 46% year over year,” said Matt Murphy, Marvell’s Chairman and CEO. ... We look forward to showcasing these growth drivers and sharing Marvell’s long-term strategy for enabling the continued expansion of AI infrastructure at our Investor Day on October 6th, 2026.”
+--------------------------------------------------------------------------------
+Financial News | Broadcom Inc. (https://investors.broadcom.com/financial-information/financial-news-releases)
+citeturn143search10 [wordlim: 200] Crawled: last week; 05/04/26  | Broadcom Inc. to Announce Second Quarter Fiscal Year 2026 Financial Results on Wednesday, June 3, 2026
+--------------------------------------------------------------------------------
+Astera Labs Reports Second Quarter 2026 Financial Results - Astera Labs (https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-reports-second-quarter-2026-financial-results)
+citeturn143search11 [wordlim: 200] Published: last month; Crawled: last week; Astera Labs will host a conference call to review its financial results for the second quarter of 2026 and to discuss our financial outlook today at 1:30 p.m. ... The call will also be webcast and can be accessed at the Astera Labs website at https://ir.asteralabs.com/. ... Warrants contra revenue  |    | 12,313  |    |    |    | 2,136  |
+--------------------------------------------------------------------------------
+Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend (https://investors.broadcom.com/node/64671/pdf)
+citeturn143search14 [wordlim: 200] Published: 3 weeks ago; Crawled: 3 weeks ago; - Fourth quarter fiscal year 2026 Non-GAAP operating income guidance of approximately 66 percent of projected revenue (1) ... On June 30, 2026, the Company paid a cash dividend of $0.65 per share, totaling $3.1 billion. ... Broadcom Inc. will host a conference call to review its financial results for the third quarter of fiscal year 2026 and to discuss the business outlook today at 2:00 p.m. ... To Listen via Internet: The conference call can be accessed live online in the Investors section of the Broadcom website at https://investors.broadcom.com/.
+--------------------------------------------------------------------------------
+NVDA 2027 Q2 10-Q-2026-08-27-08-33 (https://investor.nvidia.com/files/doc_financials/2027/NVDA-2027-Q2-10Q-Final-including-exhibits.pdf)
+citeturn143search15 [wordlim: 200] Published: last month; Crawled: last month; Shipments of Data Center Hopper products to China during the second quarter of fiscal year 2027 were less than 1% of Data Center revenue.Edge Computing revenue was $7.2 billion, up 27% from a year ago and up 13% sequentially. ... Refer to Part II, Item 7, “Critical Accounting Policies and Estimates” of our Annual Report on Form 10-K for the fiscal year ended January 25, 2026.
+--------------------------------------------------------------------------------
+NVIDIA Q2 FY27 Earnings Discussion (https://www.reddit.com/r/AMD_Stock/comments/1vz2wze/nvidia_q2_fy27_earnings_discussion/)
+citeturn143reddit16 [wordlim: 200] Published: last month; Crawled: last month; * https://investor.nvidia.com/events-and-presentations/events-and-presentations/event-details/2026/NVIDIA-2nd-Quarter-FY27-Financial-Results/default.aspx ... * https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027
+--------------------------------------------------------------------------------
+NVIDIA 2nd Quarter FY27 Financial Results (August 26, 2026 02:00 PM PT) (https://www.reddit.com/r/amd_fundamentals/comments/1vz7omv/nvidia_2nd_quarter_fy27_financial_results_august/)
+citeturn143reddit17 [wordlim: 200] Published: last month; * https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027* https://investor.nvidia.com/events-and-presentations/events-and-presentations/event-details/2026/NVIDIA-2nd-Quarter-FY27-Financial-Results/default.aspx ... | Metric              | Street estimate | NVIDIA result / guide | Beat                 | ... https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
+--------------------------------------------------------------------------------
+NVIDIA Q1 FY27 Earnings Discussion (https://www.reddit.com/r/AMD_Stock/comments/1tirssy/nvidia_q1_fy27_earnings_discussion/)
+citeturn143reddit18 [wordlim: 200] Published: 4 months ago; * https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx ... * https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027 ... * https://www.fool.com/earnings/call-transcripts/2026/05/20/nvidia-nvda-q1-2027-earnings-transcript/
+--------------------------------------------------------------------------------
+NVIDIA Fiscal Q1 2027 Financial Result (https://www.reddit.com/r/nvidia/comments/1tiyi5e/nvidia_fiscal_q1_2027_financial_result/)
+citeturn143reddit19 [wordlim: 200] Published: 4 months ago; * Data Center revenue for the first quarter was a record $75.2 billion, up 92% from a year ago and up 21% sequentially, driven by the ramp of our Blackwell 300 products and demand for our InfiniBand, Spectrum-X™ Ethernet, and NVLink™ solutions. ... NVIDIA achieved progress since its previous earnings announcement in these areas: ... Outlook for the second quarter of fiscal 2027 is as follows: ... Biggest change in Fiscal Year 2027 is that NVIDIA is consolidating their financial reporting for every market segments outside Data Center into "Edge Computing".
+--------------------------------------------------------------------------------
+NVIDIA Fiscal Q2 2027 Financial Result (https://www.reddit.com/r/nvidia/comments/1vzgn7p/nvidia_fiscal_q2_2027_financial_result/)
+citeturn143reddit20 [wordlim: 200] Published: last month; **This is NVIDIA's Q2** **Fiscal Year 27 period** ... # Earnings Call - August 26 @ 5pm ET / 2pm PT ... * Edge Computing revenue for the second quarter was $7.2 billion, up 27% from a year ago and up 13% sequentially. ... Outlook for the third quarter of fiscal 2027 is as follows:
+--------------------------------------------------------------------------------
+NVIDIA Fiscal Q4 2026 Financial Result (https://www.reddit.com/r/nvidia/comments/1rerhfb/nvidia_fiscal_q4_2026_financial_result/)
+citeturn143reddit21 [wordlim: 200] Published: 7 months ago; NVIDIA fiscal year is from February to January. ... * Q2 Fiscal Year 26 = May, June, July 2025. ... Their "Fiscal Year 2027" is from calendar month February 2026 - January 2027 and will be split into 4 quarters:
+--------------------------------------------------------------------------------
+Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend (https://www.reddit.com/r/BroadcomStock/comments/1w5m0r5/broadcom_inc_announces_third_quarter_fiscal_year/)
+citeturn143reddit22 [wordlim: 200] Published: 3 weeks ago; * *Fourth quarter fiscal year 2026 Non-GAAP operating income guidance of approximately 66 percent of projected revenue* *^((1))* ... Q3 AI semiconductor revenue of $16.7 billion grew 221% year-over-year, and 54% quarter-over-quarter," said Hock Tan, President and CEO of Broadcom Inc.
+--------------------------------------------------------------------------------
+Strong AI chip demand fuels Nvidia's Q2 results well beyond Wall Street's expectations (https://apnews.com/article/dc8d556e709b50915cca9217a60b1991)
+citeturn143news23 [wordlim: 100] Published: last month; Strong AI chip demand fuels Nvidia's Q2 results well beyond Wall Street's expectations ... Nvidia's latest quarterly results once again blew past Wall Street's expectations as revenue for the computer chip company's high-end artificial intelligence chips soared, the latest sign that AI infrastructure spending remains strong. ... That compares to net income of $26.42 billion, or $1.08 per share, in the same quarter last year.Excluding certain items, earnings were $2.22 per share, well above the $2.09 per share consensus forecast by Wall Street analysts, according to FactSet.
+Strong AI chip demand fuels Nvidia's Q2 results well beyond Wall Street's expectations
+Date: Wed Aug 26 20:40:45 2026 UTC
+
+Nvidia's latest quarterly results once again blew past Wall Street's expectations as revenue for the computer chip company's high-end artificial intelligence chips soared, the latest sign that AI infrastructure spending remains strong.
+The company reported on Wednesday net income of $59.69 billion, or $2.46 per share, for the May-July period. That compares to net income of $26.42 billion, or $1.08 per share, in the same quarter last year.
+Excluding certain items, earnings were $2.22 per share, well above the $2.09 per share consensus forecast by Wall Street analysts, according to FactSet.
+Revenue more than doubled from a year earlier to $96.22 billion, surpassing analysts' average forecast of $92.27 billion. 
+"AI has reached its inflection point. It's doing useful work. Its tokens are productive and profitable. Now, compute is revenue," said CEO Jensen Huang in a statement.
+The Santa Clara, California, company's results have regularly cleared the bar set by analysts in the past three years, often by a wide margin, since Nvidia's high-end chips emerged as AI's best building blocks.
+--------------------------------------------------------------------------------
+NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 (https://www.reddit.com/r/stocks/comments/1vz8pnh/nvidia_announces_financial_results_for_second/)
+citeturn143reddit24 [wordlim: 200] Published: last month; 26, 2026 NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. ... During the second quarter of fiscal 2027, NVIDIA returned approximately $26.0 billion to shareholders in the form of shares repurchased and cash dividends. ...     The earnings report doesn't share data that shows they may be helping to finance some of the purchasing power that allows customers to buy their chips in the first place. ... * Calculation: ROIC = Net Operating Profit after Tax / Invested Capital = (Annualised Operating Income x (1 - Tax percentage)) / (Stakeholder Equity + Long Term Debt - Cash and marketable securities) = (4 x 63.7 x (1 - 0.165)) / (229 + 32.4 - 56.6) = 212.8/204.8 = 104%
+--------------------------------------------------------------------------------
+NVIDIA 3rd Quarter FY26 Financial Results (November 19, 2025 2:00 PM PST) (https://www.reddit.com/r/amd_fundamentals/comments/1p1k6fm/nvidia_3rd_quarter_fy26_financial_results/)
+citeturn143reddit25 [wordlim: 200] Published: 10 months ago; * https://investor.nvidia.com/financial-info/quarterly-results/default.aspx* https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026 ... (Jan 2026) | Current Year (2026) | Next Year (2027) |
+--------------------------------------------------------------------------------
+NVIDIA Q2 FY26 Earnings Discussion (https://www.reddit.com/r/AMD_Stock/comments/1n1mo58)
+citeturn143reddit26 [wordlim: 200] Published: 1.1 years ago; Crawled: last year; * https://investor.nvidia.com/events-and-presentations/events-and-presentations/event-details/2025/NVIDIA-2nd-Quarter-FY26-Financial-Results/default.aspx ... * https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026
+--------------------------------------------------------------------------------
+$MRVL 2027-Q2 Earnings Call Summary (Aug 27, 2026) (https://www.reddit.com/r/earningsdigest/comments/1w1l9wl/mrvl_2027q2_earnings_call_summary_aug_27_2026/)
+citeturn143reddit27 [wordlim: 200] Published: last month; Marvell Technology reported strong second quarter fiscal 2027 results with record revenue of approximately $2.74 billion, up 37% year-over-year and exceeding analyst estimates. ... Keep an eye on upcoming investor day (October 6) for detailed insights into long-term revenue projections, margin targets, and the scope of new programs, especially relating to the large hyperscaler agreements.
+--------------------------------------------------------------------------------
+Q3 Operating leverage visible in key numbers: 👉 AVGO Total Revenue up by 85.5% YoY ✅ … AVGO Operating Income up by 163.4% YoY ✅ … AVGO Net Income up by 216.14% YoY ✅ … AVGO Free Cash Flow up by 94.5% YoY ✅ (https://www.reddit.com/r/BroadcomStock/comments/1w5ppls/q3_operating_leverage_visible_in_key_numbers_avgo/)
+citeturn143reddit28 [wordlim: 200] Published: 3 weeks ago; https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302868129.html ... Q3 AI semiconductor revenue of $16.7 billion grew 221% year-over-year, and 54% quarter-over-quarter," said Hock Tan, President and CEO of Broadcom Inc.

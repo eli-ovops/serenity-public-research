@@ -1,0 +1,175 @@
+CPI Home : U.S. Bureau of Labor Statistics (https://www.bls.gov/cpi/)
+citeturn459search0 [wordlim: 200] Crawled: today; Employment Cost Index (ECI): +0.9% in 2nd Qtr of 2026 ... In September, the Consumer Price Index for All Urban Consumers rose 0.6 percent, seasonally adjusted (SA), and rose 3.7 percent over the year, not seasonally adjusted (NSA).
+
+# CPI Home
+
+The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Indexes are available for the U.S. and various geographic areas. Average price data for select utility, automotive fuel, and food items are also available.
+
+## Charts
+
+### 12-month percentage change, Consumer Price Index, selected categories, September 2026, not seasonally adjusted
+
+Bar chart with 4 bars.
+
+Click on columns to drill down
+
+The chart has 1 X axis displaying categories.
+
+The chart has 1 Y axis displaying Percent. Data ranges from 2.5 to 20.4.
+
+  * End of interactive chart.
+
+Show table
+
+Hide table
+
+12-month percentage change, Consumer Price Index, selected categories, September 2026, not seasonally adjusted
+Category  | 12-month percent change, Sep 2026
+--- | ---
+All items  | 3.7%
+Food  | 2.5%
+Food at home  | 1.8%
+Cereals and bakery products  | 2.1%
+Meats, poultry, fish, and eggs  | 0.3%
+Dairy and related products  | -0.7%
+--------------------------------------------------------------------------------
+hsy-20260628 (https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/hsy-20260628.htm)
+citeturn459search1 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Net sales were $2,787.3 million in the second quarter of 2026 compared to $2,614.7 million in the same period of 2025, an increase of $172.6 million, or 6.6%. ... SM&A expenses, excluding advertising and related consumer marketing, increased 6.0% in the second quarter of 2026, driven by higher capability and technology investments, partially offset by lower compensation and benefit costs, as well as net savings related to our AAA Initiative versus the prior year.
+Results of Operations - Second Quarter 2026 vs. Second Quarter 2025
+
+Net Sales
+
+Net sales were $2,787.3 million in the second quarter of 2026 compared to $2,614.7 million in the same period of 2025, an increase of $172.6 million, or 6.6%. The net sales increase reflects a favorable price realization of approximately 12%, primarily related to pricing actions within the North America Confectionery and International segments. Additionally, the 2025 acquisition of LesserEvil contributed approximately a 3% benefit. The increase was partially offset by a volume decrease of approximately 8%, primarily driven by volume declines in North America Confectionery and International segments, which more than offset the volume growth in the North America Salty Snacks segment. There was minimal impact from foreign currency exchange rates.
+
+Key U.S. Marketplace Metrics
+
+For the second quarter of 2026, our total U.S. retail takeaway decreased 5.4% in the expanded multi-outlet combined plus convenience store channels (MULO+ w/ Convenience), which includes candy, mint, gum, salty snacks and grocery items. --------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/95029/000117494726000725/ex99-1.htm)
+citeturn459search2 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Delivered Second Quarter Net Sales of $158.1 Million ... This dividend equates to approximately 40% of adjusted net income of $0.52 per share for the second quarter of 2026.
+
+Sturm, Ruger & Company, Inc. Reports
+Second Quarter 2026 Results
+
+ 
+
+Delivered Second Quarter Net Sales of $158.1 Million
+
+ 
+
+Earnings per Share was $0.43, Adjusted Earnings per Share was $0.52
+
+ 
+
+Generated $17.3 Million of Cash from Operations
+
+ 
+
+Declares Quarterly Dividend of $0.21 Per Share
+
+ 
+
+MAYODAN, NC – July 29, 2026 – Sturm, Ruger & Company, Inc. (NYSE: RGR) (“Ruger” or the “Company”) announced today its financial results for the second quarter 2026.
+
+Second Quarter 2026 Financial Highlights
+
+ 
+
+ | ·  | The Company achieved net sales of $158.1 million, a 19% increase over the $132.5 million achieved in the corresponding period in 2025.
+ | ·  | Diluted earnings were $0.43 per share compared to $1.05 diluted loss per share in the corresponding period in 2025.
+ | ·  | On an adjusted basis, diluted earnings for the second quarter of 2026 were $0.52 per share compared to $0.41 per share in the corresponding period in 2025.
+ | ·  | Average selling price increased 10% to $384 during the quarter, while improved product mix and operational execution contributed to a 4% increase in adjusted gross margin compared to Q2 2025.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/79879/000007987926000246/exhibit99-2q2026earningsre.htm)
+citeturn459search3 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Greta Edgar Borza ... PPG reports second quarter 2026 financial results•Net sales of $4.5 billion, an increase of 7% versus prior year
+
+Exhibit 99
+
+News
+
+Media Contact:
+
+Greta Edgar Borza
+
+Corporate Communications
+
++1-724-316-7552
+
+[REDACTED_EMAIL]
+
+Investor Contact:
+
+Alex Lopez
+
+Investor Relations
+
++1-412-434-3466
+
+[REDACTED_EMAIL]
+
+investor.ppg.com
+
+PPG reports second quarter 2026 financial results
+
+•Net sales of $4.5 billion, an increase of 7% versus prior year
+
+•Organic sales increased 4% year over year with growth in 8 of 9 businesses led by our differentiated aerospace business
+
+•Sales volumes increased 2% and selling prices increased 2%
+
+•Reported earnings per diluted share (EPS) of $1.96 and adjusted EPS of $2.23
+
+•Cash from operating activities was approximately $600 million year to date, more than $220 million higher year over year
+
+•Share repurchases totaled $75 million in the quarter and $175 million year to date
+
+•Reaffirming full-year 2026 adjusted EPS guidance range of $7.70 to $8.10
+
+PITTSBURGH, July 28, 2026 – PPG (NYSE:PPG) today reported financial results for the second quarter 2026.
+
+Second Quarter 2026 Consolidated Results
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/932696/000093269626000067/nsit-20260806xerx8kex991.htm)
+citeturn459search4 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Consolidated net earnings were $77.6 million, or 3.2% of net sales, in the second quarter of 2026, up 65% year over year compared to $46.9 million in the second quarter of 2025.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1050377/000110465926088129/cnxn-20260729xex99d1.htm)
+citeturn459search5 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Net sales for the quarter ended June 30, 2026 increased by 12.4%, year over year. ... Interest income in the second quarter of 2026 was $2.5 million, compared to $3.2 million in the second quarter of 2025.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/8818/000000881826000127/ex9918k7-30x26.htm)
+citeturn459search6 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; ●2Q26 Net sales of $2.5 billion, up 10.9% ... MENTOR, Ohio, July 30, 2026 – Avery Dennison Corporation (NYSE:AVY), a leading global materials science and digital identification solutions company, today announced preliminary, unaudited results for its second quarter ended June 30, 2026.
+--------------------------------------------------------------------------------
+EX-99.1 (https://www.sec.gov/Archives/edgar/data/2098/000119312526313374/acu-ex99_1.htm)
+citeturn459search7 [wordlim: 200] Published: 2 months ago; Crawled: last month; ACME UNITED REPORTS SECOND QUARTER 2026 NET SALES INCREASE OF
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/47111/000162828026050769/exhibit991_2026xq2.htm)
+citeturn459search8 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; HERSHEY, Pa., July 30, 2026 - The Hershey Company (NYSE: HSY) today announced net sales and earnings for the second quarter ended June 28, 2026 and updated its 2026 sales and earnings outlook. ... Hershey’s North America Confectionery segment net sales were $2,173.6 million in the second quarter of 2026, an increase of 4.2% versus the same period last year.
+--------------------------------------------------------------------------------
+rcky20260630_10q.htm (https://www.sec.gov/Archives/edgar/data/895456/000143774926025672/rcky20260630_10q.htm)
+citeturn459search9 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Income from operations for the second quarter of 2026 was $19.7 million, or 16.6% of net sales, compared to $7.2 million, or 6.8% of net sales, in the year-ago period.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/63276/000162828026052674/matq22026earningsrelease.htm)
+citeturn459search10 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; MATTEL REPORTS SECOND QUARTER 2026 FINANCIAL RESULTS ... Ynon Kreiz, Chairman and CEO of Mattel, said: “We continued to execute our multi-year strategy to grow our IP-driven play and family entertainment business in the second quarter with strong growth in Net Sales.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/75288/000007528826000082/oxm-8012026xexx991.htm)
+citeturn459search11 [wordlim: 200] Published: last month; Crawled: last month; The increased gross margin was primarily due to (1) the favorable impact of recognizing $42 million of tariff refund claims as a reduction of cost of goods sold, (2) updated assortment, sourcing and pricing strategies resulting in higher initial mark-ups, (3) a change in sales mix with off-price wholesale sales representing a lower proportion of net sales and (4) a $1 million lower LIFO accounting charge in the second quarter of fiscal 2026 compared to the second quarter of fiscal 2025.
+--------------------------------------------------------------------------------
+NOTE 19. QUARTERLY DATA (UNAUDITED) (https://www.sec.gov/Archives/edgar/data/40704/000162828026056626/gis2026-ars.pdf)
+citeturn459search12 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago;   <th colspan="2">Second Quarter<br>Fiscal Year</th> ...   <td>Net sales</td> ... In the fourth quarter of fiscal 2026, we recorded a $1,500.0 million non-cash goodwill impairment charge related to our North America Pet reporting unit and $250.0 million of non-cash impairment charges related to our Nudges and True Chews brand intangible assets.
+--------------------------------------------------------------------------------
+printmgr file (https://www.sec.gov/Archives/edgar/data/17843/000119312526389335/d186171dars.pdf)
+citeturn459search13 [wordlim: 200] Published: last month; The special items included in the fiscal year ended June 30, 2025, results were for pre-tax restructuring and asset impairment charges of $3.6 million as a result of actions taken to streamline operations in the Carpenter Additive business, as announced in the quarter ended June 30, 2024. ... <tr><td>($ in millions)</td><td>First Quarter</td><td>Second Quarter</td><td>Third Quarter</td><td>Fourth Quarter</td></tr> ... <tr><td>Net sales</td><td>$ 717.6</td><td>$ 676.9</td><td>$ 727.0</td><td>$ 755.6</td></tr>
+--------------------------------------------------------------------------------
+FY26 10-K (https://www.sec.gov/Archives/edgar/data/1701758/000121390026046850/ea0287429-01.pdf)
+citeturn459search14 [wordlim: 200] Published: 6 months ago; (1) During the second quarter of fiscal 2026, the Company made the decision to repurpose its 2 mobile concierges for marketing related activity and they are included in the showrooms closed within fiscal 2026. ... Advertising and marketing expenses were 12.7% and 12.9% of net sales in fiscal 2026 and 2025, respectively.
+--------------------------------------------------------------------------------
+Constellation Brands (https://www.sec.gov/Archives/edgar/data/16918/000001691825000140/stzex99-1_083125.pdf)
+citeturn459search15 [wordlim: 200] Crawled: last month; <th>Net Sales</th> ... <td><strong>Second Quarter Fiscal Year 2026 Financial Highlights (1) | In millions, except per share data</strong></td>
+--------------------------------------------------------------------------------
+AR Cover (https://www.sec.gov/Archives/edgar/data/1350593/000110465925123274/tm2529584d3_ars.pdf)
+citeturn459search16 [wordlim: 200] Published: 10 months ago; Therefore, we anticipate quarterly consolidated net sales as a percentage of fiscal year 2026 consolidated net sales to be the highest in the third quarter and lowest in the first quarter, with a sequential increase in consolidated net sales in the second quarter as the construction season ramps up for the Spring.
+--------------------------------------------------------------------------------
+Microsoft Word - Seneca_Foods_2026-AR_v2 (https://www.sec.gov/Archives/edgar/data/88948/000143774926022935/senea20260701_ars.pdf)
+citeturn459search17 [wordlim: 200] Published: 3 months ago; Given the seasonal nature of the Company’s sales, the accounts receivable balance typically reaches its highest point at the end of the second fiscal quarter.The following table shows quarterly information for selected financial statement items during fiscal years 2026 and 2025 to illustrate the Company’s seasonal business (in thousands): ... <td>Net sales</td>
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn459view0 [wordlim: 200] Source: open({"ref_id":"https://investors.nvent.com/financials/quarterly-results/default.aspx","lineno":null}); Total lines: 1
+

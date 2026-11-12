@@ -1,0 +1,298 @@
+Ouster Announces Results for Second Quarter 2026 | Thu, 08/06/2026 - 16:05 (https://investors.ouster.com/news-releases/news-release-details/ouster-announces-results-second-quarter-2026)
+citeturn149search0 [wordlim: 200] Published: last month; Crawled: last week; Ouster Announces Results for Second Quarter 2026 ... For the third quarter of 2026, Ouster expects to achieve $54.5 million to $57.5 million in total revenue.
+
+# Release Details
+
+Ouster Announces Results for Second Quarter 2026
+
+August 6, 2026
+
+Record product revenue, achieving 14th straight quarter of growth
+
+Lidar and camera shipments of more than 17,000 units
+
+SAN FRANCISCO--(BUSINESS WIRE)--Aug. 6, 2026-- Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, announced financial results for the three months ended June 30, 2026.
+
+“We delivered a strong second quarter, with $55 million in revenue and more than 17,000 total sensors shipped. These results reflect the strength of our unified sensing and perception platform and the continued momentum we have been seeing across our markets. Customers around the world have continued to scale their investments in Physical AI, and Ouster is well positioned to benefit as autonomy moves into more complex, real-world applications,” said Ouster CEO Angus Pacala.
+
+“The introduction of Rev8 was a pivotal moment for Ouster and the reaction from customers has been electric. Rev8’s native color and industry-leading performance are solidifying our market leadership and deepening relationships across key accounts. In addition to Rev8, the April launch of the ZED X Nano was the most successful launch in Stereolabs history. Our focus remains on providing the industry’s most performant products and solutions, dramatically simplifying system integration, and accelerating time to market for the world’s most innovative companies.”
+
+Second Quarter 2026 Highlights:
+
+  * $55 million in revenue, up 56% year over year and up 12% sequentially.
+  * Shipped more than 17,000 lidar and camera sensors for revenue, of which lidar was approximately 53% of the total.
+  * GAAP gross margin of 49%, up 400 bps year over year and up 600 bps sequentially.
+  * GAAP net loss of $18 million, an improvement of $2 million year over year and down $1 million sequentially.
+  * Non-GAAP gross margin^{1} of 53%, up 200 bps year over year and 700 bps sequentially.
+  * Adjusted EBITDA^{1} loss of $4 million, an improvement of $1 million year over year and $2 million sequentially.
+  * Cash, cash equivalents, restricted cash, and short-term investments of $263 million as of June 30, 2026.
+
+^{1} Adjusted EBITDA and non-GAAP gross margin are non-GAAP financial measures. See Non-GAAP Financial Measures for additional information and reconciliations of these measures to their respective most directly comparable financial measures calculated in accordance with U.S. GAAP.
+
+Revenue
+
+Ouster delivered second quarter revenue of $55 million, an increase of 56% year over year and 12% sequentially. Product revenue of $53 million was an increase of 51% year over year and 9% sequentially, primarily driven by customers in the industrial and smart infrastructure verticals for use cases in warehouse automation, yard logistics, and intelligent transportation. The Company shipped over 17,000 units - of which lidar was approximately 53% of the total.
+
+Gross Margin
+
+GAAP gross margin was 49%, compared with 45% in the second quarter of 2025 and 43% in the first quarter of 2026. Volume growth and operating efficiencies lifted profitability year over year. Non-GAAP gross margin was 53%, compared with 52% in the second quarter of 2025 and 46% in the first quarter of 2026. Non-GAAP gross margin excludes the impact of stock-based compensation expenses, and certain other items outside of ordinary operations.
+
+Third Quarter 2026 Outlook:
+
+For the third quarter of 2026, Ouster expects to achieve $54.5 million to $57.5 million in total revenue.
+--------------------------------------------------------------------------------
+Tempus Reports Second Quarter 2026 Results (https://www.tempus.com/news/pr/tempus-reports-second-quarter-2026-results/)
+citeturn149search1 [wordlim: 200] Published: 2 months ago; Crawled: 4 days ago; # Tempus Reports Second Quarter 2026 Results ... (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended June 30, 2026.
+
+# Tempus Reports Second Quarter 2026 Results
+
+Jul 30, 2026
+
+Press Release
+
+CHICAGO, July 30, 2026 — Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended June 30, 2026.
+
+> “Q2 was another exceptional quarter for us,” said Eric Lefkofsky, Founder and CEO of Tempus. “Our strategy is working given the investments we have made in AI over the past several years are driving some of the best growth rates we have seen in our two largest businesses - Oncology Diagnostics and Data Licensing.”
+
+Second Quarter 2026 Highlights
+
+ 
+
+  * Total revenue of $382.5 million, up 22% year-over-year
+  * Oncology volume growth of 31% year-over-year, up from 28% last quarter
+  * Molecular residual disease (MRD) volume was 9,000 tests, up from 6,500 last quarter
+  * Data Licensing & Modeling (Insights) revenue up 36% year-over-year
+  * Signed ~$200 million in new Data and Applications licenses
+  * FDA approved xT Tumor Only which will migrate tissue testing to ADLT pricing
+  * Successfully delivered our first oncology foundation model to AstraZeneca
+  * Completed a $460 million offering of 0.0% convertible senior notes due 2032
+  * GAAP net income of $5.6 million and Adjusted EBITDA of $8.0 million
+  * Cash and marketable securities of $820.7 million as of June 30, 2026
+  * Increasing revenue guidance to $1.595 to $1.605 billion for 2026 and expect full year Adjusted EBITDA of ~$65 million
+
+On July 20, 2026, Tempus also announced an agreement to acquire Personalis, a leader in the tumor-informed MRD space. “Through our existing collaboration with Personalis, we have already demonstrated the strength of combining highly sensitive MRD technology with our commercial infrastructure,” said Mr. Lefkofsky. “With clinical adoption and reimbursement momentum building, we believe we are collectively well positioned to capture this opportunity, which makes this acquisition particularly exciting.”
+
+## Second Quarter 2026 Summary Results
+
+ 
+
+  * Revenue increased 22% year-over-year to $382.5 million.
+  * Diagnostics generated $289.3 million of revenue, representing 20% year-over-year growth, driven by Oncology volume growth of 31%, offset by Hereditary revenue growth of 5%.
+  * Data and Applications generated $93.2 million of revenue, representing 28% year-over-year growth, with Insights growing 36%.
+  * Gross profit increased 26% year-over-year to $246.5 million, led by growth in Data and Applications.
+  * Net income was $5.6 million, which included $55.6 million of stock compensation expense and related employer payroll taxes and $98.5 million in unrealized gains on marketable securities, compared to a net loss of $(42.8 million) in Q2 of 2025.
+  * Adjusted EBITDA was $8.0 million, compared to ($5.6 million) in Q2 of 2025.
+  * $820.7 million in cash and marketable securities as of June 30, 2026.
+
+--------------------------------------------------------------------------------
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results - Hesai Group (https://investor.hesaitech.com/news-releases/news-release-details/hesai-group-reports-second-quarter-2026-unaudited-financial)
+citeturn149search2 [wordlim: 200] Published: last month; Crawled: last week; Hesai Group Reports Second Quarter 2026 Unaudited Financial Results ... Event Title:          | Hesai Group Second Quarter 2026 Earnings Conference Call
+
+# News Release Details
+
+## 
+
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results
+
+2026-08-18
+
+Quarterly net revenues were RMB860.8 million (US$126.9 million)^{1}
+
+Quarterly lidar shipments were 628,275 units
+
+Quarterly net income was RMB70.6 million (US$10.4 million)
+
+SHANGHAI, China, Aug. 18, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced its unaudited financial results for the three months ended June 30, 2026.
+
+Management Remarks
+
+“The second quarter of 2026 marked a defining milestone as Hesai has evolved into a full-stack infrastructure platform for Robotics and Physical AI — empowering them to see, understand, and act,” said Dr. Yifan “David” Li, Hesai’s Co-Founder and CEO. “We enable Robotics and Physical AI to see: lidar — our powerful and durable cash engine — is evolving from a ‘must-have’ toward ‘better and more’ in vehicles, the world’s most widely deployed robots. --------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-ex99_1.htm)
+citeturn149search3 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Tempus Reports Second Quarter 2026 Results ... (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended June 30, 2026.
+EX-99.1 2 tem-ex99_1.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+Tempus Reports Second Quarter 2026 Results
+
+CHICAGO, July 30, 2026 — Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended June 30, 2026.
+
+“Q2 was another exceptional quarter for us,” said Eric Lefkofsky, Founder and CEO of Tempus. “Our strategy is working given the investments we have made in AI over the past several years are driving some of the best growth rates we have seen in our two largest businesses - Oncology Diagnostics and Data Licensing.”
+
+Second Quarter 2026 Highlights
+
+• Total revenue of $382.5 million, up 22% year-over-year
+
+• Oncology volume growth of 31% year-over-year, up from 28% last quarter
+
+• Molecular residual disease (MRD) volume was 9,000 tests, up from 6,500 last quarter
+
+• Data Licensing & Modeling (Insights) revenue up 36% year-over-year
+
+• Signed ~$200 million in new Data and Applications licenses
+Second Quarter 2026 Summary Results
+
+• Revenue increased 22% year-over-year to $382.5 million.
+
+• Diagnostics generated $289.3 million of revenue, representing 20% year-over-year growth, driven by Oncology volume growth of 31%, offset by Hereditary revenue growth of 5%.
+
+• Data and Applications generated $93.2 million of revenue, representing 28% year-over-year growth, with Insights growing 36%.
+
+• Gross profit increased 26% year-over-year to $246.5 million, led by growth in Data and Applications.
+
+• Net income was $5.6 million, which included $55.6 million of stock compensation expense and related employer payroll taxes and $98.5 million in unrealized gains on marketable securities, compared to a net loss of $(42.8 million) in Q2 of 2025.
+
+• Adjusted EBITDA was $8.0 million, compared to ($5.6 million) in Q2 of 2025.
+
+• $820.7 million in cash and marketable securities as of June 30, 2026.
+
+Recent Operational Highlights
+
+• Entered into a definitive agreement to acquire Personalis for $16.25 per share (~$1.5 billion enterprise value), tightly integrating its ultrasensitive NeXT Personal® MRD technology into Tempus' diagnostic platform
+--------------------------------------------------------------------------------
+Tempus to Report Second Quarter 2026 Financial Results on July 30 | Tempus AI (https://investors.tempus.com/news-releases/news-release-details/tempus-report-second-quarter-2026-financial-results-july-30)
+citeturn149search4 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; Tempus to Report Second Quarter 2026 Financial Results on July 30 ... (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the second quarter ended June 30, 2026, on Thursday, July 30, 2026.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1816581/000162828026054297/exhibit991-6302026.htm)
+citeturn149search5 [wordlim: 200] Published: last month; Crawled: last month; Ouster Announces Results for Second Quarter 2026 ... Second Quarter 2026 Highlights:
+--------------------------------------------------------------------------------
+Quarterly Results | Ouster, Inc. (https://investors.ouster.com/financial-information/quarterly-results)
+citeturn149search6 [wordlim: 200] Crawled: last week; ## [Button: 2026 ] ...   * Earnings Release ... ## [Button: 2022 ]
+--------------------------------------------------------------------------------
+Financial Information | Tempus AI (https://investors.tempus.com/financials/financial-information)
+citeturn149search7 [wordlim: 200] Crawled: 4 days ago;   * Q2 2026 Results ... drafts [REDACTED_EMAIL]
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1853921/000119312526380184/sctx-ex99_1.htm)
+citeturn149search8 [wordlim: 200] Published: 4 weeks ago; Crawled: 3 weeks ago; Scribe Therapeutics Reports Second Quarter 2026 Financial Results ... (“Scribe Therapeutics” or “the Company”) (Nasdaq: SCTX), a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today reported financial results for the second quarter ended June 30, 2026, and provided recent corporate and pipeline updates.
+--------------------------------------------------------------------------------
+Tempus Reports Second Quarter 2026 Results (https://investors.tempus.com/node/10411/pdf)
+citeturn149search12 [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Tempus Reports Second Quarter 2026 Results ... (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended June 30, 2026.
+--------------------------------------------------------------------------------
+Investor Relations | Tempus AI (https://investors.tempus.com/)
+citeturn149search9 [wordlim: 200] Crawled: yesterday; Tempus Launches Effort to Build the Largest Multimodal Whole-Genome Dataset to Advance AI-Driven Healthcare Innovation ... Tempus Second Quarter 2026 Earnings Conference Call
+--------------------------------------------------------------------------------
+8-K (https://www.sec.gov/Archives/edgar/data/1853921/000119312526380184/sctx-20260902.htm)
+citeturn149search10 [wordlim: 200] Published: 4 weeks ago; Crawled: 3 weeks ago; On September 2, 2026, Scribe Therapeutics Inc. (the "Company") announced its financial results for the quarter ended June 30, 2026 and provided a business update. ... Date: September 2, 2026  |    | By:  | /s/ Benjamin L.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1861737/000110465926098050/tm2623467d1_6k.htm)
+citeturn149search11 [wordlim: 200] Published: last month; Crawled: last month; 99.1  | Press Release — Hesai Group Reports Second Quarter 2026 Unaudited Financial Results
+--------------------------------------------------------------------------------
+Tempus to Report Second Quarter 2026 Financial Results on July 30 (https://investors.tempus.com/node/10326/pdf)
+citeturn149search13 [wordlim: 200] Published: 2 months ago; Tempus to Report Second Quarter 2026 Financial Results on July 30 ... (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the second quarter ended June 30, 2026, on Thursday, July 30, 2026.
+--------------------------------------------------------------------------------
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results (https://investor.hesaitech.com/zh-hans/node/8506/pdf)
+citeturn149search14 [wordlim: 200] Published: last month; Crawled: last month; Hesai Group Reports Second Quarter 2026 Unaudited Financial Results
+--------------------------------------------------------------------------------
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results (https://investor.hesaitech.com/node/8506/pdf)
+citeturn149search15 [wordlim: 200] Published: last month; Crawled: last month; • Income from operations was RMB2.2 million (US$0.3 million) for the second quarter of 2026, compared with income from operations of RMB22.9 million for the same period of 2025.
+--------------------------------------------------------------------------------
+First Quarter 2026 (https://ouster.gcs-web.com/static-files/386389f7-af53-463d-b0f3-48459140f5cd)
+citeturn149search16 [wordlim: 200] Published: 4 months ago; First Quarter 2026 Earnings Update ... Q2 2026 ... © Ouster, Inc.
+--------------------------------------------------------------------------------
+Tempus AI Q2 2026 Earnings Analysis | TEM Stock Deep Dive & Big Pharma Deals - YouTube (https://www.youtube.com/watch?v=T-Ktp4qwlL0)
+citeturn149youtube17 [wordlim: 200] Published: 2 months ago; Tempus AI (TEM) just reported its Q2 2026 financial results, delivering a standout quarter that proves its AI-driven precision medicine flywheel is scaling rapidly.
+# Tempus AI Q2 2026 Earnings Analysis | TEM Stock Deep Dive & Big Pharma Deals
+By: Big Picture Investing With Kevin McCormick (9170 followers)
+Published: 2026-07-30, 947 views, 34 likes
+
+## Description
+Tempus AI (TEM) just reported its Q2 2026 financial results, delivering a standout quarter that proves its AI-driven precision medicine flywheel is scaling rapidly. 
+
+Top-line revenue reached $382.5 million (+22% YoY), driven by a 36% surge in high-margin Insights data licensing and accelerating oncology test volumes. Crucially, Tempus reached a massive financial milestone by crossing into positive Adjusted EBITDA ($8.0M) and reported GAAP net income of $5.6M. 
+
+Alongside raising its full-year 2026 revenue guidance to $1.595B-$1.605B, Tempus announced a definitive $1.5 billion acquisition of Personalis to dominate the rapidly growing Molecular Residual Disease (MRD) testing market, as well as delivering its first oncology foundation model to AstraZeneca.
+
+In this episode of Big Picture Investing, Kevin McCormick breaks down Tempus AI's Q2 2026 numbers, the Personalis deal, Big Pharma data licensing agreements, balance sheet strength, and the Bull vs. Bear case for TEM stock.
+
+📌 TIMESTAMPS:
+0:00 - Tempus AI (TEM) Q2 2026: Healthcare AI Scaling
+0:50 - Revenue Breakdown: Diagnostics vs. High-Margin Data & Apps
+1:45 - Profitability Turning Point: Positive Adjusted EBITDA & Net Income
+2:45 - Breaking M&A: The $1.5 Billion Personalis Acquisition
+4:00 - Guidance Raised & Big Pharma Data Deals (AstraZeneca, BioNTech)
+5:10 - Balance Sheet Strength: $820M Cash & $460M 0% Convertible Notes
+6:00 - Bull vs. Bear Case for TEM Stock
+7:15 - The Big Picture Outlook & Final Verdict
+
+---
+
+📈 KEY TAKEAWAYS FROM Q2 2026:
+• Total Revenue: $382.5 Million (+22% YoY)
+• Diagnostics Revenue: $289.3 Million (+20% YoY; MRD Volume +38% QoQ)
+• Data & Applications Revenue: $93.2 Million (+28% YoY; Insights +36%)
+• Adjusted EBITDA: $8.0 Million (Flipped from $(5.6M) loss in Q2 2025)
+• Net Income: $5.6 Million
+• Strategic M&A: Acquiring Personalis for ~$1.5B Enterprise Value
+• FY 2026 Revenue Guidance Raised: $1.595B - $1.605B (~25% growth)
+
+---
+
+🔔 Subscribe to Big Picture Investing for in-depth stock market analysis, earnings breakdowns, and long-term investing strategies.
+
+#TempusAI #TEM #TEMStock #HealthcareAI #PrecisionMedicine #EarningsReport #StockMarket #BigPictureInvesting
+--------------------------------------------------------------------------------
+Hesai's Unit Price Is Still Collapsing — How Long Is the Pain? (https://www.reddit.com/r/u_Dolphin_research/comments/1vseaz2/hesais_unit_price_is_still_collapsing_how_long_is/)
+citeturn149reddit18 [wordlim: 200] Published: last month; Overseas is the second lever: a C-sample for a leading European carmaker is done with production from end-2026, and Hesai is now an NVIDIA Drive Hyperion partner with priority recommendation when overseas OEMs adopt NVIDIA's stack. ... Near-term share will likely keep eroding, since RoboSense has shipped EMX in volume since last year's fourth quarter and the technology gap has closed.
+--------------------------------------------------------------------------------
+Q2 Earnings Release (https://www.reddit.com/r/OUST/comments/1vhflbp/q2_earnings_release/)
+citeturn149reddit19 [wordlim: 200] Published: last month; | Quarter | Revenue ($M) | YoY Growth | ... | **Q2 2026** | **54.6** | **+55.9%** |
+--------------------------------------------------------------------------------
+SCTX | Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights (https://www.reddit.com/r/StockTitan/comments/1w5lhj8/sctx_scribe_therapeutics_reports_second_quarter/)
+citeturn149reddit20 [wordlim: 200] Published: 3 weeks ago; [Wednesday September 02 2026] [+1 votes]SHARED URL
+--------------------------------------------------------------------------------
+Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge (https://arxiv.org/abs/2605.00536)
+citeturn149academia21 [wordlim: 200] Published: 5 months ago; Title: Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge ... Date: Fri May  1 09:28:34 2026 ... By characterizing system-level efficiency through the Platform-Aware Utility (PAU) metric, we prove that Tempus achieves a 211.2x higher prominence factor than the leading spatial SOTA (ARIES).
+--------------------------------------------------------------------------------
+🚨 TEM: Investor Call Reveals MRD Test Volumes Surging 38% QoQ, Only 10% of Sales Force Deployed, and 2027 Profitability Target Intact After Personalis Acquisition (https://www.reddit.com/r/Wiseek/comments/1v1z1ft/tem_investor_call_reveals_mrd_test_volumes/)
+citeturn149reddit22 [wordlim: 200] Published: 2 months ago; Tempus AI's investor call on the Personalis acquisition revealed MRD test volumes growing 38% QoQ to ~9,000 in Q2 2026, with only 10% of the sales force deployed, and reaffirmed a 2027 profitability target.
+--------------------------------------------------------------------------------
+My key takeaways from the $OUST (Ouster) Q2 2026 earnings call (https://www.reddit.com/r/OUST/comments/1vhir6q/my_key_takeaways_from_the_oust_ouster_q2_2026/)
+citeturn149reddit23 [wordlim: 200] Published: last month; [Thursday August 06 2026] [+10 votes] ... Honestly a great quarter. ... Algos trade heavily off of these misses and it's been hammered after market because of it.
+--------------------------------------------------------------------------------
+Tempus AI (TEM) Stock Jumps +70% in a Month: Here's What's Fueling the Rally (https://www.reddit.com/r/ai_trading/comments/1w0u9w4/tempus_ai_tem_stock_jumps_70_in_a_month_heres/)
+citeturn149reddit24 [wordlim: 200] Published: last month; * Tempus AI shares climbed roughly 70% over the last 30 days, moving from about $41.55 on July 29, 2026, to $70.69 on August 27, 2026. ... In its second-quarter report, Tempus posted revenue of $382.5 million, up 22% year over year, achieved its first quarterly GAAP net profit of $5.6 million, and raised full-year 2026 revenue guidance to $1.595–$1.605 billion.
+--------------------------------------------------------------------------------
+EverHint Lens - Tempus AI, Inc. (TEM) - Yahoo Top Gainer Stock Analysis - August 19, 2026 (https://www.reddit.com/r/EverHint/comments/1vsr2vq/everhint_lens_tempus_ai_inc_tem_yahoo_top_gainer/)
+citeturn149reddit25 [wordlim: 200] Published: last month; **Latest Quarter** (2026-06-30): ... Tempus AI showed strong momentum with its first GAAP profit, Q2 earnings beat, raised 2026 revenue guidance, and FDA approval for xT unlocking potential reimbursement gains.
+--------------------------------------------------------------------------------
+Meta shares drop as Q2 profit declines due to legal expenses and severance costs (https://apnews.com/article/bcbc62dde6d2cac724e3b3385fcabeab)
+citeturn149news26 [wordlim: 100] Published: 2 months ago; Date: Wed Jul 29 20:31:21 2026 UTCMeta Platforms said Wednesday its second-quarter profit declined even as revenue beat Wall Street's expectations, as legal expenses and severance costs for recent layoffs weighed on its results. ... "AI is accelerating our core business today, powering our next generation of products, and opening the door to entirely new enterprise opportunities," said CEO Mark Zuckerberg in a statement.
+Meta shares drop as Q2 profit declines due to legal expenses and severance costs
+Date: Wed Jul 29 20:31:21 2026 UTC
+
+Meta Platforms said Wednesday its second-quarter profit declined even as revenue beat Wall Street's expectations, as legal expenses and severance costs for recent layoffs weighed on its results. 
+The Facebook and Instagram parent company earned $15.85 billion, or $6.18 per share, in the April-June period. That's down 14% from $18.34 billion, or $7.14 per share, in the same period a year earlier. 
+Revenue grew 28% to $60.8 billion from $47.52 billion.
+Analysts, on average, were expecting earnings of $7.19 per share on revenue of $60.22 billion, according to a poll by FactSet. 
+"AI is accelerating our core business today, powering our next generation of products, and opening the door to entirely new enterprise opportunities," said CEO Mark Zuckerberg in a statement. "The results are already showing, and I'm optimistic about the potential ahead."
+Meta said the number of daily active users on its "family of apps" - Facebook, Messenger, Instagram and WhatsApp and Threads - grew 3% from a year earlier to $3.6 billion. --------------------------------------------------------------------------------
+Google's Q2 earnings of $112.11B beat Wall Street's expectations on AI boom (https://apnews.com/article/f914606d842d4c6848019083d667fc3a)
+citeturn149news27 [wordlim: 100] Published: 2 months ago; Google's Q2 earnings of $112.11B beat Wall Street's expectations on AI boomDate: Wed Jul 22 20:36:57 2026 UTCGoogle parent company Alphabet Inc. posted stronger-than-expected results for its second quarter, a sign that it's massive artificial intelligence spending spree is paying off so far and advertising revenue is coming in strong. ... Google saw a net gain of $98 billion, mainly as a result of gains on its equity investments - mostly in SpaceX, which went public in June.
+Google's Q2 earnings of $112.11B beat Wall Street's expectations on AI boom
+Date: Wed Jul 22 20:36:57 2026 UTC
+
+Google parent company Alphabet Inc. posted stronger-than-expected results for its second quarter, a sign that it's massive artificial intelligence spending spree is paying off so far and advertising revenue is coming in strong.
+The Mountain View, California-based company said Wednesday it earned $112.11 billion, or $9.11 per share, in the April-June period. That's up from $28.2 billion, or $2.31 per share, in the same period a year earlier.
+Revenue grew 24% to $119.8 billion from $96.43 billion.
+Analysts, on average, were expecting revenue of $117.06 billion, according to a poll by FactSet. Google did not disclose an adjusted earnings figure that's comparable to analysts' expectations, which was $2.88 per share. Google saw a net gain of $98 billion, mainly as a result of gains on its equity investments - mostly in SpaceX, which went public in June. 
+"Our AI investments are redefining what's possible across every part of our business," said CEO Sundar Pichai in a statement. 
+Emarketer analyst Nate Elliott called the results "impressive," especially in regards to AI.
+"On the consumer side, Gemini is now within a whisker of becoming Google's third different 1 billion-user consumer AI product, alongside AI Overviews and AI Mode," he said. "On the enterprise side, AI demand is driving enormous growth in the cloud business. And continued strong growth in search advertising backs up Google's claim that AI is additive to search, not a replacement."
+As usual, digital ads fueled by Google's dominant search engine propelled the quarter's revenue growth, boosted by World Cup advertising, especially on YouTube. 
+The tech giant also saw strong growth in its cloud business, boosted by its AI portfolio consisting of chips, models, data, security, and agent platforms.
+Alphabet's shares climbed $2.71 to $344.62 in after-hours trading. 
+--------------------------------------------------------------------------------
+Ouster Earnings - Positive EPS (https://www.reddit.com/r/OUST/comments/1rj60gz/ouster_earnings_positive_eps/)
+citeturn149reddit28 [wordlim: 200] Published: 7 months ago; Correct me if I am wrong, but it looks like Ouster Inc (OUST) just posted positive earnings this quarter for the first time ever. ... https://investors.ouster.com/news-releases/news-release-details/ouster-announces-results-fourth-quarter-and-full-year-2025 ... [Tuesday March 03 2026] [+2 votes]
+--------------------------------------------------------------------------------
+Ouster, Inc. Quarterly Report Released - Here’s What You Should Know (https://www.reddit.com/r/SECFilingsAI/comments/1mnqeww)
+citeturn149reddit29 [wordlim: 200] Published: 1.1 years ago; Crawled: 1.1 years ago;   - Q2 net loss: ($20.6 million), compared to ($23.9 million). ... - **International Risks:** Political events, regulatory changes, and shifting trade policies could adversely affect supply chains and market access, particularly since 42% of revenue came from outside the US. ... Ouster demonstrated strong top-line growth and improving gross margins in Q2 and H1 2025, driven by expansion in key regions and operational improvements.
+--------------------------------------------------------------------------------
+HSAI Q2 2024 Earnings: Mixed Results Amidst Growth Opportunities (https://www.reddit.com/r/ahead_market/comments/1ewd45x)
+citeturn149reddit30 [wordlim: 200] Published: 2.1 years ago; Crawled: 2.1 years ago; | Earnings Per Share        | $-0.56  | -5.1% | ... - Awarded new POC programs with two leading global OEMs from Europe, including a prestigious sports car brand, to test Hesai’s next-generation high-performance long-range and short-range lidars. ... - Among these new design wins, a leading EV maker in China has already signed agreements with the Company to exclusively adopt Hesai’s next-generation L3 ultra-high-performance lidar for all of their new models scheduled for release in 2025. ... HSAI's revenue of $63.1M slightly missed the analysts' expectation of $65.13M for the quarter.
+--------------------------------------------------------------------------------
+OUST Q2 2024 Earnings: Revenue Growth and Margin Improvement (https://www.reddit.com/r/ahead_market/comments/1erhxyz)
+citeturn149reddit31 [wordlim: 200] Published: 2.1 years ago; Crawled: 2.1 years ago; OUST reported a 39% revenue growth to $27M and improved gross margins, but faced a net loss of $24M and an EPS of -$0.55 in Q2 2024. ... - Secured multiple deals to supply Ouster Gemini’s smart infrastructure software solution. ... The EPS of -$0.55 is better than the expected -$0.62, showing a positive surprise in earnings management despite the net loss.
+--------------------------------------------------------------------------------
+Hesai Group Reports Fourth Quarter and Full Year 2025 Unaudited Financial Results (https://www.reddit.com/r/RWATimes/comments/1s298tu/hesai_group_reports_fourth_quarter_and_full_year/)
+citeturn149reddit32 [wordlim: 200] Published: 6 months ago; [Tuesday March 24 2026] [+1 votes] ... Quarterly net revenues were RMB1,000.5 million (US$143.1 million)1Quarterly lidar shipments were 631,095 unitsQuarterly net income was RMB153.2 million (US$21.9 million)Full year 2025 net revenues wer ... ... - **🏷️ Tags:** **#hesai group** **#lidar** **#adas** **#robotics** **#gaap profitability** **#shipments** **#nvidia** **#automotive lidar market** **#financial results**

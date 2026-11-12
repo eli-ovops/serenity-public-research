@@ -1,0 +1,345 @@
+Serenity Tracker — @aleabitoreddit's AI supply-chain chokepoint theses, for retail (https://semiconstocks.com/)
+citeturn449view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://semiconstocks.com/","lineno":null}); Total lines: 294
+L0: Buy — exposure on-chain
+L1: 
+L2: via a tokenized share (—) on DeGate
+L3: 
+L4: Read this before you continue — credibility is the whole point of this site.
+L5:   * •Not investment advice. This site only tracks Serenity's public posts. He is not involved and is not endorsing anything.
+L6:   * •You'd buy a token, not the share. …on tokens are backed 1:1 by the real share in custody, but they are a cash-redeemable claim on the issuer (Ondo) — not the stock itself, and with no shareholder voting.
+L7:   * •Restricted availability. Not offered to residents of the US, UK, EU/EEA, Switzerland, Canada, Singapore, mainland China (where crypto trading is prohibited) and others. Check your own eligibility first.
+L8:   * •Self-custody required. You'll need a crypto wallet and USDC, and you are responsible for your own funds and security.
+L9:   * •Third party. DeGate and Ondo are independent services. We are not affiliated with them and earn nothing from this link.
+L10: [Button: Cancel] cite0†Continue to DeGate ↗†app.degate.com L11: 
+L12: cite1†Image Ask Serenity
+L13: 
+L14: cite1†Image: Serenity (@aleabitoreddit) L15: 
+L16: Ask Serenity
+L17: 
+L18: Not Serenity himself — a bot that quotes only his public posts · Not advice
+L19: 
+L20: [Input: Type a ticker or question…] [Button: Ask]
+L21: 
+L22: cite2†📧 Want his calls like this, once a week? Get the free digest → L23: 
+L24: cite1†Image: Serenity (@aleabitoreddit) L25: 
+L26: Serenity Tracker
+L27: 
+L28: @aleabitoreddit · AI supply-chain chokepoints, explained for retail
+L29: cite3†Snapshot cite4†Chokepoint map cite5†All picks cite6†Rotation cite7†Track record cite8†Caveats cite9†中文 · cite10†한국어 L30: 
+L31: Unofficial, fan-built tracker — not Serenity, not affiliated. We archive his public X posts; every entry links to its source. We earn nothing from any link on this page.
+L32: 
+L33: cite11†Get every new call the second he posts it — live alerts in the Telegram group, free. Join free ↗†t.me L34: 
+L35: Latest call Updated October 20, 2026
+L36: Sivers’ auditor flagged going concern seven weeks before the raise Found in the annual report, not a post · Oct 19
+L37: He argued on Oct 19 that people forget institutions have already financed Sivers’ expansion. They have — and the reason that matters is in the FY2025 annual report. Deloitte signed a clean opinion on May 13, then added a section headed “Significant uncertainty regarding the going concern assumption”, because sales do not yet cover the development plan. The oversubscribed SEK 700M issue seven weeks later answers that half.
+L38: What cash cannot answer is the separate audit matter beside it — “significant deficiencies in the internal control environment and errors affecting financial reporting” — which is exactly what the PCAOB audit behind his expected US listing would test.
+L39: [Button: See all new calls → ] cite12†🔔 Get the next one live →†t.me L40: 
+L41: The AI build-out, as he sees it Tap a stage to see those picks
+L42: 
+L43: Move the data Photonics $AXTI · $SIVE Feed the GPUs Memory $EWY Run the compute Neocloud $NBIS Who pays for it AI demand $RPI
+L44: 
+L45: Where it goes next Robotics $CCXI · 688017 What powers it Macro / energy $NEXT · $AIRO
+L46: 
+L47: cite1†Image Ask Serenity → Not Serenity himself — a scripted bot that answers only from his public posts, with links. Try “latest call?” or a ticker like $SIVE.
+L48: Public analyst · X: @aleabitoreddit · 1M+ followers (crossed Aug 11, 2026)
+L49: # He doesn't buy Nvidia.
+L50: He buys the three obscure companies Nvidia can't build a GPU without.
+L51: Serenity is a former Reddit WSB trader and AI/photonics engineer who built a 1M+-follower following on X by mapping the AI supply chain to chokepoint nodes — obscure, vertically-integrated suppliers without which the hyperscaler AI buildout literally stops.
+L52: Self-reported track record: +122% over the year to 04/2026, and +3,612% YTD as of June 11, 2026 — his own figures: leveraged, volatile, unaudited, and posted at different times; we can't reconcile the two numbers, so treat them as his claims, not verified returns.
+L53: July 17, same transparency in the other direction: he disclosed a −49.4% drawdown for the month in the market-wide AI/memory/photonics crash (cite13†his post ↗†x.com ), cut his leverage, and kept the thesis — and on Aug 15 posted (in Chinese, dismissing “blew up” rumors) that his YTD return still stands at +2,411.84% after the crash (cite14†his post ↗†x.com ; self-reported, unaudited, same as every figure here) — leveraged-and-volatile cuts both ways, and he posts it both ways.
+L54: No fund, no 13F — just public theses on X, validated by subsequent earnings and industry warnings.
+L55: cite15†Follow on X →†x.com Framework: Chokepoint Theory Sector: AI photonics + supply chain Style: concentrated, ~1.4x margin
+L56: 
+L57: 1Y return
+L58: 
+L59: +122%
+L60: 
+L61: Self-reported · 04/2026 · unaudited
+L62: 
+L63: YTD 2026
+L64: 
+L65: +3,612%
+L66: 
+L67: Self-reported · 06/11 · unaudited — then a cite13†−49.4% July drawdown ↗†x.com , also self-reported
+L68: 
+L69: Chokepoints mapped
+L70: 
+L71: 7
+L72: 
+L73: Layers of AI photonics
+L74: 
+L75: Names called
+L76: 
+L77: 20+
+L78: 
+L79: Self-reported wins — see caveats below
+L80: 
+L81: The framework
+L82: 
+L83: "The Strait of AXTI"
+L84: Just as 20% of global oil passes through one strait, the AI photonics buildout depends on a handful of single-vendor or duopoly chokepoints. Find them, own them, hold them.
+L85: 
+L86: The edge
+L87: 
+L88: "Only buys what he's touched"
+L89: 
+L90: Former AI research scientist + RISC-V Foundation member + silicon-photonics engineer. Reads the substrate-level technical literature retail (and most analysts) won't.
+L91: 
+L92: The validation
+L93: 
+L94: "Frontran institutions"
+L95: Called $AXTI's InP substrate bottleneck a year before IntelliEPI's CEO publicly warned of an "indium phosphide supply shortage" in Q1 2026. Earnings have repeatedly confirmed.
+L96: ## The chokepoint map
+L97: 
+L98: Seven layers of the AI-photonics supply chain, each with a structural bottleneck. The ticker on each row is the publicly-stated chokepoint owner.
+L99: 
+L100: 1
+L101: 
+L102: Raw materials — gallium, indium, arsenic
+L103: 
+L104: $AXTI · vertically integrated
+L105: 
+L106: Sourcing and refinement of the rare metals every InP wafer starts with. Concentrated in China; AXT processes its own.
+L107: 
+L108: 2
+L109: 
+L110: pBN crucibles & growth equipment
+L111: 
+L112: Shin-Etsu Chemical · JP
+L113: Pyrolytic boron nitride crucibles that grow the InP boules. Single-vendor equipment chokepoint.
+L114: 
+L115: 3
+L116: 
+L117: InP substrate processing — "the crown jewel"
+L118: 
+L119: $AXTI · + an unnamed monopoly/duopoly
+L120: 
+L121: Where the photonics supply chain pinches hardest. IntelliEPI's CEO publicly confirmed an "InP shortage" in Q1 2026 — a year after Serenity's call.
+L122: 
+L123: 4
+L124: 
+L125: CW lasers — light source for Co-Packaged Optics (CPO)
+L126: 
+L127: $SIVE · Sivers Semi
+L128: The 2027–2028 inflection. CPO replaces pluggable optics; Sivers owns the laser-source choke at ~$290M cap.
+L129: 
+L130: 5
+L131: 
+L132: Optical transceivers — assembly
+L133: 
+L134: $AAOI · $COHR · $LITE · Innolight
+L135: 
+L136: The visible end of the chain. Nvidia's $2B optical investment locked in capacity here ahead of supply shocks.
+L137: 
+L138: 6
+L139: 
+L140: Testing & qualification
+L141: 
+L142: $AEHR · Aehr Test Systems
+L143: 
+L144: Photonics test equipment — "early $AAOI stage" before the volume ramp. Recently won qualification orders from a leading transceiver vendor.
+L145: 
+L146: 7
+L147: Optical cable & fiber (HCF + traditional)
+L148: 
+L149: $GLW · Prysmian · Furukawa
+L150: 
+L151: The plumbing. Traditional fiber + new hollow-core fiber for low-latency interconnect between AI clusters.
+L152: ## Every name he's publicly called
+L153: 
+L154: Filter by category. Star the ones you want to track. Picks paraphrased from public posts — see sources.
+L155: 
+L156: [Button: Cards] Thesis arc beta
+L157: 
+L158: [Input: Search ticker or name…]
+L159: 
+L160: All New Photonics chokepoints Memory rotation Neocloud Robotics / physical AI AI demand Macro / energy Crypto Flagged risks ★ Watchlist
+L161: 
+L162: Market: All 🇺🇸 US 🇪🇺 Europe 🇬🇧 UK 🇹🇼 Taiwan 🇰🇷 Korea 🇯🇵 Japan 🇨🇳 China ◎ Crypto
+L163: Jargon, translated: InP = indium phosphide, the crystal wafer these lasers are built on · CPO = co-packaged optics, moving the light link right next to the chip · ELS/ELSFP = external laser source, the laser that feeds those optics · CW laser = continuous-wave (steady-beam) laser · SiPh = silicon photonics · HVM = high-volume manufacturing.
+L164: ## The three-phase rotation
+L165: 
+L166: His framework for how institutional money flows through the AI supply chain.
+L167: 
+L168: Phase 1 · Done
+L169: 
+L170: Memory / HBM
+L171: 
+L172: "Caught the tail end"
+L173: 
+L174: $SNDK, Samsung, SK Hynix, $MU. Institutions rotated in late 2025 / early 2026.
+L175: 
+L176: Phase 2 · Now
+L177: 
+L178: Optical transceivers
+L179: 
+L180: "Frontran institutions"
+L181: 
+L182: $AAOI, $AXTI, $LITE, $COHR. Many up 100–400% since first posts.
+L183: 
+L184: Phase 3 · Emerging
+L185: 
+L186: SiPh / ELS / CPO
+L187: 
+L188: "Adding heavily now"
+L189: 
+L190: $SIVE, $AAOI (as ELS player), $POET, Celestial AI. 2027–2028 CPO inflection.
+L191: The implication for retail: by the time the next phase is consensus, the asymmetric upside is gone. Watch what Phase 3 names get added to before institutions pile in.
+L192: ## Track record — calls that actually played out
+L193: 
+L194: Receipts. So you can calibrate.
+L195: 
+L196: $AXTI
+L197: 
+L198: Validated
+L199: 
+L200: Called the InP substrate bottleneck a year early
+L201: 
+L202: IntelliEPI's CEO publicly confirmed "InP shortage is a bottleneck for the entire AI infrastructure" in Q1 2026 earnings — exactly what Serenity called.
+L203: 
+L204: cite16†view on X ↗†x.com L205: 
+L206: $RPI
+L207: 
+L208: +72% over 2 sessions
+L209: 
+L210: Raspberry Pi demand-spike thesis
+L211: Called +55% revenue growth when sell-side consensus was +14%. Earnings printed +58%. Stock +44.76% on 3/31 and +27.43% on 4/1.
+L212: 
+L213: cite17†view on X ↗†x.com L214: 
+L215: $AAOI
+L216: 
+L217: Multi-bagger from entry
+L218: 
+L219: Entered at ~$84, called "way too cheap"
+L220: 
+L221: Full transceiver supply chain + ELSFP build for CPO. Said "10x revenue from optical transceivers in H2 2027." ~$500M cash on the balance sheet.
+L222: 
+L223: cite18†view on X ↗†x.com L224: 
+L225: $LNG
+L226: 
+L227: +52.74% YTD
+L228: 
+L229: "Most obvious" energy-war pick
+L230: Cheniere Energy as the cleanest US LNG export beneficiary of geopolitical disruption.
+L231: 
+L232: $CVX
+L233: 
+L234: +35.44% YTD
+L235: 
+L236: Energy-war supermajor
+L237: 
+L238: Bought as an Iran-tension hedge.
+L239: 
+L240: cite19†view on X ↗†x.com L241: 
+L242: $IREN
+L243: 
+L244: Flipped
+L245: 
+L246: Was long → went bearish after $6B ATM
+L247: 
+L248: A reminder that he updates his theses when the cap structure changes against him.
+L249: 
+L250: cite20†view on X ↗†x.com L251: Track record is self-reported and from public posts. The wins above are not a complete sample — losers and unconfirmed calls are not shown here. Calibrate accordingly.
+L252: ## How to follow live
+L253: 
+L254: This page is a snapshot. The actual stream of theses is on X.
+L255: cite15†Primary @aleabitoreddit on X Real-time thesis posts, replies, and chokepoint maps. Turn on notifications.†x.com cite21†Long-form Singularity Research Fund essay The most thorough third-party synthesis of his framework and positions.†singularityresearchfund.substack.com cite22†Performance PhotonCap: +122% 1Y writeup Independent breakdown of his returns and the "engineer who only buys what he's touched" angle.†photoncap.net L256: ## Before you copy a single trade — read this
+L257: 
+L258: No fund, no 13F
+L259: 
+L260: Unlike a hedge fund manager, Serenity has no regulatory obligation to disclose holdings. What you see is what he chooses to post.
+L261: 
+L262: Never copy his sizing
+L263: He runs concentrated with ~1.4x margin; entry prices are sometimes disclosed, weights never. Follow ideas if you must — never sizing. His "Doomsday" percentages are hedges on his book, not a portfolio for you. July 2026 made it concrete: ~1.4x on a book that fell ~35% underneath = his self-reported −49.4% monthly drawdown.
+L264: 
+L265: He moves in real-time
+L266: 
+L267: His $IREN flip shows he changes theses when conditions change. By the time you read a tweet, he may have rotated.
+L268: 
+L269: Survivorship in track record
+L270: Self-reported wins; losers and stop-outs are not posted with the same visibility. Calibrate the +122% accordingly.
+L271: ## Sources
+L272: 
+L273: All picks on this page are paraphrased from public posts. Verify against primary sources:
+L274: 
+L275:   * cite15†@aleabitoreddit on X (primary)†x.com L276:   * cite21†Singularity Research Fund — Inside the Mind of Serenity†singularityresearchfund.substack.com L277:   * cite22†PhotonCap — 1Y +122% writeup†photoncap.net L278:   * cite23†Moomoo — backstory thread†www.moomoo.com L279: Not affiliated with Serenity, AleaBito, or @aleabitoreddit. Not investment advice. Some picks may be out of date by the time you read them — always check his most recent posts before acting.
+L280: 
+L281: Free weekly digest
+L282: ## Get his week, in plain English.
+L283: 
+L284: One email a week: his newest calls, what actually changed, and the receipts — the same verified summaries you see on this page, sent to you so you don't have to keep checking back. No spam, no hype, unsubscribe anytime. Not investment advice.
+L285: 
+L286: [Input] [Input] [Input: [REDACTED_EMAIL]] [Button: Get the digest]
+L287: 
+L288: We store your email only to send the digest — nothing else. Prefer real-time? The cite11†Telegram group†t.me is faster (needs a VPN inside China).
+L289: Telegram: cite11†Community†t.me · cite12†Alert channel†t.me L290: 
+L291: Built for retail. A companion to the Situational Awareness Tracker. · cite9†中文版 L292: 
+L293: Last update: —
+--------------------------------------------------------------------------------
+Serenity Tracker — reconstructed portfolio for @aleabitoreddit (https://serenitytrades.com/)
+citeturn449view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://serenitytrades.com/","lineno":null}); Total lines: 74
+L0: cite0†◎ Serenity Tracker cite1†Universe cite2†Supply chain cite3†Performance cite4†Deep dive cite5†Learn cite6†Commentary cite7†About L1: 
+L2: Independent · derived · not affiliated
+L3: # The investment universe of Serenity cite8†(@aleabitoreddit)†x.com L4: 
+L5: He front-runs the AI photonics buildout by buying the obscure upstream chokepoints — lasers, substrates and epiwafers — that feed NVDA's and the hyperscalers' optical roadmap.
+L6: 
+L7: cite1†Explore the universe → cite5†Learn the concepts L8: 
+L9: 180
+L10: 
+L11: Companies
+L12: 
+L13: 66
+L14: 
+L15: Owned / likely
+L16: 
+L17: 114
+L18: 
+L19: Coverage only
+L20: 
+L21: Each node = a name he owns · size = how central · color = conviction
+L22: cite4†🔬 Featured deep dive Sivers Semiconductors — his #1 conviction A reconstructed #1-conviction bet that Sivers is the undiscovered InP-laser chokepoint of the AI optics supercycle — compelling structural story, but loss-making, dilution-prone and dogged by revenue-quality questions, with a huge 2026 run that already prices in a lot.Read the deep dive — his timeline, the thesis, the run & the risks → L23: ## What he invests in
+L24: 
+L25: AI photonics / optical interconnect (CPO)
+L26: 
+L27: His dominant theme by a wide margin: the light-source and substrate chokepoints for co-packaged optics and silicon photonics. Span…
+L28: 
+L29: Memory / NAND-DRAM supercycle
+L30: 
+L31: Structural AI-driven memory shortage thesis: DRAM/HBM/NAND price hikes and multi-year prepayments. MU and SNDK are the core longs,…
+L32: 
+L33: Advanced packaging & semicap chokepoints
+L34: Tooling and OSAT bottlenecks for HBM/CPO: glass-core substrate equipment (LPK), burn-in/test (AEHR), metrology (ONTO), OSAT/packag…
+L35: 
+L36: AI power / grid bottleneck
+L37: 
+L38: The 'boring sector about to re-rate' on data-center electricity demand: utilities (XLU), transformers/switchgear (HPS.A), and 800V…
+L39: 
+L40: Neoclouds
+L41: 
+L42: AI cloud capacity plays, expressed as long-short: NBIS as his favored sum-of-parts long versus CRWV and IREN as the structurally w…
+L43: 
+L44: Defense / drones & space
+L45: War-trade exposure on US military escalation: drones (AVAV, OSS, ONDS), directed-energy lasers (LASR), and space (RKLB, SPCX). The…
+L46: 
+L47: cite1†The whole picture → L48: ## Highest conviction
+L49: 
+L50: cite9†$AXTI10 axt inc COREUS cite10†$SIVE10 sivers COREEurope cite11†$31059 Win Semiconductors (WIN Semi)COREAsia cite12†$33639 FOCI Fiber Optic Communications COREAsia cite13†$64519 Shunsin Technology COREAsia cite14†$68309 MSSCorps COREAsia cite15†$AAOI9 applied optoelectronics COREUS cite16†$AEHR9 aehr test systems MAJORUS cite17†$EWY9 iShares MSCI South Korea ETF (Samsung Electronics / SK Hynix proxy)COREAsia cite18†$IQE9 iqe plc COREEurope L51: 
+L52: ## Latest note
+L53: 
+L54: cite19†2026-10-19 L55: ### cite19†Serenity reads a Lumentum CEO interview as proof the photonics demand wall is still standing L56: 
+L57: On a day when broad market weakness dragged AI names down together, Serenity — the stock-picker known for back-mapping Nvidia's roadmap to the obscure upstream suppliers that feed it — argued investors were throwing out good names with bad ones.
+L58: Photonics: demand versus financing risk. His first focus was Lumentum (LITE), the large-cap optical-components incumbent he holds as the "safe" anchor of his photonics sleeve, tied to Google TPU optics. Parsing a CEO interview, Serenity highlighted management's claim that hyperscaler capex is still rising, that its purchase agreements are largely non-cancellable, and that it now has capacity committed into 2029 with 2030 under negotiation.
+L59: His takeaway: demand and financing risk are not evenly spread across the AI supply chain, yet the market is selling everything in unison. He reiterated his structural point that rising optical content per XPU plus adoption of co-packaged and near-packaged optics (CPO/NPO — putting the optical engine next to the switch die to save power) should lift photonics spending even if aggregate capex dips. He framed Lumentum as less dependent on pure datacenter buildout than networking rival Broadcom (AVGO).
+L60: SIVE as the upstream wildcard. Serenity then returned to his highest-conviction small-cap, Sweden's Sivers Semiconductor (SIVE), which makes the continuous-wave lasers that serve as light sources for silicon photonics and CPO — a classic "chokepoint," a scarce upstream part the whole buildout leans on. He reviewed its disclosed 100MW CW laser capacity target for Q4 2027, a second foundry partner alongside Win Semiconductors, and expected revenue from contract manufacturer Jabil (JBL) in 2027.
+L61: He cautioned that, unlike Applied Optoelectronics (AAOI) — the Made-in-America transceiver maker he follows closely — Sivers gives too little product-level detail to model precisely, so the bet rests on whether qualifications convert, the same risk he watched play out at burn-in test firm Aehr (AEHR). He noted Sivers appears as a reference laser in GlobalFoundries' (GFS) CPO platform, and that downstream packagers like POET and LiDAR maker Aeva (AEVA) are smaller nodes in the same chain.
+L62: He stressed Sivers uses external fabs and is already institutionally financed, so it doesn't share the funding worries hitting other corners of AI.
+L63: Neoclouds: a cancellation he read as bullish. Finally, Serenity pushed back on the consensus reaction to Microsoft (MSFT) walking away from a deal with NScale, reportedly over UK grid constraints. His logic: if Microsoft still urgently needs capacity it can't get from one provider, it will buy elsewhere — making rival "neocloud" operators with energized capacity more valuable, not less.
+L64: He named his core long Nebius (NBIS), the best-financed neocloud in his view thanks to Nvidia backing, while noting the episode also warns what happens when a provider can't deliver contracted demand — a dig at Iris Energy (IREN), his structural short over its large dilutive equity offering.
+L65: This is derived commentary, not advice or his own words.
+L66: 
+L67: cite20†$LITE cite21†$GOOGL cite22†$AVGO cite10†$SIVE cite23†$JBL cite15†$AAOI cite16†$AEHR cite24†$GFS cite25†$POET cite26†$AEVA cite27†$MSFT cite28†$NBIS L68: 
+L69: cite6†All notes → L70: 
+L71: Serenity Tracker shows derived content only about the public account @aleabitoreddit. It is an independent reconstruction — not affiliated with the account, and not investment advice. No original posts are republished.
+L72: 
+L73: Read the cite7†methodology & accuracy .
+

@@ -1,0 +1,702 @@
+false --12-31 2026 Q2 0001325964 0001325964 2026-01-01 2026-06-30 0001325964 2026-08-14 0001325964 2026-06-30 0001325964 2025-12-31 0001325964 2026-04-01 2026-06-30 0001325964 2025-04-01 2025-06-30 0001325964 2025-01-01 2025-06-30 0001325964 us-gaap:CommonStockMember 2026-03-31 0001325964 us-gaap:AdditionalPaidInCapitalMember 2026-03-31 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2026-03-31 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2026-03-31 0001325964 us-gaap:RetainedEarningsMember 2026-03-31 0001325964 2026-03-31 0001325964 us-gaap:CommonStockMember 2025-12-31 0001325964 us-gaap:AdditionalPaidInCapitalMember 2025-12-31 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2025-12-31 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-12-31 0001325964 us-gaap:RetainedEarningsMember 2025-12-31 0001325964 us-gaap:CommonStockMember 2025-03-31 0001325964 us-gaap:AdditionalPaidInCapitalMember 2025-03-31 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2025-03-31 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-03-31 0001325964 us-gaap:RetainedEarningsMember 2025-03-31 0001325964 2025-03-31 0001325964 us-gaap:CommonStockMember 2024-12-31 0001325964 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2024-12-31 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-12-31 0001325964 us-gaap:RetainedEarningsMember 2024-12-31 0001325964 2024-12-31 0001325964 us-gaap:CommonStockMember 2026-04-01 2026-06-30 0001325964 us-gaap:AdditionalPaidInCapitalMember 2026-04-01 2026-06-30 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2026-04-01 2026-06-30 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2026-04-01 2026-06-30 0001325964 us-gaap:RetainedEarningsMember 2026-04-01 2026-06-30 0001325964 us-gaap:CommonStockMember 2026-01-01 2026-06-30 0001325964 us-gaap:AdditionalPaidInCapitalMember 2026-01-01 2026-06-30 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2026-01-01 2026-06-30 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2026-01-01 2026-06-30 0001325964 us-gaap:RetainedEarningsMember 2026-01-01 2026-06-30 0001325964 us-gaap:CommonStockMember 2025-04-01 2025-06-30 0001325964 us-gaap:AdditionalPaidInCapitalMember 2025-04-01 2025-06-30 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2025-04-01 2025-06-30 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-04-01 2025-06-30 0001325964 us-gaap:RetainedEarningsMember 2025-04-01 2025-06-30 0001325964 us-gaap:CommonStockMember 2025-01-01 2025-06-30 0001325964 us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-06-30 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2025-01-01 2025-06-30 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-06-30 0001325964 us-gaap:RetainedEarningsMember 2025-01-01 2025-06-30 0001325964 us-gaap:CommonStockMember 2026-06-30 0001325964 us-gaap:AdditionalPaidInCapitalMember 2026-06-30 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2026-06-30 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2026-06-30 0001325964 us-gaap:RetainedEarningsMember 2026-06-30 0001325964 us-gaap:CommonStockMember 2025-06-30 0001325964 us-gaap:AdditionalPaidInCapitalMember 2025-06-30 0001325964 us-gaap:DeferredCompensationShareBasedPaymentsMember 2025-06-30 0001325964 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-06-30 0001325964 us-gaap:RetainedEarningsMember 2025-06-30 0001325964 2025-06-30 0001325964 lwlg:Phase1Member 2026-01-01 2026-06-30 0001325964 lwlg:Phase2Member 2026-01-01 2026-06-30 0001325964 lwlg:InvestmentBankMember lwlg:UnderwritingAgreementMember 2025-12-15 0001325964 lwlg:InvestmentBankMember lwlg:UnderwritingAgreementMember 2025-12-01 2025-12-15 0001325964 lwlg:InstitutionalInvestorMember lwlg:PurchaseAgreementMember 2025-03-17 0001325964 lwlg:InstitutionalInvestorMember lwlg:PurchaseAgreementMember 2025-12-15 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2022-12-09 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2022-12-08 2022-12-09 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2026-04-20 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2026-04-01 2026-04-20 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2026-01-01 2026-06-30 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2026-08-01 2026-08-14 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2026-06-30 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2026-08-14 0001325964 lwlg:SalesAgreementMember 2026-04-01 2026-06-30 0001325964 lwlg:SalesAgreementMember 2026-01-01 2026-06-30 0001325964 us-gaap:MoneyMarketFundsMember us-gaap:FairValueInputsLevel1Member 2026-06-30 0001325964 us-gaap:MoneyMarketFundsMember us-gaap:FairValueInputsLevel1Member 2026-01-01 2026-06-30 0001325964 us-gaap:USTreasurySecuritiesMember us-gaap:FairValueInputsLevel2Member 2026-06-30 0001325964 us-gaap:USTreasurySecuritiesMember us-gaap:FairValueInputsLevel2Member 2026-01-01 2026-06-30 0001325964 lwlg:USAgencySecuritiesMember us-gaap:FairValueInputsLevel2Member 2026-06-30 0001325964 lwlg:USAgencySecuritiesMember us-gaap:FairValueInputsLevel2Member 2026-01-01 2026-06-30 0001325964 2023-01-01 2023-12-31 0001325964 lwlg:SalesAgreementMember 2025-04-01 2025-06-30 0001325964 lwlg:SalesAgreementMember 2025-01-01 2025-06-30 0001325964 lwlg:JointDevelopmentAgreementMember 2026-04-01 2026-06-30 0001325964 lwlg:JointDevelopmentAgreementMember 2026-01-01 2026-06-30 0001325964 us-gaap:OfficeEquipmentMember 2026-06-30 0001325964 us-gaap:OfficeEquipmentMember 2025-12-31 0001325964 us-gaap:OtherMachineryAndEquipmentMember 2026-06-30 0001325964 us-gaap:OtherMachineryAndEquipmentMember 2025-12-31 0001325964 us-gaap:FurnitureAndFixturesMember 2026-06-30 0001325964 us-gaap:FurnitureAndFixturesMember 2025-12-31 0001325964 us-gaap:LeaseholdImprovementsMember 2026-06-30 0001325964 us-gaap:LeaseholdImprovementsMember 2025-12-31 0001325964 lwlg:SoftwareMember 2026-06-30 0001325964 lwlg:SoftwareMember 2025-12-31 0001325964 lwlg:EquipmentNotYetPlacedInServiceMember 2026-06-30 0001325964 lwlg:EquipmentNotYetPlacedInServiceMember 2025-12-31 0001325964 2017-10-01 2017-10-30 0001325964 2017-10-30 0001325964 2022-11-01 2022-11-22 0001325964 2022-11-22 0001325964 srt:MinimumMember 2026-06-30 0001325964 srt:MaximumMember 2026-06-30 0001325964 lwlg:ResearchAndDevelopmentExpensesMember 2026-04-01 2026-06-30 0001325964 lwlg:GeneralAndAdministrativeExpensesMember 2026-04-01 2026-06-30 0001325964 lwlg:ResearchAndDevelopmentExpensesMember 2025-04-01 2025-06-30 0001325964 lwlg:GeneralAndAdministrativeExpensesMember 2025-04-01 2025-06-30 0001325964 lwlg:ResearchAndDevelopmentExpensesMember 2026-01-01 2026-06-30 0001325964 lwlg:GeneralAndAdministrativeExpensesMember 2026-01-01 2026-06-30 0001325964 lwlg:ResearchAndDevelopmentExpensesMember 2025-01-01 2025-06-30 0001325964 lwlg:GeneralAndAdministrativeExpensesMember 2025-01-01 2025-06-30 0001325964 lwlg:InstitutionalInvestorMember lwlg:TwoThousandTwentyThreePurchaseAgreementMember 2025-03-17 0001325964 lwlg:InvestmentBankMember lwlg:SalesAgreementMember 2025-12-17 0001325964 lwlg:InvestmentBankMember lwlg:SalesAgreementMember 2025-12-02 2025-12-17 0001325964 lwlg:InvestmentBankMember lwlg:SalesAgreementMember 2026-01-01 2026-01-08 0001325964 lwlg:InvestmentBankMember lwlg:SalesAgreementMember 2025-12-01 2025-12-17 0001325964 lwlg:InvestmentBankMember 2026-04-01 2026-04-14 0001325964 lwlg:InvestmentBankingCompanyMember lwlg:SalesAgreementMember 2025-12-18 2026-06-30 0001325964 lwlg:SalesAgreementMember 2026-04-01 2026-04-20 0001325964 lwlg:SalesAgreementMember 2026-04-01 2026-06-30 0001325964 lwlg:SalesAgreementMember 2025-04-01 2025-06-30 0001325964 lwlg:SalesAgreementMember 2026-01-01 2026-06-30 0001325964 lwlg:SalesAgreementMember 2025-01-01 2025-06-30 0001325964 lwlg:TwoThousandsTwentyFivePlanMember 2026-06-30 0001325964 srt:MinimumMember 2026-01-01 2026-06-30 0001325964 srt:MaximumMember 2026-01-01 2026-06-30 0001325964 srt:MinimumMember 2025-01-01 2025-06-30 0001325964 srt:MaximumMember 2025-01-01 2025-06-30 0001325964 lwlg:ModificationsOfEquityAwardsMember 2026-06-30 0001325964 lwlg:RestrictedStockAwardsMember 2026-06-30 0001325964 lwlg:RestrictedStockAwardsMember 2025-06-30 0001325964 us-gaap:RestrictedStockUnitsRSUMember 2026-06-30 0001325964 us-gaap:RestrictedStockUnitsRSUMember 2025-06-30 0001325964 lwlg:PerformanceStockUnitsMember 2025-01-01 2025-06-30 0001325964 lwlg:PerformanceStockUnitsMember 2025-06-30 0001325964 lwlg:PerformanceStockUnitsVestingMember 2025-04-01 2025-06-30 0001325964 lwlg:PerformanceStockUnitsVestingMember 2025-01-01 2025-06-30 0001325964 lwlg:PerformanceStockUnitsMember 2026-01-01 2026-06-30 0001325964 lwlg:PerformanceStockUnitsMember 2026-04-01 2026-06-30 0001325964 lwlg:StockOptionsMember 2026-04-01 2026-06-30 0001325964 lwlg:StockOptionsMember 2025-04-01 2025-06-30 0001325964 lwlg:StockOptionsMember 2026-01-01 2026-06-30 0001325964 lwlg:StockOptionsMember 2025-01-01 2025-06-30 0001325964 lwlg:RestrictedStockAwardsMember 2026-04-01 2026-06-30 0001325964 lwlg:RestrictedStockAwardsMember 2025-04-01 2025-06-30 0001325964 lwlg:RestrictedStockAwardsMember 2026-01-01 2026-06-30 0001325964 lwlg:RestrictedStockAwardsMember 2025-01-01 2025-06-30 0001325964 us-gaap:RestrictedStockUnitsRSUMember 2026-04-01 2026-06-30 0001325964 us-gaap:RestrictedStockUnitsRSUMember 2025-04-01 2025-06-30 0001325964 us-gaap:RestrictedStockUnitsRSUMember 2026-01-01 2026-06-30 0001325964 us-gaap:RestrictedStockUnitsRSUMember 2025-01-01 2025-06-30 0001325964 lwlg:PerformanceStockUnitsMember 2025-04-01 2025-06-30 0001325964 lwlg:NonQualifiedStockOptionsAndWarrantsMember 2025-12-31 0001325964 lwlg:NonQualifiedStockOptionsAndWarrantsMember 2026-01-01 2026-06-30 0001325964 lwlg:NonQualifiedStockOptionsAndWarrantsMember 2026-06-30 0001325964 lwlg:NonQualifiedStockOptionsAndWarrantsMember lwlg:ExercisePriceRangeOneMember 2026-01-01 2026-06-30 0001325964 lwlg:NonQualifiedStockOptionsAndWarrantsMember lwlg:ExercisePriceRangeOneMember 2026-06-30 0001325964 lwlg:NonQualifiedStockOptionsAndWarrantsMember lwlg:ExercisePriceRangeTwoMember 2026-01-01 2026-06-30 0001325964 lwlg:NonQualifiedStockOptionsAndWarrantsMember lwlg:ExercisePriceRangeTwoMember 2026-06-30 0001325964 lwlg:RestrictedStockAwardsMember 2025-12-31 0001325964 us-gaap:RestrictedStockUnitsRSUMember 2025-12-31 0001325964 lwlg:OptionsAndWarrantsMember 2026-04-01 2026-06-30 0001325964 lwlg:OptionsAndWarrantsMember 2026-01-01 2026-06-30 0001325964 lwlg:OptionsAndWarrantsMember 2025-04-01 2025-06-30 0001325964 lwlg:OptionsAndWarrantsMember 2025-01-01 2025-06-30 0001325964 lwlg:NonVestedRestrictedStockUnitsMember 2026-04-01 2026-06-30 0001325964 lwlg:NonVestedRestrictedStockUnitsMember 2026-01-01 2026-06-30 0001325964 lwlg:NonVestedRestrictedStockUnitsMember 2025-04-01 2025-06-30 0001325964 lwlg:NonVestedRestrictedStockUnitsMember 2025-01-01 2025-06-30 0001325964 lwlg:EarnedButUnissuedPeformanceStockUnitsMember 2026-04-01 2026-06-30 0001325964 lwlg:EarnedButUnissuedPeformanceStockUnitsMember 2026-01-01 2026-06-30 0001325964 lwlg:EarnedButUnissuedPeformanceStockUnitsMember 2025-04-01 2025-06-30 0001325964 lwlg:EarnedButUnissuedPeformanceStockUnitsMember 2025-01-01 2025-06-30 0001325964 us-gaap:RelatedPartyMember 2025-04-01 2025-06-30 0001325964 us-gaap:RelatedPartyMember 2025-01-01 2025-06-30 0001325964 srt:DirectorMember 2025-04-01 2025-06-30 0001325964 srt:DirectorMember 2025-01-01 2025-06-30 0001325964 lwlg:MembersOfBoardOfDirectorsAndAdvisoryBoardMember 2025-04-01 2025-06-30 0001325964 lwlg:MembersOfBoardOfDirectorsAndAdvisoryBoardMember 2025-01-01 2025-06-30 0001325964 srt:DirectorMember 2025-12-31 0001325964 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:CH 2026-04-01 2026-06-30 0001325964 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:CH 2025-04-01 2025-06-30 0001325964 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:CH 2026-01-01 2026-06-30 0001325964 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:CH 2025-01-01 2025-06-30 0001325964 country:US 2026-06-30 0001325964 country:US 2025-12-31 0001325964 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember lwlg:OneCustomerMember 2026-04-01 2026-06-30 0001325964 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember lwlg:OneCustomerMember 2025-04-01 2025-06-30 0001325964 us-gaap:SubsequentEventMember srt:ChiefFinancialOfficerMember 2026-07-01 2026-07-20 0001325964 us-gaap:SubsequentEventMember 2026-07-01 2026-07-20 iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure utr:sqft UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 _____________________ FORM 10-Q ____________________ (Mark One) ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended June 30, 2026 OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from _____________to
+_____________ Commission File Number 001-40766 Lightwave Logic, Inc. (Exact name of registrant as specified in its charter) Nevada (State or other jurisdiction of incorporation or organization) 82-0497368 (I.R.S. Employer Identification No.) 369 Inverness Parkway , Suite 350 Englewood , CO (Address of principal executive offices) 80112 (Zip Code) ( 720 ) 340-4949 (Registrant’s telephone number, including
+    area code) Securities registered pursuant to Section 12(b)
+of the Act: Title of each class Trading Symbol(s) Name of exchange on which registered Common Stock, $0.001 par value per share LWLG The Nasdaq Stock Market Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐ Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit such files). Yes ☒ No ☐ Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging
+growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting
+company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act: Large accelerated filer ☐ Accelerated filer ☐ Non-accelerated filer ☒ Smaller reporting company ☒ Emerging growth company ☐ If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.) Yes ☐ No ☒ The
+number of shares of the registrant’s common stock outstanding as of August 14, 2026 was 154,167,255 . TABLE OF CONTENTS Page Part I Financial Information 1 Item 1 Financial Statements 1 Item 2 Management’s Discussion and Analysis of Financial Condition and Results of Operations 25 Item 3 Quantitative and Qualitative Disclosures About Market Risk 32 Item 4 Controls and Procedures 32 Part II Other Information 33 Item 1 Legal Proceedings 33 Item 1A Risk Factors 33 Item 2 Unregistered Sales of Equity Securities and Use of Proceeds 33 Item 3 Defaults Upon Senior Securities 33 Item 4 Mine Safety Disclosures 33 Item 5 Other Information 33 Item 6 Exhibits 34 Signatures 35 i Forward-Looking Statements This report on Form 10-Q contains,
+and our officers and representatives may from time to time make, “forward-looking statements” within the meaning of the safe
+harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by words
+such as: “anticipate,” “intend,” “plan,” “goal,” “seek,” “believe,”
+“project,” “estimate,” “expect,” “continuing,” “ongoing,” “strategy,”
+“future,” “likely,” “may,” “should,” “could,” “will” and similar
+references to future periods. Examples of forward-looking statements include, among others, statements we make regarding expected operating
+results, such as anticipated revenue; anticipated levels of capital expenditures for our current fiscal year; our belief that we have,
+or will have, sufficient liquidity to fund our business operations during the next 12 months; strategy for gaining customers, growth,
+product development, market position, financial results and reserves. Forward-looking statements
+are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations,
+and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy
+and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks
+and changes in circumstances that are difficult to predict and many of which are outside of our control. Our actual results and financial
+condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not rely on any of these
+forward-looking statements. Important factors that could cause our actual results and financial condition to differ materially from those
+indicated in the forward-looking statements include, among others, the following: inability to generate significant revenue or to manage
+growth; lack of available funding; lack of a market for or market acceptance of our products; competition from third parties; general
+economic and business conditions; intellectual property rights of third parties; changes in the price of our stock and dilution; 
+regulatory constraints and potential legal liability;  ability to maintain effective internal controls; security breaches, cybersecurity
+attacks and other significant disruptions in our information technology systems; changes in technology and methods of marketing; delays
+in completing various engineering and manufacturing programs; changes in customer order patterns and qualification of new customers; changes
+in product mix; success in technological advances and delivering technological innovations; shortages in components; production delays
+due to performance quality issues with outsourced components; other risks to which our Company is subject; and  other factors
+beyond the Company’s control. These forward-looking statements
+are subject to a number of risks, uncertainties and assumptions including without limitation our known material risks under Part I Item
+1.A “Risk Factors” contained in our Company’s Annual Report on Form 10-K for the year ended December 31, 2025, and Part II,
+Item 1.A “Risk Factors” in this report on Form 10-Q. Many factors could cause our actual results to differ materially from
+the forward-looking statements. In addition, we cannot assess the impact of each factor on our business or the extent to which any factor,
+or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. The forward-looking statements
+speak only as of the date on which they are made, and, except as required by law, we undertake no obligation to update any forward-looking
+statement to reflect events or circumstances after the date on which the statement is made or to reflect the occurrence of unanticipated
+events. ii PART I – FINANCIAL INFORMATION Item 1: Financial Statements LIGHTWAVE LOGIC, INC. FINANCIAL STATEMENTS JUNE 30, 2026 (UNAUDITED) CONTENTS PAGE BALANCE SHEETS 2 STATEMENTS OF COMPREHENSIVE LOSS 3 STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY 4-5 STATEMENTS OF CASH FLOWS 6 NOTES TO FINANCIAL STATEMENTS 7- 24 1 LIGHTWAVE LOGIC, INC. BALANCE SHEETS June 30, 2026 December 31, 2025 Unaudited ASSETS CURRENT ASSETS Cash and cash equivalents $ 47,209,148 $ 69,017,354 Marketable securities 48,701,814 — Accounts receivable 16,129 190,753 Prepaid expenses and other current assets 2,149,099 601,101 TOTAL CURRENT ASSETS 98,076,190 69,809,208 PROPERTY AND EQUIPMENT - net of accumulated depreciation of $ 8,749,364 and $ 7,802,183 , respectively 5,791,113 5,222,252 OTHER ASSETS Intangible assets - net of accumulated amortization of $ 417,462 and $ 473,771 , respectively 1,879,357 1,713,420 Operating lease - right of use asset 2,332,229 2,440,369 TOTAL OTHER ASSETS 4,211,586 4,153,789 TOTAL ASSETS $ 108,078,889 $ 79,185,249 LIABILITIES AND STOCKHOLDERS' EQUITY CURRENT LIABILITIES Accounts payable $ 445,397 $ 477,939 Accrued bonuses and accrued expenses 806,337 1,400,008 Accounts payable and accrued expenses - related parties — 56,250 Contract liability 100,000 6,541 Current operating lease liability 209,057 194,770 TOTAL CURRENT LIABILITIES 1,560,791 2,135,508 LONG TERM LIABILITIES Long-term operating lease liability 2,294,732 2,403,911 TOTAL LONG TERM LIABILITIES 2,294,732 2,403,911 TOTAL LIABILITIES 3,855,523 4,539,419 STOCKHOLDERS' EQUITY Preferred stock, $ 0.001 par value, 1,000,000 authorized, no shares issued or outstanding — — Common stock
+$ 0.001 par value, 250,000,000 authorized, 154,166,422 and 146,050,506 issued and outstanding, respectively 154,167 146,051 Additional paid-in-capital 284,458,018 242,016,025 Deferred compensation ( 112,793 ) ( 203,458 ) Accumulated deficit ( 180,227,125 ) ( 167,312,788 ) Accumulated other comprehensive loss ( 48,901 ) — TOTAL STOCKHOLDERS' EQUITY 104,223,366 74,645,830 TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY $ 108,078,889 $ 79,185,249 See accompanying notes to these financial statements. 2 LIGHTWAVE LOGIC, INC. STATEMENTS OF COMPREHENSIVE LOSS (UNAUDITED) Three Months Ended June 30,
+    2026 Three Months Ended June 30, 2025 (Restated) Six Months Ended June 30, 2026 Six Months Ended June 30, 2025 (Restated) NET SALES $ 32,751 $ 25,605 $ 61,918 $ 48,522 COST AND EXPENSE Cost of sales — 3,463 1,336 5,491 Research and development 3,878,703 2,621,441 7,368,998 5,710,659 General and administrative 3,423,188 2,300,884 6,686,054 4,137,936 TOTAL COST AND EXPENSE 7,301,891 4,925,788 14,056,388 9,854,086 LOSS FROM OPERATIONS ( 7,269,140 ) ( 4,900,183 ) ( 13,994,470 ) ( 9,805,564 ) OTHER INCOME (EXPENSE) Interest income and interest amortization on marketable securities 652,071 168,253 1,113,346 356,101 Commitment fee — ( 235,801 ) — ( 243,830 ) Gain (loss) on disposal of property and equipment and intangible assets ( 5,270 ) — ( 41,679 ) 28,800 Other income 8,542 1,098 8,466 836 NET LOSS $ ( 6,613,797 ) $ ( 4,966,633 ) $ ( 12,914,337 ) $ ( 9,663,657 ) OTHER COMPREHENSIVE INCOME (LOSS) Net unrealized holding loss on available-for-sale debt securities ( 48,901 ) — ( 48,901 ) — COMPREHENSIVE LOSS $ ( 6,662,698 ) $ ( 4,966,633 ) $ ( 12,963,238 ) $ ( 9,663,657 ) LOSS PER SHARE Basic and diluted $ ( 0.04 ) $ ( 0.04 ) $ ( 0.09 ) $ ( 0.08 ) WEIGHTED AVERAGE NUMBER OF SHARES Basic and diluted 153,479,343 125,271,407 150,797,655 124,605,324 See accompanying notes to these financial statements 3 LIGHTWAVE LOGIC, INC. STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (UNAUDITED) Three Months Ended June 30, 2026 Number
+                                            of Shares Common Stock Additional Paid-in Capital Deferred Compensation Accumulated
+                                            Other Comprehensive Income (Loss) Accumulated Deficit Total BALANCE AT MARCH 31, 2026 (UNAUDITED) 150,500,710 $ 150,502 $ 254,934,925 $ ( 160,192 ) $ — $ ( 173,613,328 ) $ 81,311,907 Common stock sales at the market by investment banking company 1,794,185 1,794 21,337,776 — — — 21,339,570 Exercise of options 1,407,114 1,407 5,083,160 — — — 5,084,567 Exercise of warrants 402,500 403 1,362,529 — — — 1,362,932 Options issued for services — — 618,919 — — — 618,919 Restricted stock units (RSUs) issued for services 61,913 61 1,029,155 — — — 1,029,216 Deferred compensation — — 138,953 — — 138,953 Restricted Stock Award (RSA) modification — — 91,554 ( 91,554 ) — — — Net unrealized loss on available-for-sale marketable securities — — — — ( 48,901 ) — ( 48,901 ) Net loss for the three months ended June 30, 2026 — — — — — ( 6,613,797 ) ( 6,613,797 ) BALANCE AT JUNE 30, 2026 (UNAUDITED) 154,166,422 $ 154,167 $ 284,458,018 $ ( 112,793 ) $ ( 48,901 ) $ ( 180,227,125 ) $ 104,223,366 Six Months Ended June 30, 2026 Number of Shares Common Stock Additional Paid-in Capital Deferred Compensation Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total BALANCE AT DECEMBER 31, 2025 146,050,506 $ 146,051 $ 242,016,025 $ ( 203,458 ) $ — $ ( 167,312,788 ) $ 74,645,830 Common stock sales at the market by investment banking company 2,623,926 2,624 27,881,353 — — — 27,883,977 Common stock issued to investment bank 1,750,000 1,750 4,929,178 — — — 4,930,928 Exercise of options 2,575,050 2,575 6,944,111 — — — 6,946,686 Cashless exercise of 200,000 options 186,030 186 ( 186 ) — — — — Exercise of warrants 402,500 403 1,362,529 — — — 1,362,932 Options issued for services — 950,449 — — — 950,449 Restricted stock units (RSUs) issued for services, net of share settlement for taxes 578,410 578 283,005 — — — 283,583 Deferred compensation — — — 182,219 — — 182,219 Restricted Stock Award (RSA) modification — — 91,554 ( 91,554 ) — — — Net unrealized loss on available-for-sale marketable securities — — — — ( 48,901 ) — ( 48,901 ) Net loss for the six months ended June 30, 2026 — — — — — ( 12,914,337 ) ( 12,914,337 ) BALANCE AT JUNE 30, 2026 (UNAUDITED) $ 154,166,422 $ 154,167 $ 284,458,018 $ ( 112,793 ) $ ( 48,901 ) $ ( 180,227,125 ) $ 104,223,366 See
+accompanying notes to these financial statements 4 LIGHTWAVE LOGIC, INC. STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (UNAUDITED) Three Months Ended June 30, 2025 Number of Shares Common Stock Additional Paid-in Capital Deferred Compensation Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total BALANCE AT MARCH 31, 2025 (UNAUDITED) (as restated) (see Note 2) 124,654,522 $ 124,655 $ 183,577,533 $ ( 456,585 ) $ — $ ( 151,696,015 ) $ 31,549,588 Common stock issued to institutional investor 650,000 650 687,350 — — — 688,000 Common stock issued for commitment shares 256,340 256 235,545 — — — 235,801 Common stock sales at the market by investment banking company 318,411 318 390,495 — — — 390,813 Exercise of options 57,500 58 40,442 — — — 40,500 Cashless exercise of 1,300,000 options 417,206 417 ( 192,842 ) — — — ( 192,425 ) Options issued for services — — 533,650 — — — 533,650 Performance stock units (PSUs) issued for services — — 384,925 — — — 384,925 Restricted stock units (RSUs) issued for services — — 11,113 — — — 11,113 Restricted stock awards issued for services, net of forfeitures and share settlement for taxes 112,729 113 55,201 ( 68,189 ) — — ( 12,875 ) Deferred compensation — — — 171,713 — — 171,713 Net loss for the three months ended June 30, 2025 — — — — — ( 4,966,633 ) ( 4,966,633 ) BALANCE AT JUNE 30, 2025 (as restated) (UNAUDITED) 126,466,708 $ 126,467 $ 185,723,412 $ ( 353,061 ) $ — $ ( 156,662,648 ) $ 28,834,170 Six Months Ended June 30, 2025 Number of Shares Common Stock Additional Paid-in Capital Deferred Compensation Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total BALANCE AT DECEMBER 31, 2024 (as restated) (see Note 2) 123,301,653 $ 123,302 $ 180,956,329 $ ( 656,735 ) $ — $ ( 146,998,991 ) $ 33,423,905 Common stock issued to institutional investor 1,685,881 1,686 2,173,297 — — — 2,174,983 Common stock issued for commitment shares 261,386 261 243,569 — — — 243,830 Common stock sales at the market by investment banking company 368,411 368 506,880 — — — 507,248 Exercise of options 282,500 283 203,717 — — — 204,000 Cashless exercise of 1,350,000 options 434,148 434 ( 172,359 ) — — — ( 171,925 ) Options issued for services — — 1,282,692 — — — 1,282,692 Options issued to settle accrued bonuses — — 48,068 — — — 48,068 Performance stock units (PSUs) issued for services — — 384,925 — — — 384,925 Restricted stock units (RSUs) issued for services — — 11,113 — — — 11,113 Restricted stock awards issued for services, net of forfeitures and share settlement for taxes 132,729 133 85,181 ( 98,189 ) — — ( 12,875 ) Deferred compensation — — — 401,863 — — 401,863 Net loss for the six months ended June 30, 2025 — — — — — ( 9,663,657 ) ( 9,663,657 ) BALANCE AT JUNE 30, 2025 (as restated) (UNAUDITED) 126,466,708 $ 126,467 $ 185,723,412 $ ( 353,061 ) $ — $ ( 156,662,648 ) $ 28,834,170 See accompanying notes to these financial statements 5 LIGHTWAVE LOGIC, INC. STATEMENTS OF CASH FLOWS (UNAUDITED) Six Months Ended Six Months Ended June 30, 2025 June 30, 2026 (Restated) CASH FLOWS FROM OPERATING ACTIVITIES Net loss $ ( 12,914,337 ) $ ( 9,663,657 ) Adjustments to reconcile net loss to net cash used in operating activities Stock options issued for services 950,449 1,282,692 Amortization of deferred compensation 182,219 401,863 Performance stock units issued for services — 384,925 Restricted stock units issued for services 2,371,949 11,113 Common stock issued for commitment shares — 243,830 Depreciation and amortization of patents 987,257 943,089 Amortization of right of use asset 108,140 100,938 Accretion of interest on marketable securities ( 33,726 ) — (Gain) loss on disposal of property and equipment and intangible assets 41,679 ( 28,800 ) (Increase) decrease in assets Accounts receivable 174,624 34,812 Prepaid expenses and other current assets ( 1,547,998 ) ( 237,115 ) (Decrease) increase in liabilities Accounts payable ( 32,542 ) ( 195,411 ) Accrued bonuses, accrued expenses and other liabilities ( 112,569 ) ( 394,875 ) Accounts payable and accrued expenses-related parties ( 56,250 ) ( 53,359 ) Contract liability 93,459 ( 8,333 ) Operating lease liability ( 94,891 ) ( 81,934 ) Net cash used in operating activities ( 9,882,537 ) ( 7,260,222 ) CASH FLOWS FROM INVESTING ACTIVITIES Cost of intangibles ( 245,398 ) ( 108,332 ) Purchase of property and equipment ( 1,518,336 ) ( 893,894 ) Purchases of marketable securities ( 48,714,585 ) — Net cash used in investing activities ( 50,478,319 ) ( 1,002,226 ) CASH FLOWS FROM FINANCING ACTIVITIES Exercise of options and warrants 8,309,618 204,000 Cashless option exercise tax payments — ( 171,926 ) Cashless tax payment on vested restricted stock awards — ( 12,875 ) Tax payment on net issuance of vested restricted stock units ( 2,088,366 ) — Tax payment on net issuance of performance stock units ( 481,103 ) — Issuance of common stock, institutional investor — 2,174,983 Issuance of common stock to investment bank 4,930,928 — Common stock sales at the market by investment banking company 27,883,977 507,248 Net cash provided by financing activities 38,555,054 2,701,430 Effect of fair value changes on cash equivalents ( 2,404 ) — NET DECREASE IN CASH AND CASH EQUIVALENTS ( 21,808,206 ) ( 5,561,018 ) CASH AND CASH EQUIVALENTS - BEGINNING OF PERIOD 69,017,354 27,667,964 CASH AND CASH EQUIVALENTS - END OF PERIOD $ 47,209,148 $ 22,106,946 Supplemental Disclosure of Non-cash activities : Options issued to settle accrued bonuses $ — $ 48,068 Trade-in credit for purchase of property and equipment $ — $ 28,800 Non-cash repurchase of shares issued for net option exercise $ — $ 172,359 Restricted stock awards issued for services $ — $ 169,846 See accompanying notes to these financial statements 6 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 1 – NATURE OF BUSINESS AND SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES As used herein, “we,” “us,”
+“our,” and the “Company” refer to Lightwave Logic, Inc. Financial Statements The accompanying unaudited financial statements
+have been prepared by Lightwave Logic, Inc. These statements include all adjustments (consisting only of its normal recurring adjustments)
+which management believes necessary for a fair presentation of the statements and have been prepared on a consistent basis using the accounting
+policies described in the Summary of Significant Accounting Policies included in the financial statements and notes thereto included in
+the Company’s Annual Report on Form 10-K for the year ended December 31, 2025, as originally filed with the Securities and Exchange
+Commission on March 20, 2026 (the “2025 Annual Report”). Certain financial information and footnote disclosures normally included
+in financial statements prepared in accordance with accounting principles generally accepted in the United States have been condensed
+or omitted pursuant to the rules and regulations of the Securities and Exchange Commission, although the Company believes that the accompanying
+disclosures are adequate to make the information presented not misleading. The financial statements should be read in conjunction with
+the financial statements and notes thereto included in the 2025 Annual Report. The interim operating results for the three and six months
+ending June 30, 2026 may not be indicative of operating results expected for the full year. History and Nature of Business Lightwave Logic, Inc. is a specialty materials
+and intellectual property company focused on the development and commercialization of proprietary electro-optic (“EO”) polymer
+materials designed to enable high-speed optical modulators for data communications and other photonic applications. Our Perkinamine® family of EO polymer materials
+is engineered for integration into silicon photonics (“SiPh”) and other photonic integrated circuit (“PIC”) platforms.
+When incorporated into device architectures, these materials are designed to support high-speed, high-bandwidth optical modulation with
+lower drive voltage requirements relative to certain conventional silicon-based approaches and certain other traditional photonic material
+systems, including III-V–based technologies. The electro-optic properties of these materials can allow shorter interaction lengths
+in modulator designs, which can contribute to more compact device footprints and increased integration density. In addition, our materials
+are intended to be compatible with complementary metal-oxide-semiconductor (“CMOS”) fabrication processes, which may facilitate
+integration into established semiconductor foundry workflows. Reduced drive voltage operation may enable lower system-level power consumption
+and simplified driver electronics in specific implementations. We do not manufacture optical transceivers, photonic
+devices, or complete optical modules. Instead, our strategy is to commercialize our technology through a combination of material sales,
+intellectual property licensing, process design kit (“PDK”) enablement, and royalty or other fee-based arrangements tied to
+customer production. Our customers and prospective customers include
+semiconductor foundries, silicon photonics device designers, optical module manufacturers, and system integrators serving artificial intelligence
+(“AI”), cloud computing, data center, and telecommunications markets. We pursue customer adoption through a structured commercialization
+process designed to support evaluation, integration, qualification, and production readiness within established semiconductor manufacturing
+ecosystems. Lightwave Logic, Inc. was organized under the
+laws of the State of Nevada in 1997, and it commenced with its current business plan in 2024. 7 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 Cash, Cash Equivalents and Marketable Securities The Company considers all highly liquid investments
+with a maturity date of three months or less to be cash equivalents. Marketable securities consist of highly liquid available-for-sale
+debt securities with maturities of greater than three months but less than 1 year when purchased. Available-for-sale debt securities are carried
+at fair value, with unrealized holding gains and losses reported as a component of accumulated other comprehensive loss within stockholders'
+equity. Accrued interest receivable is excluded from the amortized cost basis of the securities and is included in prepaid expenses and
+other current assets in the accompanying balance sheets. The Company evaluates its available-for-sale
+debt securities for expected credit losses in accordance with Financial Accounting Standards Board (“FASB”) Accounting Standards
+Codification (“ASC”) 326. As of June 30, 2026, the Company determined that no allowance for credit losses was required. Any
+unrealized losses were attributable to changes in market interest rates rather than credit-related factors. The Company has elected to
+exclude accrued interest receivable from its estimate of credit losses and writes off uncollectible accrued interest receivable in a timely
+manner. Fair Value of Financial Instruments The Company’s financial instruments consist of cash, cash
+equivalents, prepaid expenses and other assets, marketable securities, accounts receivable, accounts payable and accrued expenses. The
+carrying values of cash, accounts receivable, prepaid expenses, accounts payable and accrued expenses approximate fair values due to the
+short-term nature of these instruments. The Company measures cash equivalents and
+available-for-sale debt securities at fair value on a recurring basis. These instruments are classified within Level 1 or Level 2 of the
+fair value hierarchy based on the observability of the inputs used to determine fair value. Level 1 instruments are valued using quoted
+prices in active markets for identical assets. Level 2 instruments are valued using observable market-based inputs, including quoted prices
+for similar instruments, benchmark yields, broker/dealer quotations, and pricing models utilizing observable market data. Revenue Recognition and Contract Liability The Company recognizes revenue in accordance
+with FASB ASC Topic 606, Revenue from Contracts with Customers. Under ASC 606, revenue is recognized when control of goods or
+services is transferred to a customer in an amount that reflects the consideration to which the Company expects to be entitled. 8 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 1 – NATURE OF BUSINESS AND SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) Revenue Recognition and Contract Liability (Continued) To achieve this, the Company applies the five-step model: 1. Identify the contract with a customer. 2. Identify the performance obligations in the contract. 3. Determine the transaction price for the contract. 4. Allocate the transaction price to the performance obligations. 5. Recognize revenue as performance obligations are satisfied. The Company’s primary revenue streams include
+technology license and material supply agreements and non-recurring engineering revenue from joint development agreements. Technology License and Material Supply Agreements The Company enters into technology license and
+material supply agreements, under which it grants customers a non-exclusive, royalty-bearing license to use its patented electro-optic
+polymer technology (the “Licensed Product”). The Company also supplies proprietary polymers to licensees for use in their
+manufacturing of photonic devices. The Company assesses whether the license and the
+supply of proprietary polymers represent distinct performance obligations. Based on this assessment, the Company has determined that the
+license and material supply are not distinct for financial reporting purposes because they are highly interdependent. Accordingly, the
+Company accounts for these as a single performance obligation. Revenue under these agreements is recognized as follows: Upfront License Fees – Nonrefundable upfront
+license fees are recorded as contract liability and recognized on a pro-rata basis over the contract term. Minimum Annual Royalties – Fixed royalty
+payments required under the contract are also recognized on a pro-rata basis over the contract term. Variable Royalties – Royalties exceeding
+the minimum annual amount are recognized when earned, typically when the licensee’s sales exceed the minimum threshold. Milestone Payments – Recognized only when
+the contractual milestone is achieved, such as when the licensee sells a specified number of units of the Licensed Product. Joint Development Agreement The Company entered into a memorandum of agreement
+(“MOA”) with a customer to specify certain binding terms related to the joint development of electro-optical polymer-based
+modulators on silicon photonics for use in communication applications. The MOA was executed in January 2026; however, the Company commenced
+work under the arrangement during 2025. The development work consists of preparing reference documentation and support of a multi-project
+wafer chip produced at a mutually agreed upon foundry, the design and post processing of fabricated chips, and complete product verification
+and volume manufacturing preparation, with each party to the agreement having responsibility over various deliverables for each phase. The Company evaluated the arrangement under ASC
+808, Collaborative Arrangements, and concluded the arrangement meets the definition of a collaborative arrangement. The Company also concluded
+that certain promised services within the arrangement represent units of account with a customer and therefore are within the scope of
+ASC 606. Consideration received from the customer for such services is presented as net sales in the accompanying financial statements. 9 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 1 – NATURE OF BUSINESS AND SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) Revenue Recognition and Contract Liability (Continued) The arrangement includes development services
+to be performed in phases. The Company evaluated the promised goods and services within each phase and concluded they are not separately
+identifiable because they are highly interdependent and represent inputs to a combined output that is delivered and accepted at the phase
+level. Accordingly, each phase is accounted for as a single combined performance obligation. Phases 1 and 2 are within the scope of ASC
+606. Phase 1 consideration was $ 130,000 , which the Company recognized in net sales upon completion and delivery to the customer of the Phase
+1 products and services. Phase 2 consideration was $ 200,000 , payable in installments subject to customer’s confirmation of completion
+and acceptance of the related deliverables. Deliverables and consideration for Phase 3 have not been determined. The Company recognizes revenue at a point in time upon completion
+and customer acceptance of the phase deliverables, as applicable. Customer acceptance is considered the substantive indicator that control
+of the completed phase deliverables has transferred. Contract Costs The Company capitalizes incremental costs to obtain
+contracts if they are expected to be recoverable, in accordance with ASC 340-40, Other Assets and Deferred Costs – Contracts with
+Customers. These capitalized costs are amortized over the expected contract term in a manner consistent with the related revenue recognition.
+The Company evaluated costs to fulfill the joint development arrangement under ASC 340-40 and concluded such costs do not meet the capitalization
+criteria because the costs are not expected to be recovered through the consideration payable under the arrangement. The Company expenses costs to fulfill the development
+arrangement as incurred, as the activities are not reimbursable and meet the definition of research and development under ASC 730. Contract Liability Contract liability represents amounts received
+in advance for performance obligations not yet satisfied, including non-refundable upfront license fees. The Company recognizes contract
+liability revenue as revenue when the related performance obligations are satisfied. Cost of Sales Cost of sales consists of labor costs, material
+costs and manufacturing overhead costs associated with the production of materials transferred to the customer under the technology license
+and material supply agreement at the Company’s facility. Stock-based Payments The Company accounts for stock-based compensation
+under the provisions of FASB ASC 718, "Compensation - Stock Compensation," which requires the measurement and recognition
+of compensation expense for all stock-based awards made to employees and directors based on estimated fair values on the grant date. The
+fair value of restricted stock awards and units is estimated by the market price of the Company’s common stock at the date of grant.
+Restricted stock awards and units are being amortized to expense over the shorter of the requisite service period or the actual vesting
+period. Performance stock units are subject to both performance-based and service vesting requirements. The grant-date fair value of performance
+stock units is based on the fair value of the Company’s stock on a grant date and is recognized over the service period based on
+an assessment of the likelihood that the applicable performance goals will be achieved, and compensation expense is periodically adjusted
+based on actual and expected performance. The Company estimates the fair value of option and warrant awards on the date of grant using
+the Black-Scholes model. The value of the portion of the award that is ultimately expected to vest is recognized as expense over the shorter
+of the requisite service period or the actual vesting period, using the straight-line method. Consistent with the accounting requirement
+for employee share-based payment awards, nonemployee share-based payment awards within the scope of Topic 718 are measured at grant-date
+fair value of the equity instruments that an entity is obligated to issue when the good has been delivered or the service has been rendered
+and any other conditions necessary to earn the right to benefit from the instruments have been satisfied. The Company has elected to account for forfeiture of stock-based awards
+as they occur. 10 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 1 – NATURE OF BUSINESS AND SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) Loss Per Share The Company follows FASB ASC 260, “Earnings
+per Share,” resulting in the presentation of basic and diluted earnings per share. Because the Company reported a net loss in 2026
+and 2025, common stock equivalents, including stock options and warrants were anti-dilutive; therefore, the amounts reported for basic
+and dilutive loss per share were the same. Comprehensive Loss The Company
+follows FASB ASC 220.10, “Reporting Comprehensive Income (Loss).” Comprehensive loss is a more inclusive financial reporting
+methodology that includes disclosure of certain financial information that historically has not been recognized in the calculation of
+net loss. The Company records unrealized gains and losses on available-for-sale securities as accumulated other comprehensive loss on
+the balance sheet. Accordingly, comprehensive loss includes both net loss and other comprehensive loss. Recently Issued Accounting Pronouncements Not
+Yet Adopted ASU 2024-03 – Income Statement – Reporting
+Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40) requires disclosure, in the notes to financial statements,
+of specified information about certain costs and expenses, such as the amounts of purchases of inventory, employee compensation, depreciation,
+intangible asset amortization, included in each relevant expense caption; disclosure of a qualitative description of the amounts remaining
+in relevant expense captions that are not separately disaggregated quantitatively; and disclosure of the total amounts of selling expenses.
+For public business entities, the amendments in this update are effective for annual periods beginning after December 15, 2026 and interim
+reporting periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The Company is evaluating the impact
+of this ASU on its financial statement disclosures. Reclassifications Certain reclassifications have been made to the
+2025 financial statements in order to conform to the 2026 financial statement presentation. NOTE 2 – RESTATEMENT OF PRIOR-PERIOD FINANCIAL STATEMENTS Comparative financial information as of June
+30, 2025 and December 31, 2025, as well as opening balance as of December 31, 2024, have been derived from the Company's previously filed
+amended Quarterly Report on Form 10-Q/A. As described in that filing, the Company corrected errors related to the accounting for certain
+non-cash stock option exercises, including errors affecting previously reported interim and historical equity balances. The accompanying
+comparative financial statements reflect the corrected amounts. Refer to the Company's Form 10-Q/A filed on January 20, 2026 for a complete
+description of the nature of the errors and the quantitative impact of the restatement. 11 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 3 – MANAGEMENT’S PLANS The Company’s future expenditures and capital
+requirements will depend on numerous factors, including: the progress of our research and development efforts; the rate at which the Company
+can, directly or through arrangements with original equipment manufacturers, introduce and sell its polymer materials technology; the
+costs of filing, prosecuting, defending and enforcing any patent claims and other intellectual property rights; market acceptance of the
+Company’s products and competing technological developments; and the Company’s ability to establish joint development, joint
+venture and licensing arrangements.  Based on its current operating plan, management believes the Company's
+existing cash, cash equivalents and marketable securities are sufficient to fund operations through at least December 2027. On December 15, 2025 , the Company entered into
+an underwriting agreement with an investment bank to sell a total of 13,416,667 shares of its common stock, inclusive of the underwriter’s
+overallotment option. The net proceeds to the Company from this offering were $ 37,756,628 , after deducting underwriting discounts and
+commissions and other offering expenses payable by the Company. On March
+17, 2025 , the Company entered into a purchase agreement with an institutional investor to sell up to $ 30,000,000 of common stock over a 36-month period (described in Note 11). This purchase agreement was terminated on December
+15, 2025 . As of the termination date, the Company had received $ 3,646,655 pursuant to this agreement. On December
+9, 2022 , the Company entered into a sales agreement with an investment banking company whereby the Company could offer and
+sell shares of its common stock having an aggregate offering price of up to $ 35,000,000 from time to time through or to the investment banking company, as sales agent. On April
+20, 2026 , the Company entered into an amendment to the sales agreement to increase the amount of shares of common stock that
+may be sold under this agreement to $ 51,404,500 .
+As of June 30, 2026 and as of the date of this filing,  pursuant to the sales agreement, the Company has sold $ 51,401,115 in shares of common stock and has $ 3,385 in shares remaining available to the Company per the agreement. The Company's first commercial agreement
+was executed in May 2023 pursuant to  a material supply and license agreement that incorporates the Company's patented electro-optic
+polymer materials for use in manufacturing photonic devices (described in Note 5). For the three and six months ended June 30, 2026,
+the Company recognized $ 32,751 and $ 61,918 in revenue related to this agreement, respectively. Management expects the Company's cash requirements to increase
+as it continues to advance the commercialization of its electro-optic polymer technology and expand its research, development and commercial
+activities. The
+Company currently has no debt to service. NOTE 4 – CASH EQUIVALENTS AND MARKETABLE SECURITIES The Company invests primarily in U.S. Treasury securities and
+U.S. government agency securities. The following tables present the Company’s cash equivalents and marketable securities by significant
+investment category as of June 30, 2026: Schedule of cash equivalents and marketable securities Reported As Assets Pricing Category Amortized Cost Unrealized Gain Unrealized Loss Fair Value Cash Equivalents Marketable Securities Money Market Funds Level 1 218,396 — — 218,396 218,396 — U.S. Treasury Securities Level 2 51,843,362 — ( 32,488 ) 51,810,874 16,942,860 34,868,014 U.S. Agency Securities Level 2 17,828,933 — ( 16,413 ) 17,812,520 3,978,720 13,833,800 Total 69,890,691 — ( 48,901 ) 69,841,790 21,139,976 48,701,814 Accrued interest receivable of $ 254,288 is excluded from the amortized cost basis of the available-for-sale debt securities and is included in prepaid expenses and other current
+assets in the accompanying balance sheet. As of June 30, 2026, all available-for-sale
+marketable securities were in unrealized loss positions; however, the Company concluded that the unrealized losses were attributable to
+changes in market interest rates and not to credit-related factors. Accordingly, no allowance for credit losses was recorded as of June
+30, 2026. In addition, none of the securities had been in a continuous unrealized loss position for more than 12 months. As of June 30, 2026, all of the Company’s
+available-for-sale marketable securities had contractual maturities of less than one year. The Company did not hold any marketable securities
+or cash equivalents classified as available-for-sale debt securities as of December 31, 2025. 12 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 5 – REVENUE The Company's first commercial agreement was executed
+in May 2023, in the form of a four-year material supply and license agreement (the “License Agreement”) that incorporates
+the Company's patented electro-optic polymer materials for use in manufacturing of photonic devices (the “Licensed Product”).
+The licensee shall pay the Company a running royalty with a minimum royalty paid on an annual basis over the term of the License Agreement,
+and, if applicable, royalties that exceed the minimum royalty payments and milestone license fees. The License Agreement is a non-exclusive
+material supply and license agreement. In December 2025, the Company entered into a memorandum
+of agreement (also referred to as “joint development agreement”) under which it, along with other parties, performs its respective
+part of the development work to develop an electro-optical polymer-based modulator chip for use in communication applications. The development
+work consists of preparing reference documentation and support of a multi-project wafer chip produced at a mutually agreed upon foundry,
+the design and post processing of fabricated chips, and complete product verification and volume manufacturing preparation, with each
+party to the agreement having responsibility over various deliverables for each phase. Timing of Revenue Recognition and Contract
+Balances Revenues related to the initial license fee and
+a minimum annual royalty are recognized over time commencing with the License Agreement in May 2023. An up-front license fee in the amount
+of $ 50,000 was paid during the period ended December 31, 2023. $ 0 and $ 6,541 of this amount is recorded as a contract liability in current
+liabilities on the Company’s balance sheets as of June 30, 2026 and December 31, 2025, respectively. For the three months ended June 30, 2026 and
+2025, the Company recognized revenue of $ 32,751 and $ 25,605 ,
+respectively,  related to the License Agreement. For the six months ended June 30, 2026 and 2025, the Company recognized
+revenue of $ 61,918 and $ 48,522 , respectively, related to the License Agreement. Revenues related to the joint development
+agreement are recognized at a point of time, when control of the related  performance obligations is transferred to a customer.
+For the three and six months ended June 30, 2026, the Company did no t
+recognize any non-recurring engineering revenue related to this agreement. An installment payment in the amount of $ 100,000 was received during the six months ended June 30, 2026 and is recorded as a contract liability in the current liabilities in the accompanying balance sheet. Contract balances are
+as follows: Schedule of contract balances June 30,
+    2026 December
+    31, 2025 Accounts receivable, net $ 16,129 $ 190,753 Short-term contract assets $ — $ — Long-term contract assets $ — $ — Short-term contract liability $ 100,000 $ 6,541 Significant changes in the contract balances
+for the six months ended June 30, 2026 are as follows: Schedule of significant changes in the contract balances Six Months
+    Ended June 30, 2026 Assets Liabilities Balance at December 31, 2025 $ 190,753 $ ( 6,541 ) Revenue recognized that was previously included in contract liability — 6,541 Decreases/increases due to cash received ( 330,000 ) ( 100,000 ) Billed receivables recorded 330,000 — Transferred to receivables from unbilled receivables ( 230,000 ) — Unbilled receivables recorded $ 55,376 — Balance at June 30, 2026 $ 16,129 $ ( 100,000 ) Assets Recognized for the Costs to Obtain
+a Contract There are no assets recognized for the costs
+to obtain the License Agreement. 13 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 6 – PREPAID EXPENSES AND OTHER CURRENT
+ASSETS Prepaid expenses and other current assets consist of the following: Schedule of prepaid expenses and other current assets June 30, 2026 December 31, 2025 Wafer fabrication deposits $ 618,500 $ — Insurance 571,097 194,258 Deposits for equipment purchases 222,997 172,937 Software licenses 188,088 75,257 Deposits for conferences 53,287 — Investor relations 54,485 6,127 Subscriptions 56,706 39,934 Rent 36,525 89,468 Deferred equity issuance costs 26,403 — Other 66,723 23,120 Prepaid Expenses $ 1,894,811 $ 601,101 Accrued interest on marketable securities 254,288 — Prepaid expenses and other current assets $ 2,149,099 $ 601,101 NOTE 7 – PROPERTY AND EQUIPMENT Property and equipment consist of the following: Schedule of property and equipment June 30, 2026 December 31, 2025 Office equipment $ 226,930 $ 182,600 Lab equipment 12,665,291 12,096,036 Furniture 84,392 66,438 Leasehold improvements 477,385 440,855 Software 178,684 133,377 Equipment not yet placed in service 907,795 105,129 14,540,477 13,024,435 Less: Accumulated depreciation 8,749,364 7,802,183 Property and equipment, net $ 5,791,113 $ 5,222,252 14 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 7 – PROPERTY AND EQUIPMENT (CONTINUED) Depreciation expense for the three months ended
+June 30, 2026 and 2025 was $ 471,639 and $ 461,228 , respectively. Depreciation expense for the six months ended June 30, 2026 and 2025 was
+$ 949,475 and $ 889,680 , respectively. During the three and six months ended June 30, 2026 and during the three months ended June 30, 2025,
+the Company did no t retire or dispose of any property and equipment. During the six months ended June 30, 2025, the Company traded in
+property and equipment with a cost and accumulated depreciation of $ 25,140 for a gain of $ 28,800 . NOTE 8 – INTANGIBLE ASSETS Intangible assets represent legal fees and patent
+fees associated with the prosecution of patent applications. The Company has recorded amortization expense on patents granted, which are
+amortized over the remaining legal life. Maintenance patent fees are paid to a government patent authority to maintain a granted patent
+in force. Some countries require the payment of maintenance fees for pending patent applications. Maintenance fees paid after a patent
+is granted are expensed, as these are considered ongoing costs to “maintain a patent”. Maintenance fees paid prior to a patent
+grant date are capitalized to patent costs, as these are considered “patent application costs”. No amortization expense is
+recorded for remaining patent applications since patents on these applications have yet to be granted. Intangible assets consist of the following: Schedule of intangible assets June 30, 2026 December 31, 2025 Patents $ 2,296,819 $ 2,187,191 Less: Accumulated amortization 417,462 473,771 Intangible assets, net $ 1,879,357 $ 1,713,420 Amortization expense for the three months ended
+June 30, 2026, and 2025 was $ 19,260 and $ 26,901 , respectively. Amortization expense for the six months ended June 30, 2026 and 2025 was
+$ 37,782 and $ 53,409 , respectively. During the six months ended June 30, 2026, the Company retired certain expired patents with a cost
+of $ 135,770 and accumulated amortization of $ 94,091 for a loss of $ 41,679 . During the three months ended June 30, 2026, the Company retired
+certain expired patent applications with a cost of $ 5,270 for a loss of $ 5,270 . There were no patent costs written off for the
+three and six months ended June 30, 2025. 15 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 9 – LEASES On October 30, 2017, the Company entered into
+a lease agreement (the “Lease”) to lease approximately 13,420 square feet of office, chemistry, clean room and research and
+development space located in Colorado for the Company’s principal executive offices and research and development facility. The
+term of the lease was sixty-one ( 61 ) months, beginning on November 1, 2017 and ending on November 30, 2022 . In January 2022, the
+term was extended for an additional twenty-four ( 24 ) months. On November 22, 2022, the Company entered into
+an amendment to the Lease (the “Amended Lease”) to lease an additional approximately 9,684 square feet of adjacent office
+and warehouse space.  The term of the Amended Lease is one hundred twenty-eight ( 128 ) months, with an effective date of June 1, 2023 .
+Base rent through January 31, 2024 of the Amended Lease term was approximately $ 30,517 per month. The base rent for the next full year
+of the Amended Lease term is approximately $ 377,288 , with an increase in annual base rent of approximately 3 % in each subsequent year
+of the lease term.  Commencing on June 1, 2023, monthly installments of base rent and one-twelfth of landlord’s estimate of
+tenant’s proportionate share of annual operating expenses shall be due on the first day of each calendar month. The Amended Lease
+also provides an allowance of up to $ 43,216 to be used solely for the cost of renovations to the additional lease premises. For purposes of calculating operating lease liability,
+lease term includes the initial non-cancelable term plus any term under renewal options that are reasonably assured. Any rent escalations,
+along with rent abatements, are included in the computation of rent expense calculated on a straight-line basis over the lease term. The
+interest rate implicit in lease contracts is typically not readily determinable and as such the Company uses the appropriate incremental
+borrowing rate based on information available at the lease commencement date in determining the present value of the lease payments. Undiscounted future minimum lease payments under
+the Amended Lease as of June 30, 2026, by year and in aggregate, including the extended term, are as follows: Schedule of future lease payments of operating leases YEARS ENDING DECEMBER 31, AMOUNT Remainder of 2026 $ 200,080 2027 411,174 2028 423,612 2029 436,300 2030 449,431 Thereafter $ 1,471,840 3,392,437 Less discounted interest ( 888,648 ) TOTAL $ 2,503,789 The Company has elected not to recognize right-of-use
+assets and lease liabilities arising from short-term leases. There are no other material operating leases. 16 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 9 – LEASES (CONTINUED) The following table presents weighted average
+assumptions used to compute the Company’s right-of-use assets and lease liabilities: Schedule of operating lease right-of-use assets June 30, 2026 Weighted average remaining lease term (in years) 7.58 Weighted average discount rate 8.25 % As of June 30, 2026, current operating leases
+had remaining terms between 6 months and 7.58 years, with some leases having options to extend the lease terms. Current lease agreements do not contain any residual
+value guarantees or material restrictive covenants. As of June 30, 2026, the Company did not have any finance leases. Operating and short-term lease costs totaling
+$ 87,345 and $ 27,377 are included in research and development and general and administrative expense, respectively, for the three months
+ended June 30, 2026. Operating and short-term lease costs totaling $ 110,713 and $ 32,612 were included in research and development and
+general and administrative expenses, respectively, for the three months ended June 30, 2025. Operating and short-term lease costs totaling
+$ 174,932 and $ 54,717 are included in research and development and general and administrative expenses, respectively, for the six months
+ended June 30, 2026. Operating and short-term lease costs totaling $ 197,121 and $ 53,568 were included in research and development and
+general and administrative expenses, respectively, for the six months ended June 30, 2025. NOTE 10 – INCOME TAXES There is no income tax benefit for the losses incurred during the three and
+six months ended June 30, 2026 and 2025 since management has determined that it is more likely than not that the Company's deferred tax
+assets will not be realized and, accordingly, a full valuation allowance has been recorded against the Company's net deferred tax assets. The Company’s policy is to record interest
+and penalties associated with unrecognized tax benefits as additional income taxes in the statement of operations. As of January 1, 2026,
+the Company had no unrecognized tax benefits, or any tax related interest or penalties, and it does not expect significant changes in
+the amount of unrecognized tax benefits to occur within the next twelve months. There were no changes in the Company’s unrecognized
+tax benefits during the three-and six-month period ended June 30, 2026. The Company did no t recognize any interest or penalties during
+2026 related to unrecognized tax benefits. 17 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 11 – STOCKHOLDERS’ EQUITY Preferred Stock Pursuant to the Company’s Articles of Incorporation,
+the Company’s Board of Directors is empowered, without stockholder approval, to issue series of preferred stock with any designations,
+rights and preferences as they may from time to time determine. The rights and preferences of this preferred stock may be superior to
+the rights and preferences of the Company’s common stock; consequently, preferred stock, if issued could have dividend, liquidation,
+conversion, voting or other rights that could adversely affect the voting power or other rights of the common stock. Additionally, preferred
+stock, if issued, could be utilized, under special circumstances, as a method of discouraging, delaying or preventing a change in control
+of the Company’s business or a takeover from a third party. Common Stock On March 17, 2025, the Company entered into
+a purchase agreement with an institutional investor to sell up to $ 30,000,000 of common stock over a 36-month period. This purchase agreement was terminated on December 15, 2025. As of the
+termination date, pursuant to the purchase agreement, the Company had received $ 3,646,655 under this agreement. On December 17, 2025, the Company closed an offering
+with an investment bank to sell 11,666,667 shares of its common stock. Pursuant to the underwriting agreement, the Company granted the
+investment bank an option to purchase from us up to 1,750,000 additional shares of common stock for the purpose of covering over-allotments,
+if any. On January 8, 2026, the Company closed on the investment bank’s exercise of the option, and issued an additional 1,750,000 shares of its common stock. Pursuant to the underwriting agreement for the offering, the Company agreed to issue to the underwriter warrants
+to purchase up to 350,000 shares of common stock, or three percent ( 3 % ) of the total number of shares of common stock sold in the offering,
+as well as additional underwriter warrants to purchase up to an aggregate of 52,500 shares of common stock in connection with the exercise
+of the over-allotment option by the underwriter. On December 17, 2025 and January 8, 2026,
+the Company sold 11,666,667 shares under this agreement for net proceeds of $ 32,825,700 and 1,750,000 shares for net proceeds of $ 4,930,928 ,
+respectively, after deducting underwriting discounts and commissions and other offering expenses payable by the Company. The
+underwriter warrants were immediately exercisable at an exercise price of $ 3.45 per share during the five-year 5 period following the date of the underwriting agreement. On April 14, 2026, all 402,500 underwriter warrants were exercised for net proceeds of $ 1,362,932 and no underwriter warrants were outstanding thereafter. On December 9, 2022, the Company entered
+into a sales agreement with an investment banking company. In accordance with the terms of this sales agreement, the Company had the
+ability to offer and sell up to $ 35,000,000 shares of its common stock from time to time through or to the investment banking company, as sales agent or principal. On April 20,
+2026, the Company entered into an amendment to the sales agreement to increase the amount to $ 51,404,500 .
+Sales of shares of the Company’s common stock, if any, were to be made by any method deemed to be an “at-the-market
+offering”. The sales agent was entitled to compensation under the terms of
+the sales agreement at a commission rate of up to 3 % of the gross proceeds of the sales price of common stock that they sell. During the three-month period ended June 30,
+2026, pursuant to the sales agreement, the investment banking company sold 1,794,185 shares of the Company’s common stock for net proceeds of $ 21,339,571 after the payment of the investment banking company’s commissions and underwriting expenses in the amounts of $ 491,451 and $ 18,139 ,
+respectively. During the three-month period ended June 30, 2025, pursuant to the sales agreement, the investment banking company
+sold 318,411 shares of the Company’s common stock for net proceeds of $ 390,813 ,
+net of a payment of commissions in the amount of $ 12,088 to the investment banking company. During the six-month period ended June 30, 2026, pursuant to the sales agreement, the investment
+banking company sold 2,623,926 shares of the Company’s common stock for net proceeds of $ 27,883,978 ,
+after payment of the investment banking company’s commissions
+and underwriting expenses in the amounts of $ 695,053 and $ 56,861 , respectively. During the six-month period ended June 30, 2025, pursuant to the sales agreement, the investment
+banking company sold 368,411 shares of the Company’s common stock for net proceeds of $ 507,248 ,
+net of  a payment of commissions in the amount of $ 15,689 to the investment banking company. 18 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 12 – STOCK BASED COMPENSATION Common Stock Options and Warrants The Company maintains the 2016 Equity Incentive
+Plan (the "2016 Plan"), under which no additional awards may be granted following its termination on May 15, 2025. Outstanding
+awards granted under the 2016 Plan remain outstanding in accordance with their original terms. The Company also maintains the 2025 Equity Incentive
+Plan (the "2025 Plan"), which was approved by shareholders on May 15, 2025 and authorizes the issuance of up to 6,000,000 shares
+of common stock pursuant to stock options, restricted stock and restricted stock unit awards. As of June 30, 2026, 2,686,561 shares remained
+available for future grants under the 2025 Plan. The Company uses the Black-Scholes option
+pricing model to calculate the grant-date and modification-date fair value of an award, with the following assumptions for the six
+months period ended June 30, 2026: no dividend
+yield, expected volatility, based on the Company’s historical volatility, 83.6 % to 87.9 % ,
+risk-free interest rate between 4.14 % to 4.55 % and
+expected option life of 10 years,
+which is based on the legal contractual life of the options. The Black-Scholes option pricing model assumptions
+for the six months ended June 30, 2025 are as follows: no dividend yield, expected volatility, based on the Company’s historical
+volatility, 78.7 % to 80.8 % , risk-free interest rate between 4.18 % to 4.48 % and expected option life of 10 years,
+which is based on the legal contractual life of the options. As of June 30, 2026, there was $ 1,326,211 of unrecognized
+compensation expense related to non-vested market-based share awards that is expected to be recognized through December of 2028. As of
+June 30, 2025, there was $ 1,709,499 of unrecognized compensation expense related to non-vested market-based share awards that is expected
+to be recognized through June 2028. 19 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 12 – STOCK BASED COMPENSATION (CONTINUED) Common Stock Options and Warrants (Continued) Modification of Equity Awards During the three months ended June 30, 2026, the
+Company entered into consulting agreements with two former employees whose employment terminated during the period. Under the consulting
+agreements, the former employees will provide consulting services through December 30, 2026. In connection with the consulting agreements,
+the Company modified certain outstanding stock options and unvested restricted stock awards ("RSAs") by permitting continued
+vesting through December 30, 2026. Stock options that were scheduled to vest after December 30, 2026 were forfeited. In addition, all
+unvested restricted stock units ("RSUs") held by the former employees were forfeited upon termination of employment in accordance
+with the terms of the applicable award agreements. The Company evaluated the consulting arrangements
+under ASC 718 and recognized the entire incremental compensation cost associated with the modified awards on the modification date since
+the consulting services did not represent substantive future services. The net incremental compensation cost recognized as a result of
+the modifications totaled $ 386,347 , all of which was recognized during the three and six months ended June 30, 2026. No unrecognized compensation
+cost related to the modified awards remained as of June 30, 2026. Share-based compensation was recognized as follows: Schedule of share-based compensation Three Months Ended June 30, 2026 Three Months Ended June 30, 2025 Six Months Ended June 30, 2026 Six Months Ended June 30, 2025 Stock options $ 618,919 $ 533,650 $ 950,449 $ 1,282,692 Restricted stock awards 138,953 171,713 182,219 401,863 Restricted stock units 1,029,216 11,113 2,371,949 11,113 Performance stock units — 384,925 — 384,925 Total share-based compensation $ 1,787,088 $ 1,101,401 $ 3,504,617 $ 2,080,593 The following tables summarize all stock option
+and warrant activity of the Company during the six months ended June 30, 2026: Schedule of stock option and warrant activity Non-Qualified
+                                            Stock Options and Warrants Outstanding and Exercisable Number of Shares Exercise Price Weighted Average Exercise Price Outstanding, December 31, 2025 8,996,078 $ 0.51 - $ 16.81 $ 3.47 Granted 252,500 $ 3.24 - $ 3.45 $ 3.28 Forfeited 28,749 $ 1.00 - 4.70 $ 2.52 Exercised 3,177,550 $ 0.60 - 10.86 $ 2.66 Outstanding, June 30, 2026 6,042,279 $ 0.51 - $ 16.81 $ 3.90 Exercisable, June 30, 2026 5,332,468 $ 0.51 - $ 16.81 $ 4.08 The aggregate intrinsic value of options
+and warrants outstanding and exercisable as of June 30, 2026 were $ 33,917,186 and $ 28,984,445 , respectively. The aggregate intrinsic
+value is calculated as the difference between the exercise price of the underlying options and warrants and the closing stock price of
+$ 9.46 for the Company’s common stock on June 30, 2026. During the six months ended June 30, 2026, 2,775,050 options with the aggregate
+intrinsic value of $ 19,423,075 were exercised for proceeds of $ 6,946,686 . Of this amount, 200,000 options were exercised via cashless
+settlement. In addition, 402,500 warrants with the total intrinsic value of $ 3,590,300 were exercised for proceeds of $ 1,362,932 , net
+of issuance costs of $ 25,694 during the period. 20 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 12 – STOCK BASED COMPENSATION (CONTINUED) Common Stock Options and Warrants (Continued) Schedule of non-qualified stock options and warrants outstanding Non-Qualified Stock Options and Warrants
+    Outstanding Currently Exercisable Range of Exercise Prices Number Outstanding Currently
+    Exercisable at June 30, 2026 Weighted Average Remaining
+    Contractual Life Weighted
+                                            Average Exercise Price of Options and Warrants Currently Exercisable $ 0.51 - $ 16.81 5,332,468 5.6 Years $ 4.08 Non-Qualified Stock Options and
+    Warrants Outstanding Range of Exercise Prices Number
+                                            Outstanding at June 30, 2026 Weighted Average Remaining
+    Contractual Life Weighted
+                                            Average Exercise Price of Options and Warrants Outstanding $ 0.51 - $ 16.81 6,042,279 6.0 Years $ 3.90 Restricted Stock Awards and Units The Company grants restricted stock units (“RSUs”)
+and restricted stock awards (“RSAs”) to employees and directors. RSUs represent the right to receive shares of common stock
+upon vesting, while RSAs are shares issued at the grant date that remain subject to forfeiture until vesting conditions are satisfied. The grant-date fair value of RSAs and RSUs is
+based on the closing market price of the Company's common stock on the grant date and is recognized as stock-based compensation expense
+on a straight-line basis over the shorter of the requisite service period or the vesting period. Vesting terms range from immediate vesting
+to monthly or quarterly vesting schedules, with certain awards subject to cliff vesting provisions. Restricted stock activity during the
+six months ended June 30, 2026 is as follows: Schedule of fair value of restricted stock awards Restricted
+    Stock Awards Restricted
+    Stock Units Six Month
+    Period Ended Six Month
+    Period Ended June
+    30, 2026 June
+    30, 2026 Weighted
+                                            Average Weighted
+                                            Average Number
+                                            of Shares Grant
+                                            Date Fair Value per Share Number
+                                            of Shares Grant
+                                            Date Fair Value per Share Non-vested, beginning of period 153,596 $ 1.54 2,836,742 $ 3.07 Granted — — 1,183,778 4.05 Vested ( 44,924 ) 2.50 ( 873,378 ) 2.93 Cancelled and forfeited — — ( 70,833 ) 3.24 Non-vested, end of period 108,672 $ 3.50 3,076,309 $ 3.48 As of June 30, 2026 and 2025, the unamortized value
+of the RSAs was $ 100,311 and $ 353,061 , respectively. As of June 30, 2026 and 2025, the unamortized value of the RSUs was $ 8,025,287 and
+$ 708,487 , respectively. 21 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 Performance Stock Units During the six months ended June 30, 2025, the
+Company granted 2,187,501 performance stock units (PSUs) subject to both performance-based and service vesting requirements to the Company’s
+executives. The grant date fair value of the PSUs granted was $ 2,029,126 , as determined by the Company’s closing common stock price
+on the date of the grant of $ 0.93 per share. For the three and six months ended June 30, 2025, the Company recorded $ 384,925 stock-based
+compensation expense related to the PSU vesting. As of June 30, 2026, no PSUs were granted or remained
+outstanding, and no stock-based compensation expense related to PSUs was recognized during the three and six months ended June 30, 2026. NOTE 13 – LOSS PER SHARE The Company calculates earnings (loss) per share
+("EPS") in accordance with FASB ASC 260, Earnings Per Share. Basic EPS is computed by dividing the net loss attributable to
+common stockholders by the weighted-average number of common shares outstanding during the period. Diluted loss per share reflects the
+potential dilution that could occur if securities or other contracts to issue common stock were exercised or converted into common stock.
+For the three and six months ended June 30, 2026 and 2025, the Company reported a net loss; therefore, diluted EPS is calculated the same
+as basic EPS, as the inclusion of all potentially dilutive securities would be anti-dilutive. The following securities were excluded from the
+calculation of diluted loss per share because their effect would have been anti-dilutive: · Options and warrants: 3,937,160 shares and 3,320,221 shares for the three and six months ended June 30, 2026, respectively, and 668,844 and 1,012,128 shares for the three and six months ended June 30, 2025, respectively. · Unvested RSUs: 2,381,813 shares and 2,123,002 shares for the three and six months ended June 30, 2026, respectively, and 26,189 shares and 13,167 shares for the three and six months ended June 30, 2025, respectively. · Earned but unissued PSUs: 0 shares for the three and six months ended June 30, 2026, and 337,448 shares and 169,656 shares for the three and six months ended June 30, 2025, respectively. · Total anti-dilutive securities excluded from the
+calculation of diluted loss per share were 6,318,973 shares and 5,443,223 shares for the three and six months ended June 30, 2026, respectively,
+and 1,032,481 shares and 1,194,951 shares for the three and six months ended June 30, 2025, respectively. NOTE 14 – RELATED PARTIES There were no material transactions with related
+parties during the three- and six-month period ended June 30, 2026. During the three and six months ended June 30,
+2025, the Company engaged in transactions with related parties, including consultants, directors, and entities affiliated with members
+of the Board of Directors. These transactions primarily relate to legal services, consulting fees, director compensation, accounting services,
+and expense reimbursements. Related party transactions for the three and six months ended June
+30, 2025 were as follows: · The Company incurred $ 2,100 and $ 69,643 in legal fees and expense reimbursements with a related party
+law firm for the three and six months ended June 30, 2025, respectively. · The Company incurred $ 16,980 and $ 39,740 in accounting and IT service fees and expense reimbursements
+to related parties for the three and six months ended June 30, 2025, respectively. · The Company incurred $ 53,841 and $ 108,636 in fees and travel expenses to directors for the three and
+six months ended June 30, 2025, respectively. · The Company incurred $ 82,500 and $ 165,000 in consulting fees to board of directors and advisory board
+members for the three and six months ended June 30, 2025, respectively. As of December 31, 2025, accrued liabilities
+included $ 56,250 related to director compensation. There were no material related-party payables outstanding as of June 30, 2026. 22 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 15 – RETIREMENT PLAN The Company established a 401(k) retirement
+plan covering all eligible employees beginning November 15, 2013, which was amended effective February 15, 2025. The plan offers two
+types of elected deferrals: pre-tax deferrals and Roth deferrals. The Company matches 100% of each participant’s
+contribution, up to 4% for all eligible employees. Matching contributions vest immediately. Participants are entitled to receive
+distributions of all vested amounts beginning at age 59 1/2. Matching contributions to all eligible participants charged
+to expense were $ 54,610 and $ 45,890 for the three months ended June 30, 2026 and 2025, respectively. Matching
+contributions to all eligible participants charged to expense were $ 116,938 and $ 85,477 for the six months ended June 30, 2026 and
+2025, respectively. The plan is subject to the annual IRS elective deferral limit of $ 24,500 per employee for 2026, $8,000 catch-up
+for those aged 50 and over, and $11,250 special catch-up limit for those aged 60-63. NOTE 16 – SEGMENT REPORTING The Company operates as a single reportable
+segment, as the Chief Operating Decision Maker (“CODM”), the Chief Executive Officer (“CEO”), evaluates the business
+as a whole and does not receive discrete financial information for separate business units. The CODM is responsible for evaluating financial
+results and making resource allocation decisions. The Company determined that it has one operating and reportable segment based on the
+way the CODM organizes, manages, and evaluates the Company’s operations on a consolidated basis. The CODM assesses the Company's financial performance
+based on operating loss, which aligns with the amount reported in the statements of comprehensive loss. The following table presents
+a reconciliation of segment operating loss to net loss for the three and six months ended June 30, 2026 and 2025: Schedule of reconciliation of segment operating loss Three
+    Months ended Three
+                                            Months ended June
+                                            30, 2025 Six
+    Months Ended Six
+                                            Months Ended June
+                                            30, 2025 June
+    30, 2026 (Restated) June
+    30, 2026 (Restated) NET SALES $ 32,751 $ 25,605 $ 61,918 $ 48,522 COST OF SALES — 3,463 1,336 5,491 OPERATING EXPENSES Research and development 3,878,703 2,621,441 7,368,998 5,710,659 General and administrative 3,423,188 2,300,884 6,686,054 4,137,936 7,301,891 4,925,788 14,056,388 9,854,086 SEGMENT OPERATING LOSS ( 7,269,140 ) ( 4,900,183 ) ( 13,994,470 ) ( 9,805,564 ) OTHER INCOME (EXPENSE) Interest income and interest
+    amortization on marketable securities 652,071 168,253 1,113,346 356,101 Commitment fee — ( 235,801 ) — ( 243,830 ) Gain (loss) on disposal
+    of property and equipment and intangible assets ( 5,270 ) — ( 41,679 ) 28,800 Other
+    income 8,542 1,098 8,466 836 NET LOSS $ ( 6,613,797 ) $ ( 4,966,633 ) $ ( 12,914,337 ) $ ( 9,663,657 ) The CODM regularly reviews the following significant expense
+categories in evaluating the segment performance: • Research and Development: includes costs related to personnel, laboratory and wafer fabrication materials and supplies, prototype device development and wafer fabrication expenses, and third-party consulting costs aimed at developing high-performance electro-optic polymer materials. • General and Administrative: includes personnel costs, professional fees, and other overhead expenses. • Cost of Sales: represents labor costs, material costs and manufacturing overhead costs associated with the production of materials transferred to the customer under the technology license and material supply agreement at the Company’s facility. There were no other segment items for the three
+and six months ended June 30, 2026 and 2025. 23 LIGHTWAVE LOGIC, INC. NOTES TO FINANCIAL STATEMENTS JUNE 30, 2026 AND 2025 NOTE 16 – SEGMENT REPORTING (CONTINUED) Segment assets The CODM does not regularly review asset information
+by segment; accordingly, the Company has not disclosed segment assets. Entity-Wide Disclosures • Geographic Revenue Information:
+For the three and six months ended June 30, 2026 and 2025, 100 % of the Company’s net sales were generated in Switzerland.
+Revenue is attributed to geographic areas based on the customer’s bill-to location. • Long-lived assets: long-lived assets, consisting of property and equipment, intangible assets, and right of use assets under operating leases were all located in the United States and totaled $ 10,002,699 and $ 9,376,041 as of June 30, 2026 and December 31, 2025, respectively. • Major Customers: For the
+    three and six months ended June 30, 2026 and 2025, one customer accounted for 10 % or more of total revenue. The related revenue was
+    attributable to the Company’s single reportable segment. NOTE 17 – SUBSEQUENT EVENTS On July 20, 2026, the Board of Directors of the
+Company appointed Fred A. Graffam III as the Company’s Chief Financial Officer, effective immediately. In connection with his appointment,
+Mr. Graffam received a sign-on equity award in the form of restricted stock units with an aggregate grant-date value of $ 2,400,000 , 25%
+of which shall vest on the first anniversary of the vesting commencement date, and the remaining 75% of which shall vest in equal quarterly
+installments over the three years thereafter. 24 Item 2. Management's Discussion and Analysis of Financial Condition
+and Results of Operations The following discussion
+and analysis should be read in conjunction with our financial statements, included herewith. This discussion should not be construed
+to imply that the results discussed herein will necessarily continue into the future, or that any conclusion reached herein will necessarily
+be indicative of actual operating results in the future. Such discussion represents only the best present assessment of our management.
+This information should also be read in conjunction with our audited historical financial statements which are included in our 2025 Form
+10-K for the fiscal year ended December 31, 2025 (“2025 Form 10-K”). Overview Lightwave Logic, Inc. is
+a specialty materials and intellectual property company focused on the development and commercialization of proprietary electro-optic
+(“EO”) polymer materials designed to enable high-speed optical modulators for data communications and other photonic applications. Our Perkinamine® family
+of EO polymer materials is engineered for integration into silicon photonics (“SiPh”) and other photonic integrated circuit
+(“PIC”) platforms. When incorporated into device architectures, these materials are designed to support high-speed, high-bandwidth
+optical modulation with lower drive voltage requirements relative to certain conventional silicon-based approaches and certain other traditional
+photonic material systems, including III-V–based compound semiconductor technologies. The electro-optic properties of these materials
+can allow shorter interaction lengths in modulator designs, which can contribute to more compact device footprints and increased integration
+density. In addition, our materials are intended to be compatible with complementary metal-oxide-semiconductor (“CMOS”) fabrication
+processes, which may facilitate integration into established semiconductor foundry workflows. Reduced drive voltage operation may enable
+lower system-level power consumption and simplified driver electronics in specific implementations. We do not manufacture optical
+transceivers, photonic devices, or complete optical modules. Instead, our strategy is to commercialize our technology through a combination
+of material sales, intellectual property licensing, process design kit (“PDK”) enablement, and royalty or other fee-based
+arrangements tied to customer production. Our customers and prospective
+customers include semiconductor foundries, silicon photonics device designers, optical module manufacturers, and system integrators serving
+artificial intelligence (“AI”), cloud computing, data center, and telecommunications markets. We pursue customer adoption
+through a structured commercialization process designed to support evaluation, integration, qualification, and production readiness within
+established semiconductor manufacturing ecosystems. As of August 2026, multiple
+customer programs are progressing through defined development stages under our commercialization framework. The timing and scale of potential
+production revenue depend on customer product qualification and adoption cycles, technical validation, manufacturing readiness, end-market
+demand, and broader industry conditions. Unless the context otherwise
+requires, all references to the “Company,” “we,” “our” or “us” and other similar terms
+means Lightwave Logic, Inc. Also, this Form 10-Q Quarterly Report may include the names of various government agencies and the trade names
+of other companies. Unless specifically stated otherwise, the use or display by us of such other parties’ names and trade names
+in this report is not intended to and does not imply a relationship with, or endorsement or sponsorship of us by, any of these other parties. Commencement of Commercial Operations We commenced commercial operations
+in May 2023. Presently, our commercial operations consist of a material supply license agreement to provide Perkinamine ® chromophore
+materials for polymer based photonic devices and photonic integrated circuits (PICs). The license agreement represents tangible commercial
+progress for electro-optic polymers as part of our Company's business plan. During 2025, we entered into a non-recurring engineering joint
+development arrangement with a customer to develop an electro-optical polymer-based modulator chip for use in communication applications. Our Electro-Optic Polymer Technology Our technology platform is
+based on the design, synthesis, and integration of proprietary electro-optic polymer materials engineered to exhibit strong electro-optic
+(“EO”) activity, optical transparency in relevant wavelength bands, and compatibility with semiconductor fabrication processes. Electro-optic polymers utilize
+engineered chromophore molecules embedded within a polymer matrix. When an electric field is applied, the optical properties of the material
+change in a manner that can be used to modulate light propagating through a waveguide structure. The strength of this electro-optic response,
+combined with the material’s processability, is central to device performance and manufacturability. Our Perkinamine® materials
+are designed to: • Support high-speed
+optical modulation suitable for advanced data rate standards, • Enable high-bandwidth
+performance through strong electro-optic coefficients, • Operate at relatively
+low drive voltages, • Be deposited and
+patterned using processes compatible with semiconductor manufacturing environments, and • Maintain stability
+under operational and environmental stress conditions required by customer applications. 25 Because electro-optic polymers
+can be applied directly within waveguide structures, they may allow modulator architectures with shorter interaction lengths compared
+to certain alternative material systems. Shorter interaction lengths can contribute to more compact device geometries and increased integration
+density within photonic integrated circuits. The compatibility of our materials
+with complementary metal oxide semiconductor (“CMOS”) fabrication processes, including back-end-of-line integration flows,
+is designed to facilitate incorporation into silicon photonics platforms using established foundry infrastructure rather than requiring
+dedicated fabrication facilities. We continue to invest in material
+optimization, including improvements in electro-optic efficiency, thermal stability, wavelengths expansion, environmental robustness,
+and process integration parameters. Material formulation, device architecture, and integration techniques are developed in parallel to
+support customer-specific performance and reliability requirements. Commercial deployment of devices
+incorporating our materials depends on successful integration within customer and foundry process flows, achievement of reliability standards,
+and attainment of yield and cost targets. Business Model - Material + IP Licensing Our business model is centered
+on the commercialization of proprietary electro-optic polymer materials and related intellectual property through material supply and
+licensing arrangements. We do not currently intend
+to manufacture finished optical transceivers, discrete photonic devices, or complete optical modules. Our strategy is to enable customers
+to incorporate our materials into their own device platforms and manufacturing ecosystems, leveraging established semiconductor foundry
+infrastructure. Our revenue model may include
+one or more of the following components: Material Sales We supply EO polymer materials
+to customers for evaluation, prototyping, and potential commercial production. Material sales may occur during development phases as well
+as during volume manufacturing, subject to customer qualification and demand. If customer programs transition
+to commercial production incorporating our materials, material revenue would be expected to scale with device volumes. Intellectual Property
+Licensing We may enter into licensing
+agreements covering aspects of our polymer compositions, device designs, integration processes, and related intellectual property. Licensing
+arrangements may include: upfront license fees, development or milestone-based payments, and field-of-use or application-specific licenses. The structure and economics
+of such agreements vary depending on customer requirements and the scope of intellectual property granted. Royalty or Production-Based
+Fees In certain arrangements, we
+may receive royalties or other production-based payments tied to the manufacture or sale of devices incorporating our materials or licensed
+technology. The structure, rate, and duration of such payments depend on negotiated terms and customer product lifecycles. There can be no assurance
+that any given customer program will result in royalty-bearing production. Revenue Timing Considerations Customer engagements typically
+progress through multi-stage development cycles. During early stages, revenue may consist primarily of material sales, non-recurring engineering
+(“NRE”) fees, prototype-related activities, or development support. Based on the current status
+of customer programs, we anticipate that revenues, if any, recognized during 2026 would primarily relate to material supply, NRE arrangements,
+or prototype and development activities. We do not currently expect significant revenue from volume commercial production of customer
+products until 2027 at the earliest. The timing and magnitude of any production-related revenue depend on successful product qualification,
+yield validation, customer adoption decisions, end-market demand, and broader industry conditions. There can be no assurance
+that development-stage programs will transition to volume production, that anticipated timelines will be achieved, or that commercial
+revenues will occur as expected. 26 Strategic Flexibility While our current
+strategy is focused on materials supply and intellectual property licensing, we may evaluate selective opportunities to participate more
+directly in device-level development in limited circumstances. Such participation, if pursued, would likely be application-specific and
+would depend on market conditions, partnership opportunities, capital requirements, and strategic considerations. We have not committed to entering
+device manufacturing as a core component of our business model, and any such activity would be evaluated in the context of our overall
+capital allocation priorities and commercialization strategy. Operating Leverage Our model is designed to leverage
+existing semiconductor fabrication infrastructure rather than require capital-intensive wafer fabrication facilities. By integrating into
+established foundry process flows, we seek to enable scalable production through customer and foundry manufacturing capacity. If customer programs advance
+to high-volume production, incremental material demand and royalty streams may provide operating leverage due to the intellectual property-driven
+nature of our model. However, realization of such leverage depends on successful qualification, customer adoption, competitive dynamics,
+and end-market demand. Commercialization Process (Design Win Cycle) We pursue customer adoption
+through a structured, multi-stage engagement framework that we refer to as our Design Win Cycle. This process is designed to guide customer
+programs from initial technology evaluation through potential production ramp within established semiconductor manufacturing ecosystems. While program timelines vary
+based on customer requirements, foundry schedules, application complexity, and market conditions, the Design Win Cycle typically spans
+approximately 18 to 24 months. Progression between stages
+depends on the achievement of defined technical and commercial milestones. Advancement to later stages does not assure commercial production. Stage 1 – Technology
+Selection (Typically 3–6 Months) Stage 2 – Product
+Design (Typically 3–6 Months) Stage 3 – Prototype
+to Final Product (Typically 12–18
+Months) Stage 4 – Production
+Ramp to High Volume Commercial production typically
+requires achievement of customer-defined qualification milestones, acceptable manufacturing yields, cost targets, and confirmed end-market
+demand. Based on the current status
+of customer programs, we anticipate that revenues, if any, recognized during 2026 would primarily relate to material supply, NRE arrangements,
+or prototype and development activities. We do not currently expect significant revenue from high-volume commercial production of customer
+products until 2027 at the earliest. There can be no assurance
+that programs currently in development will successfully transition to commercial production, that foundry capacity will be available
+as anticipated, or that projected timelines will be achieved. Capital Requirements We have satisfied our capital
+requirements since inception primarily through the issuance and sale of our common stock. 27 Results of Operations Comparison of three months ended June 30, 2026
+and June 30, 2025 Revenues During the three months ended
+June 30, 2026, we recognized $32,751 of licensing and royalty revenue. During the three months ended June 30, 2025, we recognized $25,605
+of licensing and royalty revenue. Cost of Sales During the three months ended
+June 30, 2026, we recognized $0 in cost of sales. During the three months ended June 30, 2025, we recognized $3,463 in cost of sales. Operating Expenses Three Months Ended Three Months
+                                            Ended June 30, 2025 Percent June 30, 2026 (Restated) Change Change Research and development $ 3,878,703 $ 2,621,441 $ 1,257,262 48 % General and administrative 3,423,188 2,300,884 1,122,304 49 % $ 7,301,891 $ 4,922,325 $ 2,379,566 48 % Research and development expenses
+increased for the three months ended June 30, 2026, as compared to the three months ended June 30, 2025, primarily due to increases in
+salary and employee benefits expenses and non-cash stock compensation expenses. We expect to continue to incur
+substantial research and development expenses developing and commercializing our electro-optic materials platform. These expenses will
+increase because of accelerated development efforts to support commercialization of our non-linear optical polymer materials technology
+and create next-generation photonic EO device designs; working with semiconductor foundries; hiring additional technical and support personnel;
+engaging senior technical advisors; pursuing other potential business opportunities and collaborations; customer testing and evaluation;
+and incurring related operating expenses. General and administrative
+expenses increased for the three months ended June 30, 2026, as compared to the three months ended June 30, 2025, primarily due to increases
+in non-cash stock-based compensation expenses, salary and employee benefits expenses and payroll taxes, professional services fees, recruiting
+fees, legal fees, and director fees. 28 Other Income (Expenses), net Three Months Ended Three Months Ended June 30, 2025 Percent June 30, 2026 (Restated) Change Change Other (Expense) Income $ 655,343 $ (66,450 ) $ 721,793 1086 % Other income increased for
+the three months ended June 30, 2026, as compared to the three months ended June 30, 2025, primarily due to an increase in interest income
+earned on higher cash balances and investments in marketable securities, offset by a loss due to disposal of certain expired patents and
+patent applications. Net Loss Three Months Ended Three Months Ended June 30, 2025 Percent June 30, 2026 (Restated) Change Change Net Loss $ 6,613,797 $ 4,966,633 $ 1,647,164 33 % Net loss was $6,613,797 and
+$4,966,633 for the three months ended June 30, 2026 and 2025, respectively, for an increase of $1,647,164 due primarily to increases in
+entity-wide salary and employee benefits expenses and payroll taxes, non-cash stock compensation expenses, professional services fees,
+recruiting fees, legal fees, director fees, and loss due to disposal of certain expired patents and patent applications, offset by an
+increase in interest income. Comparison of six months ended June 30, 2026
+and June 30, 2025 Revenues During the six months ended
+June 30, 2026, we recognized $61,918 of licensing and royalty revenue. During the six months ended June 30, 2025, we recognized $48,522
+of licensing and royalty revenue. Cost of Sales During the six months ended
+June 30, 2026, we recognized $1,336 in cost of sales. During the six months ended June 30, 2025, we recognized $5,491 in cost of sales. Operating Expenses Six Months Ended Six Months Ended June 30, 2025 Percent June 30, 2026 (Restated) Change Change Research
+    and development $ 7,368,998 $ 5,710,659 $ 1,658,339 29 % General
+    and administrative 6,686,054 4,137,936 2,548,118 62 % $ 14,055,052 $ 9,848,595 $ 4,206,457 43 % Research and development expenses
+increased for the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, primarily due to increases in salary
+and employee benefits expenses, non-cash stock compensation expenses, laboratory materials and supplies expenses, and prototype device
+development and wafer fabrication expenses. We expect to continue to incur
+substantial research and development expenses developing and commercializing our electro-optic materials platform. These expenses will
+increase because of accelerated development efforts to support commercialization of our non-linear optical polymer materials technology
+and create next-generation photonic EO device designs; working with semiconductor foundries; hiring additional technical and support personnel;
+engaging senior technical advisors; pursuing other potential business opportunities and collaborations; customer testing and evaluation;
+and incurring related operating expenses. General and administrative
+expenses increased for the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, primarily due to increases
+in non-cash stock-based compensation expenses, salary and employee benefits expenses and payroll taxes, recruiting fees, professional
+services fees, director fees, legal fees, and travel expenses. 29 Other Income,  net Six Months Ended Six Months Ended June 30, 2025 Percent June 30, 2026 (Restated) Change Change Other Income $ 1,080,133 $ 141,907 $ 938,226 -661 % Other income increased for
+the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, primarily due to an increase in interest income
+earned on higher cash balances and investments in marketable securities, offset by a loss due to disposal of certain expired patents and
+patent applications. Net Loss Six Months Ended Six Months Ended June 30, 2025 Percent June 30, 2026 (Restated) Change Change Net Loss $ 12,914,337 $ 9,663,657 $ 3,250,680 34 % Net loss was $12,914,337 and
+$9,663,657 for the six months ended June 30, 2026 and 2025, respectively, for an increase of $3,250,680 due primarily to increases in
+entity-wide salary and employee benefits expenses and payroll taxes, non-cash stock compensation expenses, recruiting fees, professional
+services fees, directors fees, legal fees, laboratory materials and supplies expenses, prototype device development and wafer fabrication
+expenses, travel expenses, and loss due to disposal of certain expired patents and patent applications, offset by an increase in interest
+income. Liquidity and Capital Resources Our primary source of operating
+cash inflows was (i) proceeds from sale of common stock by Roth Capital Partners, LLC (investment banking company) (“Roth Capital”)
+pursuant to the at-the-market sales agreement with Roth Capital as described in Note 11 to the Financial Statements, (ii) proceeds from
+the sale of common stock to Titan Partners Group LLC (investment banker) (“Titan”), and (iii) proceeds received pursuant to
+the exercise of options and warrants. On December 15, 2025, we entered
+into an underwriting agreement (the “Underwriting Agreement”) with Titan Partners Group LLC, a division of American Capital
+Partners, LLC, as the underwriter (the “Underwriter”), relating to an underwritten public offering of 11,666,667 shares of
+the Company’s common stock, par value $0.001 per share, at a price to the public of $3.00 per share (the “Titan Offering”).
+Pursuant to the Underwriting Agreement, we granted to the Underwriter an option, exercisable not later than thirty (30) days after the
+date of the closing of the Offering, to purchase from us up to 1,750,000 additional shares of common stock for the purpose of covering
+over-allotments, if any. The Offering closed on December 17, 2025. On January 8, 2026, the Company closed on the Underwriter’s exercise
+of the option, and issued an additional 1,750,000 shares of its common stock. The net proceeds to us from the Offering were approximately
+$32.8 million during the year ended December 31, 2025, and approximately $4.9 million in January 2026, after deducting underwriting discounts
+and commissions and other estimated offering expenses payable by us. We intend to use the net proceeds from the Offering for working capital
+and other general corporate purposes and may use a portion of the net proceeds to accelerate our commercialization timeline, accelerate
+and expand our U.S. production capacity to support customer partnerships and design-ins, to pursue strategic mergers and acquisitions
+or to invest in complementary technologies or businesses. Pursuant to the Underwriting Agreement, we agreed to issue to the Underwriter
+warrants to purchase up to 350,000 shares of Common Stock, or three percent (3%) of the total number of shares of Common Stock sold in
+the Offering, as well as additional underwriter warrants to purchase up to an aggregate of 52,500 shares of common stock, which were issued
+upon the exercise by the Underwriter of its over-allotment option. The underwriter warrants were immediately exercisable at an exercise
+price of $3.45 per share during the five-year period following the date of the Underwriting Agreement. On April 14, 2026, all 402,500
+underwriter warrants were exercised for proceeds of $1,388,625. On December 9, 2022, we entered
+into the at-the-market sales agreement with Roth Capital, as sales agent, (the “Roth Sales Agreement”) pursuant to which we
+could offer and sell up to $35,000,000 in shares of our registered common stock, from time to time through Roth Capital. On April 20,
+2026, the Company entered into an amendment to its sales agreement with Roth Capital to increase the amount of shares of common stock
+that may be sold under the Roth Sales Agreement to $51,404,500. As of the date of this filing, $3,385 remains available pursuant
+to the Roth Sales Agreement. During the six months ended
+June 30, 2026, the Company received $27,883,978 in net proceeds pursuant to the Roth Sales Agreement, $4,930,928 in net proceeds from
+the exercise of over-allotment option from the Titan Offering, $1,362,932 in net proceeds from the exercise of underwriter warrants, and
+$6,946,686 in proceeds from the exercise of options. During the six months ended
+June 30, 2026, our primary sources of cash outflows from operations included payroll, rent, utilities, payments to vendors including laboratory
+and wafer fabrication materials and supplies expenses, and third-party consultants and professional services providers. Sources and Uses
+of Cash Our future expenditures
+and capital requirements will depend on numerous factors, including: the progress of our research and development efforts; the rate at
+which we can, directly or through arrangements with original equipment manufacturers, introduce and sell our products; the costs of filing,
+prosecuting, defending and enforcing any patent claims and other intellectual property rights; market acceptance of our products and competing
+technological developments; and our ability to establish cooperative development, joint venture and licensing arrangements. On June 30,
+2026, our cash and cash equivalents totaled $47,209,148 and our liquid investments in marketable securities totaled $48,701,814. 30 We expect the proceeds received
+pursuant to the Titan Offering and the Roth Sales Agreement, the exercise of options and warrants, and commercial operations to provide
+us with sufficient funds to finance our operations at least through December 2027. Our cash requirements are expected to increase at a
+rate consistent with our Company’s revenue growth as we expand our activities and operations with the objective of increasing our
+revenue stream from the commercialization of our electro-optic polymer technology. We currently have no debt to service. We expect that
+our cash used in operations will continue to increase during 2026 and beyond because of the following planned activities: • The addition of
+management, sales, marketing, technical, production and other staff to our workforce; • Increased spending
+for the expansion of our research and development efforts, including purchases of additional laboratory and production equipment; • Increased spending
+in marketing as our products are introduced into the marketplace; • Partnering with
+commercial foundries to implement our electro-optic polymers into accepted PDKs by the foundries; • Developing and
+maintaining collaborative relationships with strategic partners; • Developing and
+improving our manufacturing processes and quality controls; and • Increases in our
+general and administrative activities related to our operations as a reporting public company and related corporate compliance requirements. Analysis of Cash Flows For the six months ended June 30, 2026 Net cash used in operating
+activities was $9,882,537 for the six months ended June 30, 2026, primarily attributable to the net loss of $12,914,337 adjusted by $950,449
+in stock options issued for services, $182,219 amortization of deferred compensation, $2,371,949 amortization of restricted stock units,
+$987,257 in depreciation expenses and patent amortization expenses, $108,140 amortization of right of use asset, ($33,726) in interest
+accretion on marketable securities, $41,679 loss due to disposal of certain expired patents and patent applications, $174,624 in accounts
+receivable, ($1,547,998) in prepaid expenses and other current assets, and ($202,793) in accounts payable, accrued bonuses, accrued expenses,
+contract liability and other liabilities. Net cash used in operating activities consisted of payments for research and development, legal,
+professional and consulting expenses, salaries, rent and other expenditures necessary to develop our business infrastructure. Net cash used by investing
+activities was $50,478,319 for the six months ended June 30, 2026, consisting of $245,398 in cost for intangibles, $1,518,336 in asset
+additions for the Colorado headquarters’ facility and labs, and $48,714,585 in investments in marketable securities. Net cash provided by
+financing activities was $38,555,054 for the six months ended June 30, 2026, and consisted of $6,946,686 in proceeds from exercise
+of options, $1,362,932 in proceeds from the exercise of underwriter warrants under the Titan agreement, ($2,088,366) tax payment on
+net issuance of vested restricted stock units, ($481,103) tax payment on net issuance of performance stock units in the prior
+period, $4,930,928 in proceeds from the exercise of the overallotment option from the Titan Offering, and $27,883,978 in proceeds
+from the sale of common stock pursuant to the Roth Sales Agreement. On June 30, 2026, our cash
+and cash equivalents totaled $47,209,148, our assets totaled $108,078,889, our liabilities totaled 3,855,523 and we had stockholders’
+equity of $104,223,366. For the six months ended June 30, 2025 Net cash used in operating
+activities was $7,260,222 for the six months ended June 30, 2025, primarily attributable to the net loss of $9,663,657 adjusted by $1,282,692
+in options issued for services, $401,863 amortization of deferred compensation, $384,925 amortization of performance stock units, $11,113
+amortization of restricted stock units, $243,830 in common stock issued as commitment shares under the 2023 and 2025 Purchase Agreements,
+$943,089 in depreciation expenses and patent amortization expenses, $100,938 amortization of right of use asset, $28,800 gain on disposal
+of property and equipment, $34,812 in accounts receivable, ($237,115) in prepaid expenses and other current assets, and ($733,913) in
+accounts payable, accrued bonuses, accrued expenses, contract liability and other liabilities. Net cash used in operating activities consisted
+of payments for research and development, legal, professional and consulting expenses, salaries, rent and other expenditures necessary
+to develop our business infrastructure. Net cash used by investing
+activities was $1,002,226 for the six months ended June 30, 2025, consisting of $108,332 in cost for intangibles and $893,894 in asset
+additions for the Colorado headquarters’ facility and labs. Net cash provided by financing
+activities was $2,701,430 for the six months ended June 30, 2025, and consisted of $204,000 in proceeds from exercise of options, ($171,926)
+cashless option exercise tax payments, ($12,875) cashless tax payment on vested restricted stock awards, $2,174,983 in proceeds from the
+sale of common stock pursuant to the 2023 and 2025 Purchase Agreements and $507,248 in proceeds from the sale of common stock pursuant
+to the Roth Sales Agreement. On June 30, 2025, our cash
+and cash equivalents totaled $22,106,946, our assets totaled $32,436,267, our liabilities totaled $3,602,097 and we had stockholders’
+equity of $28,834,170. Contractual Obligations See “Note 9–Leases”
+of the notes to the financial statements herein for a discussion of our operating lease for office and laboratory space. Significant Accounting Policies We believe our significant
+accounting policies affect our more significant estimates and judgments used in the preparation of our financial statements. Our 2025
+Form 10-K contains a discussion of these significant accounting policies. The Company’s significant accounting policies have not
+materially changed since that report was filed. 31 Item 3. Quantitative and Qualitative Disclosures
+About Market Risk We are not required
+to provide quantitative and qualitative disclosures about market risk because we are a smaller reporting company. Item 4. Controls and Procedures Evaluation of Disclosure
+Controls and Procedures. The Company’s management, with the participation of the Company’s Principal Executive Officer
+and Principal Financial Officer, evaluated the effectiveness of the Company’s disclosure controls and procedures (as defined in
+Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) as of June 30, 2026. Based on this evaluation, the
+Company’s Principal Executive Officer and Principal Financial Officer concluded that, as of June 30, 2026 the Company’s disclosure
+controls and procedures were effective, in that they provide reasonable assurance that information required to be disclosed by the Company
+in the reports that it files or submits under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and
+reported within the time periods specified in the Securities and Exchange Commission’s rules and forms, and is accumulated and communicated
+to the Company’s management, including the Company’s Principal Executive Officer and Principal Financial Officer, as appropriate
+to allow timely decisions regarding required disclosure. Changes in Internal Control
+Over Financial Reporting. There were no changes in our internal control over financial reporting during the quarter ended June
+30, 2026, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 32 PART II – OTHER INFORMATION Item 1. Legal Proceedings We are not a party to any
+litigation of a material nature, nor are we aware of any threatened litigation of a material nature. Item 1A. Risk Factors In addition to the information
+set forth in this Form 10-Q, you should carefully consider the risk factors discussed in Part I, Item 1A. Risk Factors in
+our 2025 Form 10-K, which could materially affect our business, financial condition or future results. Additional risks and uncertainties
+not currently known to us or that we currently deem to be immaterial may also materially adversely affect our business, financial condition
+or future results. Item 2. Unregistered Sales of Equity Securities
+and Use of Proceeds. None. Item 3. Defaults Upon Senior Securities None. Item 4.  Mine Safety Disclosures Not Applicable. Item 5. Other Information During the three months ended
+June 30, 2026, none of our directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) adopted or terminated any contract,
+instruction or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions
+of Rule 10b5-1(c) under the Exchange Act or any “non-Rule 10b5-1 arrangement” as defined in Item 408(c) of Regulation S-K. 33 Item 6.  Exhibits The following exhibits are
+included herein: Incorporated by Reference Filed or Exhibit No. Exhibit Description Form Exhibit Number Filing Date Furnished Herewith 3.1 Amended and Restated Articles of Incorporation of Lightwave Logic, Inc. (conformed copy incorporating all amendments through June 8, 2015) 10-Q 3.1 11/14/2025 3.2 Second Amended and Restated Bylaws - June 18, 2024 8-K 3.1 6/25/2024 10.1 Amendment
+                                    to Sales Agreement by and between the Company and Roth Capital Partners, LLC, dated April 20, 2026 8-K 10.1 4/21/2026 10.2 Employment Agreement between Fred Graffam and Lightwave Logic,
+Inc., dated July 20, 2026 8-K 10.1 7/20/2026 31.1 Certification pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended, executed by the Principal Executive Officer of the Company. Filed herewith 31.2 Certification pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended, executed by the Principal Financial Officer of the Company. Filed herewith 32.1 Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, executed by the Principal Executive Officer of the Company. Furnished herewith 32.2 Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, executed by the Principal Financial Officer of the Company. Furnished herewith 101-INS Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document) Filed herewith 101-SCH Inline XBRL Taxonomy Extension Schema Document Filed herewith 101-CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document Filed herewith 101-DEF Inline XBRL Taxonomy Extension Definition Linkbase Document Filed herewith 101-LAB Inline XBRL Taxonomy Extension Label Linkbase Document Filed herewith 101-PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document Filed herewith 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) Filed herewith 34 SIGNATURES Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. LIGHTWAVE LOGIC, INC. Registrant By: /s/ Yves LeMaitre Yves LeMaitre, Chief Executive Officer (Principal Executive Officer) Date: August 14, 2026 By: /s/ Fred Graffam Fred Graffam, Chief Financial Officer Principal Financial Officer Date: August 14, 2026 35

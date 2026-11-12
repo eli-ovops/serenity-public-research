@@ -1,0 +1,189 @@
+First Quarter 2026
+Financial Results Conference Call
+May 13, 2026
+Supporting Slides
+Safe 
+Harbor
+This presentation contains forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation 
+Reform Act of 1995. These statements are based on management’s current expectations and beliefs and are subject to a number of risks, 
+uncertainties and assumptions that could cause actual results to differ materially from those described in the forward-looking statements. All 
+statements other than statements of historical fact are statements that could be deemed forward-looking statements.
+For example, statements regarding expected (i) customer demand, (ii) utilization and cross utilization of our Fabs, (iii) demand from our end 
+markets, (iv) market and technology trends, and (v) results regarding revenues, cash flow, margins and net profits are all forward-looking 
+statements. Actual results may differ materially from those projected or implied by such forward-looking statements due to various risks and 
+uncertainties applicable to Tower Semiconductor’s business as described in the reports filed by Tower Semiconductor Ltd. (“Tower”) with the 
+Securities and Exchange Commission (the “SEC”) and the Israel Securities Authority (“ISA”), including the risks identified under the heading "Risk 
+Factors" in Tower’s most recent filings on Forms 20-F and 6-K. No assurances can be given that any of the events anticipated by the forward-
+looking statements will transpire or occur, or if any of them do, what impact they will have on the results of operations or financial condition of 
+Tower Semiconductor.
+In addition, some of the financial information in this presentation, is non-GAAP financial measures, including, but not limited to, EBITDA, Cash, 
+debt and Net Cash. These non-GAAP financial measures have the same definition as appear in our previously filed quarterly financial results 
+related announcements and/ or other public filings. 
+Tower Semiconductor is providing this information as of the date of this presentation and expressly disclaims any obligation to update any of 
+the forward-looking statements or other information contained in this presentation as a result of new information, future events or otherwise. 
+2
+First Quarter 2026 Financial Results Highlights
+and Second Quarter 2026 Outlook
+• Q1 2026 revenue: $414 million
+• Q1 2026 Net profit: $65 million
+3
+$358M
+$372M
+$414M
+$455M *
+Q1'2025 Q2'2025 Q1'2026 Q2'2026
+(*guidance)
+• Q2 2026 revenue guidance of 
+$455 million, +/- 5%, 
+represents growth of 10% 
+quarter-over-quarter and 
+22% year-over-year.
+• Strongly reiterate our target 
+of quarter-over-quarter 
+revenue and margins growth 
+throughout 2026.
+Q1 Year-over-Year Revenue Breakdown by Technology
+First Quarter 2025
+$358 Million Revenue
+First Quarter 2026
+$414 Million Revenue
+4
+Sensors & 
+Displays
+15%
+RF 
+Infrastructure
+38%
+RF Mobile
+16%
+Power
+17%
+Discrete
+10%
+MS/ 
+CMOS/ 
+Misc.
+4%
+Sensors & 
+Displays
+17%
+RF Infrastructure
+22%
+RF Mobile
+19%
+Power
+18%
+Discrete
+16%
+MS/ CMOS/ 
+Misc.
+8%
+Balance Sheet ($ in million)
+5
+March 31, December 31, 
+2026 2025
+ASSETS
+Cash and cash equivalents 243                  235                    
+Short-term deposits 1,255                917                     
+Trade accounts receivable 214                   223                    
+Inventories 255                  257                    
+Other current assets 62                    78                      
+Total current assets 2,029                 1,710                     
+ Property and equipment, net 1,530                1,462                  
+ Other long-term assets, net 142                   150                     
+ TOTAL ASSETS 3,701             3,322              
+LIABILITIES AND SHAREHOLDERS' EQUITY
+ Short-term debt 25                     28                      
+ Trade accounts payable 121                     124                     
+ Customer prepayment and deferred revenue  127                    26                      
+ Other current liabilities 88                    86                      
+ Total current Liabilities 361                      264                       
+ Long-term debt 131                    133                     
+ Long-term customers' advances 215                   2                        
+ Other long-term liabilities 20                     19                       
+ TOTAL LIABILITIES 727                      418                       
+ SHAREHOLDERS’ EQUITY 2,974                 2,904                  
+ TOTAL LIABILITIES & EQUITY 3,701             3,322              
+Q1’26 P&L vs. Q4’25 and Q1’25 P&L
+(in thousands of $)
+6
+March 31, December 31, March 31,
+2026 2025 2025
+REVENUE 413,631 440,206 358,170 
+COST OF REVENUES 302,680 322,594 284,999 
+GROSS PROFIT 110,951 117,612 73,171 
+Research and development 23,530 24,850 20,172 
+Marketing, general and administrative 22,856 21,933 20,101 
+OPERATING PROFIT 64,565 70,829 32,898 
+Financing and other income, net 9,518 10,735 10,598 
+PROFIT BEFORE INCOME TAX 74,083 81,564 43,496 
+INCOME TAX EXPENSE, NET (6,518) (1,505) (3,779)
+NET PROFIT 67,565 80,059 39,717 
+Non controlling interest (2,533) 73 425 
+NET PROFIT ATTRIBUTABLE TO THE COMPANY 65,032 80,132 40,142 
+BASIC EARNINGS PER SHARE 0.58 0.71 0.36
+DILUTED EARNINGS PER SHARE 0.57 0.70 0.35
+GAAP NET PROFIT 65,032 80,132 40,142 
+Stock based compensation and amortization of acquired intangible assets 9,441 9,393 10,335 
+ADJUSTED NET PROFIT 74,473 89,525 50,477 
+ADJUSTED EARNINGS PER SHARE:
+Basic 0.66 0.80 0.45
+Diluted 0.65 0.78 0.45
+T h r e e    M o n t h s    e n d e d
+Estimated Financial Model ($M)
+Revenue
+Gross Profit
+Operating Profit
+Net Profit
+1,566
+364
+194     
+220
+2,840
+1,120
+900
+750
+FY 2025
+Built-out 
+capacity
+@85% utilization*
+* Including revenue and margins from the $920M SiGe & SiPho announced capacity and capability Cap-Ex investments and excluding revenue 
+and margins from Intel’s Fab11 capacity corridor agreement  
+1,274
+756
+706
+530
+Incremental 
+59%
+55%
+42%
+% of 
+Incremental 
+Revenue
+$M of 
+Increase 
+1.8X
+3.1X
+4.6X
+3.4X
+7
+Estimated Financial Model P&L - $M
+Revenue 2,840
+Cost of Revenue 1,720
+Gross Profit
+Gross Margin
+1,120
+39.4%
+Op-Ex 220
+Operating Profit
+Operating Margin
+900
+31.7%
+Net Profit
+Net Profit Margin
+750
+26.4%
+8
+Thank You
+Contact: Liat Avraham, Investor Relations
+Email: [REDACTED_EMAIL] 

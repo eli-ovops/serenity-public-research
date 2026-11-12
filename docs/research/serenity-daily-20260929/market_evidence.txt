@@ -1,0 +1,1964 @@
+FormFactor (FORM) Stock Price History 2003-2026 (https://stockanalysis.com/stocks/form/history/)
+citeturn106view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/form/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:40 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # FormFactor Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 132.51  | 136.53  | 132.51  | 135.50  | -  | 3.46%  | 176,998
+L90: Sep 28, 2026  | 129.32  | 131.16  | 124.10  | 130.97  | 130.97  | 0.99%  | 1,326,365
+L91: Sep 25, 2026  | 130.85  | 133.06  | 128.22  | 129.69  | 129.69  | 0.50%  | 882,155
+L92: Sep 24, 2026  | 126.98  | 129.86  | 124.36  | 129.04  | 129.04  | -1.69%  | 930,567
+--------------------------------------------------------------------------------
+Tower Semiconductor (TSEM) Stock Price History 1994-2026 (https://stockanalysis.com/stocks/tsem/history/)
+citeturn106view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tsem/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:45 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Tower Semiconductor Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+--------------------------------------------------------------------------------
+Credo Technology Group Holding (CRDO) Stock Price History 2022-2026 (https://stockanalysis.com/stocks/crdo/history/)
+citeturn106view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/crdo/history/","lineno":75}); Total lines: 219
+L68: +4.20 (2.18%)
+L69: 
+L70: Sep 29, 2026, 10:46 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # CRDO Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+--------------------------------------------------------------------------------
+Camtek (CAMT) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/camt/history/)
+citeturn106view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/camt/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:48 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Camtek Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 142.97  | 150.66  | 142.97  | 146.42  | -  | 2.67%  | 27,532
+L91: Sep 28, 2026  | 144.50  | 145.46  | 139.23  | 142.61  | 142.61  | -3.02%  | 282,714
+L92: Sep 25, 2026  | 146.65  | 147.79  | 143.51  | 147.05  | 147.05  | 1.33%  | 256,866
+L93: Sep 24, 2026  | 144.02  | 147.15  | 142.68  | 145.12  | 145.12  | -1.32%  | 338,722
+--------------------------------------------------------------------------------
+Modine Manufacturing Company (MOD) Stock Price History 1990-2026 (https://stockanalysis.com/stocks/mod/history/)
+citeturn106view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/mod/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:38 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # MOD Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 179.50  | 180.09  | 178.71  | 180.00  | -  | 2.83%  | 141,402
+L91: Sep 28, 2026  | 195.10  | 199.22  | 173.07  | 175.04  | 175.04  | -11.63%  | 3,125,765
+L92: Sep 25, 2026  | 198.32  | 201.99  | 195.27  | 198.07  | 198.07  | 0.57%  | 1,319,306
+L93: Sep 24, 2026  | 189.69  | 197.68  | 186.08  | 196.95  | 196.95  | 1.99%  | 984,695
+--------------------------------------------------------------------------------
+Onto Innovation (ONTO) Stock Price History 1992-2026 (https://stockanalysis.com/stocks/onto/history/)
+citeturn106view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/onto/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:46 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Onto Innovation Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 297.00  | 303.18  | 295.90  | 301.99  | -  | 4.59%  | 118,579
+L91: Sep 28, 2026  | 286.93  | 292.36  | 279.66  | 288.74  | 288.74  | 0.38%  | 395,748
+L92: Sep 25, 2026  | 281.94  | 290.00  | 281.00  | 287.64  | 287.64  | 2.83%  | 416,818
+L93: Sep 24, 2026  | 276.16  | 281.04  | 272.26  | 279.73  | 279.73  | -0.91%  | 458,209
+--------------------------------------------------------------------------------
+AAON, Inc. (AAON) Stock Price History 1991-2026 (https://stockanalysis.com/stocks/aaon/history/)
+citeturn106view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aaon/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # AAON, Inc. Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 86.85  | 87.38  | 85.40  | 86.50  | -  | 1.35%  | 63,636
+L91: Sep 28, 2026  | 88.60  | 91.52  | 82.71  | 85.34  | 85.34  | -4.22%  | 1,732,715
+L92: Sep 25, 2026  | 84.75  | 90.00  | 84.45  | 89.10  | 89.10  | 5.73%  | 1,946,944
+L93: Sep 24, 2026  | 80.40  | 84.77  | 80.03  | 84.27  | 84.27  | 2.32%  | 1,287,445
+L94: Sep 23, 2026  | 78.66  | 84.58  | 78.03  | 82.36  | 82.36  | 3.90%  | 1,896,613
+--------------------------------------------------------------------------------
+nVent Electric (NVT) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/nvt/history/)
+citeturn106view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/nvt/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:36 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # nVent Electric Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 162.84  | 164.93  | 162.50  | 163.05  | -  | 1.59%  | 91,475
+L91: Sep 28, 2026  | 163.35  | 166.19  | 158.50  | 160.50  | 160.50  | -2.38%  | 2,069,427
+L92: Sep 25, 2026  | 161.27  | 164.52  | 161.16  | 164.41  | 164.41  | 0.94%  | 1,377,815
+L93: Sep 24, 2026  | 159.50  | 163.14  | 157.24  | 162.88  | 162.88  | 0.02%  | 1,465,927
+--------------------------------------------------------------------------------
+Arista Networks (ANET) Stock Price History 2014-2026 (https://stockanalysis.com/stocks/anet/history/)
+citeturn106view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/anet/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 11:01 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Arista Networks Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+--------------------------------------------------------------------------------
+Applied Optoelectronics (AAOI) Stock Price History 2013-2026 (https://stockanalysis.com/stocks/aaoi/history/)
+citeturn106view9 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aaoi/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:54 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Applied Optoelectronics Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 98.77  | 103.42  | 97.43  | 101.27  | -  | 4.60%  | 2,504,866
+L90: Sep 28, 2026  | 100.09  | 102.43  | 93.62  | 96.82  | 96.82  | -4.52%  | 8,121,761
+L91: Sep 25, 2026  | 101.71  | 105.03  | 99.97  | 101.40  | 101.40  | 0.37%  | 5,433,464
+L92: Sep 24, 2026  | 98.93  | 103.58  | 97.59  | 101.03  | 101.03  | -0.03%  | 5,486,537
+--------------------------------------------------------------------------------
+Ciena (CIEN) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/cien/history/)
+citeturn106view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/cien/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Ciena Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 350.16  | 356.21  | 345.45  | 349.99  | -  | 1.69%  | 438,864
+L91: Sep 28, 2026  | 352.42  | 356.99  | 339.33  | 344.19  | 344.19  | -3.56%  | 1,823,614
+L92: Sep 25, 2026  | 363.00  | 366.43  | 355.01  | 356.91  | 356.91  | -0.42%  | 1,577,613
+L93: Sep 24, 2026  | 350.40  | 363.46  | 346.56  | 358.43  | 358.43  | 0.71%  | 1,395,307
+--------------------------------------------------------------------------------
+Quanta Services (PWR) Stock Price History 1998-2026 (https://stockanalysis.com/stocks/pwr/history/)
+citeturn106view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/pwr/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:48 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Quanta Services Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 650.03  | 659.85  | 647.59  | 648.50  | -  | 0.64%  | 106,556
+L91: Sep 28, 2026  | 645.21  | 656.51  | 635.39  | 644.36  | 644.36  | -0.73%  | 845,918
+L92: Sep 25, 2026  | 647.08  | 654.84  | 643.00  | 649.13  | 649.13  | 0.87%  | 640,740
+L93: Sep 24, 2026  | 630.50  | 650.69  | 626.41  | 643.50  | 643.50  | 1.35%  | 793,536
+--------------------------------------------------------------------------------
+POET Technologies (POET) Stock Price History 2011-2026 (https://stockanalysis.com/stocks/poet/history/)
+citeturn106view12 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/poet/history/","lineno":75}); Total lines: 217
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L70: Sep 29, 2026, 10:34 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Statistics L75:   * cite42†History L76:   * cite43†Profile L77:   * cite44†Chart L78: # POET Technologies Stock Price History
+L79: 
+L80: Price Price Change (%) Total Return (%)
+L81: ## Historical Data
+L82: 
+L83: Daily
+L84: 
+L85: 6M
+L86: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L87: --- | --- | --- | --- | --- | --- | --- | ---
+L88: Sep 29, 2026  | 7.69  | 7.74  | 7.55  | 7.71  | -  | 4.05%  | 893,186
+L89: Sep 28, 2026  | 7.59  | 7.67  | 7.32  | 7.41  | 7.41  | -4.63%  | 9,005,997
+L90: Sep 25, 2026  | 7.88  | 7.94  | 7.68  | 7.77  | 7.77  | 0.26%  | 4,080,722
+L91: Sep 24, 2026  | 7.67  | 7.82  | 7.55  | 7.75  | 7.75  | -0.64%  | 6,760,015
+L92: Sep 23, 2026  | 8.10  | 8.14  | 7.80  | 7.80  | 7.80  | -4.53%  | 7,945,407
+--------------------------------------------------------------------------------
+Fluence Energy (FLNC) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/flnc/history/)
+citeturn106view13 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/flnc/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:32 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Fluence Energy Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 7.80  | 7.80  | 7.62  | 7.62  | -  | 1.60%  | 402,524
+L91: Sep 28, 2026  | 7.55  | 7.76  | 7.42  | 7.50  | 7.50  | -4.46%  | 5,717,888
+L92: Sep 25, 2026  | 7.61  | 8.06  | 7.56  | 7.85  | 7.85  | 5.23%  | 8,534,694
+L93: Sep 24, 2026  | 7.41  | 7.59  | 7.24  | 7.46  | 7.46  | -1.58%  | 7,445,207
+L94: Sep 23, 2026  | 7.52  | 7.71  | 7.39  | 7.58  | 7.58  | 4.26%  | 11,588,464
+--------------------------------------------------------------------------------
+Super Micro Computer (SMCI) Stock Price History 2007-2026 (https://stockanalysis.com/stocks/smci/history/)
+citeturn106view14 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/smci/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:58 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Super Micro Computer Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+--------------------------------------------------------------------------------
+Lightwave Logic (LWLG) Stock Price History 2004-2026 (https://stockanalysis.com/stocks/lwlg/history/)
+citeturn106view15 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/lwlg/history/","lineno":75}); Total lines: 217
+L70: Sep 29, 2026, 10:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Statistics L75:   * cite42†History L76:   * cite43†Profile L77:   * cite44†Chart L78: # Lightwave Logic Stock Price History
+L79: 
+L80: Price Price Change (%) Total Return (%)
+L81: ## Historical Data
+L82: 
+L83: Daily
+L84: 
+L85: 6M
+L86: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L87: --- | --- | --- | --- | --- | --- | --- | ---
+L88: Sep 29, 2026  | 5.07  | 5.19  | 5.02  | 5.16  | -  | 3.10%  | 484,050
+L89: Sep 28, 2026  | 5.21  | 5.26  | 4.94  | 5.00  | 5.00  | -5.84%  | 2,921,383
+L90: Sep 25, 2026  | 5.37  | 5.52  | 5.25  | 5.31  | 5.31  | 0.57%  | 2,679,113
+L91: Sep 24, 2026  | 5.09  | 5.31  | 5.05  | 5.28  | 5.28  | 0.19%  | 2,267,752
+L92: Sep 23, 2026  | 5.49  | 5.55  | 5.26  | 5.27  | 5.27  | -4.53%  | 2,181,462
+--------------------------------------------------------------------------------
+Nokia Oyj (NOK) Stock Price History 1994-2026 (https://stockanalysis.com/stocks/nok/history/)
+citeturn106view16 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/nok/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:42 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Nokia Oyj Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 10.36  | 10.36  | 10.24  | 10.35  | -  | 2.27%  | 9,281,595
+L91: Sep 28, 2026  | 10.23  | 10.33  | 9.96  | 10.12  | 10.12  | -2.60%  | 52,704,783
+L92: Sep 25, 2026  | 10.43  | 10.50  | 10.32  | 10.39  | 10.39  | -0.38%  | 44,536,679
+L93: Sep 24, 2026  | 10.18  | 10.54  | 10.17  | 10.43  | 10.43  | -1.88%  | 74,780,894
+
+
+============================
+
+NVIDIA (NVDA) Stock Price History 1999-2026 (https://stockanalysis.com/stocks/nvda/history/)
+citeturn105view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/nvda/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:54 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # NVIDIA Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 230.97  | 232.82  | 229.57  | 229.50  | -  | 0.28%  | 21,345,236
+L92: Sep 28, 2026  | 229.75  | 233.21  | 228.04  | 228.86  | 228.86  | 1.68%  | 140,840,737
+L93: Sep 25, 2026  | 225.13  | 226.94  | 223.13  | 225.07  | 225.07  | 0.22%  | 87,236,794
+L94: Sep 24, 2026  | 222.08  | 224.94  | 221.09  | 224.58  | 224.58  | -0.41%  | 77,352,293
+--------------------------------------------------------------------------------
+Taiwan Semiconductor Manufacturing Company (TSM) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/tsm/history/)
+citeturn105view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tsm/history/","lineno":75}); Total lines: 219
+L66: 457.18
+L67: 
+L68: +4.30 (0.95%)
+L69: 
+L70: Sep 29, 2026, 10:59 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # TSMC Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 452.27  | 455.67  | 447.07  | 456.38  | -  | 0.77%  | 2,533,658
+L91: Sep 28, 2026  | 448.39  | 455.27  | 443.11  | 452.88  | 452.88  | 0.50%  | 7,781,549
+L92: Sep 25, 2026  | 452.40  | 455.03  | 449.01  | 450.61  | 450.61  | -0.12%  | 6,428,442
+L93: Sep 24, 2026  | 441.80  | 452.56  | 440.60  | 451.15  | 451.15  | 1.03%  | 7,487,453
+--------------------------------------------------------------------------------
+Broadcom (AVGO) Stock Price History 2009-2026 (https://stockanalysis.com/stocks/avgo/history/)
+citeturn105view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/avgo/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:43 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Broadcom Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 357.00  | 361.26  | 355.79  | 361.30  | -  | 3.36%  | 6,823,202
+L92: Sep 28, 2026  | 352.87  | 355.86  | 347.32  | 349.57  | 349.57  | -0.92%  | 19,274,033
+L93: Sep 25, 2026  | 352.62  | 354.43  | 349.43  | 352.81  | 352.81  | 0.70%  | 15,583,932
+L94: Sep 24, 2026  | 349.21  | 351.44  | 346.89  | 350.36  | 350.36  | -1.30%  | 20,823,726
+--------------------------------------------------------------------------------
+Micron Technology (MU) Stock Price History 1984-2026 (https://stockanalysis.com/stocks/mu/history/)
+citeturn105view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/mu/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:43 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Micron Technology Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 1,076.69  | 1,081.97  | 1,057.70  | 1,081.25  | -  | 2.59%  | 6,178,345
+L92: Sep 28, 2026  | 1,075.98  | 1,084.81  | 1,032.00  | 1,053.98  | 1,053.98  | -2.61%  | 21,858,446
+L93: Sep 25, 2026  | 1,095.83  | 1,108.72  | 1,073.00  | 1,082.28  | 1,082.28  | 0.16%  | 19,515,612
+L94: Sep 24, 2026  | 1,049.75  | 1,081.04  | 1,044.00  | 1,080.53  | 1,080.53  | 0.81%  | 22,013,935
+--------------------------------------------------------------------------------
+Eaton Corporation (ETN) Stock Price History 1968-2026 (https://stockanalysis.com/stocks/etn/history/)
+citeturn105view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/etn/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:38 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Eaton Corporation Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 436.62  | 437.05  | 432.71  | 432.93  | -  | 0.35%  | 463,928
+L92: Sep 28, 2026  | 437.71  | 441.94  | 423.83  | 431.41  | 431.41  | -1.95%  | 2,337,968
+L93: Sep 25, 2026  | 444.40  | 447.33  | 436.18  | 439.98  | 439.98  | -  | 1,410,300
+L94: Sep 24, 2026  | 429.36  | 441.38  | 427.96  | 440.00  | 440.00  | 0.28%  | 1,336,723
+--------------------------------------------------------------------------------
+Vertiv Holdings Co (VRT) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/vrt/history/)
+citeturn105view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/vrt/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:33 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Vertiv Holdings Co Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+--------------------------------------------------------------------------------
+GE Vernova (GEV) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/gev/history/)
+citeturn105view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/gev/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:44 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # GE Vernova Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 962.67  | 973.41  | 958.08  | 967.42  | -  | 1.86%  | 415,006
+L91: Sep 28, 2026  | 953.22  | 967.00  | 944.86  | 949.77  | 949.77  | -0.82%  | 1,643,842
+L92: Sep 25, 2026  | 961.33  | 965.35  | 943.39  | 957.63  | 957.63  | 0.27%  | 1,304,148
+L93: Sep 24, 2026  | 933.10  | 959.75  | 921.53  | 955.04  | 955.04  | 0.34%  | 1,671,622
+--------------------------------------------------------------------------------
+Coherent (COHR) Stock Price History 1990-2026 (https://stockanalysis.com/stocks/cohr/history/)
+citeturn105view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/cohr/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:34 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Coherent Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 289.93  | 298.95  | 285.85  | 295.99  | -  | 4.79%  | 1,395,531
+L91: Sep 28, 2026  | 290.08  | 299.37  | 275.79  | 282.45  | 282.45  | -4.52%  | 6,746,452
+L92: Sep 25, 2026  | 297.92  | 301.77  | 290.28  | 295.83  | 295.83  | 1.80%  | 4,616,484
+L93: Sep 24, 2026  | 294.90  | 300.89  | 290.20  | 290.61  | 290.61  | -3.32%  | 4,654,931
+--------------------------------------------------------------------------------
+Lumentum Holdings (LITE) Stock Price History 2015-2026 (https://stockanalysis.com/stocks/lite/history/)
+citeturn105view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/lite/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:56 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Lumentum Holdings Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 945.00  | 998.88  | 934.51  | 992.98  | -  | 7.78%  | 2,598,359
+L91: Sep 28, 2026  | 947.80  | 950.97  | 881.23  | 921.32  | 921.32  | -2.16%  | 4,416,159
+L92: Sep 25, 2026  | 936.04  | 962.88  | 913.29  | 941.65  | 941.65  | 1.36%  | 3,839,289
+L93: Sep 24, 2026  | 923.83  | 954.45  | 912.00  | 929.04  | 929.04  | -0.85%  | 3,665,018
+--------------------------------------------------------------------------------
+Marvell Technology (MRVL) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/mrvl/history/)
+citeturn105view9 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/mrvl/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:46 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Marvell Technology Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+--------------------------------------------------------------------------------
+Dell Technologies (DELL) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/dell/history/)
+citeturn105view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/dell/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:44 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Dell Technologies Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 550.73  | 551.39  | 540.41  | 547.42  | -  | 0.73%  | 866,599
+L92: Sep 28, 2026  | 551.74  | 557.00  | 535.50  | 543.43  | 543.43  | -3.46%  | 6,863,140
+L93: Sep 25, 2026  | 546.29  | 573.80  | 541.24  | 562.89  | 562.89  | 5.01%  | 8,729,823
+--------------------------------------------------------------------------------
+Hewlett Packard Enterprise Company (HPE) Stock Price History 2015-2026 (https://stockanalysis.com/stocks/hpe/history/)
+citeturn105view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/hpe/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:31 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Hewlett Packard Enterprise Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+--------------------------------------------------------------------------------
+Western Digital (WDC) Stock Price History 1983-2026 (https://stockanalysis.com/stocks/wdc/history/)
+citeturn105view12 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/wdc/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Western Digital Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 463.15  | 465.90  | 448.00  | 456.80  | -  | 0.79%  | 1,382,721
+L91: Sep 28, 2026  | 449.01  | 459.99  | 432.04  | 453.23  | 453.23  | -0.78%  | 7,195,853
+L92: Sep 25, 2026  | 455.24  | 461.98  | 447.69  | 456.81  | 456.81  | 1.44%  | 5,840,058
+L93: Sep 24, 2026  | 465.74  | 468.00  | 449.21  | 450.31  | 450.31  | -4.94%  | 7,107,421
+--------------------------------------------------------------------------------
+Seagate Technology Holdings (STX) Stock Price History 2002-2026 (https://stockanalysis.com/stocks/stx/history/)
+citeturn105view13 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/stx/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:39 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Seagate Technology Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 943.50  | 944.43  | 906.34  | 919.12  | -  | -0.26%  | 374,957
+L91: Sep 28, 2026  | 912.10  | 932.87  | 870.38  | 921.51  | 921.51  | 0.51%  | 3,378,384
+L92: Sep 25, 2026  | 924.36  | 924.36  | 903.53  | 916.83  | 916.83  | 1.20%  | 2,762,451
+L93: Sep 24, 2026  | 914.66  | 926.01  | 898.80  | 905.92  | 905.92  | -1.86%  | 2,959,729
+--------------------------------------------------------------------------------
+Fabrinet (FN) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/fn/history/)
+citeturn105view14 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/fn/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:43 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Fabrinet Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 418.15  | 422.00  | 414.25  | 418.00  | -  | 1.96%  | 70,494
+L91: Sep 28, 2026  | 417.00  | 420.49  | 400.30  | 409.96  | 409.96  | -1.78%  | 798,406
+L92: Sep 25, 2026  | 406.00  | 419.63  | 401.58  | 417.39  | 417.39  | 4.78%  | 742,032
+L93: Sep 24, 2026  | 393.01  | 403.73  | 391.08  | 398.36  | 398.36  | -0.62%  | 574,284
+--------------------------------------------------------------------------------
+Amkor Technology (AMKR) Stock Price History 1998-2026 (https://stockanalysis.com/stocks/amkr/history/)
+citeturn105view15 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/amkr/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:48 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Amkor Technology Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 54.75  | 54.90  | 54.00  | 54.72  | -  | 2.90%  | 807,631
+L91: Sep 28, 2026  | 53.18  | 53.81  | 51.61  | 53.18  | 53.18  | -0.80%  | 3,391,847
+L92: Sep 25, 2026  | 53.52  | 54.30  | 52.81  | 53.61  | 53.61  | 1.75%  | 2,522,901
+L93: Sep 24, 2026  | 51.99  | 53.03  | 51.55  | 52.69  | 52.69  | -1.18%  | 2,634,852
+--------------------------------------------------------------------------------
+ASE Technology Holding (ASX) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/asx/history/)
+citeturn105view16 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/asx/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:43 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Statistics L75:   * cite42†Dividends L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # ASE Technology Holding Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 44.06  | 44.33  | 43.50  | 43.97  | -  | 0.41%  | 422,928
+L90: Sep 28, 2026  | 44.13  | 44.14  | 42.62  | 43.79  | 43.79  | -1.17%  | 6,587,467
+L91: Sep 25, 2026  | 44.12  | 44.64  | 43.94  | 44.31  | 44.31  | 1.86%  | 4,276,025
+L92: Sep 24, 2026  | 43.25  | 44.08  | 42.73  | 43.50  | 43.50  | -0.98%  | 4,419,065
+
+
+============================
+
+Teradyne (TER) Stock Price History 1970-2026 (https://stockanalysis.com/stocks/ter/history/)
+citeturn104view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/ter/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:59 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Teradyne Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 410.85  | 415.61  | 406.31  | 406.28  | -  | 1.24%  | 504,214
+L91: Sep 28, 2026  | 394.70  | 401.97  | 383.50  | 401.30  | 401.30  | 0.73%  | 2,009,638
+L92: Sep 25, 2026  | 394.85  | 400.46  | 388.38  | 398.38  | 398.38  | 2.75%  | 1,586,658
+L93: Sep 24, 2026  | 383.08  | 388.54  | 376.02  | 387.70  | 387.70  | -0.37%  | 1,316,592
+--------------------------------------------------------------------------------
+KLA Corporation (KLAC) Stock Price History 1983-2026 (https://stockanalysis.com/stocks/klac/history/)
+citeturn104view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/klac/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:35 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # KLA Corporation Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 194.94  | 197.43  | 192.57  | 196.83  | -  | 4.05%  | 1,337,680
+L92: Sep 28, 2026  | 186.71  | 190.70  | 182.70  | 189.17  | 189.17  | 0.67%  | 8,692,150
+L93: Sep 25, 2026  | 187.33  | 189.56  | 186.02  | 187.92  | 187.92  | 0.43%  | 7,109,182
+L94: Sep 24, 2026  | 185.81  | 187.96  | 182.40  | 187.11  | 187.11  | -0.40%  | 7,765,140
+--------------------------------------------------------------------------------
+Lam Research (LRCX) Stock Price History 1985-2026 (https://stockanalysis.com/stocks/lrcx/history/)
+citeturn104view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/lrcx/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:48 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Lam Research Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 323.63  | 328.32  | 321.11  | 324.39  | -  | 3.15%  | 1,395,167
+L91: Sep 28, 2026  | 313.88  | 316.31  | 305.50  | 314.47  | 314.47  | -0.23%  | 8,813,140
+L92: Sep 25, 2026  | 309.18  | 317.13  | 307.50  | 315.21  | 315.21  | 2.62%  | 8,138,656
+L93: Sep 24, 2026  | 301.86  | 307.22  | 298.86  | 307.16  | 307.16  | -0.04%  | 7,903,993
+--------------------------------------------------------------------------------
+Applied Materials (AMAT) Stock Price History 1983-2026 (https://stockanalysis.com/stocks/amat/history/)
+citeturn104view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/amat/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:35 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Applied Materials Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+--------------------------------------------------------------------------------
+ASML Holding (ASML) Stock Price History 1995-2026 (https://stockanalysis.com/stocks/asml/history/)
+citeturn104view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/asml/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:48 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # ASML Holding Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 1,811.51  | 1,816.45  | 1,800.40  | 1,815.70  | -  | 2.50%  | 286,559
+L92: Sep 28, 2026  | 1,748.82  | 1,784.56  | 1,735.50  | 1,771.41  | 1,771.41  | 1.58%  | 1,366,207
+L93: Sep 25, 2026  | 1,741.25  | 1,759.25  | 1,728.11  | 1,743.94  | 1,743.94  | 1.24%  | 799,211
+L94: Sep 24, 2026  | 1,708.85  | 1,736.84  | 1,700.88  | 1,722.50  | 1,722.50  | -1.27%  | 1,260,275
+--------------------------------------------------------------------------------
+ACM Research (ACMR) Stock Price History 2017-2026 (https://stockanalysis.com/stocks/acmr/history/)
+citeturn104view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/acmr/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:00 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # ACM Research Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 78.71  | 78.75  | 76.69  | 77.27  | -  | 1.74%  | 55,831
+L90: Sep 28, 2026  | 76.19  | 76.98  | 73.47  | 75.95  | 75.95  | -1.75%  | 836,567
+L91: Sep 25, 2026  | 77.97  | 78.46  | 76.08  | 77.30  | 77.30  | 1.47%  | 594,814
+L92: Sep 24, 2026  | 78.10  | 78.62  | 74.14  | 76.18  | 76.18  | -5.57%  | 1,537,880
+L93: Sep 23, 2026  | 74.65  | 82.78  | 72.40  | 80.67  | 80.67  | 6.42%  | 2,773,680
+--------------------------------------------------------------------------------
+Entegris (ENTG) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/entg/history/)
+citeturn104view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/entg/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:48 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Entegris Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 154.55  | 155.77  | 152.60  | 154.68  | -  | 2.69%  | 130,172
+L91: Sep 28, 2026  | 150.57  | 151.22  | 145.30  | 150.63  | 150.63  | -0.83%  | 1,967,839
+L92: Sep 25, 2026  | 148.87  | 153.60  | 148.00  | 151.89  | 151.89  | 2.19%  | 1,237,991
+L93: Sep 24, 2026  | 146.21  | 148.97  | 143.81  | 148.63  | 148.63  | -1.52%  | 1,748,373
+--------------------------------------------------------------------------------
+Rambus (RMBS) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/rmbs/history/)
+citeturn104view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/rmbs/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:37 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Rambus Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 103.56  | 103.56  | 103.56  | 102.95  | -  | 0.81%  | 41,774
+L91: Sep 28, 2026  | 104.19  | 104.57  | 99.34  | 102.12  | 102.12  | -2.89%  | 1,804,345
+L92: Sep 25, 2026  | 106.61  | 107.31  | 103.43  | 105.16  | 105.16  | 0.58%  | 1,679,394
+L93: Sep 24, 2026  | 101.62  | 108.62  | 101.12  | 104.55  | 104.55  | 1.04%  | 1,879,023
+--------------------------------------------------------------------------------
+Intel (INTC) Stock Price History 1972-2026 (https://stockanalysis.com/stocks/intc/history/)
+citeturn104view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/intc/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:44 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Intel Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 116.70  | 117.02  | 113.97  | 116.47  | -  | 0.38%  | 21,259,472
+L92: Sep 28, 2026  | 120.68  | 121.71  | 114.71  | 116.03  | 116.03  | -5.67%  | 109,762,737
+L93: Sep 25, 2026  | 126.83  | 126.93  | 122.84  | 123.00  | 123.00  | -3.45%  | 96,093,729
+L94: Sep 24, 2026  | 120.61  | 127.44  | 119.55  | 127.39  | 127.39  | 3.91%  | 117,912,010
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn104view9 [wordlim: 200] Source: open({"ref_id":"https://stockanalysis.com/stocks/skhy/history/","lineno":75}); Total lines: 1
+--------------------------------------------------------------------------------
+ON Semiconductor (ON) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/on/history/)
+citeturn104view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/on/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:58 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # ON Semiconductor Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 77.12  | 77.45  | 76.30  | 76.42  | -  | 1.02%  | 1,649,973
+L91: Sep 28, 2026  | 77.00  | 77.21  | 74.11  | 75.65  | 75.65  | -2.01%  | 10,367,145
+L92: Sep 25, 2026  | 74.27  | 77.68  | 73.66  | 77.20  | 77.20  | 5.54%  | 11,112,128
+L93: Sep 24, 2026  | 72.50  | 73.30  | 71.79  | 73.15  | 73.15  | -1.28%  | 10,430,287
+--------------------------------------------------------------------------------
+GLOBALFOUNDRIES (GFS) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/gfs/history/)
+citeturn104view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/gfs/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # GlobalFoundries Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 48.50  | 48.69  | 47.72  | 48.41  | -  | 1.32%  | 368,650
+L91: Sep 28, 2026  | 48.83  | 49.06  | 46.64  | 47.78  | 47.78  | -2.49%  | 3,156,782
+L92: Sep 25, 2026  | 47.49  | 49.43  | 47.12  | 49.00  | 49.00  | 4.14%  | 4,934,630
+L93: Sep 24, 2026  | 45.56  | 47.08  | 45.39  | 47.05  | 47.05  | 1.36%  | 4,726,559
+--------------------------------------------------------------------------------
+Churchill Capital Corp XI (CCXI) Stock Price History 2026-2026 (https://stockanalysis.com/stocks/ccxi/history/)
+citeturn104view12 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/ccxi/history/","lineno":75}); Total lines: 222
+L70: At close: Sep 28, 2026, 4:00 PM EDT
+L71: 
+L72: 12.13
+L73: 
+L74: +0.08 (0.66%)
+L75: 
+L76: Pre-market: Sep 29, 2026, 7:49 AM EDT
+L77: 
+L78:   * cite39†Overview L79:   * cite40†Statistics L80:   * cite41†History L81:   * cite42†Profile L82:   * cite43†Chart L83: # Churchill Capital Corp XI Stock Price History
+L84: 
+L85: Price Price Change (%) Total Return (%)
+L86: ## Historical Data
+L87: 
+L88: Daily
+L89: 
+L90: 6M
+L91: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L92: --- | --- | --- | --- | --- | --- | --- | ---
+L93: Sep 28, 2026  | 12.20  | 12.31  | 12.04  | 12.05  | 12.05  | -3.06%  | 978,755
+L94: Sep 25, 2026  | 12.28  | 12.45  | 12.08  | 12.43  | 12.43  | 1.64%  | 1,455,193
+L95: Sep 24, 2026  | 12.38  | 12.49  | 12.05  | 12.23  | 12.23  | -3.85%  | 2,176,348
+L96: Sep 23, 2026  | 13.08  | 13.08  | 12.37  | 12.72  | 12.72  | -3.20%  | 1,091,597
+--------------------------------------------------------------------------------
+Aehr Test Systems (AEHR) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/aehr/history/)
+citeturn104view13 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aehr/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 11:00 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Aehr Test Systems Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 101.95  | 108.40  | 100.25  | 102.81  | -  | 4.39%  | 1,002,973
+L91: Sep 28, 2026  | 101.45  | 102.41  | 94.24  | 98.49  | 98.49  | -5.65%  | 2,102,197
+L92: Sep 25, 2026  | 98.19  | 105.58  | 95.29  | 104.39  | 104.39  | 7.15%  | 2,840,873
+L93: Sep 24, 2026  | 94.80  | 99.92  | 93.11  | 97.42  | 97.42  | 0.04%  | 1,619,489
+--------------------------------------------------------------------------------
+AXT, Inc. (AXTI) Stock Price History 1998-2026 (https://stockanalysis.com/stocks/axti/history/)
+citeturn104view14 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/axti/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:56 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # AXT, Inc. Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 76.64  | 82.14  | 75.58  | 80.40  | -  | 9.14%  | 5,072,447
+L90: Sep 28, 2026  | 76.53  | 78.18  | 71.56  | 73.67  | 73.67  | -6.68%  | 6,949,014
+L91: Sep 25, 2026  | 77.50  | 80.44  | 75.00  | 78.94  | 78.94  | 4.01%  | 7,354,035
+L92: Sep 24, 2026  | 70.82  | 78.70  | 69.60  | 75.90  | 75.90  | 4.00%  | 7,509,380
+--------------------------------------------------------------------------------
+Howmet Aerospace (HWM) Stock Price History 2016-2026 (https://stockanalysis.com/stocks/hwm/history/)
+citeturn104view15 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/hwm/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:49 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Howmet Aerospace Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 228.66  | 232.30  | 228.00  | 229.33  | -  | 0.44%  | 269,573
+--------------------------------------------------------------------------------
+Tesla (TSLA) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/tsla/history/)
+citeturn104view16 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tsla/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:30 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Tesla Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 358.40  | 358.54  | 352.06  | 353.10  | -  | -1.22%  | 3,342,397
+L92: Sep 28, 2026  | 368.06  | 369.43  | 356.80  | 357.45  | 357.45  | -3.94%  | 38,214,851
+L93: Sep 25, 2026  | 384.62  | 386.83  | 367.67  | 372.11  | 372.11  | -1.54%  | 44,507,941
+L94: Sep 24, 2026  | 377.35  | 383.33  | 375.70  | 377.94  | 377.94  | -0.57%  | 25,849,354
+
+
+============================
+
+Recursion Pharmaceuticals (RXRX) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/rxrx/history/)
+citeturn107view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/rxrx/history/","lineno":75}); Total lines: 218
+L68: +0.140 (3.78%)
+L69: 
+L70: Sep 29, 2026, 10:41 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Recursion Pharmaceuticals Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+--------------------------------------------------------------------------------
+Celestica (CLS) Stock Price History 1998-2026 (https://stockanalysis.com/stocks/cls/history/)
+citeturn107view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/cls/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:40 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Celestica Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 362.60  | 375.00  | 362.10  | 370.00  | -  | 3.78%  | 213,151
+L91: Sep 28, 2026  | 363.93  | 372.97  | 349.52  | 356.53  | 356.53  | -2.44%  | 2,404,207
+--------------------------------------------------------------------------------
+DPC Holdings (DPC) Stock Price History 2026-2026 (https://stockanalysis.com/stocks/dpc/history/)
+citeturn107view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/dpc/history/","lineno":75}); Total lines: 218
+L70: Sep 28, 2026, 4:00 PM EDT - Market closed
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # DPC Holdings Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 28, 2026  | 40.54  | 41.43  | 39.61  | 40.54  | 40.54  | -1.19%  | 891,548
+L90: Sep 25, 2026  | 41.44  | 42.29  | 40.72  | 41.03  | 41.03  | -0.75%  | 914,049
+L91: Sep 24, 2026  | 41.37  | 42.09  | 40.53  | 41.34  | 41.34  | -1.41%  | 1,327,871
+L92: Sep 23, 2026  | 40.48  | 42.73  | 39.25  | 41.93  | 41.93  | 3.15%  | 1,303,332
+--------------------------------------------------------------------------------
+Scribe Therapeutics (SCTX) Stock Price History 2026-2026 (https://stockanalysis.com/stocks/sctx/history/)
+citeturn107view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/sctx/history/","lineno":75}); Total lines: 212
+L70: Sep 29, 2026, 10:12 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Scribe Therapeutics Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 21.53  | 21.53  | 21.53  | 22.17  | -  | 1.84%  | 23,297
+L90: Sep 28, 2026  | 21.28  | 22.00  | 20.50  | 21.77  | 21.77  | 2.30%  | 305,575
+L91: Sep 25, 2026  | 23.17  | 23.28  | 20.21  | 21.28  | 21.28  | -1.53%  | 458,381
+L92: Sep 24, 2026  | 26.27  | 26.27  | 21.36  | 21.61  | 21.61  | -18.55%  | 521,272
+L93: Sep 23, 2026  | 28.51  | 29.09  | 26.08  | 26.53  | 26.53  | -5.49%  | 532,669
+--------------------------------------------------------------------------------
+Amazon.com (AMZN) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/amzn/history/)
+citeturn107view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/amzn/history/","lineno":75}); Total lines: 220
+L70: Sep 29, 2026, 10:56 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†Dividends L78:   * cite45†History L79:   * cite46†Profile L80:   * cite47†Chart L81: # Amazon Stock Price History
+L82: 
+L83: Price Price Change (%) Total Return (%)
+L84: ## Historical Data
+L85: 
+L86: Daily
+L87: 
+L88: 6M
+--------------------------------------------------------------------------------
+Arteris (AIP) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/aip/history/)
+citeturn107view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/aip/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:18 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Arteris Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 23.52  | 24.90  | 23.21  | 23.12  | -  | -  | 661
+L90: Sep 28, 2026  | 23.54  | 23.70  | 22.54  | 23.12  | 23.12  | -3.22%  | 486,224
+L91: Sep 25, 2026  | 24.60  | 24.98  | 23.82  | 23.89  | 23.89  | -1.24%  | 578,633
+L92: Sep 24, 2026  | 23.63  | 24.36  | 23.20  | 24.19  | 24.19  | -  | 538,219
+L93: Sep 23, 2026  | 24.64  | 24.68  | 23.82  | 24.19  | 24.19  | -2.38%  | 467,958
+--------------------------------------------------------------------------------
+nLIGHT (LASR) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/lasr/history/)
+citeturn107view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/lasr/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:32 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # nLIGHT Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 39.63  | 40.50  | 39.58  | 39.97  | -  | 1.07%  | 6,833
+L90: Sep 28, 2026  | 40.00  | 40.47  | 39.00  | 39.55  | 39.55  | -1.93%  | 560,441
+L91: Sep 25, 2026  | 40.62  | 41.65  | 40.07  | 40.33  | 40.33  | -0.71%  | 458,420
+L92: Sep 24, 2026  | 40.01  | 40.91  | 39.68  | 40.62  | 40.62  | -0.88%  | 516,736
+L93: Sep 23, 2026  | 40.50  | 41.52  | 39.76  | 40.98  | 40.98  | -0.53%  | 664,732
+--------------------------------------------------------------------------------
+Tempus AI (TEM) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/tem/history/)
+citeturn107view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tem/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:52 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Tempus AI Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 85.49  | 89.09  | 83.86  | 83.50  | -  | -1.86%  | 2,587,277
+L90: Sep 28, 2026  | 83.57  | 86.44  | 82.77  | 85.08  | 85.08  | 0.08%  | 6,225,749
+L91: Sep 25, 2026  | 83.70  | 85.46  | 80.31  | 85.01  | 85.01  | 3.37%  | 8,402,578
+L92: Sep 24, 2026  | 75.69  | 82.46  | 74.81  | 82.24  | 82.24  | 7.38%  | 10,764,678
+--------------------------------------------------------------------------------
+Nebius Group (NBIS) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/nbis/history/)
+citeturn107view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/nbis/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:47 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Nebius Group Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 235.18  | 242.36  | 233.61  | 239.00  | -  | 3.07%  | 3,671,840
+L90: Sep 28, 2026  | 235.20  | 245.35  | 228.38  | 231.88  | 231.88  | -2.30%  | 12,673,562
+L91: Sep 25, 2026  | 245.60  | 246.92  | 235.41  | 237.33  | 237.33  | -2.53%  | 10,973,380
+L92: Sep 24, 2026  | 231.84  | 249.19  | 229.50  | 243.48  | 243.48  | 7.44%  | 24,046,498
+--------------------------------------------------------------------------------
+Astera Labs (ALAB) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/alab/history/)
+citeturn107view9 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/alab/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:33 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Astera Labs Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 352.80  | 353.21  | 349.60  | 353.63  | -  | 0.66%  | 177,780
+L90: Sep 28, 2026  | 356.32  | 367.68  | 342.00  | 351.31  | 351.31  | -3.65%  | 4,064,076
+L91: Sep 25, 2026  | 366.00  | 377.87  | 356.20  | 364.62  | 364.62  | 1.14%  | 3,053,734
+L92: Sep 24, 2026  | 350.41  | 367.72  | 348.35  | 360.51  | 360.51  | 0.01%  | 3,357,098
+--------------------------------------------------------------------------------
+Generac Holdings (GNRC) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/gnrc/history/)
+citeturn107view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/gnrc/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:49 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Dividends L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Generac Holdings Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+--------------------------------------------------------------------------------
+Ouster (OUST) Stock Price History 2020-2026 (https://stockanalysis.com/stocks/oust/history/)
+citeturn107view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/oust/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:29 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Ouster Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 42.03  | 42.24  | 41.30  | 41.53  | -  | 1.54%  | 192,200
+L90: Sep 28, 2026  | 43.74  | 43.90  | 40.70  | 40.90  | 40.90  | -6.45%  | 3,607,258
+L91: Sep 25, 2026  | 41.96  | 43.97  | 40.78  | 43.72  | 43.72  | 5.68%  | 2,911,466
+L92: Sep 24, 2026  | 38.45  | 41.72  | 38.36  | 41.37  | 41.37  | 5.05%  | 2,153,208
+--------------------------------------------------------------------------------
+Hesai Group (HSAI) Stock Price History 2023-2026 (https://stockanalysis.com/stocks/hsai/history/)
+citeturn107view12 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/hsai/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 11:00 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Hesai Group Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 15.59  | 15.67  | 15.44  | 15.56  | -  | -0.19%  | 174,810
+L90: Sep 28, 2026  | 16.00  | 16.00  | 15.57  | 15.59  | 15.59  | -4.06%  | 963,455
+L91: Sep 25, 2026  | 16.35  | 16.40  | 16.00  | 16.25  | 16.25  | -0.73%  | 733,277
+L92: Sep 24, 2026  | 16.31  | 16.46  | 16.12  | 16.37  | 16.37  | 0.37%  | 746,492
+L93: Sep 23, 2026  | 16.82  | 16.88  | 16.08  | 16.31  | 16.31  | -4.62%  | 1,309,305
+--------------------------------------------------------------------------------
+Innodata (INOD) Stock Price History 1993-2026 (https://stockanalysis.com/stocks/inod/history/)
+citeturn107view13 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/inod/history/","lineno":75}); Total lines: 219
+L70: Sep 29, 2026, 10:42 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Innodata Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 67.57  | 67.75  | 65.69  | 67.75  | -  | 1.44%  | 116,417
+L91: Sep 28, 2026  | 68.66  | 69.95  | 66.15  | 66.79  | 66.79  | -3.50%  | 1,275,408
+L92: Sep 25, 2026  | 73.10  | 74.75  | 68.70  | 69.21  | 69.21  | -3.70%  | 1,508,805
+L93: Sep 24, 2026  | 70.49  | 72.77  | 69.19  | 71.87  | 71.87  | -0.17%  | 1,768,116
+--------------------------------------------------------------------------------
+Vishay Precision Group (VPG) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/vpg/history/)
+citeturn107view14 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/vpg/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 9:55 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Vishay Precision Group Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 72.70  | 72.70  | 72.12  | 72.45  | -  | 2.22%  | 14,394
+L90: Sep 28, 2026  | 70.47  | 71.94  | 68.09  | 70.88  | 70.88  | -1.05%  | 291,807
+L91: Sep 25, 2026  | 69.80  | 73.30  | 69.45  | 71.63  | 71.63  | 4.46%  | 471,942
+L92: Sep 24, 2026  | 67.65  | 69.78  | 67.10  | 68.57  | 68.57  | -1.80%  | 317,484
+L93: Sep 23, 2026  | 69.24  | 69.90  | 66.83  | 69.83  | 69.83  | -0.11%  | 246,659
+--------------------------------------------------------------------------------
+Richtech Robotics (RR) Stock Price History 2023-2026 (https://stockanalysis.com/stocks/rr/history/)
+citeturn107view15 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/rr/history/","lineno":75}); Total lines: 217
+L70: Sep 29, 2026, 10:18 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Statistics L75:   * cite42†History L76:   * cite43†Profile L77:   * cite44†Chart L78: # Richtech Robotics Stock Price History
+L79: 
+L80: Price Price Change (%) Total Return (%)
+L81: ## Historical Data
+L82: 
+L83: Daily
+L84: 
+L85: 6M
+L86: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L87: --- | --- | --- | --- | --- | --- | --- | ---
+L88: Sep 29, 2026  | 1.59  | 1.62  | 1.58  | 1.61  | -  | 2.55%  | 689,879
+L89: Sep 28, 2026  | 1.66  | 1.68  | 1.57  | 1.57  | 1.57  | -7.65%  | 3,551,061
+L90: Sep 25, 2026  | 1.67  | 1.70  | 1.64  | 1.70  | 1.70  | 3.66%  | 2,985,027
+L91: Sep 24, 2026  | 1.64  | 1.65  | 1.60  | 1.64  | 1.64  | -0.61%  | 2,606,597
+L92: Sep 23, 2026  | 1.72  | 1.73  | 1.64  | 1.65  | 1.65  | -4.62%  | 3,397,145
+--------------------------------------------------------------------------------
+Serve Robotics (SERV) Stock Price History 2024-2026 (https://stockanalysis.com/stocks/serv/history/)
+citeturn107view16 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/serv/history/","lineno":75}); Total lines: 218
+L70: Sep 29, 2026, 10:41 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†History L77:   * cite44†Profile L78:   * cite45†Chart L79: # Serve Robotics Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 4.48  | 4.53  | 4.41  | 4.58  | -  | 3.39%  | 515,748
+L90: Sep 28, 2026  | 4.46  | 4.49  | 4.34  | 4.43  | 4.43  | -0.45%  | 1,734,707
+L91: Sep 25, 2026  | 4.51  | 4.53  | 4.40  | 4.45  | 4.45  | -1.33%  | 1,985,027
+L92: Sep 24, 2026  | 4.31  | 4.52  | 4.30  | 4.51  | 4.51  | 4.64%  | 1,775,792
+L93: Sep 23, 2026  | 4.55  | 4.56  | 4.30  | 4.31  | 4.31  | -5.27%  | 2,427,580
+
+
+============================
+
+Tower Semiconductor (TSEM) Stock Price History 1994-2026 (https://stockanalysis.com/stocks/tsem/history/)
+citeturn112view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/tsem/history/","lineno":92}); Total lines: 219
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 230.84  | 237.55  | 228.13  | 234.39  | -  | 3.69%  | 284,766
+L91: Sep 28, 2026  | 226.51  | 228.65  | 218.15  | 226.04  | 226.04  | -1.92%  | 1,829,321
+L92: Sep 25, 2026  | 223.43  | 235.67  | 220.45  | 230.47  | 230.47  | 6.07%  | 2,008,246
+L93: Sep 24, 2026  | 226.16  | 228.12  | 217.19  | 217.28  | 217.28  | -5.74%  | 1,517,180
+L94: Sep 23, 2026  | 236.75  | 236.96  | 224.10  | 230.50  | 230.50  | -2.58%  | 1,472,068
+L95: Sep 22, 2026  | 228.48  | 236.87  | 227.01  | 236.61  | 236.61  | 1.19%  | 1,859,050
+L96: Sep 21, 2026  | 227.03  | 240.00  | 224.07  | 233.82  | 233.82  | 4.57%  | 2,234,853
+L97: Sep 18, 2026  | 225.01  | 227.80  | 219.39  | 223.60  | 223.60  | 1.99%  | 9,363,287
+L98: Sep 17, 2026  | 215.02  | 221.32  | 212.01  | 219.24  | 219.24  | 8.43%  | 2,425,460
+L99: Sep 16, 2026  | 201.05  | 207.45  | 197.85  | 202.20  | 202.20  | 3.63%  | 1,446,039
+--------------------------------------------------------------------------------
+Credo Technology Group Holding (CRDO) Stock Price History 2022-2026 (https://stockanalysis.com/stocks/crdo/history/)
+citeturn112view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/crdo/history/","lineno":92}); Total lines: 219
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 194.46  | 199.38  | 189.01  | 196.87  | -  | 2.18%  | 2,987,091
+L91: Sep 28, 2026  | 206.12  | 208.11  | 189.44  | 192.67  | 192.67  | -8.67%  | 8,932,689
+L92: Sep 25, 2026  | 201.59  | 214.87  | 198.00  | 210.97  | 210.97  | 7.65%  | 11,584,552
+L93: Sep 24, 2026  | 188.91  | 196.43  | 187.00  | 195.97  | 195.97  | 1.08%  | 5,741,979
+L94: Sep 23, 2026  | 191.50  | 196.15  | 189.26  | 193.87  | 193.87  | 0.68%  | 7,773,596
+L95: Sep 22, 2026  | 183.68  | 194.00  | 183.17  | 192.56  | 192.56  | 2.82%  | 8,142,781
+L96: Sep 21, 2026  | 180.91  | 188.76  | 176.49  | 187.27  | 187.27  | 6.47%  | 11,061,007
+L97: Sep 18, 2026  | 171.11  | 175.98  | 170.19  | 175.89  | 175.89  | 4.54%  | 13,309,959
+L98: Sep 17, 2026  | 168.65  | 169.80  | 163.52  | 168.25  | 168.25  | 4.19%  | 8,903,251
+L99: Sep 16, 2026  | 153.10  | 164.55  | 152.72  | 161.49  | 161.49  | 7.38%  | 8,978,504
+--------------------------------------------------------------------------------
+Arista Networks (ANET) Stock Price History 2014-2026 (https://stockanalysis.com/stocks/anet/history/)
+citeturn112view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/anet/history/","lineno":92}); Total lines: 220
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 207.10  | 207.48  | 204.00  | 203.50  | -  | -0.69%  | 495,793
+L92: Sep 28, 2026  | 205.59  | 208.35  | 203.52  | 204.92  | 204.92  | -0.79%  | 3,425,037
+L93: Sep 25, 2026  | 208.86  | 212.00  | 205.53  | 206.55  | 206.55  | 0.41%  | 4,226,219
+L94: Sep 24, 2026  | 199.91  | 206.54  | 198.76  | 205.70  | 205.70  | 1.10%  | 3,553,385
+L95: Sep 23, 2026  | 205.46  | 206.48  | 200.75  | 203.47  | 203.47  | -0.84%  | 3,935,745
+L96: Sep 22, 2026  | 204.35  | 208.26  | 203.26  | 205.19  | 205.19  | -0.11%  | 4,329,252
+L97: Sep 21, 2026  | 203.47  | 205.95  | 200.75  | 205.42  | 205.42  | 3.02%  | 4,911,464
+L98: Sep 18, 2026  | 202.35  | 202.58  | 196.89  | 199.39  | 199.39  | -0.07%  | 9,881,991
+L99: Sep 17, 2026  | 203.11  | 204.91  | 192.98  | 199.53  | 199.53  | 1.01%  | 7,017,830
+--------------------------------------------------------------------------------
+Super Micro Computer (SMCI) Stock Price History 2007-2026 (https://stockanalysis.com/stocks/smci/history/)
+citeturn112view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/smci/history/","lineno":92}); Total lines: 220
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 42.60  | 42.69  | 41.74  | 42.12  | -  | 0.81%  | 8,141,385
+L92: Sep 28, 2026  | 42.75  | 43.06  | 40.96  | 41.78  | 41.78  | -3.42%  | 29,308,988
+L93: Sep 25, 2026  | 42.00  | 43.76  | 41.90  | 43.26  | 43.26  | 4.22%  | 49,088,311
+L94: Sep 24, 2026  | 40.44  | 42.28  | 39.85  | 41.51  | 41.51  | 0.17%  | 34,803,869
+L95: Sep 23, 2026  | 42.27  | 42.70  | 40.79  | 41.44  | 41.44  | -0.24%  | 40,871,514
+L96: Sep 22, 2026  | 41.26  | 41.74  | 40.45  | 41.54  | 41.54  | 0.83%  | 30,249,834
+L97: Sep 21, 2026  | 40.63  | 41.72  | 40.00  | 41.20  | 41.20  | 5.40%  | 48,218,355
+L98: Sep 18, 2026  | 40.20  | 40.41  | 38.32  | 39.09  | 39.09  | -3.12%  | 48,079,259
+L99: Sep 17, 2026  | 38.04  | 41.01  | 37.82  | 40.35  | 40.35  | 9.50%  | 62,517,147
+L100: Sep 16, 2026  | 35.95  | 37.12  | 35.36  | 36.85  | 36.85  | 3.40%  | 31,390,538
+--------------------------------------------------------------------------------
+Vertiv Holdings Co (VRT) Stock Price History 2018-2026 (https://stockanalysis.com/stocks/vrt/history/)
+citeturn112view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/vrt/history/","lineno":92}); Total lines: 220
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 251.38  | 254.13  | 250.86  | 252.65  | -  | 3.53%  | 876,338
+L92: Sep 28, 2026  | 253.23  | 254.20  | 242.52  | 244.04  | 244.04  | -3.65%  | 4,226,020
+L93: Sep 25, 2026  | 249.18  | 254.50  | 248.00  | 253.28  | 253.28  | 3.25%  | 4,071,795
+L94: Sep 24, 2026  | 240.47  | 246.90  | 239.00  | 245.30  | 245.30  | -1.40%  | 4,106,679
+L95: Sep 23, 2026  | 253.68  | 255.02  | 248.51  | 248.78  | 248.78  | -1.85%  | 3,530,964
+L96: Sep 22, 2026  | 250.30  | 255.40  | 249.14  | 253.46  | 253.46  | 1.04%  | 3,448,495
+L97: Sep 21, 2026  | 254.67  | 254.88  | 247.61  | 250.86  | 250.86  | 0.59%  | 4,813,750
+L98: Sep 18, 2026  | 246.19  | 250.15  | 242.43  | 249.39  | 249.39  | 3.27%  | 7,671,664
+L99: Sep 17, 2026  | 249.75  | 252.34  | 241.25  | 241.49  | 241.49  | 0.87%  | 4,922,311
+L100: Sep 16, 2026  | 240.00  | 244.76  | 237.64  | 239.41  | 239.41  | 2.05%  | 5,467,185
+--------------------------------------------------------------------------------
+Marvell Technology (MRVL) Stock Price History 2000-2026 (https://stockanalysis.com/stocks/mrvl/history/)
+citeturn112view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/mrvl/history/","lineno":92}); Total lines: 220
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 258.55  | 259.82  | 256.88  | 262.06  | -  | 4.03%  | 2,841,944
+L92: Sep 28, 2026  | 259.65  | 261.78  | 248.14  | 251.90  | 251.90  | -3.83%  | 16,214,466
+L93: Sep 25, 2026  | 263.56  | 267.48  | 257.43  | 261.94  | 261.94  | 1.15%  | 11,672,074
+L94: Sep 24, 2026  | 254.10  | 261.98  | 252.19  | 258.95  | 258.95  | -0.75%  | 13,279,574
+L95: Sep 23, 2026  | 262.36  | 264.97  | 256.22  | 260.90  | 260.90  | -0.56%  | 13,530,220
+L96: Sep 22, 2026  | 255.46  | 266.00  | 254.00  | 262.36  | 262.36  | 1.93%  | 19,890,048
+L97: Sep 21, 2026  | 251.40  | 261.18  | 244.99  | 257.38  | 257.38  | 5.38%  | 21,466,198
+L98: Sep 18, 2026  | 242.06  | 244.44  | 235.96  | 244.25  | 244.25  | 1.45%  | 23,635,624
+L99: Sep 17, 2026  | 240.07  | 247.89  | 240.00  | 240.76  | 240.76  | 4.81%  | 20,969,942
+--------------------------------------------------------------------------------
+Hewlett Packard Enterprise Company (HPE) Stock Price History 2015-2026 (https://stockanalysis.com/stocks/hpe/history/)
+citeturn112view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/hpe/history/","lineno":92}); Total lines: 220
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 63.20  | 63.20  | 61.80  | 61.52  | -  | -1.77%  | 795,741
+L92: Sep 28, 2026  | 62.75  | 63.38  | 61.00  | 62.63  | 62.63  | -0.49%  | 15,010,104
+L93: Sep 25, 2026  | 63.65  | 65.65  | 62.88  | 62.94  | 62.94  | -0.91%  | 15,471,191
+L94: Sep 24, 2026  | 61.06  | 65.48  | 60.55  | 63.52  | 63.52  | 1.91%  | 21,362,303
+L95: Sep 23, 2026  | 62.23  | 63.36  | 61.30  | 62.33  | 62.33  | 2.13%  | 14,899,874
+L96: Sep 22, 2026  | 61.75  | 63.00  | 60.45  | 61.03  | 61.03  | -1.17%  | 16,628,993
+L97: Sep 21, 2026  | 62.65  | 63.86  | 60.30  | 61.75  | 61.75  | 1.63%  | 20,089,176
+L98: Sep 18, 2026  | 61.70  | 61.78  | 59.65  | 60.76  | 60.76  | -0.46%  | 24,542,355
+L99: Sep 17, 2026  | 57.25  | 62.14  | 57.01  | 61.04  | 61.04  | 7.96%  | 24,765,399
+L100: Sep 16, 2026  | 55.51  | 58.14  | 55.02  | 56.68  | 56.54  | 1.43%  | 23,164,710
+--------------------------------------------------------------------------------
+Applied Materials (AMAT) Stock Price History 1983-2026 (https://stockanalysis.com/stocks/amat/history/)
+citeturn112view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/amat/history/","lineno":92}); Total lines: 220
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 504.71  | 511.79  | 502.31  | 505.92  | -  | 3.94%  | 1,915,082
+L92: Sep 28, 2026  | 482.20  | 487.45  | 471.38  | 486.76  | 486.76  | 0.36%  | 5,933,491
+L93: Sep 25, 2026  | 478.89  | 487.68  | 476.36  | 485.00  | 485.00  | 2.27%  | 4,761,994
+L94: Sep 24, 2026  | 463.79  | 474.80  | 460.55  | 474.25  | 474.25  | -0.03%  | 4,147,267
+L95: Sep 23, 2026  | 471.23  | 474.90  | 461.00  | 474.38  | 474.38  | 0.41%  | 4,555,113
+L96: Sep 22, 2026  | 457.90  | 472.49  | 453.34  | 472.46  | 472.46  | 1.77%  | 5,722,298
+L97: Sep 21, 2026  | 455.95  | 468.51  | 452.66  | 464.24  | 464.24  | 4.42%  | 9,151,391
+L98: Sep 18, 2026  | 421.69  | 445.00  | 420.00  | 444.57  | 444.57  | 6.51%  | 14,025,139
+L99: Sep 17, 2026  | 427.58  | 428.54  | 413.56  | 417.40  | 417.40  | 0.49%  | 6,803,348
+L100: Sep 16, 2026  | 429.73  | 430.74  | 411.51  | 415.38  | 415.38  | -1.37%  | 5,465,376
+--------------------------------------------------------------------------------
+Howmet Aerospace (HWM) Stock Price History 2016-2026 (https://stockanalysis.com/stocks/hwm/history/)
+citeturn112view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/hwm/history/","lineno":92}); Total lines: 220
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 228.66  | 232.30  | 228.00  | 229.33  | -  | 0.44%  | 269,573
+L92: Sep 28, 2026  | 230.99  | 231.90  | 227.00  | 228.32  | 228.32  | -1.79%  | 1,817,448
+L93: Sep 25, 2026  | 231.00  | 233.42  | 228.91  | 232.48  | 232.48  | 1.35%  | 2,183,856
+L94: Sep 24, 2026  | 226.59  | 232.63  | 225.62  | 229.38  | 229.38  | 0.26%  | 2,192,742
+L95: Sep 23, 2026  | 226.00  | 230.37  | 224.24  | 228.78  | 228.78  | 1.52%  | 2,388,735
+L96: Sep 22, 2026  | 227.69  | 227.94  | 223.28  | 225.36  | 225.36  | -0.88%  | 2,462,970
+L97: Sep 21, 2026  | 230.50  | 231.91  | 226.36  | 227.37  | 227.37  | -1.00%  | 2,772,466
+L98: Sep 18, 2026  | 225.78  | 230.36  | 224.24  | 229.67  | 229.67  | 1.73%  | 4,514,618
+L99: Sep 17, 2026  | 229.17  | 229.51  | 223.36  | 225.76  | 225.76  | -0.87%  | 2,458,773
+--------------------------------------------------------------------------------
+Recursion Pharmaceuticals (RXRX) Stock Price History 2021-2026 (https://stockanalysis.com/stocks/rxrx/history/)
+citeturn112view9 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/rxrx/history/","lineno":92}); Total lines: 218
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 3.73  | 3.75  | 3.73  | 3.95  | -  | 6.76%  | 2,037,823
+L90: Sep 28, 2026  | 3.69  | 3.84  | 3.67  | 3.70  | 3.70  | -1.07%  | 12,766,462
+L91: Sep 25, 2026  | 3.89  | 3.90  | 3.70  | 3.74  | 3.74  | -3.86%  | 10,320,085
+L92: Sep 24, 2026  | 3.65  | 3.90  | 3.61  | 3.89  | 3.89  | 5.14%  | 19,063,028
+L93: Sep 23, 2026  | 4.03  | 4.09  | 3.66  | 3.70  | 3.70  | -8.64%  | 23,547,142
+L94: Sep 22, 2026  | 4.00  | 4.16  | 3.90  | 4.05  | 4.05  | 2.02%  | 40,284,763
+L95: Sep 21, 2026  | 3.92  | 4.02  | 3.83  | 3.97  | 3.97  | 3.66%  | 37,625,260
+L96: Sep 18, 2026  | 3.54  | 3.83  | 3.50  | 3.83  | 3.83  | 8.19%  | 44,107,949
+L97: Sep 17, 2026  | 3.28  | 3.59  | 3.26  | 3.54  | 3.54  | 10.97%  | 28,015,853
+L98: Sep 16, 2026  | 3.26  | 3.31  | 3.16  | 3.19  | 3.19  | -1.54%  | 14,764,188
+--------------------------------------------------------------------------------
+Amazon.com (AMZN) Stock Price History 1997-2026 (https://stockanalysis.com/stocks/amzn/history/)
+citeturn112view10 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/amzn/history/","lineno":92}); Total lines: 220
+L89: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L90: --- | --- | --- | --- | --- | --- | --- | ---
+L91: Sep 29, 2026  | 246.71  | 247.41  | 245.67  | 245.94  | -  | -0.09%  | 3,959,512
+L92: Sep 28, 2026  | 246.63  | 247.77  | 244.73  | 246.15  | 246.15  | -1.41%  | 31,843,634
+L93: Sep 25, 2026  | 248.56  | 250.88  | 247.18  | 249.67  | 249.67  | 0.12%  | 32,665,791
+L94: Sep 24, 2026  | 246.02  | 250.43  | 245.60  | 249.38  | 249.38  | 0.04%  | 32,625,878
+L95: Sep 23, 2026  | 253.00  | 253.99  | 247.76  | 249.27  | 249.27  | -2.24%  | 43,618,265
+L96: Sep 22, 2026  | 255.11  | 259.00  | 253.78  | 254.98  | 254.98  | -1.34%  | 41,035,265
+L97: Sep 21, 2026  | 256.40  | 259.49  | 253.60  | 258.45  | 258.45  | 1.87%  | 40,700,488
+L98: Sep 18, 2026  | 252.92  | 255.43  | 251.88  | 253.71  | 253.71  | 1.00%  | 51,884,018
+L99: Sep 17, 2026  | 251.07  | 252.73  | 249.24  | 251.19  | 251.19  | 2.13%  | 29,617,157
+--------------------------------------------------------------------------------
+Generac Holdings (GNRC) Stock Price History 2010-2026 (https://stockanalysis.com/stocks/gnrc/history/)
+citeturn112view11 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/gnrc/history/","lineno":92}); Total lines: 219
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 207.90  | 209.00  | 205.25  | 207.16  | -  | 0.95%  | 141,610
+L91: Sep 28, 2026  | 207.41  | 208.36  | 200.71  | 205.21  | 205.21  | -1.41%  | 954,852
+L92: Sep 25, 2026  | 200.03  | 208.90  | 199.84  | 208.14  | 208.14  | 5.09%  | 1,173,592
+L93: Sep 24, 2026  | 195.10  | 199.50  | 193.96  | 198.05  | 198.05  | -0.69%  | 868,710
+L94: Sep 23, 2026  | 204.39  | 206.29  | 198.78  | 199.42  | 199.42  | -3.27%  | 1,109,141
+L95: Sep 22, 2026  | 204.63  | 208.69  | 201.29  | 206.17  | 206.17  | 0.59%  | 1,495,604
+L96: Sep 21, 2026  | 210.00  | 212.46  | 203.98  | 204.96  | 204.96  | -1.20%  | 1,607,632
+L97: Sep 18, 2026  | 209.52  | 214.85  | 201.58  | 207.44  | 207.44  | 0.10%  | 2,979,584
+L98: Sep 17, 2026  | 229.50  | 231.89  | 202.26  | 207.23  | 207.23  | 18.34%  | 8,001,935
+L99: Sep 16, 2026  | 177.16  | 179.51  | 173.25  | 175.11  | 175.11  | 0.05%  | 650,842
+
+
+============================
+
+Soitec SA (EPA:SOI) Historical Stock Price Data (https://stockanalysis.com/quote/epa/SOI/history/)
+citeturn115view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/epa/SOI/history/","lineno":85}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Soitec SA (EPA:SOI)
+L64: 
+L65: cite39†Image: France flag cite40†France · Delayed Price · Currency is EUR
+L66: 
+L67: 154.85
+L68: +12.30 (8.63%)
+L69: 
+L70: Sep 29, 2026, 4:42 PM CET
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†History L77:   * cite46†Profile L78:   * cite47†Chart L79: # Soitec Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 146.00  | 155.00  | 144.20  | 152.65  | -  | 7.09%  | 143,431
+L90: Sep 28, 2026  | 141.80  | 147.55  | 139.30  | 142.55  | 142.55  | -0.35%  | 199,627
+L91: Sep 25, 2026  | 146.25  | 148.90  | 142.15  | 143.05  | 143.05  | -0.76%  | 112,267
+L92: Sep 24, 2026  | 149.30  | 149.85  | 143.10  | 144.15  | 144.15  | -4.31%  | 182,394
+L93: Sep 23, 2026  | 153.60  | 155.80  | 148.85  | 150.65  | 150.65  | -0.92%  | 306,894
+L94: Sep 22, 2026  | 155.15  | 156.60  | 149.60  | 152.05  | 152.05  | -1.81%  | 314,737
+L95: Sep 21, 2026  | 146.00  | 155.60  | 145.00  | 154.85  | 154.85  | 9.82%  | 422,702
+L96: Sep 18, 2026  | 142.75  | 143.25  | 135.75  | 141.00  | 141.00  | -0.49%  | 509,091
+L97: Sep 17, 2026  | 138.80  | 145.40  | 137.60  | 141.70  | 141.70  | 1.58%  | 187,169
+L98: Sep 16, 2026  | 134.10  | 142.30  | 133.35  | 139.50  | 139.50  | 13.41%  | 402,202
+--------------------------------------------------------------------------------
+IQE plc (AIM:IQE) Historical Stock Price Data (https://stockanalysis.com/quote/aim/IQE/history/)
+citeturn115view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/aim/IQE/history/","lineno":85}); Total lines: 218
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: IQE plc (AIM:IQE)
+L64: cite39†Image: London flag cite40†London · Delayed Price · Currency is GBP · Price in GBX
+L65: 
+L66: 46.25
+L67: 
+L68: +1.25 (2.78%)
+L69: 
+L70: Sep 29, 2026, 11:03 AM GMT
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†History L77:   * cite46†Profile L78:   * cite47†Chart L79: # IQE plc Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 29, 2026  | 45.00  | 46.30  | 45.00  | 46.00  | -  | 2.22%  | 2,399,350
+L90: Sep 28, 2026  | 45.00  | 46.10  | 44.50  | 45.00  | 45.00  | -3.02%  | 9,357,541
+L91: Sep 25, 2026  | 45.00  | 46.85  | 43.80  | 46.40  | 46.40  | 5.33%  | 13,466,269
+L92: Sep 24, 2026  | 46.90  | 46.90  | 44.00  | 44.05  | 44.05  | -6.08%  | 8,470,509
+L93: Sep 23, 2026  | 46.45  | 47.25  | 45.55  | 46.90  | 46.90  | 3.19%  | 10,668,999
+L94: Sep 22, 2026  | 44.00  | 45.55  | 43.60  | 45.45  | 45.45  | 3.30%  | 10,765,164
+L95: Sep 21, 2026  | 43.00  | 44.75  | 43.00  | 44.00  | 44.00  | 3.04%  | 10,321,181
+L96: Sep 18, 2026  | 41.95  | 44.75  | 41.60  | 42.70  | 42.70  | 3.64%  | 12,979,973
+L97: Sep 17, 2026  | 41.30  | 41.58  | 39.60  | 41.20  | 41.20  | 0.12%  | 9,254,645
+L98: Sep 16, 2026  | 40.45  | 42.15  | 40.25  | 41.15  | 41.15  | 2.36%  | 6,440,477
+--------------------------------------------------------------------------------
+Sivers Semiconductors AB (publ) (STO:SIVE) Historical Stock Price Data (https://stockanalysis.com/quote/sto/SIVE/history/)
+citeturn115view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/sto/SIVE/history/","lineno":85}); Total lines: 217
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Sivers Semiconductors AB (publ) (STO:SIVE)
+L64: cite39†Image: Sweden flag cite40†Sweden · Delayed Price · Currency is SEK
+L65: 
+L66: 33.00
+L67: 
+L68: +1.52 (4.83%)
+L69: 
+L70: Sep 29, 2026, 4:56 PM CET
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Statistics L75:   * cite44†History L76:   * cite45†Profile L77:   * cite46†Chart L78: # Sivers Semiconductors AB Stock Price History
+L79: 
+L80: Price Price Change (%) Total Return (%)
+L81: ## Historical Data
+L82: 
+L83: Daily
+L84: 
+L85: 6M
+L86: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L87: --- | --- | --- | --- | --- | --- | --- | ---
+L88: Sep 29, 2026  | 31.90  | 33.54  | 31.58  | 32.66  | -  | 3.75%  | 2,670,545
+L89: Sep 28, 2026  | 31.84  | 32.70  | 31.20  | 31.48  | 31.48  | -3.97%  | 2,609,531
+L90: Sep 25, 2026  | 33.74  | 34.20  | 31.44  | 32.78  | 32.78  | -  | 4,472,863
+L91: Sep 24, 2026  | 32.22  | 33.16  | 31.12  | 32.78  | 32.78  | -0.06%  | 3,925,433
+L92: Sep 23, 2026  | 35.38  | 35.78  | 32.60  | 32.80  | 32.80  | -8.33%  | 6,328,634
+L93: Sep 22, 2026  | 34.38  | 35.96  | 32.24  | 35.78  | 35.78  | 4.62%  | 4,985,375
+L94: Sep 21, 2026  | 31.86  | 34.74  | 31.80  | 34.20  | 34.20  | 10.32%  | 4,851,923
+L95: Sep 18, 2026  | 31.18  | 32.44  | 30.60  | 31.00  | 31.00  | 3.47%  | 11,689,304
+L96: Sep 17, 2026  | 28.96  | 30.76  | 28.90  | 29.96  | 29.96  | 4.83%  | 4,842,063
+L97: Sep 16, 2026  | 27.90  | 29.50  | 27.80  | 28.58  | 28.58  | 5.85%  | 4,007,767
+L98: Sep 15, 2026  | 27.68  | 27.98  | 26.68  | 27.00  | 27.00  | -1.39%  | 3,361,023
+--------------------------------------------------------------------------------
+Elite Semiconductor Microelectronics Technology Inc. (TPE:3006) Historical Stock Price Data (https://stockanalysis.com/quote/tpe/3006/history/)
+citeturn115view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/tpe/3006/history/","lineno":85}); Total lines: 206
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Elite Semiconductor Microelectronics Technology Inc. (TPE:3006)
+L64: cite39†Image: Taiwan flag cite40†Taiwan · Delayed Price · Currency is TWD
+L65: 
+L66: 285.00
+L67: 
+L68: +10.00 (3.64%)
+L69: 
+L70: Sep 29, 2026, 1:30 PM CST
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Statistics L75:   * cite44†Dividends L76:   * cite45†History L77:   * cite46†Profile L78:   * cite47†Chart L79: # TPE:3006 Stock Price History
+L80: 
+L81: Price Price Change (%) Total Return (%)
+L82: ## Historical Data
+L83: 
+L84: Daily
+L85: 
+L86: 6M
+L87: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L88: --- | --- | --- | --- | --- | --- | --- | ---
+L89: Sep 24, 2026  | 272.00  | 275.50  | 265.50  | 275.00  | 275.00  | 0.36%  | 6,499,142
+L90: Sep 23, 2026  | 282.50  | 288.00  | 273.00  | 274.00  | 274.00  | -1.62%  | 9,270,207
+L91: Sep 22, 2026  | 288.50  | 290.50  | 278.00  | 278.50  | 278.50  | -2.28%  | 8,996,322
+L92: Sep 21, 2026  | 293.00  | 293.00  | 279.00  | 285.00  | 285.00  | -1.21%  | 11,308,937
+L93: Sep 20, 2026  | 290.00  | 296.50  | 278.50  | 288.50  | 288.50  | -0.86%  | 1,758,230
+L94: Sep 18, 2026  | 290.00  | 296.50  | 285.00  | 291.00  | 291.00  | 4.49%  | 14,214,880
+L95: Sep 17, 2026  | 281.50  | 285.50  | 276.50  | 278.50  | 278.50  | -0.89%  | 10,781,816
+L96: Sep 16, 2026  | 266.00  | 285.00  | 265.50  | 281.00  | 281.00  | 6.44%  | 11,566,590
+L97: Sep 15, 2026  | 272.00  | 274.00  | 263.00  | 264.00  | 264.00  | -2.40%  | 9,092,194
+--------------------------------------------------------------------------------
+ASMPT Limited (HKG:0522) Historical Stock Price Data (https://stockanalysis.com/quote/hkg/0522/history/)
+citeturn115view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/hkg/0522/history/","lineno":85}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: ASMPT Limited (HKG:0522)
+L64: cite39†Image: Hong Kong flag cite40†Hong Kong · Delayed Price · Currency is HKD
+L65: 
+L66: 162.60
+L67: 
+L68: +4.30 (2.72%)
+L69: 
+L70: Sep 29, 2026, 4:08 PM HKT
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†Dividends L77:   * cite46†History L78:   * cite47†Profile L79:   * cite48†Chart L80: # ASMPT Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 158.30  | 163.50  | 155.50  | 162.60  | 162.60  | 2.72%  | 1,502,943
+L91: Sep 28, 2026  | 164.00  | 166.60  | 156.20  | 158.30  | 158.30  | -3.59%  | 2,153,928
+L92: Sep 25, 2026  | 162.00  | 164.20  | 160.80  | 164.20  | 164.20  | -1.08%  | 1,972,187
+L93: Sep 24, 2026  | 168.90  | 169.70  | 164.10  | 166.00  | 166.00  | -2.92%  | 1,827,192
+L94: Sep 23, 2026  | 172.00  | 175.40  | 169.00  | 171.00  | 171.00  | 0.47%  | 1,958,513
+L95: Sep 22, 2026  | 172.60  | 175.80  | 168.70  | 170.20  | 170.20  | 1.67%  | 3,226,723
+L96: Sep 21, 2026  | 170.00  | 171.80  | 164.70  | 167.40  | 167.40  | -0.42%  | 1,720,218
+L97: Sep 18, 2026  | 163.80  | 169.90  | 161.50  | 168.10  | 168.10  | 5.06%  | 4,578,609
+L98: Sep 17, 2026  | 161.30  | 162.40  | 157.40  | 160.00  | 160.00  | -0.81%  | 1,565,865
+L99: Sep 16, 2026  | 155.00  | 161.50  | 154.40  | 161.30  | 161.30  | 4.67%  | 3,170,880
+--------------------------------------------------------------------------------
+Lenovo Group Limited (HKG:0992) Historical Stock Price Data (https://stockanalysis.com/quote/hkg/0992/history/)
+citeturn115view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/hkg/0992/history/","lineno":85}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Lenovo Group Limited (HKG:0992)
+L64: cite39†Image: Hong Kong flag cite40†Hong Kong · Delayed Price · Currency is HKD
+L65: 
+L66: 35.48
+L67: 
+L68: -0.02 (-0.06%)
+L69: 
+L70: Sep 29, 2026, 4:08 PM HKT
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†Dividends L77:   * cite46†History L78:   * cite47†Profile L79:   * cite48†Chart L80: # Lenovo Group Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 35.18  | 36.00  | 34.50  | 35.48  | 35.48  | -0.06%  | 61,456,690
+L91: Sep 28, 2026  | 37.16  | 37.30  | 35.28  | 35.50  | 35.50  | -4.47%  | 54,202,578
+L92: Sep 25, 2026  | 35.90  | 37.16  | 35.58  | 37.16  | 37.16  | 3.16%  | 37,149,737
+L93: Sep 24, 2026  | 36.50  | 36.68  | 35.42  | 36.02  | 36.02  | -2.44%  | 54,203,272
+L94: Sep 23, 2026  | 36.76  | 37.48  | 35.64  | 36.92  | 36.92  | 0.49%  | 70,393,482
+L95: Sep 22, 2026  | 35.92  | 37.22  | 35.64  | 36.74  | 36.74  | 2.80%  | 71,116,533
+L96: Sep 21, 2026  | 36.90  | 37.06  | 35.04  | 35.74  | 35.74  | -4.90%  | 92,038,546
+L97: Sep 18, 2026  | 34.40  | 37.88  | 34.40  | 37.58  | 37.58  | 9.50%  | 151,365,631
+L98: Sep 17, 2026  | 34.00  | 34.74  | 33.52  | 34.32  | 34.32  | 1.54%  | 56,955,171
+L99: Sep 16, 2026  | 31.90  | 34.00  | 31.64  | 33.80  | 33.80  | 8.33%  | 106,001,500
+--------------------------------------------------------------------------------
+SK hynix Inc. (KRX:000660) Historical Stock Price Data (https://stockanalysis.com/quote/krx/000660/history/)
+citeturn115view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/krx/000660/history/","lineno":85}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L64: cite39†Image: South Korea flag cite40†South Korea · Delayed Price · Currency is KRW
+L65: 
+L66: 1,765,000
+L67: 
+L68: -3,000 (-0.17%)
+L69: 
+L70: At close: Sep 29, 2026
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†Dividends L77:   * cite46†History L78:   * cite47†Profile L79:   * cite48†Chart L80: # SK hynix Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 1,755,000.00  | 1,788,000.00  | 1,736,000.00  | 1,765,000.00  | 1,765,000.00  | -0.17%  | 2,834,523
+L91: Sep 28, 2026  | 1,825,000.00  | 1,840,000.00  | 1,768,000.00  | 1,768,000.00  | 1,768,000.00  | -5.05%  | 3,127,949
+L92: Sep 23, 2026  | 1,899,000.00  | 1,900,000.00  | 1,836,000.00  | 1,862,000.00  | 1,862,000.00  | 1.20%  | 2,947,714
+L93: Sep 22, 2026  | 1,909,000.00  | 1,935,000.00  | 1,832,000.00  | 1,840,000.00  | 1,840,000.00  | -1.50%  | 3,271,767
+L94: Sep 21, 2026  | 1,872,000.00  | 1,888,000.00  | 1,847,000.00  | 1,868,000.00  | 1,868,000.00  | 0.59%  | 2,755,380
+L95: Sep 18, 2026  | 1,810,000.00  | 1,857,000.00  | 1,805,000.00  | 1,857,000.00  | 1,857,000.00  | 6.42%  | 4,764,077
+L96: Sep 17, 2026  | 1,770,000.00  | 1,785,000.00  | 1,735,000.00  | 1,745,000.00  | 1,745,000.00  | -0.80%  | 2,803,398
+
+
+============================
+
+Innodata - News (https://investor.innodata.com/news/)
+citeturn117view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.innodata.com/news/","lineno":null}); Total lines: 67
+--------------------------------------------------------------------------------
+Innodata (INOD) Stock Price History 1993-2026 (https://stockanalysis.com/stocks/inod/history/)
+citeturn117view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/stocks/inod/history/","lineno":100}); Total lines: 219
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Innodata Inc. (INOD)
+L64: 
+L65: NASDAQ: INOD · Real-Time Price · USD
+L66: 
+L67: 68.46
+L68: 
+L69: +1.66 (2.49%)
+L70: Sep 29, 2026, 10:42 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Financials L74:   * cite41†Forecast L75:   * cite42†Statistics L76:   * cite43†Metrics L77:   * cite44†History L78:   * cite45†Profile L79:   * cite46†Chart L80: # Innodata Stock Price History
+L81: 
+L82: Price Price Change (%) Total Return (%)
+L83: ## Historical Data
+L84: 
+L85: Daily
+L86: 
+L87: 6M
+L88: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L89: --- | --- | --- | --- | --- | --- | --- | ---
+L90: Sep 29, 2026  | 67.57  | 67.75  | 65.69  | 67.75  | -  | 1.44%  | 116,417
+L91: Sep 28, 2026  | 68.66  | 69.95  | 66.15  | 66.79  | 66.79  | -3.50%  | 1,275,408
+L92: Sep 25, 2026  | 73.10  | 74.75  | 68.70  | 69.21  | 69.21  | -3.70%  | 1,508,805
+L93: Sep 24, 2026  | 70.49  | 72.77  | 69.19  | 71.87  | 71.87  | -0.17%  | 1,768,116
+L94: Sep 23, 2026  | 70.84  | 73.78  | 66.13  | 71.99  | 71.99  | 2.89%  | 4,674,127
+L95: Sep 22, 2026  | 61.78  | 74.93  | 61.40  | 69.97  | 69.97  | 14.61%  | 5,304,839
+L96: Sep 21, 2026  | 58.24  | 61.50  | 57.31  | 61.05  | 61.05  | 6.84%  | 1,749,742
+L97: Sep 18, 2026  | 56.97  | 57.60  | 54.88  | 57.14  | 57.14  | 0.28%  | 1,807,491
+L98: Sep 17, 2026  | 57.89  | 58.28  | 55.52  | 56.98  | 56.98  | 2.83%  | 756,834
+L99: Sep 16, 2026  | 54.48  | 55.46  | 53.37  | 55.41  | 55.41  | 1.91%  | 760,840
+L100: Sep 15, 2026  | 54.83  | 56.93  | 54.32  | 54.37  | 54.37  | -1.57%  | 1,108,077
+L101: Sep 14, 2026  | 52.00  | 55.58  | 51.97  | 55.24  | 55.24  | 3.82%  | 984,792
+L102: Sep 11, 2026  | 53.81  | 54.75  | 53.11  | 53.21  | 53.21  | 0.19%  | 619,446
+L103: Sep 10, 2026  | 53.22  | 54.67  | 52.85  | 53.11  | 53.11  | -2.80%  | 543,113
+L104: Sep 9, 2026  | 55.81  | 56.27  | 54.55  | 54.64  | 54.64  | -2.64%  | 638,127
+L105: Sep 8, 2026  | 55.90  | 56.63  | 54.50  | 56.12  | 56.12  | 0.83%  | 1,240,238
+L106: Sep 4, 2026  | 55.01  | 55.72  | 54.05  | 55.66  | 55.66  | 1.12%  | 703,567
+L107: Sep 3, 2026  | 54.74  | 55.51  | 54.31  | 55.05  | 55.05  | 1.39%  | 601,372
+L108: Sep 2, 2026  | 53.78  | 54.75  | 52.60  | 54.29  | 54.29  | -0.64%  | 865,737
+L109: Sep 1, 2026  | 55.00  | 55.91  | 54.14  | 54.64  | 54.64  | -3.15%  | 669,766
+L110: Aug 31, 2026  | 56.20  | 57.05  | 55.51  | 56.42  | 56.42  | -0.30%  | 746,783
+L111: Aug 28, 2026  | 58.01  | 59.18  | 55.41  | 56.59  | 56.59  | -4.46%  | 959,018
+L112: Aug 27, 2026  | 57.21  | 59.88  | 56.37  | 59.23  | 59.23  | 6.07%  | 1,065,661
+L113: Aug 26, 2026  | 56.74  | 58.25  | 55.67  | 55.84  | 55.84  | -2.33%  | 908,308
+L114: Aug 25, 2026  | 57.81  | 58.48  | 56.40  | 57.17  | 57.17  | 0.07%  | 1,275,703
+L115: Aug 24, 2026  | 62.82  | 63.67  | 57.10  | 57.13  | 57.13  | -11.03%  | 2,147,869
+L116: Aug 21, 2026  | 63.73  | 66.62  | 62.51  | 64.21  | 64.21  | 2.26%  | 975,282
+L117: Aug 20, 2026  | 62.78  | 63.99  | 61.50  | 62.79  | 62.79  | 0.02%  | 760,841
+L118: Aug 19, 2026  | 61.81  | 63.90  | 60.11  | 62.78  | 62.78  | 1.88%  | 1,083,199
+L119: Aug 18, 2026  | 61.59  | 64.12  | 60.85  | 61.62  | 61.62  | -4.17%  | 994,493
+L120: Aug 17, 2026  | 63.97  | 64.96  | 62.51  | 64.30  | 64.30  | 0.70%  | 1,280,030
+L121: Aug 14, 2026  | 61.68  | 66.86  | 61.68  | 63.85  | 63.85  | 2.77%  | 1,871,333
+L122: Aug 13, 2026  | 60.78  | 63.61  | 60.11  | 62.13  | 62.13  | 1.07%  | 1,398,701
+L123: Aug 12, 2026  | 63.00  | 64.34  | 61.16  | 61.47  | 61.47  | -1.98%  | 1,577,687
+L124: Aug 11, 2026  | 62.02  | 63.87  | 61.37  | 62.71  | 62.71  | 0.78%  | 1,122,531
+L125: Aug 10, 2026  | 63.00  | 66.20  | 60.51  | 62.23  | 62.23  | -0.17%  | 1,918,135
+L126: Aug 7, 2026  | 75.92  | 79.44  | 61.50  | 62.33  | 62.33  | -4.81%  | 4,797,218
+L127: Aug 6, 2026  | 67.88  | 71.62  | 65.35  | 65.48  | 65.48  | -5.61%  | 2,858,988
+L128: Aug 5, 2026  | 70.80  | 71.42  | 68.71  | 69.37  | 69.37  | -1.20%  | 1,839,580
+L129: Aug 4, 2026  | 67.65  | 71.98  | 66.25  | 70.21  | 70.21  | 10.99%  | 2,034,300
+L130: Aug 3, 2026  | 62.97  | 66.10  | 61.70  | 63.26  | 63.26  | 0.68%  | 1,422,523
+L131: Jul 31, 2026  | 62.12  | 63.86  | 60.35  | 62.83  | 62.83  | 4.59%  | 1,281,625
+L132: Jul 30, 2026  | 56.43  | 60.50  | 55.42  | 60.07  | 60.07  | 8.43%  | 1,284,802
+L133: Jul 29, 2026  | 57.30  | 58.50  | 54.36  | 55.40  | 55.40  | -3.75%  | 1,418,698
+L134: Jul 28, 2026  | 57.93  | 59.45  | 55.42  | 57.56  | 57.56  | -3.11%  | 797,139
+L135: Jul 27, 2026  | 56.65  | 59.69  | 56.03  | 59.41  | 59.41  | 6.30%  | 910,684
+L136: Jul 24, 2026  | 60.49  | 60.49  | 55.63  | 55.89  | 55.89  | -6.87%  | 926,250
+L137: Jul 23, 2026  | 60.57  | 61.75  | 59.08  | 60.01  | 60.01  | -2.28%  | 555,433
+L138: Jul 22, 2026  | 62.61  | 64.06  | 61.30  | 61.41  | 61.41  | -3.49%  | 583,843
+L139: Jul 21, 2026  | 63.41  | 64.49  | 62.49  | 63.63  | 63.63  | 2.50%  | 896,357
+L140: 1 of 3
+L141: 
+L142: 50 Rows
+L143: 
+L144: [Button: Back to Top ↑]
+L145: 
+L146: Data Source: cite47†S&P Global Market Intelligence†www.spglobal.com Last updated: Sep 29, 2026
+L147: 
+L148: Historical price data is provided by cite47†S&P Global Market Intelligence†www.spglobal.com . New prices are added after the close of each trading day, and past prices are adjusted for stock splits.
+L149: 
+L150: Update frequency:
+L151:     Daily
+L152: 
+L153: Last checked:
+L154:     Sep 29, 2026
+L155: 
+L156: cite48†Data Sources cite49†Report a data error L157: cite37†Stock Analysis Pro Upgrade now for unlimited access to all data and tools. L158: 
+L159: cite36†Market Newsletter Get a daily email with the top market news in bullet point format. L160: ### INOD News
+L161:   * 6 days ago - cite50†Hunterbrook says Meta’s Muse could be big win for Innodata†www.tipranks.com - TheFly
+L162:   * 14 days ago - cite51†Innodata appoints Michael Rogers to board of directors†www.tipranks.com - TheFly
+L163:   * 14 days ago - cite52†Innodata Appoints Admiral Michael S. Rogers, Former NSA Director and Commander of U.S. Cyber Command, to Its Board of Directors†www.accessnewswire.com - Accesswire
+L164:   * 5 weeks ago - cite53†Innodata falls -9.0%†www.tipranks.com - TheFly
+L165:   * 7 weeks ago - cite54†Innodata Earnings Call Transcript: Q2 2026 - Transcripts
+L166:   * 7 weeks ago - cite55†Innodata Quarterly report: Q2 2026 - Filings
+--------------------------------------------------------------------------------
+QQQ Historical Stock Price Data (https://stockanalysis.com/etf/qqq/history/)
+citeturn117view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/etf/qqq/history/","lineno":100}); Total lines: 217
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†Comparison Tool L15:   * cite8†Earnings Calendar L16:   * cite9†By Industry L17:   * cite10†Stock Lists L18:   * cite11†Top Stocks L19:   * cite12†Corporate Actions L20: 
+L21: cite13†IPOs L22: 
+L23:   * cite13†Recent IPOs L24:   * cite14†IPO Calendar L25:   * cite15†IPO Lockups L26:   * cite16†IPO Statistics L27:   * cite17†IPO News L28:   * cite18†IPO Screener L29: 
+L30: cite19†ETFs L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: 
+L63: Invesco QQQ Trust Series I (QQQ)
+L64: 
+L65: NASDAQ: QQQ · Real-Time Price · USD
+L66: 
+L67: 738.95
+L68: 
+L69: +2.42 (0.33%)
+L70: Sep 29, 2026, 11:00 AM EDT - Market open
+L71: 
+L72:   * cite39†Overview L73:   * cite40†Holdings L74:   * cite41†Dividends L75:   * cite42†History L76:   * cite43†Heatmap L77:   * cite44†Chart L78: # QQQ Stock Price History
+L79: 
+L80: Price Price Change (%) Total Return (%)
+L81: ## Historical Data
+L82: 
+L83: Daily
+L84: 
+L85: 6M
+L86: Date  | Open  | High  | Low  | Close  | Adj. Close  | Change  | Volume
+L87: --- | --- | --- | --- | --- | --- | --- | ---
+L88: Sep 29, 2026  | 740.15  | 740.58  | 736.26  | 737.80  | -  | 0.17%  | 3,689,889
+L89: Sep 28, 2026  | 740.46  | 741.42  | 731.63  | 736.53  | 736.53  | -1.07%  | 40,969,778
+L90: Sep 25, 2026  | 742.83  | 745.92  | 739.64  | 744.50  | 744.50  | 0.46%  | 29,797,120
+L91: Sep 24, 2026  | 735.29  | 742.66  | 734.62  | 741.10  | 741.10  | -0.01%  | 28,909,178
+L92: Sep 23, 2026  | 746.97  | 747.13  | 738.19  | 741.21  | 741.21  | -0.84%  | 33,191,777
+L93: Sep 22, 2026  | 740.98  | 748.35  | 740.93  | 747.46  | 747.46  | 0.81%  | 40,128,841
+L94: Sep 21, 2026  | 727.89  | 743.22  | 727.81  | 741.47  | 741.47  | 2.88%  | 46,730,629
+L95: Sep 18, 2026  | 718.83  | 721.73  | 715.08  | 721.45  | 720.70  | 0.63%  | 48,478,713
+L96: Sep 17, 2026  | 715.95  | 718.04  | 713.32  | 716.92  | 716.17  | 1.73%  | 37,270,287
+L97: Sep 16, 2026  | 708.00  | 711.88  | 700.00  | 704.72  | 703.99  | 0.03%  | 35,687,958
+L98: Sep 15, 2026  | 708.80  | 709.53  | 703.64  | 704.54  | 703.81  | -0.65%  | 26,631,661
+L99: Sep 14, 2026  | 703.33  | 712.95  | 702.74  | 709.18  | 708.44  | -0.80%  | 35,218,978
+L100: Sep 11, 2026  | 715.68  | 717.63  | 713.63  | 714.88  | 714.14  | 0.87%  | 26,649,142
+L101: Sep 10, 2026  | 707.55  | 712.06  | 706.86  | 708.69  | 707.95  | -1.06%  | 31,414,409
+L102: Sep 9, 2026  | 716.40  | 719.70  | 714.02  | 716.31  | 715.56  | -0.29%  | 26,763,377
+L103: Sep 8, 2026  | 720.91  | 721.89  | 715.57  | 718.36  | 717.61  | -0.08%  | 28,341,416
+L104: Sep 4, 2026  | 719.35  | 721.86  | 716.56  | 718.96  | 718.21  | 0.18%  | 32,871,076
+L105: Sep 3, 2026  | 710.85  | 718.92  | 709.69  | 717.67  | 716.92  | 1.19%  | 29,449,781
+L106: Sep 2, 2026  | 707.10  | 709.80  | 705.10  | 709.24  | 708.50  | 0.23%  | 23,476,207
+L107: Sep 1, 2026  | 707.39  | 712.30  | 704.66  | 707.64  | 706.90  | -1.27%  | 35,236,116
+L108: Aug 31, 2026  | 715.17  | 717.58  | 713.16  | 716.76  | 716.01  | 0.05%  | 32,237,181
+L109: Aug 28, 2026  | 719.74  | 724.13  | 715.09  | 716.43  | 715.68  | -0.65%  | 34,105,374
+L110: Aug 27, 2026  | 716.93  | 721.35  | 714.53  | 721.11  | 720.36  | 1.37%  | 28,723,451
+L111: Aug 26, 2026  | 708.41  | 713.02  | 707.97  | 711.37  | 710.63  | 0.09%  | 20,392,390
+L112: Aug 25, 2026  | 711.22  | 714.04  | 707.45  | 710.72  | 709.98  | 0.62%  | 23,869,646
+L113: Aug 24, 2026  | 709.66  | 709.79  | 702.70  | 706.32  | 705.58  | -1.00%  | 37,443,142
+L114: Aug 21, 2026  | 715.23  | 715.67  | 709.20  | 713.44  | 712.70  | 0.35%  | 33,399,407
+L115: Aug 20, 2026  | 712.09  | 714.94  | 708.52  | 710.93  | 710.19  | -0.72%  | 33,396,416
+L116: Aug 19, 2026  | 720.39  | 721.50  | 712.61  | 716.08  | 715.33  | -0.20%  | 35,801,712
+L117: Aug 18, 2026  | 720.21  | 722.13  | 715.92  | 717.51  | 716.76  | -1.69%  | 48,997,172
+L118: Aug 17, 2026  | 732.95  | 734.58  | 729.27  | 729.87  | 729.11  | -0.16%  | 26,452,580
+L119: Aug 14, 2026  | 733.41  | 734.39  | 728.32  | 731.07  | 730.31  | -0.14%  | 23,790,607
+L120: Aug 13, 2026  | 725.15  | 733.96  | 724.03  | 732.07  | 731.31  | 1.16%  | 31,599,737
+L121: Aug 12, 2026  | 727.08  | 727.25  | 722.92  | 723.70  | 722.95  | 0.73%  | 29,065,976
+L122: Aug 11, 2026  | 723.29  | 723.35  | 715.50  | 718.45  | 717.70  | -0.34%  | 29,286,144
+L123: Aug 10, 2026  | 722.39  | 724.67  | 720.33  | 720.87  | 720.12  | -0.30%  | 26,243,183
+L124: Aug 7, 2026  | 720.15  | 723.63  | 716.51  | 723.03  | 722.28  | 1.17%  | 31,070,371
+L125: Aug 6, 2026  | 710.82  | 719.32  | 708.50  | 714.65  | 713.91  | -0.37%  | 33,035,860
+L126: Aug 5, 2026  | 726.25  | 728.54  | 716.92  | 717.30  | 716.55  | -0.90%  | 33,540,176
+L127: Aug 4, 2026  | 708.16  | 725.66  | 707.53  | 723.85  | 723.10  | 3.40%  | 59,778,624
+L128: Aug 3, 2026  | 688.30  | 701.59  | 685.82  | 700.07  | 699.34  | 1.76%  | 44,965,071
+L129: Jul 31, 2026  | 692.11  | 695.77  | 680.05  | 687.99  | 687.27  | 0.65%  | 50,540,483
+L130: Jul 30, 2026  | 674.76  | 685.12  | 673.30  | 683.55  | 682.84  | 3.30%  | 66,753,681
+L131: Jul 29, 2026  | 675.51  | 680.05  | 661.14  | 661.73  | 661.04  | -2.04%  | 57,233,269
+L132: Jul 28, 2026  | 676.23  | 679.40  | 667.88  | 675.49  | 674.79  | -0.97%  | 51,398,741
+L133: Jul 27, 2026  | 691.68  | 692.30  | 675.95  | 682.12  | 681.41  | -0.31%  | 42,681,473
+L134: Jul 24, 2026  | 690.41  | 692.63  | 682.48  | 684.23  | 683.52  | -1.12%  | 42,876,658
+L135: Jul 23, 2026  | 694.67  | 698.66  | 687.79  | 691.96  | 691.24  | -1.90%  | 44,028,575
+L136: Jul 22, 2026  | 703.62  | 709.65  | 703.62  | 705.35  | 704.62  | -0.51%  | 23,692,181
+L137: Jul 21, 2026  | 706.57  | 710.05  | 702.80  | 708.97  | 708.23  | 1.85%  | 33,728,341
+L138: 1 of 3
+L139: 
+L140: 50 Rows
+L141: 
+L142: [Button: Back to Top ↑]
+L143: 
+L144: Data Source: cite45†S&P Global Market Intelligence†www.spglobal.com Last updated: Sep 29, 2026
+L145: 
+L146: Historical price data is provided by cite45†S&P Global Market Intelligence†www.spglobal.com . New prices are added after the close of each trading day, and past prices are adjusted for stock splits.
+L147: 
+L148: Update frequency:
+L149:     Daily
+L150: 
+L151: Last checked:
+L152:     Sep 29, 2026
+L153: 
+L154: cite46†Data Sources cite47†Report a data error L155: cite37†Stock Analysis Pro Upgrade now for unlimited access to all data and tools. L156: 
+L157: cite36†Market Newsletter Get a daily email with the top market news in bullet point format. L158: ### QQQ News
+L159:   * 18 hours ago - cite48†Stock Market Today: SPY, QQQ Retreated as 10-Year Treasury Yield Rose; Trump Outlined New Terms for Iran†www.tipranks.com - TipRanks
+L160:   * 4 days ago - cite49†Invesco Taps BlackRock's Tim Clavin for ETF Capital Markets†www.etftrends.com - ETF Trends
+L161:   * 6 days ago - cite50†The Invesco QQQ Innovation Suite Expands with the Launch of Invesco Nasdaq International Innovators 100 ETF (QQI)†www.prnewswire.com - PRNewsWire
+--------------------------------------------------------------------------------
+Events & Presentations | Celestica Inc. (https://corporate.celestica.com/events-and-presentations)
+citeturn117view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://corporate.celestica.com/events-and-presentations","lineno":null}); Total lines: 348
+--------------------------------------------------------------------------------
+NVIDIA Corporation - Events & Presentations - Events & Presentations (https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx)
+citeturn117view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx","lineno":null}); Total lines: 111
+

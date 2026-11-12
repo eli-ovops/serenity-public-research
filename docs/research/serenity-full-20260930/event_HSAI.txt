@@ -1,0 +1,507 @@
+Form 6-K for Hesai Group filed 05/26/2026 (https://investor.hesaitech.com/static-files/cb19563f-1e03-4d9e-b5dd-700c77d73c1d)
+citeturn202search12 [wordlim: 200] Published: 4 months ago; Crawled: 4 months ago; <tr><th>Event</th><th>Hong Kong Time</th><th>New York Time</th></tr><tr><td>Latest time for lodging forms of proxy for the AGM, for holders of Shares listed in Hong Kong (5)</td><td>1:30 p.m., Wednesday, June 24, 2026</td><td>—</td></tr>
+<table id="e1">
+<tr><th>Event</th><th>Hong Kong Time</th><th>New York Time</th></tr>
+<tr><td>Latest time for lodging forms of proxy for the AGM, for holders of Shares listed in Hong Kong (5)</td><td>1:30 p.m., Wednesday, June 24, 2026</td><td>—</td></tr>
+<tr><td>Date and time of the AGM</td><td>1:30 p.m., Friday, June 26, 2026</td><td>1:30 a.m., Friday, June 26, 2026</td></tr>
+<tr><td>Announcement of poll results of the AGM</td><td>Before 9:00 p.m., Friday, June 26, 2026</td><td>Before 9:00 a.m., Friday, June 26, 2026</td></tr>
+</table>
+
+The following table sets out the events following the approval at the AGM and upon the fulfillment of the conditions for the Share Subdivision:
+
+<table id="e2">
+<tr><th>Event</th><th>Hong Kong Time</th><th>New York Time</th></tr>
+<tr><td>Effective date for the Share Subdivision</td><td>Friday, July 10, 2026</td><td>—</td></tr>
+<tr><td>Commencement of dealings in the Subdivided Class B Ordinary Shares, for holders of Class B Ordinary Shares listed in Hong Kong</td><td>9:00 a.m., Friday, July 10, 2026</td><td>—</td></tr>
+<tr><td>Original counter for trading the Shares in board lots of 20 Class B Ordinary Shares (being the “existing board lot”) temporarily closes on the Hong Kong Stock Exchange, for holders of Class B Ordinary Shares listed in Hong Kong</td><td>9:00 a.m., Friday, July 10, 2026</td><td>—</td></tr>
+<tr><td>Temporary counter for trading in the Subdivided Shares (in the form of Existing Share Certificates) and in board lots of 160 Subdivided Class B Ordinary Shares (being the “temporary board lot”) opens on the Hong Kong Stock Exchange, for holders of Class B Ordinary Shares listed in Hong Kong</td><td>9:00 a.m., Friday, July 10, 2026</td><td>—</td></tr>
+<tr><td>First day of free exchange of Existing Share Certificates for the Subdivided Share Certificates for the Subdivided Shares, for holders of the Class B Ordinary Shares listed in Hong Kong</td><td>Friday, July 10, 2026</td><td>—</td></tr>
+</table>
+
+10--------------------------------------------------------------------------------
+Hesai Group to Hold 2026 Second Extraordinary General Meeting on August 28, 2026 - Hesai Group (https://investor.hesaitech.com/news-releases/news-release-details/hesai-group-hold-2026-second-extraordinary-general-meeting)
+citeturn202search0 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; SHANGHAI, July 31, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced that it will hold the 2026 second extraordinary general meeting of the Company’s shareholders (the “EGM”) at 1:30 p.m.
+
+# News Release Details
+
+## 
+
+Hesai Group to Hold 2026 Second Extraordinary General Meeting on August 28, 2026
+
+2026-07-31
+
+SHANGHAI, July 31, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced that it will hold the 2026 second extraordinary general meeting of the Company’s shareholders (the “EGM”) at 1:30 p.m. Beijing time on Friday, August 28, 2026 at No. 28, Ciyun Road, Yangcheng Lake Peninsula, Weiting Town, Suzhou Industrial Park, Jiangsu Province, People’s Republic of China, for the purposes of considering and, if thought fit, passing with or without amendments, each of the proposed resolutions as set forth in the notice of the EGM (the “EGM Notice”). The EGM Notice, a circular in relation to the EGM, and the form of proxy for the EGM are available on the Company’s website at https://investor.hesaitech.com/. The board of directors of the Company fully supports the proposed resolutions and recommends that shareholders and holders of American depositary shares (“ADSs”) vote in favor of the proposed resolutions.
+
+Holders of record of the Company’s ordinary shares as of the close of business on July 23, 2026, Hong Kong time, are entitled to receive notice of, and to attend and vote at, the EGM or any adjourned meeting thereof. Holders of record of ADSs as of the close of business on July 23, 2026, New York time, who wish to exercise their voting rights for the underlying Class B ordinary shares must give voting instructions to Deutsche Bank Trust Company Americas, the depositary of the ADSs.
+
+The Company has filed its annual report on Form 20-F, including its audited financial statements, for the fiscal year ended December 31, 2025, with the U.S. Securities and Exchange Commission (the “SEC”). The Company’s annual report on Form 20-F can be accessed on the Company’s website at https://investor.hesaitech.com/ and on the SEC’s website at http://www.sec.gov. 
+
+About Hesai
+
+Hesai Technology (Nasdaq: HSAI; HKEX: 2525) is a global tech company and a leader in 3D perception. Leveraging full-stack proprietary ASIC capabilities and an integrated R&D-testing-manufacturing approach, Hesai has established industry-leading positions across core physical AI domains, including ADAS-equipped passenger vehicles, autonomous mobility, spatial intelligence, embodied AI, as well as industrial, agricultural, and service robots. Hesai has established offices in Shanghai, Palo Alto, and Stuttgart, and operates in-house factories in China and Thailand, with customers spanning more than 40 countries. As the AI-driven Fourth Industrial Revolution accelerates, Hesai is committed to becoming a key enabler of physical AI － digitizing the real world and redefining how humans and robots perceive and act. 
+
+Safe Harbor Statement
+
+This announcement contains forward-looking statements. These statements are made under the “safe harbor” provisions of the U.S. Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified by terminology such as “will,” “expects,” “anticipates,” “aims,” “future,” “intends,” “plans,” “believes,” “estimates,” “confident,” “potential,” “continue” or other similar expressions. The Company may also make written or oral forward-looking statements in its periodic reports to the U.S. Securities and Exchange Commission (the “SEC”), in its annual report to shareholders, in press releases and other written materials and in oral statements made by its officers, directors or employees to third parties. Statements that are not historical facts, including but not limited to statements about the Company’s beliefs and expectations, are forward-looking statements. Forward-looking statements involve inherent risks and uncertainties. Further information regarding these and other risks is included in the Company’s filings with the SEC. All information provided in this press release is as of the date of this press release, and the Company undertakes no obligation to update any forward-looking statement, except as required under applicable law.
+
+For investor and media inquiries, please contact:
+
+Hesai Group
+Capital Markets Department
+Email: [REDACTED_EMAIL]
+
+Christensen Advisory
+Tel: +86-10-5900-1548
+Email: [REDACTED_EMAIL]
+
+Source: Hesai Group--------------------------------------------------------------------------------
+EXPECTED TIMETABLE (https://investor.hesaitech.com/static-files/a3070092-56b8-4f68-9462-4d0d3a073322)
+citeturn202search13 [wordlim: 200] Published: 4 months ago; <th>Event</th> ... <td>Friday, July 10, 2026</td>
+EXPECTED TIMETABLE  
+FOR THE SHARE SUBDIVISION AND CHANGE IN BOARD LOT SIZE
+
+The following timetable sets out the events following the approval at the AGM and upon the fulfillment of the conditions for the Share Subdivision:
+
+<table id="e1">
+<tr>
+<th>Event</th>
+<th>Hong Kong Time</th>
+<th>New York Time</th>
+</tr>
+<tr>
+<td>Effective date for the Share Subdivision</td>
+<td>Friday, July 10, 2026</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Commencement of dealings in the Subdivided Class B Ordinary Shares, for holders of Class B Ordinary Shares listed in Hong Kong</td>
+<td>9:00 a.m., Friday, July 10, 2026</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Original counter for trading the Shares in board lots of 20 Class B Ordinary Shares (being the “existing board lot”) temporarily closes on the Hong Kong Stock Exchange, for holders of Class B Ordinary Shares listed in Hong Kong</td>
+<td>9:00 a.m., Friday, July 10, 2026</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Temporary counter for trading in the Subdivided Shares (in the form of Existing Share Certificates) and in board lots of 160 Subdivided Class B Ordinary Shares (being the “temporary board lot”) opens on the Hong Kong Stock Exchange, for holders of Class B Ordinary Shares listed in Hong Kong</td>
+<td>9:00 a.m., Friday, July 10, 2026</td>
+<td>–</td>
+</tr>
+<tr>
+<td>First day of free exchange of Existing Share Certificates for the Subdivided Share Certificates for the Subdivided Shares, for holders of the Class B Ordinary Shares listed in Hong Kong</td>
+<td>Friday, July 10, 2026</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Original counter for trading in the Subdivided Class B Ordinary Shares (in the form of new Subdivided Share Certificates) and in new board lot of 100 Subdivided Class B Ordinary Shares (being the “new board lot”) re-opens on the Hong Kong Stock Exchange, for holders of Class B Ordinary Shares listed in Hong Kong</td>
+<td>9:00 a.m., Friday, July 24, 2026</td>
+<td>–</td>
+</tr>
+</table>
+
+– 8 –--------------------------------------------------------------------------------
+Investor Relations - Hesai Group (https://investor.hesaitech.com/)
+citeturn202search1 [wordlim: 200] Crawled: last week; annual production capacity planned for 2026 ... Hesai Group Reports Second Quarter 2026 Unaudited Financial Results
+
+No. 1
+
+in major robotics lidar submarkets (humanoids, quadrupeds, robotaxis, robovans & robotic lawn mowers)  ^{(2)}
+
+US$433 M
+
+net revenues in 2025
+
+No. 1
+
+to achieve full-year GAAP profitability in lidar industry ^{(3)}
+
+1,600,000+
+
+lidar shipments in 2025
+
+4 Million+
+
+annual production capacity planned for 2026
+
+Note:
+(1) Hesai ranked No.1 in 2025 with over 40% share of the long-range automotive lidar market, according to Gasgoo.
+(2) According to GGII, Yole Group, and Frost & Sullivan.
+(3) Hesai achieved industry-first full-year GAAP net income of US$62 million and non-GAAP net income of US$79 million in 2025. The Company has also delivered GAAP net income for three consecutive quarters and non-GAAP net income for five consecutive quarters.
+
+## News Releases
+
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results
+
+2026-08-18
+
+Read More
+
+Hesai Group to Hold 2026 Second Extraordinary General Meeting on August 28, 2026
+
+2026-07-31
+
+Read More
+
+Hesai Group to Report Second Quarter 2026 Financial Results on Tuesday, August 18, 2026
+
+2026-07-27
+
+Read More
+
+All News Releases
+
+## Recent Reports
+
+2025 Annual Report
+
+PDF
+
+2024 Annual Report
+
+PDF
+
+2023 Annual Report
+
+PDF
+
+2022 Annual Report
+
+PDF
+
+## Q2 2026 Results
+
+Earnings Release Webcast
+
+## Events
+
+### Past Events
+
+Hesai Group Second Quarter 2026 Earnings Conference Call
+
+2026-08-19 8:00 PM CST
+
+Hesai Group First Quarter 2026 Earnings Conference Call
+
+2026-05-19 8:00 PM CST
+
+Hesai Group Fourth Quarter 2025 Earnings Conference Call
+
+2026-03-24 8:00 PM CST
+
+All Events
+
+## Investor Contact
+
+For investor inquiries, please contact:
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+Hesai Group to Report Second Quarter 2026 Financial Results on Tuesday, August 18, 2026 - Hesai Group (https://investor.hesaitech.com/news-releases/news-release-details/hesai-group-report-second-quarter-2026-financial-results-tuesday)
+citeturn202search2 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; Event Title:  | Hesai Group Second Quarter 2026 Earnings Conference Call
+
+# News Release Details
+
+## 
+
+Hesai Group to Report Second Quarter 2026 Financial Results on Tuesday, August 18, 2026
+
+2026-07-27
+
+PDF Version
+
+### - Earnings Call Scheduled for 8:00 AM ET on August 18, 2026 -
+
+SHANGHAI, China, July 27, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced that it will report its second quarter 2026 unaudited financial results on Tuesday, August 18, 2026, before the U.S. market opens.
+
+The Company’s management will host an earnings conference call at 8:00 AM U.S. Eastern Time on August 18, 2026 (8:00 PM Beijing/Hong Kong Time on August 18, 2026).
+
+Event Title:  | Hesai Group Second Quarter 2026 Earnings Conference Call
+Pre-registration Link:  | https://s1.c-conf.com/diamondpass/10056124-5hw8f8.html
+   |  
+
+Additionally, a live and archived webcast of the conference call will be available on the Company’s investor relations website at https://investor.hesaitech.com.
+--------------------------------------------------------------------------------
+Shareholder Meetings - Hesai Group (https://investor.hesaitech.com/news-events/shareholder-meetings)
+citeturn202search3 [wordlim: 200] Crawled: last week; 2026-06-26  | Record Date for Annual General Meeting 120.8 KB Circulars of Annual General Meeting 267.3 KB Notice of Annual General Meeting 86.8 KB Form of Proxy for the Annual General Meeting 85.8 KB
+
+# Shareholder Meetings
+
+Date  | Title
+--- | ---
+2026-08-28  | Circular of Extraordinary General Meeting 501.6 KB Notice of Extraordinary General Meeting 77.8 KB Form of Proxy for the Extraordinary General Meeting 80.6 KB
+2026-06-26  | Record Date for Annual General Meeting 120.8 KB Circulars of Annual General Meeting 267.3 KB Notice of Annual General Meeting 86.8 KB Form of Proxy for the Annual General Meeting 85.8 KB
+2026-03-03  | Circular of Extraordinary General Meeting 676.3 KB Notice of Extraordinary General Meeting 90.8 KB Notice of Class A Meeting 77.5 KB Notice of Class B Meeting 79 KB Form of Proxy for the Extraordinary General Meeting 81.9 KB Form of Proxy for the Class A Meeting 80.5 KB Form of Proxy for the Class B Meeting 80.5 KB
+2026-01-27  | Dissemination of Corporate Communications 230.4 KB
+
+## Investor Contact
+
+For investor inquiries, please contact:
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results - Hesai Group (https://investor.hesaitech.com/news-releases/news-release-details/hesai-group-reports-second-quarter-2026-unaudited-financial)
+citeturn202search4 [wordlim: 200] Published: last month; Crawled: last week;   * Q2 2026 Robotics lidar shipments were 142,371 units, representing an increase of 193.4% from 48,531 units in the corresponding period of 2025. ... Event Title:          | Hesai Group Second Quarter 2026 Earnings Conference Call
+
+# News Release Details
+
+## 
+
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results
+
+2026-08-18
+
+Quarterly net revenues were RMB860.8 million (US$126.9 million)^{1}
+
+Quarterly lidar shipments were 628,275 units
+
+Quarterly net income was RMB70.6 million (US$10.4 million)
+
+SHANGHAI, China, Aug. 18, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced its unaudited financial results for the three months ended June 30, 2026.
+
+Management Remarks
+
+“The second quarter of 2026 marked a defining milestone as Hesai has evolved into a full-stack infrastructure platform for Robotics and Physical AI — empowering them to see, understand, and act,” said Dr. Yifan “David” Li, Hesai’s Co-Founder and CEO. “We enable Robotics and Physical AI to see: lidar — our powerful and durable cash engine — is evolving from a ‘must-have’ toward ‘better and more’ in vehicles, the world’s most widely deployed robots. Business Outlook
+
+For the third quarter of 2026, the Company expects net revenues to be between RMB1,100 million (US$162 million) and RMB1,150 million (US$169 million), representing a year-over-year increase of approximately 38% to 45%.
+
+The above outlook is based on current market conditions and reflects the Company’s preliminary estimates of market and operating conditions and customer demand, which are all subject to change.
+
+Conference Call
+
+The Company’s management will host an earnings conference call at 8:00 AM U.S. Eastern Time on August 18, 2026 (8:00 PM Beijing/Hong Kong Time on August 18, 2026).
+
+For participants who wish to join the call by phone, please access the link provided below to complete the pre-registration process and dial in 5 minutes prior to the scheduled call start time. Upon registration, each participant will receive dial-in details to join the conference call.
+
+Event Title:          | Hesai Group Second Quarter 2026 Earnings Conference Call
+Pre-registration Link:  | https://s1.c-conf.com/diamondpass/10056124-5hw8f8.html
+--------------------------------------------------------------------------------
+Events - Hesai Group (https://investor.hesaitech.com/news-events/events)
+citeturn202search5 [wordlim: 200] Crawled: last week; 2026-08-19 8:00 PM CST  | Hesai Group Second Quarter 2026 Earnings Conference Call ... 2026-03-24 8:00 PM CST  | Hesai Group Fourth Quarter 2025 Earnings Conference Call
+
+# Events
+
+## Past Events
+
+Date  | Title
+--- | ---
+2026-08-19 8:00 PM CST  | Hesai Group Second Quarter 2026 Earnings Conference Call
+2026-05-19 8:00 PM CST  | Hesai Group First Quarter 2026 Earnings Conference Call
+2026-03-24 8:00 PM CST  | Hesai Group Fourth Quarter 2025 Earnings Conference Call
+2025-11-11 8:00 PM CST  | Hesai Group Third Quarter 2025 Earnings Conference Call
+2025-05-27 9:00 AM CST  | Hesai Group First Quarter 2025 Earnings Conference Call
+2025-03-10 9:00 AM CST  | Hesai Group Fourth Quarter 2024 Earnings Conference Call
+2024-11-26 9:00 AM CST  | Hesai Group Third Quarter 2024 Earnings Conference Call
+2024-08-20 9:00 AM CST  | Hesai Group Second Quarter 2024 Earnings Conference Call
+2024-05-21 9:00 AM CST  | Hesai Group First Quarter 2024 Earnings Conference Call
+2024-03-12 9:00 AM CST  | Hesai Group Fourth Quarter 2023 Earnings Conference Call
+2023-11-13 8:00 PM EST  | Hesai Group Third Quarter 2023 Earnings Conference Call
+2023-08-14 9:00 PM EDT  | Hesai Group Second Quarter 2023 Earnings Conference Call
+2023-05-23 9:00 PM EDT  | Hesai Group First Quarter 2023 Earnings Conference Call
+2023-03-16 9:00 AM CST  | Hesai Group Fourth Quarter and Full Year 2022 Earnings Call
+
+## Investor Contact
+
+For investor inquiries, please contact:
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+投资者关系 - 禾赛科技 (https://investor.hesaitech.com/zh-hans)
+citeturn202search6 [wordlim: 200] Crawled: yesterday; 2026年规划年产能
+1
+
+实现全年公认会计准则盈利的激光雷达企业 ^{(3)}
+
+1,600,000+
+
+2025年激光雷达交付量
+
+4,000,000+
+
+2026年规划年产能
+
+备注：
+(1) 根据盖世汽车研究院数据，禾赛以超过40%的市场份额位列2025年车载主激光雷达市场第一。
+(2) 根据高工产研（GGII）、Yole Group及Frost & Sullivan数据。
+(3) 禾赛在2025年实现行业首个全年公认会计准则净利润（62百万美元）和非公认会计准则净利润（79百万美元）。公司已连续三个季度录得公认会计准则净利润，连续五个季度录得非公认会计准则净利润。
+
+## 新闻发布
+
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results
+
+2026-08-18
+
+了解更多
+
+Hesai Group to Hold 2026 Second Extraordinary General Meeting on August 28, 2026
+
+2026-07-31
+
+了解更多
+
+Hesai Group to Report Second Quarter 2026 Financial Results on Tuesday, August 18, 2026
+
+2026-07-27
+
+了解更多
+
+查看更多
+
+## 近期报告
+
+2025年度报告（英文版）
+
+PDF
+
+2024年度报告（英文版）
+
+PDF
+
+2023年度报告（英文版）
+
+PDF
+
+2022年度报告（英文版）
+
+PDF
+
+## Q2 2026 业绩
+
+业绩新闻稿（英文版） 网络广播
+
+## 活动
+
+### 过去的活动
+
+和赛科技 2026 年第二季度财报电话会议
+
+2026-08-19 8:00 PM CST
+
+禾赛科技2026年第一季度业绩电话会议
+
+2026-05-19 8:00 PM CST
+
+禾赛科技2025年第四季度业绩电话会议
+
+2026-03-24 8:00 PM CST
+
+## 联系我们
+
+如有投资相关问题，请联系
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+新闻发布 - 禾赛科技 (https://investor.hesaitech.com/zh-hans/news-events/news-releases)
+citeturn202search7 [wordlim: 200] Crawled: last week; Hesai Group to Hold Annual General Meeting on June 26, 2026
+
+# 新闻发布
+
+Hesai Group Reports Second Quarter 2026 Unaudited Financial Results
+
+Quarterly net revenues were RMB 860.8 million (US$ 126.9 million) 1 Quarterly lidar shipments were 628,275 units Quarterly net income was RMB 70.6 million (US$ 10.4 million) SHANGHAI, China, Aug. 18, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“ Hesai ” or the “ Company ”) (NASDAQ: HSAI; HKEX: 2525), a
+
+2026-08-18
+
+PDF Version
+
+阅读更多
+
+Hesai Group to Hold 2026 Second Extraordinary General Meeting on August 28, 2026
+
+SHANGHAI, July 31, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced that it will hold the 2026 second extraordinary general meeting of the Company’s shareholders (the “EGM”) at 1:30 p.m.
+
+2026-07-31
+
+PDF Version
+
+阅读更多
+
+Hesai Group to Report Second Quarter 2026 Financial Results on Tuesday, August 18, 2026
+
+- Earnings Call Scheduled for 8:00 AM ET on August 18, 2026 - SHANGHAI, China, July 27, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced that it will report its second quarter 2026
+
+2026-07-27
+
+PDF Version
+
+阅读更多
+
+Hesai Group to Hold Annual General Meeting on June 26, 2026
+
+SHANGHAI, May 26, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced that it will hold an annual general meeting of the Company’s shareholders (the “AGM”) at 1:30 p.m.
+
+2026-05-26
+
+PDF Version
+
+阅读更多
+
+Hesai Group Reports First Quarter 2026 Unaudited Financial Results
+
+Quarterly net revenues were RMB680.6 million (US$98.7 million) 1 Quarterly lidar shipments were 471,723 units Quarterly net income was RMB18.3 million (US$2.7 million) SHANGHAI, China, May 19, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“ Hesai ” or the “ Company ”) (NASDAQ: HSAI; HKEX: 2525), a global
+--------------------------------------------------------------------------------
+活动 - 禾赛科技 (https://investor.hesaitech.com/zh-hans/news-events/events)
+citeturn202search8 [wordlim: 200] Crawled: yesterday; 2026-03-24 8:00 PM CST  | 禾赛科技2025年第四季度业绩电话会议
+
+# 活动
+
+## 过去的活动
+
+日期  | 标题
+--- | ---
+2026-08-19 8:00 PM CST  | 和赛科技 2026 年第二季度财报电话会议
+2026-05-19 8:00 PM CST  | 禾赛科技2026年第一季度业绩电话会议
+2026-03-24 8:00 PM CST  | 禾赛科技2025年第四季度业绩电话会议
+2025-11-11 8:00 PM CST  | 禾赛科技2025年第三季度业绩电话会议
+2025-05-27 9:00 AM CST  | 禾赛科技2025年第一季度业绩电话会议
+2025-03-10 9:00 AM CST  | 禾赛科技2024年第四季度业绩电话会议
+2024-11-26 9:00 AM CST  | 禾赛科技2024年第三季度业绩电话会议
+2024-08-20 9:00 AM CST  | 禾赛科技2024年第二季度业绩电话会议
+2024-05-21 9:00 AM CST  | 禾赛科技2024年第一季度业绩电话会议
+2024-03-12 9:00 AM CST  | 禾赛科技2023年第四季度业绩电话会议
+2023-11-13 8:00 PM EST  | 禾赛科技2023年第三季度业绩电话会议
+2023-08-14 9:00 PM EDT  | 禾赛科技2023年第二季度业绩电话会议
+2023-05-23 9:00 PM EDT  | 禾赛科技2023年第一季度业绩电话会议
+2023-03-16 9:00 AM CST  | 禾赛科技2022年第四季度及全年业绩电话会议
+
+## 联系我们
+
+如有投资相关问题，请联系
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+股东大会 - 禾赛科技 (https://investor.hesaitech.com/zh-hans/news-events/shareholder-meetings)
+citeturn202search9 [wordlim: 200] Crawled: yesterday; 2026-06-26  | 股东周年大会的记录日期 186.5 KB 股东周年大会通函 501 KB 股东周年大会通告 209.2 KB 股东周年大会代表委任表格 361.5 KB
+
+# 股东大会
+
+日期  | 标题
+--- | ---
+2026-08-28  | 股東特別大會通函 673.3 KB 股东特别大会通告 156.5 KB 股东特别大会代表委任表格 394.7 KB
+2026-06-26  | 股东周年大会的记录日期 186.5 KB 股东周年大会通函 501 KB 股东周年大会通告 209.2 KB 股东周年大会代表委任表格 361.5 KB
+2026-03-03  | 股东特别大会通函 973.1 KB 股东特别大会通告 215.8 KB A类股东特别大会通告 155.3 KB B类股东特别大会通告 164.5 KB 股东特别大会代表委任表格 406.7 KB A类股东大会代表委任表格 405.7 KB B类股东大会代表委任表格 405.8 KB
+2026-01-27  | 发布公司通讯 313.5 KB--------------------------------------------------------------------------------
+Hesai Group to Hold Annual General Meeting on June 26, 2026 - Hesai Group (https://investor.hesaitech.com/news-releases/news-release-details/hesai-group-hold-annual-general-meeting-june-26-2026)
+citeturn202search10 [wordlim: 200] Published: 4 months ago; Crawled: yesterday; Hesai Group to Hold Annual General Meeting on June 26, 2026
+
+# News Release Details
+
+Hesai Group to Hold Annual General Meeting on June 26, 2026
+
+2026-05-26
+
+PDF Version
+
+SHANGHAI, May 26, 2026 (GLOBE NEWSWIRE) -- Hesai Group (“Hesai” or the “Company”) (NASDAQ: HSAI; HKEX: 2525), a global tech company and a leader in 3D perception, today announced that it will hold an annual general meeting of the Company’s shareholders (the “AGM”) at 1:30 p.m. Beijing time on Friday, June 26, 2026 at No.28, Ciyun Road, Yangcheng Lake Peninsula, Weiting Town, Suzhou Industrial Park, Jiangsu Province, People’s Republic of China, for the purposes of considering and, if thought fit, passing with or without amendments, each of the proposed resolutions as set forth in the notice of the AGM (the “AGM Notice”). The AGM Notice, a circular in relation to the AGM, and the form of proxy for the AGM are available on the Company’s website at https://investor.hesaitech.com/. The board of directors of the Company fully supports the proposed resolutions and recommends that shareholders and holders of American depositary shares (“ADSs”) vote in favor of the proposed resolutions.
+--------------------------------------------------------------------------------
+Hesai Group Second Quarter 2026 Earnings Conference Call - Hesai Group (https://investor.hesaitech.com/events/event-details/hesai-group-second-quarter-2026-earnings-conference-call)
+citeturn202search11 [wordlim: 200] Crawled: 2 days ago; # Event Details## Hesai Group Second Quarter 2026 Earnings Conference Call
+
+# Event Details
+
+## Hesai Group Second Quarter 2026 Earnings Conference Call
+
+2026-08-19 8:00 PM CST
+
+Click here for webcast
+
+## Investor Contact
+
+For investor inquiries, please contact:
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+Form 6-K for Hesai Group filed 08/18/2026 (https://investor.hesaitech.com/static-files/41782b09-9c75-47ee-88ac-188e15b051a8)
+citeturn202search14 [wordlim: 200] Published: last month; Save as disclosed above, the Company was not involved in any other material litigation or arbitration during the six months ended June 30, 2026, and the Directors are not aware of any material litigations or claims that are pending or threatened against the Group during the Reporting Period and up to the date of this announcement which could have a material and adverse effect on our financial condition or results of operations. ... The Board did not recommend the distribution of an interim dividend for the six months ended June 30, 2026 (for the six months ended June 30, 2025: nil).
+--------------------------------------------------------------------------------
+Form 20-F for Hesai Group filed 04/24/2026 (https://investor.hesaitech.com/static-files/b758475b-c739-4f9c-ad06-a763623b413b)
+citeturn202search15 [wordlim: 200] Published: 5 months ago; Crawled: 5 months ago; Other than as disclosed elsewhere in this annual report, we are not aware of any trends, uncertainties, demands, commitments or events for the period from January 1, 2026 that are reasonably likely to have a material effect on our net revenues, income, profitability, liquidity or capital resources, or that would cause the disclosed financial information to be not necessarily indicative of future operating results or financial conditions.
+

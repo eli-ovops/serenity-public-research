@@ -1,0 +1,271 @@
+NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years | NVIDIA Newsroom (https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years)
+citeturn375view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn374view0","lineno":50}); Total lines: 172
+L0: PLATFORMS
+L1: 
+L2: other links
+L3: 
+L4:   * cite0†Developers†developer.nvidia.com L5:   * cite1†Industries†www.nvidia.com L6:   * cite2†Shop†www.nvidia.com L7:   * cite3†Drivers†www.nvidia.com L8:   * cite4†Support†www.nvidia.com L9:   * cite5†About NVIDIA†www.nvidia.com L10: 
+L11:   * cite6†View All Products†www.nvidia.com L12:   * cite7†GPU TECHNOLOGY CONFERENCE†www.nvidia.com L13:   * cite8†NVIDIA Blog†blogs.nvidia.com L14:   * cite9†Community†www.nvidia.com L15:   * cite10†Careers†www.nvidia.com L16:   * cite11†TECHNOLOGIES†www.nvidia.com L17: 
+L18: cite12†Newsroom L19: 
+L20: cite13†NVIDIA in Brief L21: 
+L22: cite14†Exec Bios L23: cite8†NVIDIA Blog†blogs.nvidia.com L24: 
+L25: cite15†Podcast†blogs.nvidia.com L26: 
+L27: cite16†Media Assets L28: 
+L29: cite17†In the News L30: 
+L31: cite18†Press Contacts L32: 
+L33: cite19†Online Press Kits L34: 
+L35:   * cite13†NVIDIA in Brief L36:   * cite14†Exec Bios L37:   * cite8†NVIDIA Blog†blogs.nvidia.com L38:   * cite15†Podcast†blogs.nvidia.com L39:   * cite16†Media Assets L40:   * cite17†In the News L41:   * cite18†Press Contacts L42:   * cite19†Online Press Kits L43: 
+L44: Press Release
+L45: # NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years
+L46: 
+L47: Commitments Will Strengthen Fields Critical for US Leadership Including Quantum Computing, Healthcare and Energy Security
+L48: 
+L49: October 8, 2026
+L50: 
+L51: News Summary:
+L52:   * NVIDIA announces commitments valued at $1 billion to advance U.S. science over the next five years, at a Washington event convening U.S. officials, industry leaders and members of the science community.
+L53:   * This builds on longstanding collaboration between NVIDIA and national labs, spanning two decades.
+L54: NVIDIA today announced commitments valued at $1 billion to build out the United States’ capacity for super intelligence research and development in fields critical for U.S. leadership, including quantum computing, healthcare and energy security.
+L55: 
+L56: The announcement was made during the Science: A New Golden Age event in Washington, D.C., where U.S. officials, industry leaders and members of the science community convened on the public-private collaborations needed to bolster scientific exploration.
+L57: “President Trump’s Genesis Mission is launching a new golden age of American discovery,” said Jensen Huang, founder and CEO of NVIDIA. “With a $1 billion investment, NVIDIA is putting advanced Super Intelligence in the hands of America’s scientists to accelerate breakthroughs in medicine, energy and materials. This is how America turns scientific leadership into industrial leadership, and innovation into jobs and opportunity for generations.”
+L58: During the event, the U.S. Office of Science and Technology Policy celebrated the expansion of the Genesis Mission, of which NVIDIA is a leading industry partner. In response, NVIDIA has invited members of the science community to collaborate in R&D using compute and super intelligence infrastructure resources to accelerate scientific discovery and promote U.S. innovation.
+L59: Strengthening US Leadership in Scientific Discovery
+L60: Over the next five years, NVIDIA will commit $1 billion to the advancement of super intelligence for science and quantum computing across the U.S. through support of the nation’s higher-education research institutions, investments in accelerating American quantum leadership and support for cloud service providers bolstering U.S. government mission needs.
+L61: NVIDIA is also a collaborator on a number of the phase 2 Genesis Mission awards announced today at the event, including projects in quantum computing, fusion, accelerator design and microelectronics.
+L62: NVIDIA has collaborated with U.S. national labs for more than two decades. Last year, it announced its partnership with the U.S. Department of Energy (DOE) on the Genesis Mission, which includes cite20†NVIDIA’s work to build the department’s largest supercomputer for scientific research at Argonne National Laboratory. This is in addition to supporting cite21†seven new systems across Argonne and Los Alamos National Laboratories, accelerating the DOE’s mission of driving technological leadership.
+L63: About NVIDIA
+L64: cite22†NVIDIA†www.nvidia.com (NASDAQ: NVDA) is the world leader in AI and accelerated computing.
+L65: Certain statements in this press release including, but not limited to, statements as to: expectations with respect to NVIDIA’s commitments to advance US science over the next five years; expectations with respect to growth, performance, availability, and benefits of NVIDIA’s products, services and technologies, and related trends and drivers; expectations with respect to NVIDIA’s third party arrangements, including with its collaborators and partners; expectations with respect to technology developments, and related trends and drivers; expectations with respect to AI and related industries; and other statements that are not historical facts are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections based on management’s beliefs and assumptions and on information currently available to management and are subject to risks and uncertainties that could cause results to be materially different than expectations.
+L66: Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing products and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; NVIDIA’s ability to realize the potential benefits of business investments or acquisitions; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its Annual Report on Form 10-K and Quarterly Reports on Form 10-Q.
+L67: Copies of reports filed with the SEC are posted on NVIDIA’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+L68: © 2026 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, and other NVIDIA product and service names are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries and regions. Other company, product, and service names may be trademarks of the respective companies with which they are associated.
+L69: ## Media Contacts
+L70: 
+L71: Corporate Communications
+L72: 
+L73: NVIDIA Corporation
+L74: 
+L75: [REDACTED_EMAIL]
+L76: 
+L77: ## Downloads
+L78: 
+L79:   * cite23†Download Press Release L80: 
+L81: ## More News
+L82: 
+L83: cite24†Image†iprsoftwaremedia.com L84: 
+L85: ### cite25†NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase L86: 
+L87: September 28, 2026
+L88: 
+L89: cite26†Image†iprsoftwaremedia.com L90: 
+L91: ### cite27†NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment L92: 
+L93: September 28, 2026
+L94: 
+L95: cite28†Image†iprsoftwaremedia.com L96: ### cite29†NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing L97: 
+L98: September 14, 2026
+L99: 
+L100: cite30†Image†iprsoftwaremedia.com L101: 
+L102: ### cite31†NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains L103: 
+L104: September 10, 2026
+L105: 
+L106: cite32†Image†iprsoftwaremedia.com L107: ### cite33†NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem L108: 
+L109: September 9, 2026
+L110: 
+L111: About NVIDIA
+L112: cite22†NVIDIA†www.nvidia.com (NASDAQ: NVDA) is the world leader in AI and accelerated computing.
+L113: Certain statements in this press release including, but not limited to, statements as to: expectations with respect to NVIDIA’s commitments to advance US science over the next five years; expectations with respect to growth, performance, availability, and benefits of NVIDIA’s products, services and technologies, and related trends and drivers; expectations with respect to NVIDIA’s third party arrangements, including with its collaborators and partners; expectations with respect to technology developments, and related trends and drivers; expectations with respect to AI and related industries; and other statements that are not historical facts are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections based on management’s beliefs and assumptions and on information currently available to management and are subject to risks and uncertainties that could cause results to be materially different than expectations.
+L114: Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing products and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; NVIDIA’s ability to realize the potential benefits of business investments or acquisitions; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its Annual Report on Form 10-K and Quarterly Reports on Form 10-Q.
+L115: Copies of reports filed with the SEC are posted on NVIDIA’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+L116: © 2026 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, and other NVIDIA product and service names are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries and regions. Other company, product, and service names may be trademarks of the respective companies with which they are associated.
+L117: ## Media Contacts
+L118: 
+L119: Global contacts for media inquiries.
+L120: 
+L121: cite18†All Contacts L122: ## Stay Informed
+L123: 
+L124: Newsroom updates delivered to your inbox.
+L125: 
+L126: cite34†Subscribe L127: 
+L128: Corporate Information
+L129: 
+L130:   * cite5†About NVIDIA†www.nvidia.com L131:   * cite35†Corporate Overview†www.nvidia.com L132:   * cite11†Technologies†www.nvidia.com L133:   * cite36†NVIDIA Research†www.nvidia.com L134:   * cite37†Investors†investor.nvidia.com L135:   * cite38†Social Responsibility†www.nvidia.com L136:   * cite39†NVIDIA Foundation†www.nvidia.com L137: 
+L138: Get Involved
+L139:   * cite40†Forums†www.nvidia.com L140:   * cite10†Careers†www.nvidia.com L141:   * cite0†Developer Home†developer.nvidia.com L142:   * cite41†Join the Developer Program†developer.nvidia.com L143:   * cite42†NVIDIA Partner Network†www.nvidia.com L144:   * cite43†NVIDIA Inception†www.nvidia.com L145:   * cite44†Resources for Venture Capitalists†www.nvidia.com L146:   * cite45†Venture Capital (NVentures)†www.nventures.ai L147:   * cite46†Technical Training†www.nvidia.com L148:   * cite47†Training for IT Professionals†academy.nvidia.com L149:   * cite48†Professional Services for Data Science†www.nvidia.com L150: News & Events
+L151: 
+L152:   * cite12†Newsroom L153:   * cite8†NVIDIA Blog†blogs.nvidia.com L154:   * cite49†NVIDIA Technical Blog†developer.nvidia.com L155:   * cite50†Webinars†www.nvidia.com L156:   * cite51†Stay Informed†www.nvidia.com L157:   * cite52†Events Calendar†www.nvidia.com L158:   * cite7†NVIDIA GTC†www.nvidia.com L159:   * cite53†NVIDIA On-Demand†www.nvidia.com L160: 
+L161: cite54†USA - United States†www.nvidia.com L162:   * cite55†Privacy Policy†www.nvidia.com L163:   * cite56†Your Privacy Choices†www.nvidia.com L164:   * [Button: Manage Cookie Settings]
+L165:   * cite57†Terms of Service†www.nvidia.com L166:   * cite58†Accessibility†www.nvidia.com L167:   * cite59†Corporate Policies†www.nvidia.com L168:   * cite60†Product Security†www.nvidia.com L169:   * cite61†Contact†www.nvidia.com L170: 
+L171: Copyright © 2026 NVIDIA Corporation
+--------------------------------------------------------------------------------
+Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call | Celestica Inc. (https://corporate.celestica.com/news-releases/news-release-details/celestica-hold-q3-2026-financial-results-and-2026-investor-and)
+citeturn375view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn374view1","lineno":85}); Total lines: 162
+L0:   * About Us
+L1: 
+L2: About Us
+L3:     * cite0†Who We Are†www.celestica.com L4:     * cite1†Locations†www.celestica.com L5:     * cite2†Executive Team†www.celestica.com L6:     * cite3†Company Directors†www.celestica.com L7:     * cite4†Corporate Governance†www.celestica.com L8:     * cite5†Compliance and Ethics†www.celestica.com L9:     * cite6†Diversity and Inclusion†www.celestica.com L10:     * cite7†Sustainability†www.celestica.com L11:     * cite8†Awards†www.celestica.com L12:     * cite9†History†www.celestica.com L13: OUR COMPANIES
+L14:     * cite10†Atrenne†www.atrenne.com L15:     * cite11†AbelConn†abelconn.com L16:     * cite12†PCI†www.pciltd.com L17: 
+L18:   * Capabilities
+L19: 
+L20: Markets
+L21:     * cite13†Markets Overview†www.celestica.com L22:     * cite14†Enterprise†www.celestica.com L23:     * cite15†Communications†www.celestica.com L24:     * cite16†Aerospace and Defense†www.celestica.com L25:     * cite17†Industrial and Smart Energy†www.celestica.com L26:     * cite18†HealthTech†www.celestica.com L27:     * cite19†Capital Equipment†www.celestica.com L28: Services
+L29:     * cite20†Services Overview†www.celestica.com L30:     * cite21†Design and Engineering†www.celestica.com L31:     * cite22†Manufacturing Services†www.celestica.com L32:     * cite23†Logistics and Fulfillment†www.celestica.com L33:     * cite24†After-Market Services†www.celestica.com L34:     * cite25†Precision Machining†www.celestica.com L35:     * cite26†Supply Chain Services†www.celestica.com L36:     * cite27†Product Licensing Services†www.celestica.com L37:     * cite28†New Product Introduction†www.celestica.com L38:     * cite29†Testing and Quality†www.celestica.com L39:   * Products
+L40: 
+L41: Hardware Platform Solutions
+L42:     * cite30†Overview†www.celestica.com L43:     * cite31†Storage†www.celestica.com L44:     * cite32†Compute†www.celestica.com L45:     * cite33†Networking†www.celestica.com L46: 
+L47:   * Resources
+L48: 
+L49: Resouces
+L50:     * cite34†News L51:     * cite35†Blog†www.celestica.com L52:     * cite36†Supplier Resources†www.celestica.com L53:     * cite37†Media Resources†www.celestica.com L54: 
+L55:   * cite38†Careers†www.celestica.com L56:   * cite39†Investors L57: Investors
+L58:     * cite39†Overview L59:     * cite40†Annual Reports L60:     * cite41†Quarterly Results L61:     * cite42†Filings L62:     * cite43†Financial Releases L63:     * cite44†Events & Presentations L64:     * cite45†Stock Quote L65:     * cite46†Analyst Coverage L66:     * cite47†Investor FAQs L67:     * cite48†Investor Package L68:     * cite49†Contact Investor Relations L69:     * cite4†Corporate Governance†www.celestica.com L70:     * cite50†Email Alerts L71:   * cite1†Locations†www.celestica.com L72:   * North America: +1 888-899-9998
+L73:   * Global: +1 416-448-5800
+L74:   * cite51†Contact Us†www.celestica.com L75: # Release Details
+L76: 
+L77: cite52†Image: image description L78: ##
+L79: 
+L80: Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call
+L81: 
+L82: Oct 06, 26 at 4:15 PM EDT
+L83: 
+L84: cite53†PDF Version L85: 
+L86: TORONTO, Oct. 06, 2026 (GLOBE NEWSWIRE) -- Celestica Inc. (NYSE: CLS)(TSX: CLS) will hold its third quarter 2026 financial results and 2026 Investor and Analyst Day conference call on Tuesday, October 27, 2026. The conference call start time is 8:00am ET.
+L87: 
+L88: Financial results will be released after market close on Monday, October 26, 2026.
+L89: During the conference call, Celestica’s management will provide an update on its business operations, strategic priorities, growth opportunities and its financial outlook.
+L90: 
+L91: Participants are invited to join the live webcast at the following cite54†link†events.q4inc.com .
+L92: 
+L93: For those unable to participate, a recorded webcast will be available approximately two hours after completion of the call. To access the recorded webcast visit cite55†www.celestica.com†www.celestica.com .
+L94: Reminder: 2026 Investor and Analyst Day Lunch Forum
+L95: 
+L96: As previously announced, following the morning conference call, Celestica will host its 2026 Investor and Analyst Day Lunch Forum. This is an in-person event held in Midtown Manhattan, New York City. During the session, Chair of the Board and CEO Rob Mionis and members of Celestica’s executive leadership team will be available to answer questions.
+L97: Attendance to the Lunch Forum is open exclusively to institutional investors and sell-side research analysts. Those who wish to attend this event are invited to express their interest at the following cite56†registration link†cvent.me .
+L98: 
+L99: Space for the event is limited, and attendance is subject to availability.
+L100: 
+L101: Contact
+L102: Celestica Investor Relations
+L103: [REDACTED_EMAIL]
+L104: 
+L105: Celestica Investor Relations Events
+L106: [REDACTED_EMAIL]
+L107: 
+L108: cite57†Image†ml.globenewswire.com L109: The information that you are accessing on this website may include forward-looking statements related to our future growth, trends in our industry, our financial and operational results and performance that are based on current expectations, forecast and assumptions involving risk and uncertainties that could cause actual outcomes and results to differ materially.
+L110: 
+L111: cite58†Read the full Cautionary Note here L112: ## How can we help your Business Grow?
+L113: 
+L114: We are committed to building on our success and will continue to deliver bold solutions that will meet our customers' needs and build a better world.
+L115: 
+L116: cite59†Contact Investor Relations L117: 
+L118: Markets
+L119: 
+L120:   * cite14†Enterprise†www.celestica.com L121:   * cite17†Industrial and Smart Energy†www.celestica.com L122:   * cite15†Communications†www.celestica.com L123:   * cite16†Aerospace and Defense†www.celestica.com L124:   * cite19†Capital Equipment†www.celestica.com L125:   * cite18†HealthTech†www.celestica.com L126: 
+L127: Services
+L128:   * cite21†Design and Engineering†www.celestica.com L129:   * cite22†Manufacturing Services†www.celestica.com L130:   * cite23†Logistics and Fulfillment†www.celestica.com L131:   * cite24†After-Market Services†www.celestica.com L132:   * cite25†Precision Machining†www.celestica.com L133:   * cite26†Supply Chain Services†www.celestica.com L134:   * cite27†Product Licensing Services†www.celestica.com L135: 
+L136: Company
+L137: 
+L138:   * cite0†About us†www.celestica.com L139:   * cite38†Careers†www.celestica.com L140:   * cite34†News L141:   * cite35†Blog†www.celestica.com L142: 
+L143: Resources
+L144:   * cite36†Supplier Resources†www.celestica.com L145:   * cite37†Media Information†www.celestica.com L146:   * cite34†Press Releases L147: 
+L148: Products
+L149: 
+L150:   * cite30†Hardware Platform Solutions†www.celestica.com L151: 
+L152: Contact Us
+L153: 
+L154:   * North America: +1 888-899-9998
+L155:   * Global: +1 416-448-5800
+L156:   * cite1†Locations†www.celestica.com L157: 
+L158:   *   *   *   * cite60†Legal Notice and Terms of Use†www.celestica.com L159:   * cite61†Privacy Policy†www.celestica.com L160:   * cite62†Modern Slavery Statement†www.celestica.com L161: © Copyright Celestica Inc. 2026. All rights reserved.
+--------------------------------------------------------------------------------
+Tesla Third Quarter 2026 Production, Deliveries & Deployments | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)
+citeturn375view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn374view2","lineno":15}); Total lines: 39
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: ## Tesla Third Quarter 2026 Production, Deliveries & Deployments
+L4: 
+L5: Business Wire
+L6: 
+L7: Oct 2, 2026
+L8: 
+L9: AUSTIN, Texas, October 2, 2026 – In the third quarter, we produced over 464,000 vehicles, delivered over 486,000 vehicles and deployed 13.7 GWh of energy storage products.
+L10: 
+L11: Thank you to all of our customers, employees, suppliers, shareholders and supporters who helped us achieve these results.
+L12: 
+L13: Q3 2026
+L14:    | Production  | Deliveries  | Subject to operating lease accounting
+L15: Model 3/Y  | 457,387  | 478,237  | 1%
+L16: Other Models  | 7,004  | 8,295  | 4%
+L17: Total  | 464,391  | 486,532  | 1%
+L18: 
+L19: 
+L20: 
+L21: ***
+L22: Tesla will post its financial results for the third quarter of 2026 after market close on Wednesday, October 21, 2026. At that time, Tesla will issue a brief advisory containing a link to the Q3 2026 update, which will be available on Tesla’s Investor Relations website. Tesla management will hold a live question and answer webcast that day at 4:30 p.m. Central Time (5:30 p.m. Eastern Time) to discuss the Company’s financial and business results and outlook.
+L23: What: Tesla Q3 2026 Financial Results and Q&A Webcast
+L24: When: Wednesday, October 21, 2026
+L25: Time: 4:30 p.m. Central Time / 5:30 p.m. Eastern Time
+L26: Q3 2026 Update: cite2†https://ir.tesla.com L27: Webcast: cite2†https://ir.tesla.com (live and replay)
+L28: 
+L29: Approximately two hours after the Q&A session, an archived version of the webcast will be available on the Company’s website.
+L30: 
+L31: For additional information, please visit cite2†https://ir.tesla.com .
+L32: 
+L33: Investor Relations Contact:
+L34: [REDACTED_EMAIL]
+L35: 
+L36: ***
+L37: Our net income and cash flow results will be announced along with the rest of our financial performance when we announce Q3 earnings.
+L38: Tesla vehicle deliveries and storage deployments represent only two measures of the Company’s financial performance and should not be relied on as an indicator of quarterly financial results, which depend on a variety of factors, including average selling price, cost of sales, foreign exchange movements and others as to be disclosed in the 10-Q for the quarter ended on September 30, 2026. Vehicle production and delivery numbers represent passenger vehicles sold to customers.
+--------------------------------------------------------------------------------
+VIX (CBOE Volatility...) Index Value | Tallac Options (https://tallacoptions.com/Indices/VIX)
+citeturn375view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://tallacoptions.com/Indices/VIX","lineno":null}); Total lines: 111
+L0: Please activate JavaScript in order to get the most out of our website.
+L1: 
+L2: ## VIX: CBOE Volatility Index
+L3: 
+L4: As of Thursday, October 8th, 2026
+L5: 
+L6: * * *
+L7: 
+L8: ## 15.27
+L9: 
+L10:  |
+L11: 
+L12: ## +0.20 +1.33%
+L13: 
+L14: Open:  | 15.68
+L15: High:  | 16.02
+L16: Low:  | 15.26
+L17: Volume:  | N/A
+L18: 
+L19: Previous Close on Wednesday, October 7th, 2026
+L20: 
+L21: * * *
+L22: 
+L23: ## 15.07
+L24: 
+L25: ## +0.06 +0.40%
+L26: 
+L27: Open:  | 15.21
+L28: High:  | 16.01
+L29: Low:  | 14.97
+L30: Volume:  | 0
+L31: 
+L32: Chart Type: [Select]
+L33: #### Historical Data
+L34: 
+L35: * * *
+L36: Date  | Open  | High  | Low  | Close  | Volume
+L37: --- | --- | --- | --- | --- | ---
+L38: 2026-10-07  | 15.21  | 16.01  | 14.97  | 15.07  | 0
+L39: 2026-10-06  | 15.50  | 15.54  | 14.96  | 15.01  | 0
+L40: 2026-10-05  | 16.24  | 16.38  | 15.48  | 15.49  | 0
+L41: 2026-10-02  | 16.15  | 16.24  | 15.30  | 15.31  | 0
+L42: 2026-10-01  | 16.33  | 17.59  | 16.21  | 16.39  | 0
+L43: 2026-09-30  | 15.93  | 16.61  | 15.62  | 16.34  | 0
+--------------------------------------------------------------------------------
+citeturn375finance0 Invesco QQQ Trust Series 1 (QQQ) is a fund in the USA market. The price is 755.51 USD currently with a change of -2.22000 (-0.29298%) from the previous close. The intraday high is 757.18 USD and the intraday low is 751.24 USD. The latest open price was 754.01 USD and the intraday volume is 7808148. The market cap is 360,189,392,500. The latest trade time is Thursday, October 08, 14:44:20 UTC.--------------------------------------------------------------------------------
+citeturn375finance1 Invesco S&P 500 Equal Weight ETF (RSP) is a fund in the USA market. The price is 210.27 USD currently with a change of -0.33000 (-0.15670%) from the previous close. The intraday high is 210.81 USD and the intraday low is 209.8 USD. The latest open price was 209.98 USD and the intraday volume is 1638892. The market cap is 24,824,113,976. The latest trade time is Thursday, October 08, 14:44:19 UTC.--------------------------------------------------------------------------------
+citeturn375finance2 Innodata Inc (INOD) is a equity in the USA market. The price is 62.5 USD currently with a change of -0.91500 (-1.44288%) from the previous close. The intraday high is 63.42 USD and the intraday low is 61.7 USD. The latest open price was 62.69 USD and the intraday volume is 163176. The market cap is 2,174,926,050. The PE ratio is 47.03007518796992. The EPS ratio is 1.33. The latest trade time is Thursday, October 08, 14:44:13 UTC.--------------------------------------------------------------------------------
+citeturn375finance3 Recursion Pharmaceuticals Inc (RXRX) is a equity in the USA market. The price is 3.95 USD currently with a change of -0.32000 (-7.49415%) from the previous close. The intraday high is 4.24 USD and the intraday low is 3.92 USD. The latest open price was 4.16 USD and the intraday volume is 8960908. The market cap is 2,103,217,336. The PE ratio is -3.95. The EPS ratio is -1.0. The latest trade time is Thursday, October 08, 14:44:15 UTC.--------------------------------------------------------------------------------
+citeturn375finance4 FormFactor Inc. (FORM) is a equity in the USA market. The price is 142.48 USD currently with a change of 2.68000 (1.91702%) from the previous close. The intraday high is 143.47 USD and the intraday low is 133.64 USD. The latest open price was 136.58 USD and the intraday volume is 177358. The market cap is 11,342,405,360. The PE ratio is 97.58904109589041. The EPS ratio is 1.46. The latest trade time is Thursday, October 08, 14:42:58 UTC.--------------------------------------------------------------------------------
+citeturn375finance5 AAON Inc. (AAON) is a equity in the USA market. The price is 86.72 USD currently with a change of -0.41000 (-0.47056%) from the previous close. The intraday high is 87.06 USD and the intraday low is 85.01 USD. The latest open price was 86.22 USD and the intraday volume is 93507. The market cap is 7,274,534,981. The PE ratio is 44.78865979381443. The EPS ratio is 1.94. The latest trade time is Thursday, October 08, 14:44:09 UTC.

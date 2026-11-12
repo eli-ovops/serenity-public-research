@@ -1,0 +1,60 @@
+# 九家公司有限比较：证据中间包 20260905-A
+
+状态：受阻；未完成估值，未验收。Owner 01a07156-dfd4-7161-9856-dea718f5b001；所属 PMO 01a01da8-1413-7802-9513-4875225d4538。
+本包只保存本轮已观察证据和明确缺口，不是九家终审或买卖建议。没有覆盖 v3/v4/v5，没有访问账号/秘密，没有订单/外部发布/安装/删除。公开资料检索截点约 2026-09-05 11:35–11:47 UTC，周六；最近完成美股交易日为 9 月 4 日。
+
+## 已形成的有限比较
+
+研究链：AI 算力部署 → HBM/硅光互连 → 测试与可靠性（FORM/AEHR）→ SOI/外延/InP 衬底（Soitec/IQE/AXTI）→ CW 光源（Sivers）；另看电力供应与燃机热端（GEV/HWM），ESMT 为成熟制程存储供给重配。以下是应继续验证的五家工作优先级，尚不是通过研究门的最终排名：FORM、Soitec、AEHR、AXTI、HWM。排序理由是已出现经营、订单或现金流证据；没有完成相对估值，不能声称被低估。GEV 按现行矩阵仍只作方向锚，不列小市值右尾候选。IQE/Sivers 的融资稀释与量产转换需要额外核验；ESMT 必须拒绝 X 的单月峰值利润年化方法。
+
+### FORM — FormFactor, Inc. / NASDAQ / USD
+7 月 29 日 IR 与 SEC EX-99.01：Q2 收入 $258.2m、GAAP EPS $0.71，经营现金流 $61.8m、FCF $52.6m；Q3 收入指引 $270m±10m。7 月 29 日补充表 p3–4：Q2 SK hynix 25.0%、Intel 12.4%、TSMC 10.4%；NVIDIA 该季不足 10%。因此旧台账的客户名单不能作为本季占比。补充表 p2–3：DRAM $85.0m、Systems $48.5m。收入与利润捕获已有证据；CPO 独立收入金额及持续性仍待核。Q2 10-Q 已打开，未完成退税/非经常项、产能和监管风险审计，不能机械年化 Q2 EPS。失效验证：HBM/Systems 兑现放缓、毛利回落、客户集中或新增产能回报弱。维持现行 R7_RISK_FLAG_WATCHLIST，不自动解除风险门。
+
+### Soitec — Soitec SA / Euronext Paris SOI / EUR
+官方 FY26 结果：全年收入 €592m，下降 34%；经营亏损 €131m，当前经营亏损 €8m；Photonics-SOI 收入超过 $100m；净金融债务 €56m。7 月 22 日公司发布：Q1 FY27 €113m，Photonics-SOI 翻倍；新加坡 300mm 厂已获首批客户高产量资格，仍需更多客户资格。9 月 2 日官方 Trading Update 已找到并打开 PDF，具体新指引数值尚未提取，禁止将 7 月指引当最新。收盘价未完成核验。失效验证：手机/RF-SOI 下滑抵消光子增长，预订不转收入，扩产/现金流恶化。不要套亏损 PE。
+
+### AEHR — Aehr Test Systems / NASDAQ Capital Market / USD
+7 月 14 日 IR：FY26 收入 $50.0m、GAAP 净亏 $7.1m、经营现金净流出 $3.3m；Q4 bookings $60.7m，5 月 29 日 backlog $80.6m，公告日 effective backlog $100.6m；FY27 收入指引 $130–150m。10-K 核到 FY26 客户 A/B/C 占比 26.3%/14.2%/10.9%，5 月底普通股 32.480m（还不是完整最新稀释股数）。现金等合计 $116.5m，包括 restricted cash，须分离受限款及融资来源。FY27 财年变更使年度跨期比较需校正；不能把增长倍数不加解释照抄。X 8 月 12 日另有 $22m 订单主张，本轮尚未核对应公司公告，后续须优先核。失效验证：客户验收、出货延后，backlog 取消，稀释或毛利无法兑现。用收入/现金消耗/稀释情景，不用负 PE。
+
+### AXTI — AXT, Inc. / NASDAQ Global Select Market / USD
+SEC 7 月 30 日 EX：Q2 收入 $47.589m、GAAP 毛利率 44.9%、GAAP diluted EPS $0.17；H1 收入 $74.513m；Q2 diluted shares 63.474m，对比上年 43.710m。这说明股东捕获必须纳入股数增长。InP 需求与经营转换已有初步证据；X 所称 Lumentum $43.5m 预订款及未来 InP 产能目标尚未查到合同原文，不能写成确认收入。现金/债务/非控股权益、出口许可、生产地域和可取消性未完成。失效验证：许可受阻、客户延期、扩产良率或稀释抵消毛利。不得 Q2 EPS×4。
+
+### IQE — IQE plc / AIM IQE / 报价须核 GBX，不得把便士当英镑
+5 月 28 日官方 FY25：收入 £97.3m、税前亏损 £37m、经营现金流 £8.1m、现金 £15.7m、adjusted net debt £31.5m（定义排除租赁）。2026 融资 headline £81m 含旧票据赎回再投入，并非全额新增现金；公司称还贷后净现金流入 £27.9m。MACOM 部分为 £30m 股权+£15m 新可转票据。旧 >20% 增长指引不应当最新。9 月 3 日 IQE/Quintessent 官方订单是 6-inch GaAs epiwafers 支持 customer sampling，不能升级为量产。X 8 月 13 日所述 >£126.5m、TSEM、$14m AI 合同尚未核一手。现有第三方报 9 月 4 日 47.45，但网页币种写 GBP 存单位风险，因此接受价格 UNKNOWN，需交易所/IR 核 GBX 和最新稀释股数。
+
+### ESMT — 晶豪科技股份有限公司 / Elite Semiconductor Microelectronics Technology Inc. / TWSE 3006 / TWD
+身份交叉核验：本地 X 正文明确 ESMT (3006)，公司官网明确上述全名与 TWSE:3006。不是美国 EngageSmart。官方 6 月营收公告为 NT$4,845m，同比增长 328.35%；公司 IR 有 7 月 30 日董事会通过 Q2 财报入口，但本轮未读到 Q2 正式财务表。第三方 9 月 4 日收盘 278.50 仅搜索命中，未完成交易所/独立二源核验，接受价格 UNKNOWN。X 用 7 月单月净利年化推算 1.9x run-rate PE，不予采纳。需要最近四季/正常化 ASP、晶圆采购涨价传导、库存和净现金验证。失效验证：成熟存储供给回流、涨价结束、库存减值、采购成本吃掉毛利。
+
+### Sivers — Sivers Semiconductors AB / Nasdaq Stockholm SIVE / SEK
+8 月 27 日 EU MAR regulatory IR 公告：Q2 sales SEK53.8m、同比 -12%；adjusted EBITDA -35.5m、经营现金流 -70m。$1.2bn 为 opportunity pipeline，不能计订单。ALL.SPACE $8.2m 为 Ka-band 无线生产单，不是 AI CW 激光收入；SemiNex $3.4m 为项目。Jabil/GFS 合作不自动清 named production PO、AI revenue split、margin、cash-flow/验收门。公告还述定增和 $12m 债转股，须核新股数；所链接中报现金/股数与后续融资口径尚未调节，禁止直接建每股模型。第三方 SIVEH 25.46 仅搜索命中，代码/行情口径未完成，接受价格 UNKNOWN。保留 SIVE/POET 现行条件重开门，不解除 BLOCKED。
+
+### GEV — GE Vernova Inc. / NYSE GEV / USD
+7 月 22 日 SEC EX 与 IR 结果入口：Q2 orders $24.2bn、revenue $11.1bn；Gas Power equipment backlog+slot reservation 116GW；FCF $5.1bn、cash $13.1bn。slot reservation 与订单/收入要分层。现金流可能受预收款和营运资本时点影响，不能季 FCF×4。最新 H1 10-Q、债务/非经常收益及估值尚未核。严格维持 DIRECTION_ANCHOR_ONLY。X 来源定点未定位，因此不能宣称这家来自已定位 X 正文。
+
+### HWM — Howmet Aerospace Inc. / NYSE HWM / USD
+8 月 6 日 IR：Q2 revenue $2.547bn、FCF $479m；gas turbines revenue +38%。Engine Products sales $1.373bn、segment adjusted EBITDA margin 37.7%，不能把整个 Engine segment 当燃机/AI 收入。公司 FY26 adjusted EPS 指引 $5.23–5.31、FCF $1.85–1.95bn，证据可支持下一步用全年模型。市场价/公司全年 adjusted EPS 中位数可算风险 PE，但本轮未做相对估值或安全边际价格。Q2 SEC 表未找到并读完；IR 事件日历显示下一场 9 月 9 日 10:10 ET Jefferies。失效验证：航空/燃机扩产出错、客户集中、资本开支侵蚀 FCF。X 定点未定位，不称现有 X 直接候选。
+
+## 行情口径
+
+以下常规收盘来自 StockAnalysis/S&P 页面，日期均 2026-09-04 16:00 EDT（2026-09-05 04:00 上海）；收盘数字同时与本轮 web finance 返回值一致。web finance 时间戳有 23:15–次日00:15 UTC，不能将它解释为周六可交易实时价。StockAnalysis 明示历史按拆股调整，当日 Close=Adj.Close；没有做完整公司行动审计。二工具来源不保证底层数据独立，日内高低/前收和百分比有差异，只确认本行收盘值，不混用其它字段。
+
+|代码|常规收盘 USD|页面另列盘后 USD/EDT|页面|
+|---|---:|---|---|
+|FORM|103.90|103.69 / 19:55|https://stockanalysis.com/stocks/form/history/|
+|AEHR|86.26|86.89 / 19:59|https://stockanalysis.com/stocks/aehr/history/|
+|AXTI|61.64|63.11 / 19:59|https://stockanalysis.com/stocks/axti/history/|
+|GEV|941.95|943.14 / 19:59|https://stockanalysis.com/stocks/gev/history/|
+|HWM|259.27|259.72 / 19:55|https://stockanalysis.com/stocks/hwm/history/|
+
+QQQ：web finance 返回 718.96，2026-09-05 00:15 UTC；尚未独立锁定常规收盘。ChartExchange 9 月 4 日仅盘中 10:23 EDT 719.74，不能冒充收盘。VIX 最近完整收盘 UNKNOWN，未以 VIX ETF 代替指数。DPC 身份 UNKNOWN、不报价。
+
+## 估值与门状态
+
+本轮高安全边际价/合理参与区/昂贵区全部 UNKNOWN：尚未构建通过核验的年度/正常化利润或收入情景、最新净现金/债务及稀释股数、估值假设和公式。不凭空指定倍数、不机械年化、不将价格比以前跌了当便宜。已取得资料不能替代这一层。
+逐只研究状态：FORM 未完成；AEHR 未完成；Soitec 未完成；AXTI 未完成；IQE 未完成；ESMT 未完成；Sivers 未完成；GEV 未完成（方向锚）；HWM 未完成。必需层是本地 X 来源核对、监管+IR经营证据、身份和价格、估值情景、反证、有限未来24h事件门、PMO验收。每家至少两项未闭合。统计：研究门通过 0 / 条件观察 0 / 排除 0 / 未完成 9。不是候选被否定，不是全市场零机会；账户资料缺失不作为研究否决。
+事件层：未完成九家 SEC/监管+IR 的有限24h核查。只确认 HWM IR 下一项列 9月9日；其它未系统查完，不声称未来24h无事件，仍有未预告事件风险。
+
+## 停止与卫生
+
+本任务 token_count 元数据最新可读 last_token_usage.input_tokens=149260、model_context_window=258400，超过用户 AGENTS 80k 线。检查点未守住，停止新增业务，后续只读。不读取 predecessor 完整历史。子 agent /root/nine_x_claims 已结束；显式请求 Luna low，主目标 GPT-6 Astra/high，独立实际 model/effort UNKNOWN。周额度读取 9%，通用 5h UNKNOWN。
+本轮只新增本包少量 md/csv/sha 文本，不下载媒体、PDF或构建依赖。磁盘 df: /System/Volumes/Data capacity98%，available5,260,792 KiB；无删除。本项目 worktree 为 detached HEAD，git status 无修改；所有新产物在 /tmp/serenity-x-2m。

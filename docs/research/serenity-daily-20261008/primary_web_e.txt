@@ -1,0 +1,481 @@
+NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years | NVIDIA Newsroom (https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years)
+citeturn374view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn372view0","id":21}); Total lines: 172
+--------------------------------------------------------------------------------
+Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call | Celestica Inc. (https://corporate.celestica.com/news-releases/news-release-details/celestica-hold-q3-2026-financial-results-and-2026-investor-and)
+citeturn374view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn372view1","id":53}); Total lines: 162
+--------------------------------------------------------------------------------
+Tesla Third Quarter 2026 Production, Deliveries & Deployments | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)
+citeturn374view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn372view2","id":2}); Total lines: 39
+--------------------------------------------------------------------------------
+Modine Manufacturing Company_October 1, 2026 (https://www.sec.gov/Archives/edgar/data/67347/000110465926114220/mod-20261001x8ka.htm)
+citeturn374view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn371view7","pattern":"Item"}); Total lines: 138
+L27:  |  |
+L28: Wisconsin  | 001-01373  | 39-0482000
+L29: (State or other jurisdiction of incorporation)  | (Commission File Number)  | (I.R.S. Employer Identification Number)
+L30: 
+L31: ​
+L32: 
+L33: ​
+L34: 
+L35:  |  |
+L36: 1500 DeKoven Avenue, Racine, Wisconsin  |    | 53403
+L37: (Address of principal executive offices)  |    | (Zip Code)
+L38: 
+L39: ​
+L40: 
+L41: ​
+L42: 
+L43:  |  |
+L44: Registrant’s telephone number, including area code:  |    | (262) 636-1200
+L45:    |    |
+L46: (Former name or former address, if changed since last report.)  |    | N/A
+L47: 
+L48: ​
+L49: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+L50:  | ☐  | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+L51:  | ☐  | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+L52:  | ☐  | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+L53:  | ☐  | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+L54: 
+L55: Securities registered pursuant to Section 12(b) of the Act:
+L56: 
+L57: ​
+L58:  | ​  |  | ​  |
+L59: Title of each class  |   ​ ​ ​  | Trading Symbol(s)  |   ​ ​ ​  | Name of each exchange on which registered
+L60: Common Stock, $0.625 par value  | ​  | MOD  | ​  | New York Stock Exchange
+L61: 
+L62: ​
+L63: 
+L64: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+L65: 
+L66: ​
+L67: 
+L68: Emerging growth company ☐
+L69: 
+L70: ​
+L71: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+L72: 
+L73: ​
+L74: 
+L75: ​
+L76: 
+L77: ​
+L78: 
+L79: Introductory Note
+L80: On October 1, 2026, Modine Manufacturing Company (“Modine” or the “Company”), completed the previously-announced spin-off of the Company’s Performance Technologies business (the “Performance Technologies Business”) and the combination of the Performance Technologies Business with Gentherm Incorporated, a Michigan corporation, in a Reverse Morris Trust transaction (the “Transaction”) as described in the Current Report on Form 8-K filed by the Company with the Securities and Exchange Commission on October 1, 2026 (the “Original Form 8-K”).
+L81: This Amendment No. 1 on Form 8-K/A amends the Original Form 8-K solely to file the unaudited pro forma financial information of the Company giving effect to the Transaction required by Item 9.01(b) of Form 8-K, which the Original Form 8-K stated would be filed by amendment. Such information is filed as Exhibit 99.1.
+L82: Unaudited pro forma financial information included in this Amendment No. 1 is intended for illustrative and informational purposes only and is not necessarily indicative of the results of operations that the Company would have achieved had the Transaction been completed on the dates assumed in the pro forma financial information or of the results that may be obtained in the future.
+L83: 
+L84: ​
+L85: 
+L86: Item 9.01 Financial Statements and Exhibits
+L87: 
+L88: (b)  | Pro Forma Financial Information
+L89: The following unaudited pro forma financial information of the Company is filed as Exhibit 99.1 to this Amendment No. 1 to the Original Form 8-K and is incorporated herein by reference:
+L90: 
+L91: ​
+L92: 
+L93: • Unaudited Pro Forma Consolidated Balance Sheet as of June 30, 2026
+L94: 
+L95: ​
+L96: 
+L97: • Unaudited Pro Forma Consolidated Statement of Operations for the three months ended June 30, 2026
+L98: 
+L99: ​
+L100: 
+L101: • Unaudited Pro Forma Consolidated Statements of Operations for each of the three years ended March 31, 2026, 2025 and 2024
+L102: 
+L103: ​
+L104: • Notes to Unaudited Pro Forma Consolidated Financial Information
+L105: 
+L106: ​
+L107: 
+L108: (d)  | Exhibits
+L109: ​  | ​  | ​
+L110: cite0†99.1 |   ​ ​  | Unaudited Pro Forma Consolidated Financial Information of Modine Manufacturing Company
+L111: ​  | ​  | ​
+L112: 104  | ​  | Cover Page Interactive Data File (formatted as Inline XBRL)
+L113: 
+L114: ​
+L115: 
+L116: ​
+L117: 
+L118: ​
+L119: 
+L120: 2
+L121: 
+L122: Signatures
+L123: 
+L124: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+L125: 
+L126: ​
+L127:  | Modine Manufacturing Company
+L128:    |
+L129:    |   ​ ​  | By:   | /s/ Michael B. Lucareli
+L130:    |  | Michael B. Lucareli
+L131:    |  | Executive Vice President, Chief Financial Officer
+L132:    |
+L133: Date:  October 7, 2026  |
+L134: 
+L135: ​
+L136: 
+L137: 3
+--------------------------------------------------------------------------------
+Investors - Camtek (https://www.camtek.com/investors/)
+citeturn374view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn372view8","pattern":"News & Events"}); Total lines: 927
+L0: cite0†Image†cdn.camtek.com L1: 
+L2: [Input] [Input]
+L3: 
+L4: Investors
+L5: 
+L6:   * cite1†Company Profile L7:   * cite2†Financials & Filings L8:   * cite3†Stock performance L9:   * cite4†News & Events L10:   * cite5†Analysts L11:   * cite6†Corporate Governance L12:   * cite7†IR Contact L13: Camtek is a leading developer and manufacturer of high-end inspection and metrology equipment for the semiconductor industry.
+L14: Camtek’s systems inspect and measure wafers throughout the production process of semiconductor devices, covering the front and mid-end, and up to the beginning of assembly (Post Dicing Inspection and Metrology).
+L15: Camtek’s systems inspect wafers for the most demanding semiconductor market segments, including Advanced Interconnect Packaging, Memory, CMOS Image Sensors, MEMS and RF, serving the industry’s leading global IDMs, OSATs and foundries.
+L16: Camtek’s world-class sales and customer support infrastructure is organized around eight subsidiaries based in the US, Europe, Japan, China, Hong Kong, Taiwan, Korea and Singapore.
+L17: Link to Settlement Method Election Notice – click cite8†here†cdn.camtek.com L18: 
+L19: Link to the Annual General Meeting of Shareholders Notice – click cite9†here†cdn.camtek.com L20: 
+L21: Link to  the Proxy Card – click cite10†here†cdn.camtek.com L22: ## Financials & Filings
+L23: 
+L24: cite11†Image†cdn.camtek.com Quarterly Earnings
+L25: 
+L26:   * 2026
+L27:   * 2025
+L28:   * 2024
+L29:   * 2023
+L30:   * 2022
+L31:   * 2021
+L32:   * 2020
+L33:   * 2019
+L34:   * 2018
+L35:   * 2017
+L36:   * 2016
+L37:   * 2015
+L38:   * 2014
+L39:   * 2013
+L40:   * 2012
+L41:   * 2011
+L42:   * 2010
+L43:   * 2009
+L44:   * 2008
+L45:   * 2007
+L46: 
+L47: cite12†Image†cdn.camtek.com Annual Report
+L48: 
+L49:   * cite13†2025†cdn.camtek.com L50:   * cite14†2024†cdn.camtek.com L51:   * cite15†2023†cdn.camtek.com L52:   * cite16†2022†cdn.camtek.com L53:   * cite17†2021†cdn.camtek.com L54: 
+L55: cite18†Image†cdn.camtek.com SEC Filings cite19†View L56: ## Latest Investors presentation
+L57: 
+L58: August 11, 2026
+L59: 
+L60: Investors presentation
+L61: 
+L62: cite20†Download PDF†cdn.camtek.com cite21†Image†cdn.camtek.com L63: 
+L64: ## Q2 2026
+L65: 
+L66:   * cite22†Q2 Conference Call†cdn.camtek.com L67:   * cite23†Q2 Conference Call Presentation†cdn.camtek.com L68:   * cite24†Q2 2026†cdn.camtek.com L69: 
+L70: ## Q1 2026
+L71: 
+L72:   * cite25†Q1 2026†cdn.camtek.com L73:   * cite26†Q1 2026 Conference Call†cdn.camtek.com L74: 
+L75: ## Q4 2025
+L76: 
+L77:   * cite27†Q4 and Full Year 2025 Conference Call†cdn.camtek.com L78:   * cite28†Q4 and Full Year 2025†cdn.camtek.com L79: ## Q3 2025
+L80: 
+L81:   * cite29†Q3 2025 Conference Call†cdn.camtek.com L82:   * cite30†Q3 2025†cdn.camtek.com L83: 
+L84: ## Q2 2025
+L85: 
+L86:   * cite31†Q2 2025†cdn.camtek.com L87:   * cite32†Q2 2025 Conference Call†cdn.camtek.com L88: 
+L89: ## Q1 2025
+L90: 
+L91:   * cite33†Q1 2025†cdn.camtek.com L92:   * cite34†Q1 2025 Conference Call†cdn.camtek.com L93: 
+L94: ## Q4 2024
+L95: 
+L96:   * cite35†Q4 and Full Year 2024 Conference Call†cdn.camtek.com L97:   * cite36†Q4 and Full Year 2024†cdn.camtek.com L98: 
+L99: ## Q3 2024
+L100: 
+L101:   * cite37†Q3 2024†cdn.camtek.com L102:   * cite38†Q3 2024 Conference Call†cdn.camtek.com L103: ## Q2 2024
+L104: 
+L105:   * cite39†Q2 2024†cdn.camtek.com L106:   * cite40†Q2 2024 Conference Call†cdn.camtek.com L107: 
+L108: ## Q1 2024
+L109: 
+L110:   * cite41†Q1 2024 Conference Call†cdn.camtek.com L111:   * cite42†Q1 2024†cdn.camtek.com L112: 
+L113: ## Q4 2023
+L114: 
+L115:   * cite43†Q4 and Full Year 2023 Conference Call†cdn.camtek.com L116:   * cite44†Q4 and Full Year 2023†cdn.camtek.com L117: 
+L118: ## Q3 2023
+L119: 
+L120:   * cite45†Q3 2023 Conference Call†cdn.camtek.com L121:   * cite46†Q3 2023†cdn.camtek.com L122: 
+L123: ## Q2 2023
+L124: 
+L125:   * cite47†Q2 2023 Conference Call†cdn.camtek.com L126:   * cite48†Q2 2023†cdn.camtek.com L127: ## Q1 2023
+L128: 
+L129:   * cite49†Q1 2023 Conference Call†cdn.camtek.com L130:   * cite50†Q1 2023†cdn.camtek.com L131: 
+L132: ## Q4 2022
+L133: 
+L134:   * cite51†Q4 2022 and Full Year 2022 Conference Call†cdn.camtek.com L135:   * cite52†Q4 2022 and Full Year†cdn.camtek.com L136: 
+L137: ## Q3 2022
+L138: 
+L139:   * cite53†Q3 2022†cdn.camtek.com L140:   * cite54†Q3 2022 Conference Call†cdn.camtek.com L141: 
+L142: ## Q2 2022
+L143: 
+L144:   * cite55†Q2 2022†cdn.camtek.com L145:   * cite56†Q2 2022 Conference Call†cdn.camtek.com L146: 
+L147: ## Q1 2022
+L148: 
+L149:   * cite57†Q1 2022†cdn.camtek.com L150:   * cite58†Q1 2022 Conference Call†cdn.camtek.com L151: ## Q4 2021
+L152: 
+L153:   * cite59†Q4 2021†cdn.camtek.com L154:   * cite60†Q4 2021 Conference Call†cdn.camtek.com L155: 
+L156: ## Q3 2021
+L157: 
+L158:   * cite61†Q3 2021†cdn.camtek.com L159:   * cite62†Q3 2021 Conference Call†cdn.camtek.com L160: 
+L161: ## Q2 2021
+L162: 
+L163:   * cite63†Q2 2021†cdn.camtek.com L164:   * cite64†Q2 2021 Conference Call†cdn.camtek.com L165: 
+L166: ## Q1 2021
+L167: 
+L168:   * cite65†Q1 2021†cdn.camtek.com L169:   * cite66†Q1 2021 Conference Call†cdn.camtek.com L170: 
+L171: ## Q4 2020
+L172: 
+L173:   * cite67†Q4 2020†cdn.camtek.com L174:   * Q4 2020 Conference Call
+L175: ## Q3 2020
+L176: 
+L177:   * cite68†Q3 2020†cdn.camtek.com L178:   * cite69†Q3 2020 Conference Call†cdn.camtek.com L179: 
+L180: ## Q2 2020
+L181: 
+L182:   * cite70†Q2 2020†cdn.camtek.com L183:   * cite71†Q2 2020 Conference Call†cdn.camtek.com L184: 
+L185: ## Q1 2020
+L186: 
+L187:   * cite72†Q1 2020†cdn.camtek.com L188:   * cite73†Q1 2020 Conference Call†cdn.camtek.com L189: 
+L190: ## Q4 2019
+L191: 
+L192:   * cite74†Q4 2019†cdn.camtek.com L193:   * cite75†Q4 2019 Conference Call†cdn.camtek.com L194: 
+L195: ## Q3 2019
+L196: 
+L197:   * cite76†Q3 2019†cdn.camtek.com L198:   * cite77†Q3 2019 Conference Call†cdn.camtek.com L199: ## Q2 2019
+L200: 
+L201:   * cite78†Q2 2019†cdn.camtek.com L202:   * cite79†Q2 2019 Conference Call†cdn.camtek.com L203: 
+L204: ## Q1 2019
+L205: 
+L206:   * cite80†Q1 2019†cdn.camtek.com L207:   * cite81†Q1 2019 Conference Call†cdn.camtek.com L208: 
+L209: ## Q4 2018
+L210: 
+L211:   * cite82†Q4 2018†cdn.camtek.com L212:   * cite83†Q4 2018 Conference Call†cdn.camtek.com L213:   * cite84†XBRL Data Download†cdn.camtek.com L214: 
+L215: ## Q3 2018
+L216: 
+L217:   * cite85†Q3 2018†cdn.camtek.com L218:   * cite86†Q3 Earnings Summary†cdn.camtek.com L219:   * cite87†Q3 2018 Conference Call†cdn.camtek.com L220: ## Q2 2018
+L221: 
+--------------------------------------------------------------------------------
+Investor News (https://investors.aaon.com/investor-news)
+citeturn374view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn372view4","pattern":"2026"}); Total lines: 474
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†AAON.com†www.aaon.com L3: 
+L4: cite2†Investor Inquiries L5: 
+L6: AAON (NASDAQ)
+L7: 
+L8: ## Investor News
+L9: 
+L10: August 21, 2026
+L11: 
+L12: ##### cite3†AAON Introduces The Aaon Group as Its New Enterprise Identity L13: 
+L14: August 13, 2026
+L15: 
+L16: ##### cite4†AAON Announces Quarterly Cash Dividend L17: 
+L18: August 10, 2026
+L19: ##### cite5†AAON Reports Record Second Quarter 2026 Results Driven by Strong Demand, Accelerating Throughput, and Improved Operating Execution L20: 
+L21:   * cite6†Press Release PDF L22:   * cite7†Webinar†app.webinar.net L23:   * cite8†Presentation L24: 
+L25: cite9†Clear All L26: 
+L27: 2024
+L28: 
+L29:   * Jan
+L30:   * Feb
+L31:   * Mar
+L32:   * Apr
+L33:   * May
+L34:   * Jun
+L35:   * Jul
+L36:   * Aug
+L37:   * Sep
+L38:   * Oct
+L39:   * Nov
+L40:   * Dec
+L41: 
+L42: This Month
+L43: 
+L44: July 30, 2026
+L45: 
+L46: ##### cite10†AAON Increases Board Size and Appoints Robert L. Buttermore III, and Patrick J. Jermain as Independent Directors L47: 
+L48: July 23, 2026
+L49: ##### cite11†AAON Announces Second Quarter 2026 Conference Call and Webcast L50: 
+L51:   * cite7†Webcast Link†app.webinar.net L52: 
+L53: May 27, 2026
+L54: 
+L55: ##### cite12†AAON to Present at William Blair Growth Stock Conference L56: 
+L57: May 18, 2026
+L58: 
+L59: ##### cite13†AAON Announces Quarterly Cash Dividend L60: 
+L61: May 7, 2026
+L62: 
+L63: ##### cite14†AAON Reports First Quarter 2026 Results with Record Sales and Backlog, Robust Earnings Growth, and Raises Full-Year Guidance L64: 
+L65:   * cite15†Press Release PDF L66:   * cite16†Webinar†app.webinar.net L67:   * cite17†Presentation L68: 
+L69: April 23, 2026
+L70: ##### cite18†AAON Announces First Quarter 2026 Conference Call and Webcast L71: 
+L72: April 2, 2026
+L73: 
+L74: ##### cite19†AAON Announces CFO Transition and Strengthens Executive Leadership Team L75: 
+L76: March 5, 2026
+L77: 
+L78: ##### cite20†AAON Announces Quarterly Cash Dividend L79: 
+L80: March 3, 2026
+L81: 
+L82: ##### cite21†AAON Passes DOE's Commercial Building HVAC Technology Challenge with Simultaneous Dual Fuel Technology L83: 
+L84: March 2, 2026
+L85: ##### cite22†AAON Reports Fourth Quarter and Full Year 2025 Results, Carries Record Backlog into 2026 L86: 
+L87:   * cite23†Press Release PDF L88:   * cite24†Webcast†app.webinar.net L89:   * cite25†Presentation L90: 
+L91: February 18, 2026
+L92: 
+L93: ##### cite26†AAON Announces Fourth Quarter and Full Year 2025 Conference Call and Webcast L94: 
+L95: December 29, 2025
+L96: 
+L97: ##### cite27†AAON Activates Accordion Feature on Credit Facility to Support Growth L98: 
+L99: December 1, 2025
+L100: ##### cite28†AAON Announces Promotion of Doug Wichman to EVP & General Manager Role L101: 
+L102: November 12, 2025
+L103: 
+L104: ##### cite29†AAON Announces Quarterly Cash Dividend L105: 
+L106: November 6, 2025
+L107: 
+L108: ##### cite30†AAON Reports Strong Third Quarter 2025 Results Driven by Operational Improvements and Share Gains L109: 
+L110:   * cite31†Press Release PDF L111:   * cite32†Webcast†app.webinar.net L112:   * cite33†Presentation L113: 
+L114: October 29, 2025
+L115: 
+L116: ##### cite34†AAON Announces Third Quarter 2025 Conference Call and Webcast L117: 
+L118: October 28, 2025
+L119: ##### cite35†AAON Leads the Industry with Lab-Tested, Field-Proven Heat Pumps While Other Manufacturers Remain in Development L120: 
+L121: September 11, 2025
+L122: 
+L123: ##### cite36†AAON To Present at D.A. Davidson’s Diversified Industrials & Services Conference on September 18, 2025 L124: 
+L125: August 14, 2025
+L126: 
+L127: ##### cite37†AAON Announces Quarterly Cash Dividend L128: 
+L129: August 11, 2025
+L130: 
+L131: ##### cite38†AAON Reports Second Quarter 2025 Results L132: 
+L133:   * cite39†Press Release L134:   * cite40†Presentation L135:   * cite41†Webcast†app.webinar.net L136: 
+L137: July 24, 2025
+L138: ##### cite42†AAON Announces Second Quarter 2025 Conference Call And Webcast L139: 
+L140:   * cite41†Webcast†app.webinar.net L141: 
+L142: June 30, 2025
+L143: 
+L144: ##### cite43†BASX Powers Advanced Cooling Innovation for Applied Digital’s Purpose-Built AI Data Center Campus L145: 
+L146: June 10, 2025
+L147: 
+L148: ##### cite44†AAON Hosts 2025 Investor Day at NASDAQ MarketSite L149: 
+L150:   * cite45†Recording†aaon-2025-investor-day.open-exchange.net L151:   * cite46†Transcript L152:   * cite47†Presentation L153:   * cite48†Videos†www.youtube.com L154: 
+L155: May 16, 2025
+L156: ##### cite49†AAON Increases Board Size, Appoints CEO Matt Tobolski as Director, and Announces Quarterly Cash Dividend L157: 
+L158: May 1, 2025
+L159: 
+L160: ##### cite50†AAON Reports Sales & Earnings for the First Quarter of 2025 L161: 
+L162:   * cite51†PDF Press Release L163:   * cite52†Webcast Link†app.webinar.net L164:   * cite53†Presentation L165: 
+L166: April 24, 2025
+L167: 
+L168: ##### cite54†AAON Pushes Boundaries with Next-Generation Alpha Class Heat Pump Technology, Powered by Copeland Innovation L169: 
+L170: April 22, 2025
+L171: ##### cite55†AAON Announces First Quarter 2025 Conference Call And Webcast L172: 
+L173:   * cite52†Register Now†app.webinar.net L174: 
+L175: April 22, 2025
+L176: 
+L177: ##### cite56†AAON To Host Investor Day Event on June 10, 2025 L178: 
+L179:   * cite57†Webcast†aaon-2025-investor-day.open-exchange.net L180:   * cite47†Presentation L181: 
+L182: March 17, 2025
+L183: 
+L184: ##### cite58†AAON Presenting at Sidoti Spring 2025 Small-Cap Conference L185: 
+L186:   * cite59†Presentation L187: 
+L188: March 5, 2025
+L189: 
+L190: ##### cite60†AAON Increases Quarterly Cash Dividend L191: 
+L192: March 4, 2025
+L193: ##### cite61†$30 Million Share Repurchase Authorization L194: 
+L195: February 27, 2025
+L196: 
+L197: ##### cite62†AAON Reports Fourth Quarter and Full Year 2024 Results L198: 
+L199:   * cite63†PDF Press Release L200:   * cite64†Webcast†app.webinar.net L201:   * cite65†Earnings Presentation L202: 
+L203: February 20, 2025
+L204: 
+L205: ##### cite66†AAON Appoints Matt J. Tobolski as New Chief Executive Officer L206: 
+L207: February 19, 2025
+L208: 
+L209: ##### cite67†AAON Leadership Joins Microsoft and Argano to Explore AI-Powered Service Operations L210: 
+L211: February 13, 2025
+L212: ##### cite68†AAON Announces Fourth Quarter 2024 Conference Call And Webcast L213: 
+L214: January 24, 2025
+L215: 
+L216: ##### cite69†Kansas City Fed Announces Director Election Results and Appointments L217: 
+L218: November 22, 2024
+L219: 
+L220: ##### cite70†AAON Announces Executive Leadership Alignment Centered Around Leading Business Units L221: 
+L222: November 21, 2024
+L223: 
+L224: ##### cite71†AAON To Present At UBS Global Industrials & Transportation Conference On December 4, 2024 L225: 
+L226: November 15, 2024
+L227: ##### cite72†AAON Announces Expansion Plans to Increase Production Capacity With New Facility In Memphis, Tennessee L228: 
+L229: November 15, 2024
+L230: 
+L231: ##### cite73†AAON Leverages Strategic Partnerships to Tackle DOE Challenge with Confidence L232: 
+L233: November 13, 2024
+L234: 
+L235: ##### cite74†AAON Announces Quarterly Cash Dividend L236: 
+L237: November 7, 2024
+L238: 
+L239: ##### cite75†AAON Reports Record Sales & Earnings for the Third Quarter of 2024 L240: 
+L241:   * cite76†Press Release L242:   * cite77†Webcast†app.webinar.net L243:   * cite78†Presentation L244: 
+L245: November 7, 2024
+L246: ##### cite79†AAON To Present At Baird 2024 Global Industrials Conference On November 12-13, 2024 L247: 
+L248: October 25, 2024
+L249: 
+L250: ##### cite80†AAON Awarded Liquid Cooling Data Center Orders Totaling Approximately $174.5 Million L251: 
+L252: October 24, 2024
+L253: 
+L254: ##### cite81†AAON Announces Third Quarter 2024 Conference Call And Webcast L255: 
+L256: September 3, 2024
+L257: 
+L258: ##### cite82†AAON Launches Delta Class, The Next Evolution in DOAS Technology L259: 
+L260: August 15, 2024
+L261: 
+L262: ##### cite83†AAON Announces Quarterly Cash Dividend L263: 
+L264: August 1, 2024
+L265: ##### cite84†AAON Reports Record Sales, Earnings & Backlog for the Second Quarter Of 2024 L266: 
+L267:   * cite85†Press Release L268:   * cite86†Webcast†app.webinar.net L269:   * cite87†Presentation L270: 
+L271: July 18, 2024
+L272: 
+L273: ##### cite88†AAON Announces Second Quarter 2024 Conference Call and Webcast L274: 
+L275: June 17, 2024
+L276: 
+L277: ##### cite89†AAON Announces Share Repurchase Program Updates L278: 
+L279: June 13, 2024
+L280: 
+L281: ##### cite90†New $50 Million Share Repurchase Authorization L282: 
+L283: May 24, 2024
+L284: 
+L285: ##### cite91†AAON Announces Quarterly Cash Dividend L286: 
+L287: May 7, 2024
+L288: ##### cite92†AAON Makes Significant Progress Enhancing Overall Sustainability Practices and Achieving Long-Term Environmental Goals in 2023 Sustainability Report L289: 
+L290: May 2, 2024
+L291: 
+L292: ##### cite93†AAON Reports First Quarter of 2024 Results L293: 
+L294:   * cite94†Press Release L295:   * cite95†Webcast†app.webinar.net L296:   * cite96†Presentation L297: 
+L298: April 18, 2024
+L299: 
+L300: ##### cite97†AAON Announces First Quarter 2024 Conference Call and Webcast L301: 
+L302:   * cite98†Webcast†app.webinar.net L303: 
+L304: April 9, 2024
+L305: ##### cite99†AAON Partners with DOE to Accelerate Commercial Heat Pump Technology and Adoption L306: 
+L307: March 26, 2024
+L308: 
+L309: ##### cite100†AAON Wins 6 ADDYs at the American Advertising Awards L310: 
+L311: March 5, 2024
+L312: 
+L313: ##### cite101†AAON Announces Quarterly Cash Dividend and $25 Million Increase to Share Repurchase Authorization L314: 
+L315: February 29, 2024
+L316: 
+L317: ##### cite102†AAON To Present At Sidoti & Company Small Cap Virtual Conference L318: 
+L319:   * cite103†Webcast†sidoti.zoom.us L320: 
+L321: February 28, 2024
+

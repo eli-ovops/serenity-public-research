@@ -1,0 +1,149 @@
+Events & Presentations | Broadcom Inc. (https://investors.broadcom.com/company-information/past-events)
+citeturn240view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.broadcom.com/company-information/past-events","lineno":null}); Total lines: 38
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: # Events & Presentations
+L3: 
+L4:   * cite1†In this section L5: # Events & Presentations
+L6: Date  | Title
+L7: --- | ---
+L8: 09/08/2026 12:25 PM PDT  |
+L9: cite2†Goldman Sachs Communacopia + Technology Conference L10: cite3†Listen to Webcast†event.webcasts.com L11: 09/02/2026 5:00 PM EDT  |
+L12: cite4†Q3 2026 Broadcom Earnings Conference Call L13: cite5†Listen to Webcast†edge.media-server.com L14: 06/03/2026 5:00 PM EDT  |
+L15: cite6†Q2 2026 Broadcom Earnings Conference Call L16: cite7†Listen to Webcast†edge.media-server.com L17: 03/04/2026 5:00 PM EST  |
+L18: cite8†Q1 2026 Broadcom Earnings Conference Call L19: cite9†Listen to Webcast†edge.media-server.com L20: 12/11/2025 5:00 PM EST  |
+L21: cite10†Q4 2025 Broadcom Earnings Conference Call L22: cite11†Listen to Webcast†edge.media-server.com L23: cite12†Image: Broadcom Pulse L24: 
+L25:   * cite13†Products†www.broadcom.com L26:   * cite14†Solutions†www.broadcom.com L27:   * cite15†Support and Services†www.broadcom.com L28:   * cite16†Company†www.broadcom.com L29:   * cite17†How To Buy†www.broadcom.com L30: 
+L31: Copyright © 2005-2026 Broadcom. All Rights Reserved. The term "Broadcom" refers to Broadcom Inc. and/or its subsidiaries.
+L32:   * cite18†Accessibility†www.broadcom.com L33:   * cite19†Privacy†www.broadcom.com L34:   * cite20†Site Map†www.broadcom.com L35:   * cite21†Supplier Responsibility†www.broadcom.com L36:   * cite22†Terms of Use†www.broadcom.com L37:   * cite23†Topics†www.broadcom.com --------------------------------------------------------------------------------
+Arista Networks - Events (https://investors.arista.com/Events/)
+citeturn240view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.arista.com/Events/","lineno":null}); Total lines: 41
+L0: [Input]
+L1: 
+L2: [Input] [Input] [Input]
+L3: 
+L4: cite0†Skip to main content L5: 
+L6:   * Welcome!
+L7:     * cite1†My Profile†www.arista.com L8:     * cite2†Login†www.arista.com L9: 
+L10: cite3†Wi-Fi Launchpad†login.wifi.arista.com L11: 
+L12: cite4†Community Central†www.arista.com L13: 
+L14: cite5†Arista Portal†www.arista.com L15: 
+L16: cite6†Home »Events
+L17: ## Events
+L18: 
+L19:   * Upcoming Events
+L20:   * Past Events
+L21: 
+L22: Selecting a year value will change the event content
+L23: 
+L24: Select year:
+L25: 
+L26: [Select]
+L27: 
+L28: Get In Touch Today cite7†Contact Us†www.arista.com L29: 
+L30: cite8†Image: Arista†s21.q4cdn.com L31: 
+L32: © 2018 Arista Networks, Inc. All rights reserved.
+L33: 
+L34:   * cite9†Terms of Use†www.arista.com L35:   * cite10†Privacy Policy†www.arista.com L36:   * cite11†Sitemap†www.arista.com L37: 
+L38: cite12†Powered By Q4 Inc. [REDACTED_HOST] (opens in new window)†q4inc.com L39: 
+L40: [Input] [Input]
+--------------------------------------------------------------------------------
+TSMC 2026 Q2 Quarterly Results - Taiwan Semiconductor Manufacturing Company Limited (https://investor.tsmc.com/english/quarterly-results/2026/q2)
+citeturn240view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.tsmc.com/english/quarterly-results/2026/q2","lineno":null}); Total lines: 363
+L0:   * cite0†Dedicated IC Foundry†www.tsmc.com L1: 
+L2: cite0†Dedicated IC Foundry†www.tsmc.com L3:     * cite0†Overview†www.tsmc.com L4:     * Technology
+L5:       * cite1†Overview†www.tsmc.com L6:       * cite2†Logic Technology†www.tsmc.com L7:       * cite3†Specialty Technology†www.tsmc.com L8:       * cite4†TSMC 3DFabric®†3dfabric.tsmc.com L9:       * cite5†Technology Platforms†www.tsmc.com L10:       * cite6†Future R&D Plans†www.tsmc.com L11:     * Manufacturing
+L12:       * cite7†Overview†www.tsmc.com L13:       * cite8†Fab Locations†www.tsmc.com L14:       * cite9†Fab Capacity†www.tsmc.com L15:       * cite10†GIGAFAB® Facilities†www.tsmc.com L16:       * cite11†Engineering Performance Optimization†www.tsmc.com L17:       * cite12†Agile and Intelligent Operations†www.tsmc.com L18:     * Open Innovation Platform®
+L19:       * cite13†Overview†www.tsmc.com L20:       * cite14†IP Alliance†www.tsmc.com L21:       * cite15†EDA Alliance†www.tsmc.com L22:       * cite16†Design Center Alliance†www.tsmc.com L23:       * cite17†Cloud Alliance†www.tsmc.com L24:       * cite18†Value Chain Aggregator†www.tsmc.com L25:       * cite19†TSMC 3DFabric® Alliance†www.tsmc.com L26:     * Services
+L27:       * cite20†Overview†www.tsmc.com L28:       * cite21†Advanced Packaging†www.tsmc.com L29:       * cite22†Mask Services†www.tsmc.com L30:       * cite23†eFoundry®†www.tsmc.com L31:       * cite24†CyberShuttle®†www.tsmc.com L32:       * cite25†University FinFET Program†www.tsmc.com L33:     * Grand Alliance
+L34:       * cite26†Overview†www.tsmc.com L35:       * cite27†Innovate with TSMC!†www.tsmc.com L36:   * cite28†Investors L37: 
+L38: cite28†Investors L39:     * cite28†Overview L40:     * Financials
+L41:       * cite29†Fundamentals L42:       * cite30†Quarterly Results L43:       * cite31†Annual Reports L44:       * cite32†Monthly Revenue L45:       * cite33†Historical Information L46:       * cite34†SEC Filings L47:       * cite35†Financial Reports L48:       * cite36†Financial Calendar L49:       * cite37†Credit Rating L50:     * Corporate Governance
+L51:       * cite38†Overview L52:       * cite39†Board of Directors L53:       * cite40†Committees L54:       * cite41†Corporate Governance Officer L55:       * cite42†Major Internal Policies L56:       * cite43†NYSE Section 303A L57:       * cite44†Internal Audit L58:       * cite45†Risk Management L59:     * Shareholder Services
+L60:       * cite46†Stock Quotes L61:       * cite47†Shareholders' Meeting L62:       * cite48†Dividend L63:       * cite49†TWSE Market Observation Post System†emops.twse.com.tw L64:       * cite50†TSMC Material Information†emops.twse.com.tw L65:       * cite51†Prospectuses†doc.twse.com.tw L66:       * cite52†Contacts L67:     * cite53†FAQ L68:   * cite54†Press Center†pr.tsmc.com L69: 
+L70: cite54†Press Center†pr.tsmc.com L71:     * cite54†Overview†pr.tsmc.com L72:     * Press Releases
+L73:       * cite55†Latest News†pr.tsmc.com L74:       * cite56†News Archives†pr.tsmc.com L75:     * Events
+L76:       * cite57†All Events†pr.tsmc.com L77:       * cite58†Investor Meetings†pr.tsmc.com L78:       * cite59†TSMC Events†pr.tsmc.com L79:       * cite60†Industry Events†pr.tsmc.com L80:     * Multimedia Gallery
+L81:       * cite61†Fabs: Outside†pr.tsmc.com L82:       * cite62†Fabs: Inside†pr.tsmc.com L83:       * cite63†Executives†pr.tsmc.com L84:       * cite64†Videos†pr.tsmc.com L85:     * Corporate Information
+L86:       * cite65†About TSMC†www.tsmc.com L87:       * cite31†Financial Results L88:       * cite66†ESG†esg.tsmc.com L89:   * cite67†Careers†www.tsmc.com L90: 
+L91: cite67†Careers†www.tsmc.com L92: 
+L93:     * cite67†Overview†www.tsmc.com L94:     * Explore Career
+L95:       * cite68†Browse & Apply†www.tsmc.com L96:       * cite69†Application Process†www.tsmc.com L97:     * Resources at TSMC
+L98:       * cite70†Core Values†www.tsmc.com L99:       * cite71†Relocation to Headquarters†www.tsmc.com L100:     * Life at TSMC
+L101:       * cite72†Working Environment†www.tsmc.com L102:       * cite73†Inclusive Workplace†www.tsmc.com L103:     *   * cite74†Research†research.tsmc.com L104: 
+L105: cite74†Research†research.tsmc.com L106:     * cite74†Overview†research.tsmc.com L107:     * Research Areas
+L108:       * cite75†Overview†research.tsmc.com L109:       * cite76†Logic†research.tsmc.com L110:       * cite77†Interconnect†research.tsmc.com L111:       * cite78†Memory†research.tsmc.com L112:       * cite79†Artificial Intelligence†research.tsmc.com L113:     * Collaborations
+L114:       * cite80†Collaboration Programs†research.tsmc.com L115:       * cite81†Events†research.tsmc.com L116:     * Careers
+L117:       * cite82†Openings†research.tsmc.com L118:       * cite70†Core Values†www.tsmc.com L119:       * cite83†Vision and Mission†www.tsmc.com L120:       * cite73†Inclusive Workplace†www.tsmc.com L121:     *   * cite65†About TSMC†www.tsmc.com L122: cite65†About TSMC†www.tsmc.com L123:     * cite65†Overview†www.tsmc.com L124:     * Company Info
+L125:       * cite84†Overview†www.tsmc.com L126:       * cite83†Vision and Mission†www.tsmc.com L127:       * cite70†Values and Business Philosophy†www.tsmc.com L128:       * cite85†Organization†www.tsmc.com L129:       * cite86†Executives†www.tsmc.com L130:       * cite39†Board of Directors L131:       * cite87†Document Center†www.tsmc.com L132:     * Foundation & Museum
+L133:       * cite88†TSMC Museum of Innovation†www.tsmcmoi.com L134:       * cite89†TSMC Charity Foundation†www.tsmc.com L135:       * cite90†TSMC Education and Culture Foundation†www.tsmc.com L136:     * Policy
+L137:       * cite91†Human Rights Policy†www.tsmc.com L138:       * cite92†Quality Policy†www.tsmc.com L139:       * cite93†Risk Management Policy†www.tsmc.com L140:     * Contact Us
+L141:       * cite8†TSMC Fabs†www.tsmc.com L142:       * cite94†Subsidiaries†www.tsmc.com L143:       * cite95†Business Contacts†www.tsmc.com L144:       * cite96†Investor Relations, Public Relations, ESG Contacts†www.tsmc.com L145:       * cite97†Procurement Contacts†www.tsmc.com L146:       * cite98†Career Contact†www.tsmc.com L147:       * cite99†Whistleblowing Mechanism†www.tsmc.com L148:   * [Button: Dedicated IC Foundry ]
+L149:     * cite0†Overview†www.tsmc.com L150:     * Technology
+L151:       * cite1†Overview†www.tsmc.com L152:       * cite2†Logic Technology†www.tsmc.com L153:       * cite3†Specialty Technology†www.tsmc.com L154:       * cite4†TSMC 3DFabric®†3dfabric.tsmc.com L155:       * cite5†Technology Platforms†www.tsmc.com L156:       * cite6†Future R&D Plans†www.tsmc.com L157:     * Manufacturing
+L158:       * cite7†Overview†www.tsmc.com L159:       * cite8†Fab Locations†www.tsmc.com L160:       * cite9†Fab Capacity†www.tsmc.com L161:       * cite10†GIGAFAB® Facilities†www.tsmc.com L162:       * cite11†Engineering Performance Optimization†www.tsmc.com L163:       * cite12†Agile and Intelligent Operations†www.tsmc.com L164:     * Open Innovation Platform®
+L165:       * cite13†Overview†www.tsmc.com L166:       * cite14†IP Alliance†www.tsmc.com L167:       * cite15†EDA Alliance†www.tsmc.com L168:       * cite16†Design Center Alliance†www.tsmc.com L169:       * cite17†Cloud Alliance†www.tsmc.com L170:       * cite18†Value Chain Aggregator†www.tsmc.com L171:       * cite19†TSMC 3DFabric® Alliance†www.tsmc.com L172:     * Services
+L173:       * cite20†Overview†www.tsmc.com L174:       * cite21†Advanced Packaging†www.tsmc.com L175:       * cite22†Mask Services†www.tsmc.com L176:       * cite23†eFoundry®†www.tsmc.com L177:       * cite24†CyberShuttle®†www.tsmc.com L178:       * cite25†University FinFET Program†www.tsmc.com L179:     * Grand Alliance
+L180:       * cite26†Overview†www.tsmc.com L181:       * cite27†Innovate with TSMC!†www.tsmc.com L182:   * [Button: Investors ]
+L183:     * cite28†Overview L184:     * Financials
+L185:       * cite29†Fundamentals L186:       * cite30†Quarterly Results L187:       * cite31†Annual Reports L188:       * cite32†Monthly Revenue L189:       * cite33†Historical Information L190:       * cite34†SEC Filings L191:       * cite35†Financial Reports L192:       * cite36†Financial Calendar L193:       * cite37†Credit Rating L194:     * Corporate Governance
+L195:       * cite38†Overview L196:       * cite39†Board of Directors L197:       * cite40†Committees L198:       * cite41†Corporate Governance Officer L199:       * cite42†Major Internal Policies L200:       * cite43†NYSE Section 303A L201:       * cite44†Internal Audit L202:       * cite45†Risk Management L203:     * Shareholder Services
+L204:       * cite46†Stock Quotes L205:       * cite47†Shareholders' Meeting L206:       * cite48†Dividend L207:       * cite49†TWSE Market Observation Post System†emops.twse.com.tw L208:       * cite50†TSMC Material Information†emops.twse.com.tw L209:       * cite51†Prospectuses†doc.twse.com.tw L210:       * cite52†Contacts L211:     * cite53†FAQ L212:   * [Button: Press Center ]
+L213:     * cite54†Overview†pr.tsmc.com L214:     * Press Releases
+L215:       * cite55†Latest News†pr.tsmc.com L216:       * cite56†News Archives†pr.tsmc.com L217:     * Events
+L218:       * cite57†All Events†pr.tsmc.com L219:       * cite58†Investor Meetings†pr.tsmc.com L220:       * cite59†TSMC Events†pr.tsmc.com L221:       * cite60†Industry Events†pr.tsmc.com L222:     * Multimedia Gallery
+L223:       * cite61†Fabs: Outside†pr.tsmc.com L224:       * cite62†Fabs: Inside†pr.tsmc.com L225:       * cite63†Executives†pr.tsmc.com L226:       * cite64†Videos†pr.tsmc.com L227:     * Corporate Information
+L228:       * cite65†About TSMC†www.tsmc.com L229:       * cite31†Financial Results L230:       * cite66†ESG†esg.tsmc.com L231:   * [Button: Careers ]
+L232: 
+L233:     * cite67†Overview†www.tsmc.com L234:     * Explore Career
+L235:       * cite68†Browse & Apply†www.tsmc.com L236:       * cite69†Application Process†www.tsmc.com L237:     * Resources at TSMC
+L238:       * cite70†Core Values†www.tsmc.com L239:       * cite71†Relocation to Headquarters†www.tsmc.com L240:     * Life at TSMC
+L241:       * cite72†Working Environment†www.tsmc.com L242:       * cite73†Inclusive Workplace†www.tsmc.com L243: 
+L244:   * [Button: Research ]
+L245:     * cite74†Overview†research.tsmc.com L246:     * Research Areas
+L247:       * cite75†Overview†research.tsmc.com L248:       * cite76†Logic†research.tsmc.com L249:       * cite77†Interconnect†research.tsmc.com L250:       * cite78†Memory†research.tsmc.com L251:       * cite79†Artificial Intelligence†research.tsmc.com L252:     * Collaborations
+L253:       * cite80†Collaboration Programs†research.tsmc.com L254:       * cite81†Events†research.tsmc.com L255:     * Careers
+L256:       * cite82†Openings†research.tsmc.com L257:       * cite70†Core Values†www.tsmc.com L258:       * cite83†Vision and Mission†www.tsmc.com L259:       * cite73†Inclusive Workplace†www.tsmc.com L260:   * [Button: About TSMC ]
+L261:     * cite65†Overview†www.tsmc.com L262:     * Company Info
+L263:       * cite84†Overview†www.tsmc.com L264:       * cite83†Vision and Mission†www.tsmc.com L265:       * cite70†Values and Business Philosophy†www.tsmc.com L266:       * cite85†Organization†www.tsmc.com L267:       * cite86†Executives†www.tsmc.com L268:       * cite39†Board of Directors L269:       * cite87†Document Center†www.tsmc.com L270:     * Foundation & Museum
+L271:       * cite88†TSMC Museum of Innovation†www.tsmcmoi.com L272:       * cite89†TSMC Charity Foundation†www.tsmc.com L273:       * cite90†TSMC Education and Culture Foundation†www.tsmc.com L274:     * Policy
+L275:       * cite91†Human Rights Policy†www.tsmc.com L276:       * cite92†Quality Policy†www.tsmc.com L277:       * cite93†Risk Management Policy†www.tsmc.com L278:     * Contact Us
+L279:       * cite8†TSMC Fabs†www.tsmc.com L280:       * cite94†Subsidiaries†www.tsmc.com L281:       * cite95†Business Contacts†www.tsmc.com L282:       * cite96†Investor Relations, Public Relations, ESG Contacts†www.tsmc.com L283:       * cite97†Procurement Contacts†www.tsmc.com L284:       * cite98†Career Contact†www.tsmc.com L285:       * cite99†Whistleblowing Mechanism†www.tsmc.com L286: Search [Input]
+L287: 
+L288: [Input]
+L289: 
+L290:   * cite30†2026 L291:   * cite100†2025 L292:   * cite101†2024 L293:   * cite102†2023 L294:   * cite103†2022 L295:   * cite104†2021 L296:   * cite105†2020 L297:   * cite106†2019 L298:   * cite107†2018 L299:   * cite108†2017 L300:   * cite109†2016 L301:   * cite110†2015 L302:   * cite111†2014 L303:   * cite112†2013 L304:   * cite113†2012 L305:   * cite114†2011 L306:   * cite115†2010 L307:   * cite116†2009 L308:   * cite117†2008 L309:   * cite118†2007 L310:   * cite119†2006 L311:   * cite120†2005 L312:   * cite121†2004 L313:   * cite122†2003 L314:   * cite123†2002 L315:   * cite124†2001 L316:   * cite125†2000 L317:   * cite126†1999 L318:   * cite127†1998 L319:   * cite128†1997 L320:   * cite129†Q1 L321:   * cite130†Q2 L322:   * cite131†Q3 L323:   * Q4
+L324: 
+L325: cite132†Financial Statements L326: 
+L327: cite133†Presentation Material L328: 
+L329: cite134†Management Report L330: 
+L331: cite135†Earnings Release L332: 
+L333: cite136†Earnings Conference Transcript L334: 
+L335: cite137†Video Webcast Replay†ottlive.hinet.net L336: ## Guidance
+L337: 
+L338:  | 2Q26  | 3Q26
+L339: --- | --- | ---
+L340: Actual  | Guidance  | Guidance
+L341: --- | --- | ---
+L342: Net Revenue
+L343: (US$ billion)  | 40.20  | 39.0-40.2  | 44.6-45.8
+L344: Exchange Rate
+L345: (USD/NTD)  | 31.60  | 31.7  | 32.0
+L346: Gross Margin  | 67.7%  | 65.5%-67.5%  | 65.0%-67.0%
+L347: Operating Margin  | 60.3%  | 56.5%-58.5%  | 56.0%-58.0%
+L348: 
+L349: cite138†TSMC-Online Online information and transaction for our customers†online.tsmc.com L350: 
+L351: cite139†TSMC-Supply Online 360 The web-based portal for TSMC suppliers†supply.tsmc.com.tw L352: cite87†Document Center Find more information about TSMC†www.tsmc.com L353: 
+L354: Copyright© Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.
+L355: 
+L356: Hyperlinked-Disclaimer
+L357: You are now leaving our web site. The web site you wish to link to is owned or operated by an entity other than Taiwan Semiconductor Manufacturing Company, Ltd.. We do not control this third party web site.
+L358: We are providing this link for your convenience only and we are not responsible for the availability of or the content located on or through this third party web site, the accuracy, completeness, timeliness, or legality of any information contained in this third party web site, and any opinions expressed therein, nor for any link contained in this third party web site.
+L359: This third party web site is not investigated, monitored, or checked for accuracy, completeness, timeliness, or legality, by Taiwan Semiconductor Manufacturing Company, Ltd.. The link from our web site to this third party web site does not imply that we approve of, endorse, or recommend this third party web site. We expressly disclaim all warranties, express or implied, as to the accuracy, legality, reliability, timeliness, quality, or validity of any content on this third party web site.
+L360: :
+L361: 
+L362: [Button: CONTINUE][Button: CLOSE]
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn240view3 [wordlim: 200] Source: open({"ref_id":"https://investors.rambus.com/events-and-presentations","lineno":null}); Total lines: 1
+L0: URL https://investors.rambus.com/events-and-presentations is not accessible via this tool.
+

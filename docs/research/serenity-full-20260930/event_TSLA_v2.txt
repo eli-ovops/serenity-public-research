@@ -1,0 +1,399 @@
+ITEM 2. **PROPERTIES** (https://ir.tesla.com/_flysystem/s3/sec/000156459019003165/tsla-10k_20181231-gen_0.pdf)
+citeturn217search12 [wordlim: 200] Published: 6.0 years ago; Crawled: last month; <td>October 2025 - June 2030</td> ... <td>October 2026</td>
+<td>October 2026</td>
+</tr>
+<tr>
+<td>Lathrop, California</td>
+<td>885,867</td>
+<td>Warehouse and manufacturing</td>
+<td>September 2024 - February 2030</td>
+</tr>
+<tr>
+<td>Sparks, Nevada</td>
+<td>632,445</td>
+<td>Warehouse</td>
+<td>December 2019 - December 2020</td>
+</tr>
+<tr>
+<td>Lathrop, California</td>
+<td>496,888</td>
+<td>Manufacturing</td>
+<td>Owned building</td>
+</tr>
+<tr>
+<td>Palo Alto, California</td>
+<td>350,000</td>
+<td>Administration and engineering</td>
+<td>January 2022</td>
+</tr>
+<tr>
+<td>Taipei City, Taiwan</td>
+<td>283,790</td>
+<td>Warehouse, administration and service</td>
+<td>February 2022</td>
+</tr>
+<tr>
+<td>Elkridge, Maryland</td>
+<td>176,651</td>
+<td>Warehouse</td>
+<td>October 2023</td>
+</tr>
+<tr>
+<td>Grand Rapids, Michigan</td>
+<td>176,606</td>
+<td>Manufacturing</td>
+<td>May 2025</td>
+</tr>
+<tr>
+<td>Draper, Utah</td>
+<td>154,846</td>
+<td>Administration</td>
+<td>October 2027</td>
+</tr>
+<tr>
+<td>Hawthorne, California</td>
+<td>132,250</td>
+<td>Engineering</td>
+<td>December 2022</td>
+</tr>
+<tr>
+--------------------------------------------------------------------------------
+The EU press drive event in October kicked off official marketing of the Model S outside of the United States. Increasing international marketing efforts will pave the way for an acceleration of store and service center openings. As occurred in the United States, Tesla will start deliveries in Europe during the first half of next year with the Signature Series, all of which have been reserved for months. (https://ir.tesla.com/_flysystem/s3/sec/000119312512450383/d432726d8k-gen_0.pdf)
+citeturn217search13 [wordlim: 200] Published: 6.0 years ago; Crawled: 2 weeks ago; The EU press drive event in October kicked off official marketing of the Model S outside of the United States. ... Our non-GAAP net loss for the quarter was $97 million, or $(0.92) per share, and GAAP net loss was $111 million, or $(1.05) per share, based on 105.6 million weighted common shares outstanding. ... In October, we pre-funded our second loan payment, related to principal and interest due in March of next year.
+The EU press drive event in October kicked off official marketing of the Model S outside of the United States. Increasing international marketing efforts will pave the way for an acceleration of store and service center openings. As occurred in the United States, Tesla will start deliveries in Europe during the first half of next year with the Signature Series, all of which have been reserved for months.
+
+With growing public exposure of Model S, we continue to set records for new reservations. In Q3, we received almost 2,900 new reservations, over 30% more than the prior record in Q2. As we began converting our early reservations into firm, non-refundable orders, cancellations increased as well. The net effect still demonstrated a continued growth in our net reservation count to over 13,200, up from 11,500 at the end of Q2. We expect Q4 to set a new high water mark in net reservations.
+
+**Quarterly Results**
+
+Our Q3 revenues were $50 million, an 88% increase from the prior quarter, which reflects ramping deliveries of Model S, continued sales of the remaining Roadsters internationally, and an increase in powertrain component sales to Toyota for the RAV4 EV. --------------------------------------------------------------------------------
+SERVICES
+
+**Robotaxi**  
+We began testing driverle (https://ir.tesla.com/_flysystem/s3/sec/000162828026003837/tsla-20260128-gen.pdf)
+citeturn217search14 [wordlim: 200] Published: 8 months ago; Crawled: last month; Our Bay Area ride-hailing service began serving the San Jose Airport in October, with plans to expand to other major airports in the Bay Area upon receiving required permitting. ... |  | Dallas | 1H 2026 |
+SERVICES
+
+**Robotaxi**  
+We began testing driverless Robotaxis in Austin in December and began removing the safety monitor from customer rides in January on a limited basis, which will unlock further expansion of our Robotaxi fleet and coverage area in the Austin-metro. Our Bay Area ride-hailing service began serving the San Jose Airport in October, with plans to expand to other major airports in the Bay Area upon receiving required permitting.
+
+**FSD (Supervised)¹**  
+We launched FSD (Supervised)¹ in South Korea, where customers drove over 1 million kilometers using the software in just one month. While we continue to pursue regulatory approval in China and Europe, we began offering ride-along experiences to consumers in Italy, Germany, France and Switzerland.
+
+Monthly subscriptions to FSD (Supervised)¹ continued to grow sequentially and more than doubled in 2025. Starting this quarter, we are transitioning access to FSD (Supervised)¹ to monthly subscriptions only as we begin to sunset the up-front payment option.
+--------------------------------------------------------------------------------
+Tesla Announces Updates to 2021 Annual Meeting of Stockholders | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-announces-updates-2021-annual-meeting-stockholders)
+citeturn217search0 [wordlim: 200] Published: 5.0 years ago; Crawled: yesterday; Live video webcasts of the 2021 Annual Meeting event will be accessible to the general public at www.tesla.com/2021shareholdermeeting. ... Central Time on October 4, 2021, you will receive a confirmation e-mail with your control number; or
+
+## Tesla Announces Updates to 2021 Annual Meeting of Stockholders
+
+Business Wire
+
+Sep 24, 2021
+
+AUSTIN, Texas, September 24, 2021 – Tesla, Inc. today announced updates to its 2021 Annual Meeting of Stockholders (the “2021 Annual Meeting”). The following updates supersede anything to the contrary described in Tesla’s updated definitive proxy statement filed with the U.S. Securities and Exchange Commission on August 26, 2021.
+
+The 2021 Annual Meeting will be presented from Tesla’s Gigafactory in Austin, Texas on Thursday, October 7, 2021, at 4:30 p.m. Central Time in a virtual-only format as described below.
+
+Virtual Meeting Format 
+
+Live video webcasts of the 2021 Annual Meeting event will be accessible to the general public at www.tesla.com/2021shareholdermeeting. This webcast will also be available for replay for approximately one year thereafter.
+
+To accommodate ongoing public health requirements and travel considerations, Tesla is providing any stockholder as of August 9, 2021 the means to join the 2021 Annual Meeting virtually at https://meetnow.global/MVA22YQ. Please ask your broker, bank or organization for a “legal proxy” for the 2021 Annual Meeting and submit a copy of it from your e-mail address with “Legal Proxy” in the subject line to [REDACTED_EMAIL] or by mail to Computershare at Tesla, Inc. Legal Proxy, P.O. Box 43001, Providence, RI, 02940-3001. If your request is received no later than 4:00 p.m. Central Time on October 4, 2021, you will receive a confirmation e-mail with your control number; or
+    * Use the control number received with your voting instruction form. Please note, however, that this option is intended to be provided as a convenience to beneficial owners only, and there is no guarantee this option will be available for every type of beneficial owner voting control number. Please go to https://meetnow.global/MVA22YQ for more information on the available options and registration instructions.
+
+The virtual meeting will begin promptly at 4:30 p.m. Central Time. We encourage you to access the meeting prior to the start time leaving ample time for log-in.
+
+Other Information  
+
+All stockholders are encouraged to vote and submit their proxies in advance of the 2021 Annual Meeting by one of the methods described in the proxy materials. Proxy cards, voting instruction forms and Notices of Internet Availability for the 2021 Annual Meeting scheduled for October 7, 2021 that were previously distributed will not be updated to reflect the change in meeting format, and may continue to be used to vote shares in connection with the 2021 Annual Meeting.
+
+ 
+
+Investor Relations Contact:
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+Tesla Exceeds 1,500 Roadster Deliveries Worldwide | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-exceeds-1500-roadster-deliveries-worldwide)
+citeturn217search1 [wordlim: 200] Published: 15.7 years ago; Crawled: 2 days ago; They have accumulated more than 8.5 million miles (14 million kms) in real-world driving, saving 415,000 gallons (1.6 million liters) of gasoline and more than 22,000 barrels of oil. ... The milestone comes after a banner year for Tesla, which acquired an assembly plant in Fremont, Calif., and forged strategic partnerships with Toyota and Panasonic. ... Tesla opened its first Asian store in October; the showroom in Tokyo's Aoyama district has the highest foot traffic of any Tesla store worldwide. ... More information on potential factors that could affect the Company's financial results is included from time to time in Tesla's Securities and Exchange Commission filings and reports, including the risks identified under the section captioned "Risk Factors" in its final prospectus relating to its initial public offering filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, on June 29, 2010 and our Form 10-Q as filed on November 12, 2010.
+Tesla also became a public company in 2010.
+
+Tesla also launched the next-generation Roadster 2.5, demonstrating Tesla's continuous innovation and close feedback loop with its engineers and customers. Tesla opened its first Asian store in October; the showroom in Tokyo's Aoyama district has the highest foot traffic of any Tesla store worldwide.
+
+In 2010, Tesla delivered cars in more than 30 countries — from Singapore to Switzerland. The most northerly Roadsters are in Narvik, Norway, 140 miles (220 kilometers) north of the Arctic Circle.
+
+ABOUT TESLA MOTORS
+
+Tesla's goal is to produce a full range of electric cars, from premium sports cars to mass market vehicles — relentlessly driving down the cost of electric vehicles. It is currently the only automaker in the U.S. that builds and sells highway-capable EVs in serial production. Palo Alto, Calif.-based Tesla designs and manufactures EVs and EV powertrain components. Tesla has delivered more than 1,500 Roadsters to customers in North America, Europe and Asia. --------------------------------------------------------------------------------
+Tesla Motors to Officially Open Tesla Factory - Home of the Model S | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-motors-officially-open-tesla-factory-home-model-s)
+citeturn217search2 [wordlim: 200] Published: 15.9 years ago; Crawled: yesterday; (Tours of the Factory for video crews are available by appointment from 9am to 1 pm, Wednesday, October 27th.) ... When:  |    | Wednesday, October 27th, 3:00pm PT
+
+## Tesla Motors to Officially Open Tesla Factory - Home of the Model S
+
+Globe Newswire
+
+Oct 26, 2010
+
+Oct 26, 2010 (BUSINESS WIRE) -- Tesla Motors (NASDAQ:TSLA):
+
+What:  |    | Tesla officially unveils the Tesla Factory in Fremont, CA.
+   |    |  
+   |    | The former NUMMI factory closed in April 2010. Tesla purchased the factory in May to build the Model S and future Tesla vehicles. The Tesla Factory is the only auto assembly plant in California, and the first facility dedicated exclusively to mass production of electric vehicles.
+   |    |  
+   |    | The Tesla Factory will combine the best automotive and Silicon Valley talent within a proven manufacturing facility to produce the car of the 21st century - Model S. The Model S will be the first electric premium sedan designed from the ground up to take full advantage of the electric vehicle architecture.
+   |    |  
+   |    | Credentialed media is invited to attend the official unveiling and press conference. (Tours of the Factory for video crews are available by appointment from 9am to 1 pm, Wednesday, October 27th.) Media must RSVP for security access. Only credentialed media will be admitted.
+   |    |  
+Who:  |    | Tesla CEO and cofounder Elon Musk
+   |    | Senator Dianne Feinstein
+   |    | Other Federal, State, County, and City officials also expected to attend
+   |    |  
+When:  |    | Wednesday, October 27th, 3:00pm PT
+   |    |  
+Where:  |    | 45500 Fremont Blvd, Fremont, CA
+
+ABOUT TESLA MOTORS
+
+Tesla's goal is to produce increasingly affordable electric cars to mainstream buyers - relentlessly driving down the cost of EVs. Palo Alto, Calif.-based Tesla has delivered more than 1200 Roadsters to customers in North America, Europe and Asia. Tesla designs and manufactures EVs and EV powertrain components. It is currently the only automaker in the U.S. that builds and sells highway-capable EVs in serial production. The Tesla Roadster accelerates faster than most sports cars yet produces no emissions.
+
+SOURCE: Tesla Motors
+
+Tesla Motors Khobi Brooklyn, 650-681-5452 [REDACTED_EMAIL]--------------------------------------------------------------------------------
+Tesla Third Quarter 2025 Production, Deliveries & Deployments (https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments)
+citeturn217search3 [wordlim: 200] Published: last year; Crawled: 2 days ago; Tesla will post its financial results for the third quarter of 2025 after market close on Wednesday, October 22, 2025.
+
+## Tesla Third Quarter 2025 Production, Deliveries & Deployments
+
+Business Wire
+
+Oct 2, 2025
+
+AUSTIN, Texas, October 2, 2025 – In the third quarter, we produced over 447,000 vehicles, delivered over 497,000 vehicles and deployed 12.5 GWh of energy storage products – a record for both deliveries and deployments.
+
+Thank you to all our customers, employees, suppliers, shareholders and supporters who helped us achieve these results.
+
+Q3 2025
+
+   | Production  | Deliveries  | Subject to operating lease accounting
+Model 3/Y  | 435,826  | 481,166  | 2%
+Other Models  | 11,624  | 15,933  | 7%
+Total  | 447,450  | 497,099  | 2%
+
+Tesla will post its financial results for the third quarter of 2025 after market close on Wednesday, October 22, 2025. At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla’s Investor Relations website. Tesla management will hold a live question and answer webcast that day at 4:30 p.m. Central Time (5:30 p.m. Eastern Time) to discuss the Company’s financial and business results and outlook.
+
+What: Tesla Q3 2025 Financial Results and Q&A Webcast
+When: Wednesday, October 22, 2025
+Time: 4:30 p.m. Central Time / 5:30 p.m. Eastern Time
+Q3 2025 Update: https://ir.tesla.com
+Webcast: https://ir.tesla.com (live and replay)
+
+Approximately two hours after the Q&A session, an archived version of the webcast will be available on the Company’s website.
+
+Investor Relations Contact:
+[REDACTED_EMAIL]
+
+Our net income and cash flow results will be announced along with the rest of our financial performance when we announce Q3 earnings. Tesla vehicle deliveries and storage deployments represent only two measures of the Company’s financial performance and should not be relied on as an indicator of quarterly financial results, which depend on a variety of factors, including average selling price, cost of sales, foreign exchange movements and others as to be disclosed in the 10-Q for the quarter ended on September 30, 2025.--------------------------------------------------------------------------------
+Mr. Musk. If the price of our common stock were to decline substantially and Mr. Musk were unable to avoid or satisfy a margin call with respect to his pledged shares, Mr. Musk may be forced by one or more of the banking institutions to sell shares of Tesla common stock in order to remain within the margin limitations imposed under the terms of his loans. Any such sales could cause the price of our common stock to decline further. (https://ir.tesla.com/_flysystem/s3/sec/000156459018002956/tsla-10k_20171231-gen_0.pdf)
+citeturn217search15 [wordlim: 200] Published: 6.0 years ago; Crawled: 4 months ago; In addition, the terms of our convertible notes require us to repurchase such notes in the event of a fundamental change, including a takeover of our company. ... <td>October 2026</td> ... <td>October 2027</td>
+<td>1,002,703</td>
+<td>Warehouse</td>
+<td>October 2026</td>
+</tr>
+<tr>
+<td>Fremont, California</td>
+<td>506,490</td>
+<td>Administration and manufacturing</td>
+<td>September 2029</td>
+</tr>
+<tr>
+<td>Tilburg, Netherlands</td>
+<td>499,710</td>
+<td>Manufacturing, administration, engineering and service</td>
+<td>November 2023</td>
+</tr>
+<tr>
+<td>Lathrop, California</td>
+<td>496,888</td>
+<td>Manufacturing</td>
+<td>Owned building</td>
+</tr>
+<tr>
+<td>Palo Alto, California</td>
+<td>350,000</td>
+<td>Administration and engineering</td>
+<td>January 2020</td>
+</tr>
+<tr>
+<td>Lathrop, California</td>
+<td>338,564</td>
+<td>Warehouse and manufacturing</td>
+<td>February 2030</td>
+</tr>
+<tr>
+<td>Sparks, Nevada</td>
+<td>328,245</td>
+<td>Warehouse</td>
+<td>December 2020</td>
+</tr>
+<tr>
+<td>Sparks, Nevada</td>
+<td>304,200</td>
+<td>Warehouse</td>
+<td>December 2019</td>
+</tr>
+<tr>
+<td>Fremont, California</td>
+<td>302,400</td>
+<td>Engineering</td>
+<td>March 2028</td>
+</tr>
+<tr>
+<td>Lathrop, California</td>
+<td>276,228</td>
+<td>Warehouse and manufacturing</td>
+--------------------------------------------------------------------------------
+SolarCity Launches First-of-its-Kind Solar Service in Nevada | Tesla Investor Relations (https://ir.tesla.com/press-release/solarcity-launches-first-its-kind-solar-service-nevada)
+citeturn217search4 [wordlim: 200] Published: 12.4 years ago; Crawled: 3 days ago; LAS VEGAS, May 1, 2014 (GLOBE NEWSWIRE) -- SolarCity® (Nasdaq:SCTY) is launching its solar service in Nevada for the first time. ... SolarCity expects to begin installing at the end of October and will accommodate customers on a first-come, first-served basis. ... SolarCity has already hired more than 400 people in Nevada, and plans to hire 400 more in the next year.
+
+## SolarCity Launches First-of-its-Kind Solar Service in Nevada
+
+Globe Newswire
+
+May 1, 2014
+
+ 
+
+LAS VEGAS, May 1, 2014 (GLOBE NEWSWIRE) -- SolarCity® (Nasdaq:SCTY) is launching its solar service in Nevada for the first time. The nation's largest solar power provider will make it possible for many Las Vegas area homeowners to install solar panels for free and pay less for solar electricity than they pay for electricity from the local utility. SolarCity can allow Nevada homeowners to go solar for as little as $30 per month, with design, installation, financing, insurance, monitoring and a performance guarantee included.
+
+SolarCity will begin taking the first orders from Nevada homeowners today. The company will participate in NV Energy's SolarGenerations Program, which is currently expected to reopen in August. SolarCity expects to begin installing at the end of October and will accommodate customers on a first-come, first-served basis. The company will initially serve customers of NV Energy in the greater Las Vegas Area, including the cities of Las Vegas, North Las Vegas, Spring Valley, Winchester, Paradise, Henderson and Boulder City.
+--------------------------------------------------------------------------------
+Elon Musk Named Innovator of the Year Award in Technology by WSJ. Magazine | Tesla Investor Relations (https://ir.tesla.com/press-release/elon-musk-named-innovator-year-award-technology-wsj-magazine)
+citeturn217search5 [wordlim: 200] Published: 14.9 years ago; Crawled: yesterday; In conjunction with the November issue of WSJ., the winners were honored on Thursday, October 27, at the Museum of Modern Art in New York City.The November issue of WSJ. will hit newsstands on Saturday, October 29, as part of WSJ Weekend.
+
+## Elon Musk Named Innovator of the Year Award in Technology by WSJ. Magazine
+
+Globe Newswire
+
+Oct 28, 2011
+
+ 
+
+NEW YORK, NY -- (MARKET WIRE) -- 10/28/11 -- Elon Musk, CEO and Co-founder of Tesla (NASDAQ: TSLA) and CEO and CTO of SpaceX, last night was recognized for Innovator of the Year in Technology by WSJ. Magazine.
+
+WSJ. Magazine's first annual Innovator of the Year Awards honors the most creative, disruptive, and influential individuals in the world today. Musk was recognized for revolutionizing three of the biggest industries in the world -- automobiles, energy and space exploration -- simultaneously. Artist Tom Sachs, whose recent work is based on the imagery of space, presented the award to Musk.
+
+In conjunction with the November issue of WSJ., the winners were honored on Thursday, October 27, at the Museum of Modern Art in New York City. The November issue of WSJ. will hit newsstands on Saturday, October 29, as part of WSJ Weekend.
+
+"It is an honor to be recognized by WSJ. Magazine, and to join these other visionaries here tonight," said Elon Musk. "It is urgently important to apply innovation the areas that will most affect our future. I am committed to finding renewable energy solutions, accelerating the adoption of sustainable transportation, and revolutionizing space travel."
+
+The Innovator of the Year Awards were chosen by editors of WSJ. Magazine, with input from a select group of experts in each field.
+
+ABOUT TESLA
+
+Tesla's goal is to accelerate the world's transition to electric mobility with a full range of electric cars. Palo Alto, California-based Tesla designs and manufactures EVs and EV powertrain components. Tesla has delivered more than 1,800 Roadsters, the world's first electric sports car, to customers worldwide. Model S, the first premium sedan to be built from the ground up as an electric vehicle, hits the road in North America in mid-2012, and in Europe and Asia in late 2012.
+
+Source: Tesla Motors, Inc.--------------------------------------------------------------------------------
+Tesla Releases Third Quarter 2025 Financial Results | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-releases-third-quarter-2025-financial-results)
+citeturn217search6 [wordlim: 200] Published: 11 months ago; Crawled: today; AUSTIN, Texas, October 22, 2025 – Tesla has released its financial results for the third quarter of 2025 by posting an update on its Investor Relations website.
+
+## Tesla Releases Third Quarter 2025 Financial Results
+
+Business Wire
+
+Oct 22, 2025
+
+AUSTIN, Texas, October 22, 2025 – Tesla has released its financial results for the third quarter of 2025 by posting an update on its Investor Relations website. Please visit https://ir.tesla.com to view the update.
+
+As previously announced, Tesla management will host a live question and answer (Q&A) webcast at 4:30 p.m. Central Time (5:30 p.m. Eastern Time) to discuss the results and outlook.
+
+What: Tesla Third Quarter 2025 Financial Results Q&A Webcast
+When: Wednesday, October 22, 2025
+Time: 4:30 p.m. Central Time / 5:30 p.m. Eastern Time
+Q3 2025 Update: https://ir.tesla.com
+Webcast: https://ir.tesla.com (live and replay)
+
+The webcast will be archived on the company’s website following the call.
+
+Investor Relations Contact:
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+Tesla Announces Date for Third Quarter 2019 Financial Results and Webcast | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-announces-date-third-quarter-2019-financial-results-and)
+citeturn217search7 [wordlim: 200] Published: 7.0 years ago; Crawled: 2 days ago; 09, 2019 (GLOBE NEWSWIRE) -- Tesla will post its financial results for the third quarter of 2019 after market close on Wednesday, October 23, 2019. ... Tesla will hold a live question and answer webcast that day at 3:30pm Pacific Time (6:30pm Eastern Time) to discuss the Company’s financial and business results and outlook.
+
+## Tesla Announces Date for Third Quarter 2019 Financial Results and Webcast
+
+Globe Newswire
+
+Oct 9, 2019
+
+PALO ALTO, Calif., Oct. 09, 2019 (GLOBE NEWSWIRE) -- Tesla will post its financial results for the third quarter of 2019 after market close on Wednesday, October 23, 2019. At that time, Tesla will issue a brief advisory containing a link to the Q3 2019 Update Letter, which will be available on Tesla’s Investor Relations website. Tesla will hold a live question and answer webcast that day at 3:30pm Pacific Time (6:30pm Eastern Time) to discuss the Company’s financial and business results and outlook.
+
+What:  | Date of Tesla Q3 2019 Financial Results and Q&A Webcast
+When:  | Wednesday, October 23, 2019
+Time:  | 3:30pm Pacific Time / 6:30pm Eastern Time
+Shareholder Letter:   | http://ir.tesla.com
+Webcast:  | http://ir.tesla.com (live and replay)
+
+ 
+
+Approximately two hours after the Q&A session, an archived version of the webcast will be available on the Company’s website.--------------------------------------------------------------------------------
+Table of Contents (https://ir.tesla.com/_flysystem/s3/sec/000162828025045968/tsla-20250930-gen.pdf)
+citeturn217search16 [wordlim: 200] Published: 11 months ago; Crawled: last week; Between October 17, 2018 and March 8, 2021, seven derivative lawsuits were filed in the Delaware Court of Chancery, purportedly on behalf of Tesla, against Mr. ... On August 6, 2024, the plaintiffs in these three actions moved to consolidate the matters into a single case.
+The lawsuit has been stayed.
+
+*Certain Derivative Lawsuits in Delaware*
+
+Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and xAI. These suits assert various claims, including breach of fiduciary duty and breach of contract, and seek unspecified damages and other relief. On August 6, 2024, the plaintiffs in these three actions moved to consolidate the matters into a single case. The Court consolidated two of the three cases. Tesla and the directors filed motions to dismiss, and oral argument on those motions is scheduled for October 22, 2025.
+
+*Litigation and Investigations Relating to Alleged Discrimination and Harassment*
+
+On February 9, 2022, the California Civil Rights Department (“CRD,” formerly “DFEH”) filed a civil complaint against Tesla in Alameda County, California Superior Court, alleging systemic race discrimination, hostile work environment and pay equity claims, among others. CRD’s amended complaint seeks monetary damages and injunctive relief. The case is currently in discovery. No trial date is set but is expected to occur during 2026.
+
+Additionally, on June 1, 2022 the Equal Employment Opportunity Commission (“EEOC”) issued a cause finding against Tesla that closely parallels the CRD’s allegations. On September 28, 2023, the EEOC filed a civil complaint against Tesla in the United States District Court for the Northern District of California asserting claims for race harassment and retaliation and seeking, among other things, monetary and injunctive relief. The case is in discovery with no trial date set.
+
+23--------------------------------------------------------------------------------
+Tesla Vehicle Production & Deliveries and Date for Financial Results & Webcast for Third Quarter 2023 (https://ir.tesla.com/press-release/tesla-vehicle-production-deliveries-and-date-financial-results-webcast-third-quarter-2023)
+citeturn217search8 [wordlim: 200] Published: 3.0 years ago; Crawled: yesterday; AUSTIN, Texas, October 2, 2023 – In the third quarter, we produced over 430,000 vehicles and delivered over 435,000 vehicles.
+
+## Tesla Vehicle Production & Deliveries and Date for Financial Results & Webcast for Third Quarter 2023
+
+Business Wire
+
+Oct 2, 2023
+
+AUSTIN, Texas, October 2, 2023 – In the third quarter, we produced over 430,000 vehicles and delivered over 435,000 vehicles. A sequential decline in volumes was caused by planned downtimes for factory upgrades, as discussed on the most recent earnings call. Our 2023 volume target of around 1.8 million vehicles remains unchanged.
+
+ 
+
+   | Production  | Deliveries  | Subject to operating lease accounting
+Model S/X  | 13,688  | 15,985  | 8%
+Model 3/Y  | 416,800  | 419,074  | 4%
+Total  | 430,488  | 435,059  | 4%
+
+***
+
+Tesla will post its financial results for the third quarter of 2023 after market close on Wednesday, October 18, 2023. At that time, Tesla will issue a brief advisory containing a link to the Q3 2023 update, which will be available on Tesla’s Investor Relations website. Tesla management will hold a live question and answer webcast that day at 4:30 p.m. Central Time (5:30 p.m. Eastern Time) to discuss the Company’s financial and business results and outlook.
+
+What: Date of Tesla Q3 2023 Financial Results and Q&A Webcast
+When: Wednesday, October 18, 2023
+Time: 4:30 p.m. Central Time / 5:30 p.m. Eastern Time
+Q3 2023 Update: https://ir.tesla.com
+Webcast: https://ir.tesla.com (live and replay)
+Approximately two hours after the Q&A session, an archived version of the webcast will be available on the Company’s website.
+For additional information, please visit https://ir.tesla.com.
+
+Investor Relations Contact:
+[REDACTED_EMAIL]
+
+***
+
+Our net income and cash flow results will be announced along with the rest of our financial performance when we announce Q3 earnings. Tesla vehicle deliveries represent only one measure of the company’s financial performance and should not be relied on as an indicator of quarterly financial results, which depend on a variety of factors, including the cost of sales, foreign exchange movements and mix of directly leased vehicles.--------------------------------------------------------------------------------
+Tesla Announces Date for Third Quarter 2020 Financial Results and Webcast | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-announces-date-third-quarter-2020-financial-results-and-webcast)
+citeturn217search9 [wordlim: 200] Published: 6.0 years ago; Crawled: yesterday; PALO ALTO, Calif., October 8, 2020 – Tesla will post its financial results for the third quarter of 2020 after market close on Wednesday, October 21, 2020.
+--------------------------------------------------------------------------------
+Tesla Vehicle Production & Deliveries and Date for Financial Results & Webcast for Third Quarter 2022 | Tesla Investor Relations (https://ir.tesla.com/press-release/tesla-vehicle-production-deliveries-and-date-financial-results-webcast-third-quarter)
+citeturn217search10 [wordlim: 200] Published: 4.0 years ago; Crawled: yesterday; AUSTIN, Texas, October 2, 2022 – In the third quarter, we produced over 365,000 vehicles and delivered over 343,000 vehicles.
+--------------------------------------------------------------------------------
+UPDATE - Tesla Announces Date for Third Quarter 2018 Financial Results and Webcast | Tesla Investor Relations (https://ir.tesla.com/press-release/update-tesla-announces-date-third-quarter-2018-financial-results)
+citeturn217search11 [wordlim: 200] Published: 7.9 years ago; Crawled: yesterday; 22, 2018 (GLOBE NEWSWIRE) -- UPDATE: At the request of a number of analysts, we are moving the call by one hour to 3:30pm Pacific Time (6:30pm Eastern Time).Tesla will post its financial results for the third quarter of 2018 after market close on Wednesday, October 24, 2018.
+--------------------------------------------------------------------------------
+Please acknowledge and agree to the below by return email: (https://ir.tesla.com/_flysystem/s3/sec/000119312510259068/d10q-gen_0.pdf)
+citeturn217search17 [wordlim: 200] Published: 6.0 years ago; Crawled: 4 weeks ago; Re: Letter Agreement dated May 26, 2010 by and between New United Motor Manufacturing, Inc., a California corporation (Seller), and Tesla Motors, Inc., a Delaware corporation (Buyer) (the Original Letter Agreement), as amended by that certain Amendment No. 1 to Letter Agreement dated June 15, 2010 (Amendment No. 1), as amended by that certain e-mail agreement extending the Closing Date dated October 1, 2010 (Amendment No. 2, and together with the Original Letter Agreement and Amendment No. 1, the Letter Agreement). ... Exhibit 10.6 ... In the event of any inconsistency between the provisions of the Letter Agreement and this Amendment No. 4, the terms of this Amendment No. 4 shall control.
+

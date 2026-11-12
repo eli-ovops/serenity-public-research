@@ -1,0 +1,430 @@
+Consumer Price Index - 2026 M09 Results (https://www.bls.gov/news.release/cpi.toc.htm)
+citeturn451search0 [wordlim: 200] Crawled: today; Economic News Release ... CPI
+
+Economic News Release
+
+PRINT:
+
+CPI
+
+Consumer Price Index
+
+# Consumer Price Index
+
+* * *
+
+## Table of Contents
+
+Consumer Price Index Summary
+
+Table 1. Consumer Price Index for All Urban Consumers (CPI-U): U. S. city average, by expenditure category
+
+Table 2. Consumer Price Index for All Urban Consumers (CPI-U): U. S. city average, by detailed expenditure category
+
+Table 3. Consumer Price Index for All Urban Consumers (CPI-U): U. S. city average, special aggregate indexes
+
+Table 4. Consumer Price Index for All Urban Consumers (CPI-U): Selected areas, all items index
+
+Table 5. Chained Consumer Price Index for All Urban Consumers (C-CPI-U) and the Consumer Price Index for All Urban Consumers (CPI-U): U.S. city average, all items index
+
+Table 6. Consumer Price Index for All Urban Consumers (CPI-U): U.S. city average, by expenditure category, 1-month analysis table
+
+Table 7. Consumer Price Index for All Urban Consumers (CPI-U): U.S. city average, by expenditure category, 12-month analysis table
+
+HTML version of the entire news release
+
+The PDF version of the news release
+
+News release charts
+
+Supplemental Files Table of Contents
+
+Last Modified Date: October 14, 2026--------------------------------------------------------------------------------
+Week of 10/19/2026: Scramble for Downside Hedges Fuels VIX Surge Ahead of MegaCap Earnings | Cboe (https://www.cboe.com/insights/posts/week-of-10-19-2026-scramble-for-downside-hedges-fuels-vix-surge-ahead-of-mega-cap-earnings)
+citeturn451search1 [wordlim: 200] Published: yesterday; Crawled: today; # Week of 10/19/2026: Scramble for Downside Hedges Fuels VIX Surge Ahead of MegaCap Earnings ... October 19, 2026 ...   * Starting today, traders will get an extra 130 minutes per day to trade options on 29 large-cap stocks and ETFs, including SPY, QQQ, IWM, NVDA, TSLA, AAPL,INTC, MU,META, AMZN, AMD, MSFT, GOOGL, and more.
+
+# Week of 10/19/2026: Scramble for Downside Hedges Fuels VIX Surge Ahead of MegaCap Earnings
+
+Ed Tom
+
+|
+
+October 19, 2026
+
+Link to Report: Macro Volatility Digest
+
+WHAT STANDS OUT:
+
+  * Implied volatilities were mixed across major asset classes last week as hotter-than-expected September CPI and PPI reports revived Fed rate-hike fears and collided with mounting worries about debt-funded AI spending. Despite hotter-than-expected readings in core CPI and headline PPI, interest-rate volatility held steady. The MOVE Index hovered in a tight 99–102 range (92nd–94th percentile) all week, a sign the rates market had already priced in this scenario. The 10-year Treasury yield briefly jumped to 5.33% after the CPI release, then reversed on safe-haven demand to finish the week down 15 bp at 5.10%.
+  * Credit volatility rose last week (VIXHY & VIXIG climbed in tandem from 75th to 86th percentile highs) as investors repriced the debt-funded AI buildout not only for CoreWeave and other high-yield AI firms, but also for investment-grade borrowers such as Oracle and the capex-intensive hyperscalers.
+  * The VIX^{®} Index rose 5 pts w/w to 20, outpacing the move implied by skew by 3.5 pts; driven primarily by demand for downside convexity. The strong demand for downside protection steepened 1M S&P-500 Index 30-delta skew from 15th percentile lows to 82nd percentile highs. The overall demand for optionality accelerated into the weekend: Friday’s SPX and XSP options volume was the 4th- and 5th-highest on record.
+  * Starting today, traders will get an extra 130 minutes per day to trade options on 29 large-cap stocks and ETFs, including SPY, QQQ, IWM, NVDA, TSLA, AAPL,INTC, MU,META, AMZN, AMD, MSFT, GOOGL, and more. For full list, see here. This new session runs from 730AM ET until 925AM, with trading extended an additional 15 minutes at the end of the day for the non-ETF symbols.
+
+Chart: VIX Higher w/w on Demand for Tail Convexity & Core Hedges
+
+Image
+
+^{Source: Cboe}
+
+[Download Full Report Here]--------------------------------------------------------------------------------
+Consumer Price Index Summary - 2026 M09 Results (https://www.bls.gov/news.release/cpi.nr0.htm)
+citeturn451search2 [wordlim: 200] Published: 6 days ago; Crawled: today; (ET) Wednesday, October 14, 2026          USDL-26-1574 ...     The Chained Consumer Price Index for All Urban Consumers (C-CPI-U) increased 3.5 percent over the last 12 months. ...     The Consumer Price Index news release for October 2026 is scheduled to be published on Tuesday, November 10, 2026, at 8:30 a.m. ...     included in the CPI-U definition that meet two requirements: more than one-half of the household's income must come ...     Percent change              9.0/112.500 x 100 = 8.0  18.0/225.000 x 100 = 8.0   18.0/110.000 x 100 = 16.4 ...     pricing after the worldwide economic downturn in 2008. ...     If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications relay
+
+# Consumer Price Index Summary
+    
+    Transmission of material in this release is embargoed until                                        
+    8:30 a.m. (ET) Wednesday, October 14, 2026          USDL-26-1574
+    	
+    Technical information: (202) 691-7000  *  [REDACTED_EMAIL]  *  www.bls.gov/cpi
+    Media contact:         (202) 691-5902  *  [REDACTED_EMAIL] 
+    
+    CONSUMER PRICE INDEX - SEPTEMBER 2026
+    
+    The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.6 percent on a seasonally adjusted basis in 
+    September after rising 0.4 percent in August, the U.S. Bureau of Labor Statistics reported today. Over the last 12 
+    months, the all items index increased 3.7 percent before seasonal adjustment.
+    
+    The index for gasoline rose 9.1 percent in September, accounting for over half of the monthly all items increase. The 
+    energy index increased 5.2 percent over the month following a 2.1-percent increase in August. The shelter index rose 0.4 
+    percent in September after rising 0.3 percent in August. The index for food was unchanged in September, as the index for 
+    food away from home increased 0.2 percent and the index for food at home fell 0.1 percent. 
+    
+    The index for all items less food and energy rose 0.3 percent in September, as it did in August. Indexes that increased 
+    over the month include recreation, used cars and trucks, education, airline fares, medical care, and apparel. Conversely, 
+    the index for communication was among the small number of major indexes that decreased in September.
+    
+    The all items index rose 3.7 percent for the 12 months ending September, a larger increase than the 3.4-percent increase 
+    reported for the 12 months ending in August. The all items less food and energy index rose 2.6 percent over the year, 
+    following a 2.4-percent increase over the 12 months ending August. The energy index increased 20.4 percent for the 12 
+    months ending September. The food index increased 2.5 percent over the last year. 
+
+Table A. Percent changes in CPI for All Urban Consumers (CPI-U): U.S. city average
+ | Seasonally adjusted changes from preceding month  | Un-
+adjusted
+12-mos.
+ended
+Sep. 2026
+--- | --- | ---
+Mar.
+2026  | Apr.
+2026  | May
+2026  | Jun.
+2026  | Jul.
+2026  | Aug.
+2026  | Sep.
+2026
+--- | --- | --- | --- | --- | --- | ---
+All items  | 0.9  | 0.6  | 0.5  | -0.4  | 0.1  | 0.4  | 0.6  | 3.7
+Food  | 0.0  | 0.5  | 0.2  | 0.2  | 0.1  | 0.1  | 0.0  | 2.5
+Food at home  | -0.2  | 0.7  | 0.1  | 0.2  | -0.1  | 0.0  | -0.1  | 1.8
+Food away from home(1)  | 0.2  | 0.2  | 0.3  | 0.2  | 0.3  | 0.3  | 0.2  | 3.5
+Energy  | 10.9  | 3.8  | 3.9  | -5.7  | -1.5  | 2.1  | 5.2  | 20.4
+Energy commodities  | 21.3  | 5.6  | 6.7  | -9.5  | -2.9  | 4.2  | 9.3  | 35.3
+Gasoline (all types)  | 21.2  | 5.4  | 7.0  | -9.7  | -2.9  | 3.9  | 9.1  | 34.2
+Fuel oil  | 30.7  | 5.8  | 3.8  | -9.2  | -1.7  | 10.1  | 15.3  | 74.2
+Energy services  | 0.4  | 1.6  | 0.4  | -0.7  | 0.3  | -0.4  | 0.1  | 4.6
+    
+    The food away from home index rose 3.5 percent over the last year. The index for full service meals rose 3.8 percent, and 
+    the index for limited service meals rose 3.2 percent over the 12 months ending in September. 
+    
+    Energy
+    
+    The index for energy increased 5.2 percent in September after rising 2.1 percent in August. The gasoline index increased 
+    9.1 percent over the month. (Before seasonal adjustment, gasoline prices increased 6.5 percent in September.) The index 
+    for electricity rose 0.2 percent over the month. In contrast, the natural gas index decreased 0.3 percent in September.
+    
+    The index for energy increased 20.4 percent over the past 12 months due in large part to the index for gasoline rising 
+    34.2 percent over the same period. The natural gas index increased 5.0 percent over the 12 months ending in September, 
+    and the electricity index rose 4.4 percent. 
+    
+    All items less food and energy
+    
+    The index for all items less food and energy rose 0.3 percent in September, as it did in August.     furnishings and operations was unchanged over the month.
+    
+    The index for all items less food and energy rose 2.6 percent over the past 12 months. The shelter index increased 3.2 
+    percent over the last year. Other indexes with notable increases over the last year include airline fares (+22.4 percent), 
+    recreation (+2.8 percent), medical care (+1.5 percent), and education (+3.8 percent).
+    
+    Not seasonally adjusted CPI measures
+    
+    The Consumer Price Index for All Urban Consumers (CPI-U) increased 3.7 percent over the last 12 months to an index level 
+    of 336.940 (1982-84=100). For the month, the index rose 0.6 percent prior to seasonal adjustment.  
+    
+    The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) increased 3.9 percent over the last 12 months 
+    to an index level of 330.654 (1982-84=100). For the month, the index increased 0.7 percent prior to seasonal adjustment.  
+    
+    The Chained Consumer Price Index for All Urban Consumers (C-CPI-U) increased 3.5 percent over the last 12 months. For the 
+    month, the index increased 0.5 percent on a not seasonally adjusted basis. Please note that the indexes for the past 10 
+    to 12 months are subject to revision. 
+    _______________
+    The Consumer Price Index news release for October 2026 is scheduled to be published on Tuesday, November 10, 2026, at 8:30 a.m. (ET).
+    
+    Technical Note
+    
+    Brief Explanation of the CPI
+    The Consumer Price Index (CPI) measures the change in prices paid by consumers for goods and services. The CPI reflects
+    spending patterns for each of two population groups: all urban consumers and urban wage earners and clerical workers.
+    The all urban consumer group represents over 90 percent of the total U.S. population. It is based on the expenditures
+    of almost all residents of urban or metropolitan areas, including professionals, the self-employed, the poor, the
+    unemployed, and retired people, as well as urban wage earners and clerical workers. Not included in the CPI are the
+    spending patterns of people living in rural nonmetropolitan areas, farming families, people in the Armed Forces, and
+    those in institutions, such as prisons and mental hospitals. Consumer inflation for all urban consumers is measured by
+    two indexes, namely, the Consumer Price Index for All Urban Consumers (CPI-U) and the Chained Consumer Price Index for
+    All Urban Consumers (C-CPI-U). 
+    
+    The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) is based on the expenditures of households
+    included in the CPI-U definition that meet two requirements: more than one-half of the household's income must come
+    from clerical or wage occupations, and at least one of the household's earners must have been employed for at least 37
+    weeks during the previous 12 months. The CPI-W population represents approximately 30 percent of the total U.S.
+    population and is a subset of the CPI-U population.
+    
+    The CPIs are based on prices of food, clothing, shelter, fuels, transportation, doctors' and dentists' services, drugs,
+    and other goods and services that people buy for day-to-day living. Prices are collected each month in 75 urban areas
+    across the country from about 6,000 housing units and approximately 22,000 retail establishments (department stores,
+    
+    How to Use Seasonally Adjusted and Unadjusted Data
+    
+    For analyzing short-term price trends in the economy, seasonally adjusted changes are usually preferred since they
+    eliminate the effect of changes that normally occur at the same time and in about the same magnitude every year-such as
+    price movements resulting from weather events, production cycles, model changeovers, holidays, and sales. This allows
+    data users to focus on changes that are not typical for the time of year. 
+    
+    The unadjusted data are of primary interest to consumers concerned about the prices they actually pay. Unadjusted data
+    are also used extensively for escalation purposes. Many collective bargaining contract agreements and pension plans,
+    for example, tie compensation changes to the Consumer Price Index before adjustment for seasonal variation. BLS advises
+    against the use of seasonally adjusted data in escalation agreements because seasonally adjusted series are revised
+    annually for five years.
+    
+    Intervention Analysis
+    
+    The Bureau of Labor Statistics uses intervention analysis seasonal adjustment (IASA) for some CPI series. Sometimes
+    extreme values or sharp movements can distort the underlying seasonal pattern of price change. Intervention analysis
+    seasonal adjustment is a process by which the distortions caused by such unusual events are estimated and removed from
+--------------------------------------------------------------------------------
+CES Preliminary Benchmark Announcement (https://www.bls.gov/web/empsit/cesprelbmk.htm?mod=article_inline)
+citeturn451search3 [wordlim: 200] Crawled: last month; The Preliminary Benchmark Revision news release will be available on August 28, 2026, at 10:00 a.m.
+
+# CES Preliminary Benchmark Announcement
+
+The Preliminary Benchmark Revision news release will be available on August 28, 2026, at 10:00 a.m. Eastern Time at the following location: www.bls.gov/news.release/prebmk.nr0.htm.
+
+Last Modified Date: August 27, 2026--------------------------------------------------------------------------------
+Speech by Chair Powell on the economic outlook (https://www.federalreserve.gov/newsevents/speech/files/powell20241114a.pdf)
+citeturn451search12 [wordlim: 200] Published: 1.9 years ago; Crawled: 1.9 years ago; This cooling and the substantial improvement in broader supply conditions have brought inflation down significantly over the past two years from its mid-2022 peak above 7 percent. ... Estimates based on the consumer price index and other data released this week indicate that total PCE prices rose 2.3 percent over the 12 months ending in October and that, excluding the volatile food and energy categories, core PCE prices rose 2.8 percent.
+- 2 -
+
+*The labor market*
+
+The labor market remains in solid condition, having cooled off from the significantly overheated conditions of a couple of years ago, and is now by many metrics back to more normal levels that are consistent with our employment mandate. The number of job openings is now just slightly above the number of unemployed Americans seeking work. The rate at which workers quit their jobs is below the pre-pandemic pace, after touching historic highs two years ago. Wages are still increasing, but at a more sustainable pace. Hiring has slowed from earlier in the year. The most recent jobs report for October reflected significant effects from hurricanes and labor strikes, making it difficult to get a clear signal. Finally, at 4.1 percent, the unemployment rate is notably higher than a year ago but has flattened out in recent months and remains historically low.
+
+*Inflation*
+
+The labor market has cooled to the point where it is no longer a source of significant inflationary pressures. This cooling and the substantial improvement in broader supply conditions have brought inflation down significantly over the past two years from its mid-2022 peak above 7 percent. Progress on inflation has been broad based. Estimates based on the consumer price index and other data released this week indicate that total PCE prices rose 2.3 percent over the 12 months ending in October and that, excluding the volatile food and energy categories, core PCE prices rose 2.8 percent. Core measures of goods and services inflation, excluding housing, fell rapidly over the past two years and have returned to rates closer to those consistent with our goals. We expect that these rates will continue to fluctuate in their recent ranges. We are watching--------------------------------------------------------------------------------
+Speech by Chair Powell on inflation and the labor market - Federal Reserve Board (https://www.federalreserve.gov/newsevents/speech/powell20221130a.htm)
+citeturn451search4 [wordlim: 200] Published: 3.9 years ago; Crawled: 7 months ago; Powell ... Today I will offer a progress report on the Federal Open Market Committee's (FOMC) efforts to restore price stability to the U.S. economy for the benefit of the American people. ... We currently estimate that 12-month personal consumption expenditures (PCE) inflation through October ran at 6.0 percent (figure 1). ... Over 2022, core inflation rose a few tenths above 5 percent and fell a few tenths below, but it mainly moved sideways.
+In particular, without price stability, we will not achieve a sustained period of strong labor market conditions that benefit all.
+
+We currently estimate that 12-month personal consumption expenditures (PCE) inflation through October ran at 6.0 percent (figure 1).^{1} While October inflation data received so far showed a welcome surprise to the downside, these are a single month's data, which followed upside surprises over the previous two months. As figure 1 makes clear, down months in the data have often been followed by renewed increases. It will take substantially more evidence to give comfort that inflation is actually declining. By any standard, inflation remains much too high.
+
+For purposes of this discussion, I will focus my comments on core PCE inflation, which omits the food and energy inflation components, which have been lower recently but are quite volatile. Our inflation goal is for total inflation, of course, as food and energy prices matter a great deal for household budgets. But core inflation often gives a more accurate indicator of where overall inflation is headed. Twelve-month core PCE inflation stands at 5.0 percent in our October estimate, approximately where it stood last December when policy tightening was in its early stages. Over 2022, core inflation rose a few tenths above 5 percent and fell a few tenths below, but it mainly moved sideways. So when will inflation come down?
+
+I could answer this question by pointing to the inflation forecasts of private-sector forecasters or of FOMC participants, which broadly show a significant decline over the next year. But forecasts have been predicting just such a decline for more than a year, while inflation has moved stubbornly sideways. The truth is that the path ahead for inflation remains highly uncertain. For now, let's put aside the forecasts and look instead to the macroeconomic conditions we think we need to see to bring inflation down to 2 percent over time.
+
+--------------------------------------------------------------------------------
+Global X | Closing Bell 10-19-26 (https://www.cboe.com/video/ixe7rrqxbw/)
+citeturn451search5 [wordlim: 200] Published: yesterday; Crawled: today; October 19, 2026
+
+## Video
+
+  * Most Recent
+  * Cboe Listed
+  * Market News
+  * RMC
+  * Products & News
+
+# Global X | Closing Bell 10-19-26
+
+October 19, 2026--------------------------------------------------------------------------------
+The Fed - Monetary Policy: (https://www.federalreserve.gov/monetarypolicy/fomcminutes20221214.htm)
+citeturn451search6 [wordlim: 200] Published: 3.9 years ago; Crawled: last month; Total PCE price inflation was 6.0 percent over the 12 months ending in October, 0.3 percentage point below the September figure. ... Foreign economic activity grew at a moderate pace in the third quarter, but more recent data pointed to weakening growth, weighed down by the economic fallout of Russia's war against Ukraine and a COVID-19-related slowdown in China. ... Over the intermeeting period, Treasury yields and measures of inflation compensation declined, on net, and the implied path of the federal funds rate in 2023 ended modestly lower.
+Consumer price inflation remained elevated but had eased in recent months. Total PCE price inflation was 6.0 percent over the 12 months ending in October, 0.3 percentage point below the September figure. Core PCE price inflation, which excludes changes in consumer energy prices and many consumer food prices, was 5.0 percent over the 12 months ending in October, down 0.2 percentage point from its September reading. The trimmed mean measure of 12-month PCE price inflation constructed by the Federal Reserve Bank of Dallas remained at 4.7 percent in October. In November, the 12-month change in the CPI stepped down to 7.1 percent and core CPI inflation dropped to 6.0 percent. The CPI, along with data from the producer price index, pointed to a further slowing in PCE price inflation in November. A preliminary estimate of the staff's common inflation expectations index, which combines information from many indicators of inflation expectations and inflation compensation, edged down in the fourth quarter but continued to be above pre-pandemic levels.
+--------------------------------------------------------------------------------
+The Fed - Monetary Policy: (https://www.federalreserve.gov/monetarypolicy/fomcminutes20181219.htm)
+citeturn451search7 [wordlim: 200] Published: 7.8 years ago; Crawled: last month; The nominal U.S. international trade deficit widened slightly in October. ... The consumer price index (CPI) rose 2.2 percent over the 12 months ending in November, and core CPI inflation was also 2.2 percent. ... implied path for the federal funds rate for 2019 and 2020 shifted down markedly, while the market-implied probability for a rate hike at the December FOMC meeting declined slightly though remained high. ... Investor perceptions of increased downside risks to the outlooks for domestic and foreign economic growth, including growing concerns over trade frictions between the United States and China, reportedly weighed on yields.Measures of inflation compensation derived from TIPS also decreased notably over the period along with the declines in oil prices.
+Total U.S. consumer prices, as measured by the PCE price index, increased 2 percent over the 12 months ending in October. Core PCE price inflation, which excludes changes in consumer food and energy prices, was 1.8 percent over that same period. The consumer price index (CPI) rose 2.2 percent over the 12 months ending in November, and core CPI inflation was also 2.2 percent. Recent readings on survey-based measures of longer-run inflation expectations--including those from the Michigan survey, the Survey of Professional Forecasters, and the Desk's Survey of Primary Dealers and Survey of Market Participants--were little changed on balance.
+
+Foreign economic growth continued at a moderate pace in the third quarter, as a pickup in emerging market economies (EMEs) roughly offset slowing growth in advanced foreign economies (AFEs). Among EMEs, growth in Mexico and Brazil bounced back from transitory second-quarter weakness, more than offsetting a slowdown in China and India. The softness in AFE growth partly reflected temporary factors, including disruptions from natural disasters in Japan and the adoption of new car emissions testing in Germany. --------------------------------------------------------------------------------
+The Fed - Meeting calendars and information (https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm?categoryId=1&orient=1)
+citeturn451search8 [wordlim: 200] Crawled: 2 months ago; 2026 | 2025 | 2024 | 2023 | 2022 | 2021 ... (Released August 19, 2026) ... October
+
+Minutes:
+PDF | HTML
+(Released February 18, 2026)
+
+March
+
+17-18*
+
+Statement:
+PDF | HTML
+Implementation Note
+
+Press Conference
+Projection Materials
+PDF | HTML
+
+Minutes:
+PDF | HTML
+(Released April 08, 2026)
+
+April
+
+28-29
+
+Statement:
+PDF | HTML
+Implementation Note
+
+Press Conference
+
+Minutes:
+PDF | HTML
+(Released May 20, 2026)
+
+June
+
+16-17*
+
+Statement:
+PDF | HTML
+Implementation Note
+
+Press Conference
+Projection Materials
+PDF | HTML
+
+Minutes:
+PDF | HTML
+(Released July 08, 2026)
+
+July
+
+28-29
+
+Statement:
+PDF | HTML
+Implementation Note
+
+Press Conference
+
+Minutes:
+PDF | HTML
+(Released August 19, 2026)
+
+September
+
+15-16*
+
+October
+
+27-28
+
+December
+
+8-9*
+
+* Meeting associated with a Summary of Economic Projections.
+
+--------------------------------------------------------------------------------
+Consumer Price Indexes News Releases : U.S. Bureau of Labor Statistics (https://www.bls.gov/regions/subjects/consumer-price-indexes.htm)
+citeturn451search9 [wordlim: 200] Crawled: today;   * Consumer Price Indexes News Releases ...   * Release unavailable
+  * Consumer Price Indexes News Releases
+
+# Consumer Price Indexes News Releases
+
+Alabama
+
+  * Release unavailable
+  * Other BLS products for Alabama
+
+Alaska
+
+  * Consumer Price Index, Anchorage area — August 2026
+  * Other BLS products for Alaska
+
+Arizona
+
+  * Consumer Price Index, Phoenix area — August 2026
+  * Other BLS products for Arizona
+
+Arkansas
+
+  * Release unavailable
+  * Other BLS products for Arkansas
+
+California
+
+  * Consumer Price Index, San Diego Area — September 2026
+  * Consumer Price Index, Riverside Area — September 2026
+  * Consumer Price Index, Los Angeles area — September 2026
+  * Consumer Price Index, San Francisco Area — August 2026
+  * Other BLS products for California
+
+Colorado
+
+  * Consumer Price Index, Denver-Aurora-Lakewood area — September 2026
+  * Other BLS products for Colorado
+
+Connecticut
+
+  * Release unavailable
+  * Other BLS products for Connecticut
+--------------------------------------------------------------------------------
+The Fed - Monetary Policy: (https://www.federalreserve.gov/monetarypolicy/fomcminutes20231213.htm?ftag=MSFd61514f)
+citeturn451search10 [wordlim: 200] Published: 2.9 years ago; Crawled: last month; The price index for total personal consumption expenditures (PCE) increased 3.0 percent over the 12 months ending in October, while core PCE inflation—which excludes changes in energy prices and many consumer food prices—was 3.5 percent over the same period; both total and core PCE inflation were well below their year-earlier levels. ... The trimmed mean measure of 12-month PCE inflation constructed by the Federal Reserve Bank of Dallas was 3.6 percent in October, also down from its level a year ago.
+Consumer price inflation remained elevated but continued to show notable signs of easing. The price index for total personal consumption expenditures (PCE) increased 3.0 percent over the 12 months ending in October, while core PCE inflation—which excludes changes in energy prices and many consumer food prices—was 3.5 percent over the same period; both total and core PCE inflation were well below their year-earlier levels. The six-month change measures of total and core PCE inflation in October were each 2.5 percent, down from their levels six months earlier. The trimmed mean measure of 12-month PCE inflation constructed by the Federal Reserve Bank of Dallas was 3.6 percent in October, also down from its level a year ago. In November, the 12-month change in the consumer price index (CPI) was 3.1 percent, core CPI rose 4.0 percent over the same period, and both measures were well below their year-earlier levels. Recent survey measures of medium- to longer-term inflation expectations were in the range seen in the decade before the pandemic. --------------------------------------------------------------------------------
+The Fed - Monetary Policy: (https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm)
+citeturn451search11 [wordlim: 200] Published: last month; Crawled: last week; September 15–16, 2026 ... Asset prices were affected by economic data that pointed to a resilient economy with persistent inflation, an escalation of geopolitical tensions that pushed up energy prices, and policy communications. ... Powell, and Christopher J. ... It was agreed that the next meeting of the Committee would be held on Tuesday–Wednesday, October 27–28, 2026.
+Bowman, Lisa D. Cook, Beth M. Hammack, Philip N. Jefferson, Neel Kashkari, Lorie K. Logan, Anna Paulson, Jerome H. Powell, and Christopher J. Waller.
+
+Voting against this action: None.
+
+Consistent with the Committee's decision to raise the target range for the federal funds rate to 3-3/4 to 4 percent, the Board of Governors of the Federal Reserve System voted unanimously to raise the interest rate paid on reserve balances to 3.90 percent, effective September 17, 2026. The Board of Governors of the Federal Reserve System voted unanimously to approve a 1/4 percentage point increase in the primary credit rate to 4.0 percent, effective September 17, 2026.^{2}
+
+It was agreed that the next meeting of the Committee would be held on Tuesday–Wednesday, October 27–28, 2026. The meeting adjourned at 10:15 a.m. on September 16, 2026.
+
+Notation Vote
+By notation vote completed on August 18, 2026, the Committee unanimously approved the minutes of the Committee meeting held on July 28–29, 2026.
+
+Attendance
+Kevin Warsh, Chairman
+John C. Williams, Vice Chair
+Michael S. Barr
+Michelle W. Bowman
+Lisa D. Cook
+Beth M. Hammack
+Philip N. Jefferson
+Neel Kashkari
+Lorie K. Logan
+Anna Paulson
+Jerome H. Powell
+Christopher J. Waller
+
+--------------------------------------------------------------------------------
+Transcript of Chair Powell's Press Conference -- October 29, 2025 (https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20251029.pdf)
+citeturn451search13 [wordlim: 200] Published: 11 months ago; October 29, 2025  Chair Powell’s Press Conference  FINAL ... Near-term measures of inflation expectations have moved up, on balance, over the course of this year on news about tariffs, as reflected in both market- and survey-based measures.
+--------------------------------------------------------------------------------
+SR-CBOE-2026-014 (https://cdn.cboe.com/resources/regulation/rule_filings/approved/2026/SR-CBOE-2026-014.pdf)
+citeturn451search14 [wordlim: 200] Published: 8 months ago; SR-CBOE-2026-014 ... <tr><th colspan="9">VIX Value at Prior to Close &lt; 18</th></tr>
+--------------------------------------------------------------------------------
+Transcript of Chair Powell's Press Conference -- December 18, 2024 (https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20241218.pdf)
+citeturn451search15 [wordlim: 200] Published: 1.8 years ago; December 18, 2024  Chair Powell’s Press Conference  FINAL ... And we, what we had was—we had four months of really nice readings, and then September and October were higher, but then November is much lower. ... You previously predicted hitting the 2 percent inflation target in 2026.
+--------------------------------------------------------------------------------
+Page 4
+
+# Futures and Options on the VIX® Index (https://cdn.cboe.com/resources/futures/VIX_fact_sheet_2019.pdf)
+citeturn451search16 [wordlim: 200] Published: 6.7 years ago; Volatile Months and Seasonality In the chart below showing the averages of the high, low, and closing VIX Index values per month, October had the highest values, and May, June and July had some of the lowest values. ... Feb: high 24.2, close 19.2, low 16.6.
+--------------------------------------------------------------------------------
+Transmission of material in this release is embargoed until (https://www.bls.gov/news.release/pdf/cpi.pdf?aff_unique2=unknown&aff_unique3=t10tLRYS8&code=unknown&testcode=t10tLRYS8)
+citeturn451search17 [wordlim: 200] Published: 1.8 years ago; Transmission of material in this release is embargoed until ... Technical information: (202) 691-7000  •  [REDACTED_EMAIL]  •  www.bls.gov/cpi ... The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.3 percent on a seasonally
+

@@ -1,0 +1,147 @@
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1030894/000103089426000043/cls-20260630prcondensedfs.htm)
+citeturn512view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn511view0","pattern":"326.3"}); Total lines: 477
+L446: Proceeds from sale of assets  |  | —   |  |  | —   |  |  | 11.1   |  |  | —   |
+L447: Other  |  | (2.5)  |  |  | (2.5)  |  |  | (2.5)  |  |  | (2.5)  |
+L448: Net cash used in investing activities  |  | (266.3)  |  |  | (35.0)  |  |  | (484.7)  |  |  | (71.7)  |
+L449:  |  |  |  |  |  |  |  |
+L450: Financing activities:  |  |  |  |  |  |  |  |
+L451: Borrowings under revolving loans  |  | 430.0   |  |  | 190.0   |  |  | 600.0   |  |  | 500.0   |
+L452: Repayments under revolving loans  |  | (430.0)  |  |  | (250.0)  |  |  | (600.0)  |  |  | (410.0)  |
+L453: Borrowings under term loans  |  | 250.0   |  |  | —   |  |  | 250.0   |  |  | —   |
+L454: Repayments under term loans  |  | (229.3)  |  |  | (4.3)  |  |  | (233.7)  |  |  | (8.7)  |
+L455: Principal payments of finance leases  |  | (2.0)  |  |  | (2.6)  |  |  | (5.0)  |  |  | (5.2)  |
+L456: Proceeds from issuance of capital stock  |  | —   |  |  | 0.3   |  |  | —   |  |  | 0.3   |
+L457: Repurchase of capital stock for cancellation  |  | —   |  |  | (40.0)  |  |  | (22.6)  |  |  | (117.7)  |
+L458: Purchase of treasury stock for SBC plans  |  | —   |  |  | —   |  |  | —   |  |  | (221.6)  |
+L459: Proceeds from TRS settlement  |  | —   |  |  | —   |  |  | —   |  |  | 98.6   |
+L460: SBC cash settlement  |  | (0.8)  |  |  | —   |  |  | (326.3)  |  |  | (156.0)  |
+L461: Debt issuance costs paid  |  | (4.8)  |  |  | —   |  |  | (4.8)  |  |  | (0.2)  |
+L462: Net cash provided by (used in) financing activities  |  | 13.1   |  |  | (106.6)  |  |  | (342.4)  |  |  | (320.5)  |
+L463:  |  |  |  |  |  |  |  |
+L464: Net increase (decrease) in cash and cash equivalents  |  | 157.7   |  |  | 10.8   |  |  | (59.9)  |  |  | (109.5)  |
+L465: Cash and cash equivalents, beginning of period  |  | 378.0   |  |  | 303.0   |  |  | 595.6   |  |  | 423.3   |
+L466: Cash and cash equivalents, end of period  |  | $  | 535.7   |  |  | $  | 313.8   |  |  | $  | 535.7   |  |  | $  | 313.8   |
+L467:  |  |  |  |  |  |  |  |
+L468: Supplemental disclosure information:  |  |  |  |  |  |  |  |
+L469: Interest paid  |  | $  | 20.8   |  |  | $  | 12.5   |  |  | $  | 39.3   |  |  | $  | 27.3   |
+L470: Net income taxes paid  |  | $  | 74.7   |  |  | $  | 50.6   |  |  | $  | 145.5   |  |  | $  | 56.2   |
+L471: Non-cash investing activity:  |  |  |  |  |  |  |  |
+L472: Unpaid purchases of property, plant and equipment at end of period  |  | $  | 180.0   |  |  | $  | 31.4   |  |  | $  | 180.0   |  |  | $  | 31.4   |
+L473:  |  |  |  |  |  |  |  |
+L474:  | 3  |
+L475: 
+L476: * * *
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1030894/000103089426000043/cls-20260630prcondensedfs.htm)
+citeturn512view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn511view0","pattern":"767.2"}); Total lines: 477
+L210: Adjustments for taxes(1)  | (0.7)  |  |  |  | 6.3   |  |  |  | (16.4)  |  |  |  | (0.2)  |  |
+L211: Adjusted net earnings (non-GAAP)  | $  | 295.4   |  | 6.3   | %  |  | $  | 161.2   |  | 5.6   | %  |  | $  | 544.9   |  | 6.2   | %  |  | $  | 301.3   |  | 5.4   | %
+L212:  |  |  |  |  |  |  |  |  |  |  |
+L213: Diluted EPS  |  |  |  |  |  |  |  |  |  |  |
+L214: Weighted average # of shares (in millions)  | 116.2   |  |  |  | 115.9   |  |  |  | 116.0   |  |  |  | 116.4   |  |
+L215: GAAP EPS  | $  | 3.17   |  |  |  | $  | 1.82   |  |  |  | $  | 5.01   |  |  |  | $  | 2.55   |  |
+L216: Adjusted EPS (non-GAAP)  | $  | 2.54   |  |  |  | $  | 1.39   |  |  |  | $  | 4.70   |  |  |  | $  | 2.59   |  |
+L217: # of shares outstanding at period end (in millions)  | 115.0   |  |  |  | 115.0   |  |  |  | 115.0   |  |  |  | 115.0   |  |
+L218:  |  |  |  |  |  |  |  |  |  |  |
+L219: GAAP cash provided by operations  | $  | 410.9   |  |  |  | $  | 152.4   |  |  |  | $  | 767.2   |  |  |  | $  | 282.7   |  |
+L220: Purchase of property, plant and equipment, net of sales proceeds  | (263.8)  |  |  |  | (32.5)  |  |  |  | (482.2)  |  |  |  | (69.2)  |  |
+L221: Free cash flow (non-GAAP)  | $  | 147.1   |  |  |  | $  | 119.9   |  |  |  | $  | 285.0   |  |  |  | $  | 213.5   |  |
+L222:  |  |  |  |  |  |  |  |  |  |  |
+L223: GAAP ROIC %  | 65.8   | %  |  |  | 45.0   | %  |  |  | 53.9   | %  |  |  | 33.2   | %  |
+L224: Adjusted ROIC % (non-GAAP)  | 55.5   | %  |  |  | 35.5   | %  |  |  | 52.5   | %  |  |  | 33.3   | %  |
+L225: (1)    The adjustments for taxes represent the tax effects (reflecting applicable effective tax rates) of the non-core items, which include our non-GAAP adjustments above.
+L226: Our GAAP effective tax rate is calculated as (i) GAAP tax expense divided by (ii) earnings from operations minus finance costs, net of interest income, and Miscellaneous Expense (Income) recorded on our statements of operations. Our adjusted effective tax rate (non-GAAP) is calculated as (i) adjusted tax expense (non-GAAP) divided by (ii) adjusted
+L227: 
+L228:  |  |  |  |  |  |  |  |
+L229:  | viii  | more...
+L230: 
+L231: * * *
+L232: operating earnings (non-GAAP) minus finance costs, net of interest income. The following table sets forth, for the periods indicated, our calculation of GAAP effective tax rate and adjusted effective tax rate (non-GAAP):
+L233:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L234:  | Three months ended  |  | Six months ended
+L235:  | June 30  |  | June 30
+L236:  | 2026  |  | 2025  |  | 2026  |  | 2025
+L237:  |  |  |  |  |  |  |
+L238:  |  |  |  |  |  |  |
+L239:  |  |  |  |  |  |  |
+L240:  |  |  |  |  |  |  |
+L241:  |  |  |  |  |  |  |
+L242:  |  |  |  |  |  |  |
+L243:  |  |  |  |  |  |  |
+L244:  |  |  |  |  |  |  |
+L245:  |  |  |  |  |  |  |
+L246:  |  |  |  |  |  |  |
+L247:  |  |  |  |  |  |  |
+L429: Depreciation and amortization  |  | 44.0   |  |  | 45.3   |  |  | 83.6   |  |  | 82.7   |
+L430: Stock-based compensation (SBC)  |  | 19.3   |  |  | 15.2   |  |  | 49.8   |  |  | 41.2   |
+L431: Total return swap (TRS) fair value adjustments  |  | (104.1)  |  |  | (97.4)  |  |  | (87.1)  |  |  | (78.3)  |
+L434: Deferred income taxes  |  | (22.0)  |  |  | (14.9)  |  |  | (48.6)  |  |  | (15.0)  |
+L435: Other  |  | (3.7)  |  |  | 12.2   |  |  | 2.8   |  |  | 18.4   |
+L436: Changes in non-cash working capital items:  |  |  |  |  |  |  |  |
+L437: Accounts receivable  |  | (170.8)  |  |  | (151.9)  |  |  | (700.1)  |  |  | (218.8)  |
+L438: Inventories  |  | (728.8)  |  |  | (129.8)  |  |  | (1,213.7)  |  |  | (157.5)  |
+L439: Other current assets  |  | (17.1)  |  |  | (9.4)  |  |  | 12.7   |  |  | (6.4)  |
+L440: Accounts payable, accrued and other current liabilities, provisions and income taxes payable  |  | 1,025.3   |  |  | 270.4   |  |  | 2,096.7   |  |  | 316.2   |
+L441: Net cash provided by operating activities  |  | 410.9   |  |  | 152.4   |  |  | 767.2   |  |  | 282.7   |
+L442:  |  |  |  |  |  |  |  |
+L443: Investing activities:  |  |  |  |  |  |  |  |
+L444:  |  |  |  |  |  |  |  |
+L445: Purchase of property, plant and equipment  |  | (263.8)  |  |  | (32.5)  |  |  | (493.3)  |  |  | (69.2)  |
+L446: Proceeds from sale of assets  |  | —   |  |  | —   |  |  | 11.1   |  |  | —   |
+L447: Other  |  | (2.5)  |  |  | (2.5)  |  |  | (2.5)  |  |  | (2.5)  |
+L448: Net cash used in investing activities  |  | (266.3)  |  |  | (35.0)  |  |  | (484.7)  |  |  | (71.7)  |
+L449:  |  |  |  |  |  |  |  |
+L450: Financing activities:  |  |  |  |  |  |  |  |
+L451: Borrowings under revolving loans  |  | 430.0   |  |  | 190.0   |  |  | 600.0   |  |  | 500.0   |
+L452: Repayments under revolving loans  |  | (430.0)  |  |  | (250.0)  |  |  | (600.0)  |  |  | (410.0)  |
+L453: Borrowings under term loans  |  | 250.0   |  |  | —   |  |  | 250.0   |  |  | —   |
+L454: Repayments under term loans  |  | (229.3)  |  |  | (4.3)  |  |  | (233.7)  |  |  | (8.7)  |
+L455: Principal payments of finance leases  |  | (2.0)  |  |  | (2.6)  |  |  | (5.0)  |  |  | (5.2)  |
+L456: Proceeds from issuance of capital stock  |  | —   |  |  | 0.3   |  |  | —   |  |  | 0.3   |
+L457: Repurchase of capital stock for cancellation  |  | —   |  |  | (40.0)  |  |  | (22.6)  |  |  | (117.7)  |
+L458: Purchase of treasury stock for SBC plans  |  | —   |  |  | —   |  |  | —   |  |  | (221.6)  |
+L459: Proceeds from TRS settlement  |  | —   |  |  | —   |  |  | —   |  |  | 98.6   |
+L460: SBC cash settlement  |  | (0.8)  |  |  | —   |  |  | (326.3)  |  |  | (156.0)  |
+L461: Debt issuance costs paid  |  | (4.8)  |  |  | —   |  |  | (4.8)  |  |  | (0.2)  |
+L462: Net cash provided by (used in) financing activities  |  | 13.1   |  |  | (106.6)  |  |  | (342.4)  |  |  | (320.5)  |
+L463:  |  |  |  |  |  |  |  |
+L464: Net increase (decrease) in cash and cash equivalents  |  | 157.7   |  |  | 10.8   |  |  | (59.9)  |  |  | (109.5)  |
+L465: Cash and cash equivalents, beginning of period  |  | 378.0   |  |  | 303.0   |  |  | 595.6   |  |  | 423.3   |
+L466: Cash and cash equivalents, end of period  |  | $  | 535.7   |  |  | $  | 313.8   |  |  | $  | 535.7   |  |  | $  | 313.8   |
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1030894/000103089426000043/cls-20260630prcondensedfs.htm)
+citeturn512view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn511view0","pattern":"2,096.7"}); Total lines: 477
+L434: Deferred income taxes  |  | (22.0)  |  |  | (14.9)  |  |  | (48.6)  |  |  | (15.0)  |
+L435: Other  |  | (3.7)  |  |  | 12.2   |  |  | 2.8   |  |  | 18.4   |
+L436: Changes in non-cash working capital items:  |  |  |  |  |  |  |  |
+L437: Accounts receivable  |  | (170.8)  |  |  | (151.9)  |  |  | (700.1)  |  |  | (218.8)  |
+L438: Inventories  |  | (728.8)  |  |  | (129.8)  |  |  | (1,213.7)  |  |  | (157.5)  |
+L439: Other current assets  |  | (17.1)  |  |  | (9.4)  |  |  | 12.7   |  |  | (6.4)  |
+L440: Accounts payable, accrued and other current liabilities, provisions and income taxes payable  |  | 1,025.3   |  |  | 270.4   |  |  | 2,096.7   |  |  | 316.2   |
+L441: Net cash provided by operating activities  |  | 410.9   |  |  | 152.4   |  |  | 767.2   |  |  | 282.7   |
+L442:  |  |  |  |  |  |  |  |
+L443: Investing activities:  |  |  |  |  |  |  |  |
+L444:  |  |  |  |  |  |  |  |
+L445: Purchase of property, plant and equipment  |  | (263.8)  |  |  | (32.5)  |  |  | (493.3)  |  |  | (69.2)  |
+L446: Proceeds from sale of assets  |  | —   |  |  | —   |  |  | 11.1   |  |  | —   |
+L447: Other  |  | (2.5)  |  |  | (2.5)  |  |  | (2.5)  |  |  | (2.5)  |
+L448: Net cash used in investing activities  |  | (266.3)  |  |  | (35.0)  |  |  | (484.7)  |  |  | (71.7)  |
+L449:  |  |  |  |  |  |  |  |
+L450: Financing activities:  |  |  |  |  |  |  |  |
+L451: Borrowings under revolving loans  |  | 430.0   |  |  | 190.0   |  |  | 600.0   |  |  | 500.0   |
+L452: Repayments under revolving loans  |  | (430.0)  |  |  | (250.0)  |  |  | (600.0)  |  |  | (410.0)  |
+L453: Borrowings under term loans  |  | 250.0   |  |  | —   |  |  | 250.0   |  |  | —   |
+L454: Repayments under term loans  |  | (229.3)  |  |  | (4.3)  |  |  | (233.7)  |  |  | (8.7)  |
+L455: Principal payments of finance leases  |  | (2.0)  |  |  | (2.6)  |  |  | (5.0)  |  |  | (5.2)  |
+L456: Proceeds from issuance of capital stock  |  | —   |  |  | 0.3   |  |  | —   |  |  | 0.3   |
+L457: Repurchase of capital stock for cancellation  |  | —   |  |  | (40.0)  |  |  | (22.6)  |  |  | (117.7)  |
+L458: Purchase of treasury stock for SBC plans  |  | —   |  |  | —   |  |  | —   |  |  | (221.6)  |
+L459: Proceeds from TRS settlement  |  | —   |  |  | —   |  |  | —   |  |  | 98.6   |
+L460: SBC cash settlement  |  | (0.8)  |  |  | —   |  |  | (326.3)  |  |  | (156.0)  |
+L461: Debt issuance costs paid  |  | (4.8)  |  |  | —   |  |  | (4.8)  |  |  | (0.2)  |
+L462: Net cash provided by (used in) financing activities  |  | 13.1   |  |  | (106.6)  |  |  | (342.4)  |  |  | (320.5)  |
+L463:  |  |  |  |  |  |  |  |
+L464: Net increase (decrease) in cash and cash equivalents  |  | 157.7   |  |  | 10.8   |  |  | (59.9)  |  |  | (109.5)  |
+L465: Cash and cash equivalents, beginning of period  |  | 378.0   |  |  | 303.0   |  |  | 595.6   |  |  | 423.3   |
+L466: Cash and cash equivalents, end of period  |  | $  | 535.7   |  |  | $  | 313.8   |  |  | $  | 535.7   |  |  | $  | 313.8   |
+

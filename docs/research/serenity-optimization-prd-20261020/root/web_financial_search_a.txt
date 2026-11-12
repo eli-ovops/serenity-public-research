@@ -1,0 +1,517 @@
+Celestica Announces Second Quarter 2026 Financial Results | Celestica Inc. (https://corporate.celestica.com/news-releases/news-release-details/celestica-announces-second-quarter-2026-financial-results)
+citeturn445search0 [wordlim: 200] Published: 2 months ago; Crawled: last month; ^{1} (NYSE: CLS) (TSX: CLS), a global leader in data center infrastructure and advanced technology solutions, today announced its financial results for the second quarter ended June 30, 2026 (Q2 2026). ... Forward-looking statements reflect our current estimates, beliefs and assumptions, which are based on management’s perception of historic trends, current conditions and expected future developments, as well as other factors it believes are appropriate in the circumstances, including certain assumptions about: revenue growth in 2026 and 2027 (including continued strengthening of customer demand, close alignment with key customers on demand planning, sustained improvements in demand visibility, and continued strengthening of adjusted operating margins); accelerating growth from our customer base, including our CCS customer base; demand levels across our businesses, including continued growth in demand from data center customers in 2026 and 2027; programs and production ramps occurring and progressing as anticipated in line with expected timelines, specifications, qualification requirements and production schedules, customer decisions, design changes, silicon and component availability, qualification outcomes, deployment timelines and priorities, constraints affecting data center development, construction, equipping or operation, and other technical, commercial, regulatory or supply-chain factors, and our expected role in such programs, including our 800G and 1.6T networking, and AI/machine learning compute programs with data center customers; technology upgrade cycles; our ability to retain programs and customers; continuing operating leverage and improving mix; the impact of anticipated market conditions on our businesses; the reliability of third party market forecasts and customer indications of future demands and roadmaps, including with respect to data center infrastructure; continued advancement and commercialization of AI technologies and cloud computing; supporting sustained high levels of capital expenditure investments by leading hyperscaler, AI, and data center customers; our ability to develop new capabilities; scaling of our operations to meet the anticipated growth in customer demand; the successful recruitment and retention of skilled talent; capital investments proceeding as anticipated, including timely completion of construction and operationalization of assets, securing required materials, utilities, and equipment for our expansion plans; our ability to secure adequate component and materials supply; alignment of our capacity with our business demands; the economy; our customers; our suppliers; tax and interest rates; no material changes to tariffs, trade restrictions, customs administration, or related refund or recovery processes, including developments relating to duties imposed under the International Emergency Economic Powers Act of 1977 and any replacement, continuing or retaliatory tariff measures, compared to what are in effect as of July 27, 2026; that our customers will retain liability for and we will continue to be able to recover substantially all costs from customers relating to product/component tariffs and countermeasures; no material changes in business activities resulting from current macroeconomic trends and uncertainties, including evolving global tariffs, trade negotiations, and geopolitical conflicts; our ability to achieve our strategic goals; the availability of cash from operations to fund planned capital investments; the availability of capital resources for, and the permissibility under our credit facility of, repurchases of outstanding common shares under our current normal course issuer bid; as well as other market, financial and operational assumptions.
+
+# Release Details
+
+Image: image description
+
+## 
+
+Celestica Announces Second Quarter 2026 Financial Results
+
+Jul 27, 26 at 4:38 PM EDT
+
+PDF Version
+
+Q2 2026 revenue and adjusted EPS* above the high end of our guidance ranges;
+Raising 2026 annual outlook and expecting growth to accelerate in 2027
+
+(All amounts in U.S. dollars)
+
+TORONTO, July 27, 2026 (GLOBE NEWSWIRE) -- Celestica Inc.^{1} (NYSE: CLS) (TSX: CLS), a global leader in data center infrastructure and advanced technology solutions, today announced its financial results for the second quarter ended June 30, 2026 (Q2 2026).
+
+Q2 2026 Highlights
+
+  * Revenue: $4.70 billion, increased 62% compared to $2.89 billion for the second quarter of 2025 (Q2 2025).
+  * GAAP earnings from operations as a % of revenue: 9.8%, compared to 9.4% for Q2 2025.
+  * Adjusted operating margin (non-GAAP)*: 8.2%, compared to 7.4% for Q2 2025.
+  * GAAP earnings per share^{2} (EPS): $3.17, compared to $1.82 for Q2 2025.
+  * Adjusted EPS^{2} (non-GAAP)*: $2.54, compared to $1.39 for Q2 2025.
+
+“Celestica delivered very strong performance in the second quarter, achieving revenue of $4.70 billion and adjusted EPS (non-GAAP)* of $2.54, each exceeding the high end of our guidance ranges. Our adjusted operating margin (non-GAAP)* of 8.2% represents another new high for the company, demonstrating the strength of our execution,” said Rob Mionis, CEO.
+
+“Driven by our strong first-half performance, strengthening second half customer forecasts, and improved component supply, we are pleased to once again raise our 2026 annual outlook. Our 2026 revenue outlook is now $20.5 billion, and our adjusted EPS (non-GAAP)* outlook is now $11.30, reflecting year-over-year growth of 65% and 87%, respectively.”
+
+“Looking beyond 2026, our visibility continues to increase. Driven by very strong customer demand, and supported by new program wins, we expect revenue growth in 2027 to accelerate beyond the 65% growth rate we are anticipating in 2026. We also anticipate adjusted EPS (non-GAAP)* to grow at a faster rate than our revenue in 2027, driven by higher expected adjusted operating margin (non-GAAP)*.”
+
+^{1 }Celestica has two operating and reportable segments: Connectivity & Cloud Solutions (CCS) (consists of our Communications and Enterprise (servers and storage) end markets) and Advanced Technology Solutions (ATS) (comprised of our Aerospace and Defense, Industrial, HealthTech, and Capital Equipment businesses). Segment performance is evaluated based on segment revenue, segment income, and segment margin (segment income as a percentage of segment revenue). See note 3 to our June 30, 2026 unaudited interim condensed consolidated financial statements (Q2 2026 Interim Financial Statements) for further detail.
+^{2} Per share information included in this press release is based on diluted shares outstanding unless otherwise noted.
+* See Use of Non-GAAP Measures and Schedule 1 for, among other items, non-GAAP financial measures (and ratios) included in this press release, their definitions, uses, and a reconciliation of non-GAAP financial measures to the most directly comparable GAAP financial measures. Non-GAAP measures in this press release are denoted with an asterisk (*).
+
+Third Quarter of 2026 (Q3 2026) Guidance
+
+   | Q3 2026 Guidance
+Revenue (in billions)  | $5.25 to $5.55
+Adjusted operating margin (non-GAAP)*  | 8.4% at the mid-point of our
+revenue and adjusted
+EPS (non-GAAP) guidance ranges
+Adjusted EPS (non-GAAP)*^{(1)}  | $2.88 to $3.08
+   |  
+
+^{(1) }Q3 2026 guidance excludes a negative $0.27 to $0.33 per share (pre-tax) aggregate impact on net earnings on a GAAP basis for employee stock-based compensation (SBC) expense, amortization of intangible assets (excluding computer software), and restructuring charges. Q3 2026 guidance assumes an adjusted effective tax rate (non-GAAP)* of approximately 20% and no share repurchases or issuances in Q3 2026.
+
+2026 Annual Outlook and Long-Term Demand Update
+
+  * Revenue of $20.5 billion (previous outlook $19.0 billion) ^{(1)}
+  * Adjusted EPS (non-GAAP)* of $11.30 (previous outlook $10.15) ^{(1)(2)}
+  * Adjusted operating margin (non-GAAP)* of 8.4% (previous outlook 8.1%) ^{(1) }
+  * Free cash flow (non-GAAP)* of $600 million (previous outlook $500 million) ^{(1) }
+
+--------------------------------------------------------------------------------
+Celestica Q2 2026 Financial Results and Conference Call Tuesday, July 28, 2026 | Celestica Inc. (https://corporate.celestica.com/news-releases/news-release-details/celestica-q2-2026-financial-results-and-conference-call-tuesday)
+citeturn445search1 [wordlim: 200] Published: 3 months ago; Crawled: last month; Celestica Q2 2026 Financial Results and Conference Call Tuesday, July 28, 2026 ... (NYSE: CLS) (TSX: CLS) will release its second quarter 2026 financial results after market close on Monday, July 27, 2026, and will host a conference call at 8:00am ET on Tuesday, July 28, 2026.
+
+# Release Details
+
+Image: image description
+
+## 
+
+Celestica Q2 2026 Financial Results and Conference Call Tuesday, July 28, 2026
+
+Jul 06, 26 at 4:15 PM EDT
+
+PDF Version
+
+TORONTO, July 06, 2026 (GLOBE NEWSWIRE) -- Celestica Inc. (NYSE: CLS) (TSX: CLS) will release its second quarter 2026 financial results after market close on Monday, July 27, 2026, and will host a conference call at 8:00am ET on Tuesday, July 28, 2026.
+
+Participants are invited to join the live webcast at the following link.
+
+For those unable to participate, a recorded webcast will be available approximately two hours after completion of the call. To access the recorded webcast visit www.celestica.com.
+
+Contact
+
+Celestica Investor Relations
+[REDACTED_EMAIL]--------------------------------------------------------------------------------
+CAMTEK ANNOUNCES RESULTS FOR THE SECOND QUARTER OF 2026 - Camtek (https://www.camtek.com/news-and-events/camtek-announces-results-for-the-second-quarter-of-2026/)
+citeturn445search2 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; (NASDAQ: CAMT; TASE: CAMT), today announced its financial results for the second quarter ended June 30, 2026. ... This exceptional level of order intake, combined with our leadership position in the Advanced Packaging (AP) segment, has significantly improved our business visibility and is expected to drive a very strong second half, with our AP revenue to grow approximately 70% between the first and fourth quarters of 2026. ... This compares to second quarter 2025 revenues of $123.3 million, a year-over-year growth of 8%.
+
+Newsroom
+
+# CAMTEK ANNOUNCES RESULTS FOR THE SECOND QUARTER OF 2026
+
+Q2 record revenues of $133.2 million; Expects more than 30% growth in H2-26 vs. H1-26 and further growth into 2027
+
+MIGDAL HAEMEK, Israel – August 10, 2026 – Camtek Ltd. (NASDAQ: CAMT; TASE: CAMT), today announced its financial results for the second quarter ended June 30, 2026.
+
+ 2026 Second Quarter Financial Highlights
+
+  * Record revenues of $133.2 million, a 10% QoQ increase;
+  * GAAP gross margin of 50.1% and non-GAAP gross margin of 51.4%;
+  * GAAP operating income of $27.2 million and non-GAAP operating income of $36.0 million, representing operating margins of 20.4% and 27%, respectively;
+  * GAAP net income of $23.3 million and non-GAAP net income of $39.4 million; GAAP diluted EPS of $0.46 and non-GAAP diluted EPS of $0.78; and
+  * Completed the Visual Layer acquisition
+
+Forward-Looking Expectations
+
+Management expects third-quarter revenue to be in the range of $158 million to $160 million, representing an exceptional 20% sequential increase over the second quarter.
+
+Second Quarter 2026 Financial Results
+
+Revenues for the second quarter of 2026 were $133.2 million. This compares to second quarter 2025 revenues of $123.3 million, a year-over-year growth of 8%.
+
+Gross profit on a GAAP basis in the quarter totaled $66.7 million (50.1% of revenues), an increase of 7% compared to $62.6 million (50.8% of revenues) in the second quarter of 2025.
+
+Gross profit on a non-GAAP basis in the quarter totaled $68.5 million (51.4% of revenues), an increase of 7% compared to $64.0 million (51.9% of revenues) in the second quarter of 2025.
+
+Operating income on a GAAP basis in the quarter totaled $27.2 million (20.4% of revenues), a decrease of 15% compared to $32.0 million (25.9% of revenues) in the second quarter of 2025.
+
+Operating income on a non-GAAP basis in the quarter totaled $36.0 million (27.0% of revenues), a decrease of 4% compared to $37.4 million (30.3% of revenues) in the second quarter of 2025.
+
+Net income on a GAAP basis in the quarter totaled $23.3 million, or $0.46 per diluted share, a decrease of 31% compared to net income of $33.7 million, or $0.69 per diluted share, in the second quarter of 2025.
+
+Net income on a non-GAAP basis in the quarter totaled $39.4 million, or $0.78 per diluted share, an increase of 2% compared to a non-GAAP net income of $38.8 million, or $0.79 per diluted share, in the second quarter of 2025.
+
+Cash and cash equivalents, short-term and long-term deposits, and marketable securities, as of June 30, 2026, were $815.8 million compared to $849.7 million as of March 31, 2026. During the second quarter, the Company generated an operating cash flow of $12.2 million.
+
+Conference Call
+
+Camtek will host a video conference call/webinar today via Zoom, on August 10, 2026, at 09:00 ET (16:00 Israel time). Rafi Amit, CEO, Moshe Eisenberg, CFO, and Ramy Langer, COO will host the call and will be available to answer questions after presenting the results.
+
+To participate in the webinar, please register using the following link, which will provide access to the video call:
+
+https://us06web.zoom.us/webinar/register/WN_a_Na02dbSo-7hZ5je-P39g
+
+For those wishing to listen via phone, following registration, the dial in link will be sent. For any problems in registering, please email Camtek’s investor relations a few hours in advance of the call.
+
+For those unable to participate, a recording will be available on Camtek’s website at https://www.camtek.com  within a few hours after the call.
+
+A summary presentation of the quarterly results will also be available on Camtek’s website.--------------------------------------------------------------------------------
+nVent Electric plc - nVent Electric plc Second Quarter 2026 Financial Results Available on Company’s Website (https://investors.nvent.com/press-releases/press-release-details/2026/nVent-Electric-plc-Second-Quarter-2026-Financial-Results-Available-on-Companys-Website/default.aspx)
+citeturn445search3 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; LONDON, July 31, 2026 (GLOBE NEWSWIRE) -- nVent Electric plc (NYSE:NVT) (“nVent”), a global leader in electrical connection and protection solutions, reported second quarter 2026 financial results today through an earnings release posted on the company’s Investor Relations website at http://investors.nvent.com.
+
+### nVent Electric plc Second Quarter 2026 Financial Results Available on Company’s Website
+
+July 31, 2026
+
+LONDON, July 31, 2026 (GLOBE NEWSWIRE) -- nVent Electric plc (NYSE:NVT) (“nVent”), a global leader in electrical connection and protection solutions, reported second quarter 2026 financial results today through an earnings release posted on the company’s Investor Relations website at http://investors.nvent.com. The earnings release will be furnished with the Securities and Exchange Commission on a Form 8-K and is available here. The company will also hold a conference call with analysts and investors at 9:00 a.m. ET.
+
+Conference Call and Webcast Details
+
+The call can be accessed via webcast at http://investors.nvent.com or by dialing 1-833-630-1071 or 1-412-317-1832. Once available, a replay of the conference call will be accessible through August 14, 2026, by dialing 1-855-669-9658 or 1-412-317-0088, along with the access code 3803194.
+--------------------------------------------------------------------------------
+nVent Electric plc - Investor Relations (https://investors.nvent.com/investor-relations/default.aspx)
+citeturn445search4 [wordlim: 200] Crawled: yesterday; # nVent Electric Q2 2026 Earnings ... global team members ... nVent Electric plc to Report Third Quarter 2026 Financial Re...
+
+# nVent Electric Q2 2026 Earnings
+
+July 31, 2026
+
+Webcast(opens in new window)
+
+Press Release(opens in new window)
+
+Presentation(opens in new window)
+
+Transcript(opens in new window)
+
+# nVent Electric Q3 2026 Earnings
+
+October 30, 2026
+
+Add to Calendar
+
+  * Add to Apple Calendar
+  * Add to Google Calendar
+  * Add to Microsoft Outlook
+  * Add to iCalendar
+
+Webcast(opens in new window)
+
+Read More
+
+# nVent Electric Q2 2026 Earnings
+
+July 31, 2026
+
+Webcast(opens in new window)
+
+Press Release(opens in new window)
+
+Presentation(opens in new window)
+
+Transcript(opens in new window)
+
+Read More
+
+# nVent Electric Q3 2026 Earnings
+
+October 30, 2026
+
+Add to Calendar
+
+  * Add to Apple Calendar
+  * Add to Google Calendar
+  * Add to Microsoft Outlook
+  * Add to iCalendar
+
+Webcast(opens in new window)
+
+Read More
+
+# nVent Electric Q2 2026 Earnings
+
+July 31, 2026
+
+Webcast(opens in new window)
+
+Press Release(opens in new window)
+
+Presentation(opens in new window)
+
+Transcript(opens in new window)
+
+Read More
+
+NYSE: NVT 142.03-3.70 ( -2.54% )Volume: 2,322,387 October 16, 2026 4:00 PM Pricing delayed by 20 minutes
+
+## Company Overview
+
+At nVent, we believe our inventive electrical solutions enable safer systems and ensure a more secure world. We design, manufacture, market, install and service high performance products and solutions that connect and protect some of the world's most sensitive equipment, buildings and critical processes. We offer a comprehensive range of systems protection and electrical connections solutions across industry-leading brands that are recognized globally for quality, reliability and innovation. Our principal office is in London and our management office in the United States is in Minneapolis. Our robust portfolio of leading electrical product brands dates back more than 100 years and includes nVent CADDY, ERICO, HOFFMAN, ILSCO, SCHROFF and TRACHTE. Learn more at www.nvent.com.
+
+#### 100+
+
+years of brand legacy
+
+#### $3 B+
+
+revenue
+
+#### 10,000+
+
+global team members
+
+#### 450+
+
+patents in the United States and beyond
+
+Read more
+
+## Latest Quarterly Results
+
+Q2 2026
+
+Presentation(opens in new window)
+
+Press Release(opens in new window)
+
+Transcript(opens in new window)
+
+Webcast(opens in new window)
+
+10-Q(opens in new window)
+
+View All Results
+
+## Events and Presentations
+
+Loading ...
+
+View All Events
+
+## Latest Presentation
+
+iframe
+
+Q2 2026 Earnings Presentation
+
+Download PDF (opens in new window)
+
+## Latest News
+
+October 16, 2026
+
+nVent Electric plc to Report Third Quarter 2026 Financial Re...
+
+Read More
+
+October 13, 2026
+
+nVent and AMD Collaborate on Cooling for AMD Helios Rackscal...
+
+Read More
+
+October 1, 2026
+
+nVent Completes Acquisition of Maverick Power
+
+Read More
+
+View All News--------------------------------------------------------------------------------
+Financial Releases | Celestica Inc. (https://corporate.celestica.com/news-releases?field_nir_news_category_target_id%5B3991%5D=3991&items_per_page=10&page=5)
+citeturn445search5 [wordlim: 200] Crawled: last month; Celestica Announces $3 Billion Equity Offering to Accelerate Growth Across Global AI Infrastructure ... Celestica Announces Second Quarter 2026 Financial Results
+
+# Financial Releases
+
+## News Releases
+
+Year [Select]
+
+[Input] [Input] [Input] [Input]
+
+Sep 08, 2026
+
+Celestica to Host 2026 Investor and Analyst Day on October 27, 2026
+
+Aug 07, 2026
+
+Celestica Completes Equity Offering
+
+Aug 05, 2026
+
+Celestica Announces Pricing of Equity Offering
+
+Aug 05, 2026
+
+Celestica Announces $3 Billion Equity Offering to Accelerate Growth Across Global AI Infrastructure
+
+Jul 27, 2026
+
+Celestica Announces Second Quarter 2026 Financial Results
+
+Jul 06, 2026
+
+Celestica Q2 2026 Financial Results and Conference Call Tuesday, July 28, 2026
+
+Jul 06, 2026
+
+Celestica Announces Leadership Transition in its Connectivity and Cloud Solutions Segment
+
+May 19, 2026
+
+Celestica Announces Election of Directors
+
+Image: GettyImages-1224823838_edited.jpg 
+
+May 13, 2026
+
+Celestica Provides Update on New Operations in Fort Worth, Texas
+
+Apr 29, 2026
+
+Celestica Accelerates AI-Scale Networking: DS6000-Series 1.6TbE Switches Now Available to Order--------------------------------------------------------------------------------
+News & Media | POET Technologies (https://www.poet-technologies.com/news-media?359940ab_page=4&eff77f2e_page=3)
+citeturn445search6 [wordlim: 200] Crawled: last month; POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth August 13, 2026 Read Article
+News & Media
+
+# Stay Updated with the Latest News & Media Coverage
+
+## Press Releases
+
+POET Technologies to Exhibit at CIOE 2026, Present High-Power Laser Light Sources for AI Interconnects at IFOC To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL]) POET Technologies to Exhibit at CIOE 2026, Present High-Power Laser Light Sources for AI Interconnects at IFOC September 4, 2026 Read Article
+
+POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth August 13, 2026 Read Article
+
+POET Technologies Appoints Dr. Bardia Pezeshki and Jean F. Rankin to Board of Directors as Long-serving Director, Jean-Louis Malinge Resigns To access this info, contact POET Technologies.Contact Us ([REDACTED_EMAIL])【2†POET Technologies Appoints Dr. --------------------------------------------------------------------------------
+Newsroom | Celestica Inc. (https://corporate.celestica.com/newsroom)
+citeturn445search7 [wordlim: 200] Crawled: last week; Celestica Announces Second Quarter 2026 Financial Results ... Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call
+
+# Newsroom
+
+Image: image description
+
+Celestica is a global leader in data center infrastructure and advanced technology solutions.
+
+August 5, 2026
+
+Celestica Announces Pricing of Equity Offering
+
+Read More
+
+Image
+
+July 27, 2026
+
+Celestica Announces Second Quarter 2026 Financial Results
+
+Read More
+
+Image
+
+July 6, 2026
+
+Celestica Announces Leadership Transition in its Connectivity and Cloud Solutions Segment
+
+Read More
+
+Image
+
+May 13, 2026
+
+Celestica Provides Update on New Operations in Fort Worth, Texas
+
+Read More
+
+## PRESS RELEASES
+
+Year [Select]
+
+[Input] [Input] [Input] [Input]
+
+Image
+
+October 12, 2026
+
+Celestica Introduces the DS6005 Data Center Switch with Co-Packaged Optics to Enable Power-Efficient AI Fabrics
+
+Read More
+
+Image
+
+October 6, 2026
+
+Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call
+
+Read More
+
+Image
+--------------------------------------------------------------------------------
+nVent Electric plc - Search Results (https://investors.nvent.com/search-results/default.aspx?PageNumber=80)
+citeturn445search8 [wordlim: 200] Crawled: 3 weeks ago; Press Release: nVent Electric plc to Report Second Quarter 2026 Financial Results on July 31 LONDON, July 17, 2026 (GLOBE NEWSWIRE) -- nVent Electric plc (NYSE: NVT) (“nVent”), a global leader in electrical connection and protection solutions, https://investors.nvent.com/press-releases/press-release-details/2026/nVent-Electric-plc-to-Report-Second-Quarter-2026-Financial-Results-on-July-31/default.aspx ... No summary available //s22.q4cdn.com/268397047/files/content_files/2026-Q2-Earnings-Deck.pdf
+
+View this PDF document. No summary available //s22.q4cdn.com/268397047/files/doc_news/nVent-Names-Chief-Strategy-and-Chief-Revenue-Officers-to-Drive-Next-Phase-of-Growth-2026.pdf
+
+Press Release: nVent Electric plc to Report Second Quarter 2026 Financial Results on July 31 LONDON, July 17, 2026 (GLOBE NEWSWIRE) -- nVent Electric plc (NYSE: NVT) (“nVent”), a global leader in electrical connection and protection solutions, https://investors.nvent.com/press-releases/press-release-details/2026/nVent-Electric-plc-to-Report-Second-Quarter-2026-Financial-Results-on-July-31/default.aspx
+
+View this PDF document. No summary available //s22.q4cdn.com/268397047/files/doc_news/nVent-Electric-plc-to-Report-Second-Quarter-2026-Financial-Results-on-July-31-2026.pdf
+
+Press Release: nVent Expands Data Center Liquid Cooling Capacity 160,000 square foot site will support growing liquid cooling demand from AI and high-performance computing environments Company’s third liquid cooling https://investors.nvent.com/press-releases/press-release-details/2026/nVent-Expands-Data-Center-Liquid-Cooling-Capacity/default.aspx
+
+View this PDF document. No summary available //s22.q4cdn.com/268397047/files/doc_news/nVent-Expands-Data-Center-Liquid-Cooling-Capacity-2026.pdf
+
+Press Release: nVent Electric plc Second Quarter 2026 Financial Results Available on Company’s Website LONDON, July 31, 2026 (GLOBE NEWSWIRE) -- nVent Electric plc (NYSE:NVT) (“nVent”), a global leader in electrical connection and protection solutions, https://investors.nvent.com/press-releases/press-release-details/2026/nVent-Electric-plc-Second-Quarter-2026-Financial-Results-Available-on-Companys-Website/default.aspx
+
+View this PDF document. No summary available //s22.q4cdn.com/268397047/files/doc_news/nVent-Electric-plc-Second-Quarter-2026-Financial-Results-Available-on-Companys-Website-2026.pdf
+
+Presentation: Q2 2026 Earnings Presentation No summary available https://investors.nvent.com/events-and-presentations/presentation-details/2026/Q2-2026-Earnings-Presentation/default.aspx
+
+View this PDF document. No summary available //s22.q4cdn.com/268397047/files/content_files/2026-Q2-Earnings-Deck.pdf
+
+Press Release: nVent to Acquire Maverick Power Leading manufacturer of engineered power distribution and infrastructure solutions for data centers Broadens nVent’s exposure to the high-growth infra https://investors.nvent.com/press-releases/press-release-details/2026/nVent-to-Acquire-Maverick-Power/default.aspx
+
+View this PDF document. No summary available //s22.q4cdn.com/268397047/files/doc_news/nVent-to-Acquire-Maverick-Power-2026.pdf
+
+Press Release: nVent Prices $800.0 Million Senior Notes Offering LONDON, Sept. 15, 2026 (GLOBE NEWSWIRE) -- nVent Electric plc (NYSE:NVT) (“nVent”), a global leader in electrical connection and protection solutions, https://investors.nvent.com/press-releases/press-release-details/2026/nVent-Prices-800-0-Million-Senior-Notes-Offering/default.aspx--------------------------------------------------------------------------------
+Featured News Release | Celestica Inc. (https://corporate.celestica.com/taxonomy/term/3986?page=7)
+citeturn445search9 [wordlim: 200] Crawled: last month; ## Celestica Announces Second Quarter 2026 Financial Results
+
+# 
+
+Image: image description
+
+## Celestica to Host 2026 Investor and Analyst Day on October 27, 2026
+
+  * Read more about Celestica to Host 2026 Investor and Analyst Day on October 27, 2026
+
+## Celestica Announces Pricing of Equity Offering
+
+  * Read more about Celestica Announces Pricing of Equity Offering
+
+## Celestica Announces Second Quarter 2026 Financial Results
+
+  * Read more about Celestica Announces Second Quarter 2026 Financial Results
+
+## Celestica Q2 2026 Financial Results and Conference Call Tuesday, July 28, 2026
+
+  * Read more about Celestica Q2 2026 Financial Results and Conference Call Tuesday, July 28, 2026
+
+## Celestica Announces Leadership Transition in its Connectivity and Cloud Solutions Segment
+
+  * Read more about Celestica Announces Leadership Transition in its Connectivity and Cloud Solutions Segment
+
+## Celestica Announces Election of Directors
+
+  * Read more
+
+## Celestica Provides Update on New Operations in Fort Worth, Texas
+
+  * Read more about Celestica Provides Update on New Operations in Fort Worth, Texas
+
+## Celestica Accelerates AI-Scale Networking: DS6000-Series 1.6TbE Switches Now Available to Order
+
+  * Read more about Celestica Accelerates AI-Scale Networking: DS6000-Series 1.6TbE Switches Now Available to Order
+
+## Celestica Announces First Quarter 2026 Financial Results
+
+  * Read more about Celestica Announces First Quarter 2026 Financial Results
+
+## Celestica Q1 2026 Financial Results and Conference Call Tuesday, April 28, 2026
+
+  * Read more about Celestica Q1 2026 Financial Results and Conference Call Tuesday, April 28, 2026
+
+Subscribe to Featured News Release--------------------------------------------------------------------------------
+Investors - Camtek (https://www.camtek.com/investors/)
+citeturn445search10 [wordlim: 200] Crawled: 3 days ago; ### CAMTEK ANNOUNCES RESULTS FOR THE SECOND QUARTER OF 2026 ... ### CAMTEK TO REPORT FOURTH QUARTER & FULL YEAR 2024 FINANCIAL RESULTS ON WEDNESDAY, FEBRUARY 12, 2025
+--------------------------------------------------------------------------------
+Microsoft Word - Q1 2026 PR final (https://corporate.celestica.com/static-files/7e777cad-64eb-4ae4-90c7-c715a29d100d)
+citeturn445search12 [wordlim: 200] Published: 5 months ago; CELESTICA ANNOUNCES FIRST QUARTER 2026 FINANCIAL RESULTS ... TORONTO, Canada - Celestica Inc.1 (NYSE: CLS) (TSX: CLS), a global leader in data center infrastructure and ... GAAP earnings from operations as a % of revenue: 6.7%, compared to 4.9% for Q1 2025. ... Second Quarter of 2026 (Q2 2026) Guidance
+--------------------------------------------------------------------------------
+Quarterly Results | Celestica Inc. (https://corporate.celestica.com/node/5986)
+citeturn445search11 [wordlim: 200] Crawled: 3 weeks ago;   * Q2 2026 Financial Results Earnings Call 45.3 MB ...   * Q4 2025 Financial Results Earnings Call 57.6 MB
+--------------------------------------------------------------------------------
+_ (https://www.camtek.com/wp-content/uploads/Q12026.pdf)
+citeturn445search13 [wordlim: 200] Published: 5 months ago; EK Global Investor Relations ... today announced its financial results for the first quarter ended March 31, 2026. ... • Revenues of $121.7 million, a slight year-over-year increase; ... Expects a significant increase in second half 2026 with revenues
+--------------------------------------------------------------------------------
+Celestica Announces First Quarter 2026 Financial Results (https://corporate.celestica.com/node/17386/pdf)
+citeturn445search14 [wordlim: 200] Published: 4 months ago; Management uses adjusted net earnings and other non-GAAP financial measures to assess ... www.sec.gov. ... the headings "Second Quarter of 2026 (Q2 2026) Guidance”, “2026 Annual Outlook and Long-Term Demand Update” and “Business Updates”, andincluding statements with respect to timelines referenced therein, expected revenue growth in 2026 and 2027, developments related to new customer ... no material changes in business activities resulting from current macroeconomic trends and uncertainties, including evolving global tariff, trade
+

@@ -1,0 +1,103 @@
+Scribe → Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights
+Scribe Therapeutics Reports Second Quarter 2026 Financial Results and Recent Corporate Highlights
+|
+September 2, 2026
+X
+min read
+Initiated the first-in-human Phase 1 trial of STX-1150, a novel LDL-C lowering therapy powered by ELXR, a highly engineered epigenetic silencing technology designed to deliver ultra-long-acting cholesterol lowering without permanent genetic changes
+Awarded more than $25 million from the California Institute for Regenerative Medicine (CIRM) to advance both STX-1200 for Lp(a) lowering and STX-1400 for triglyceride lowering toward clinical entry
+Completed upsized initial public offering, including full exercise of the underwriters’ purchase option, and a concurrent private placement to Sanofi, generating approximately $155.5 million in aggregate gross proceeds
+Cash, cash equivalents, and marketable securities of $43.0 million as of June 30, 2026, plus approximately $140.6 million of net proceeds raised from the July 2026 IPO and concurrent private placement, provides funding into the first half of 2029
+ALAMEDA, Calif., Sept. 02, 2026 (GLOBE NEWSWIRE) -- Scribe Therapeutics Inc. (“Scribe Therapeutics” or “the Company”) (Nasdaq: SCTX), a clinical-stage biotechnology company engineering purpose-built in vivo CRISPR technologies designed to extend healthy lifespan through disease prevention and durable therapeutic intervention, today reported financial results for the second quarter ended June 30, 2026, and provided recent corporate and pipeline updates.
+“The second quarter and the weeks immediately following represented a transformational period for Scribe,” said Benjamin Oakes, Ph.D., co-founder and Chief Executive Officer of Scribe Therapeutics. “We advanced our lead silencing asset STX-1150 into the clinic, secured significant grant support from CIRM to develop our next two cardiometabolic assets, and successfully completed our initial public offering. These achievements position us to execute across a broadly differentiated portfolio of CRISPR genetic medicines designed to address the three major lipid drivers of atherosclerotic cardiovascular disease: LDL-C, Lp(a), and triglycerides. Our purpose-built technologies are uniquely poised to democratize access to the cardioprotective effects of beneficial human genetics. Guided by nature's blueprint for improved cardiovascular health, our aim is to shift the treatment paradigm of heart disease from chronic intervention of symptoms toward durable disease prevention and lifespan extension.”
+Pipeline Highlights
+STX-1150: In vivo epigenetic silencing therapy for LDL-C lowering
+Initiated first-in-human Phase 1 clinical trial in Australia for Scribe’s epigenetic silencing therapy STX-1150.
+STX-1150 utilizes our Epigenetic Long-term X Repressor (ELXR) and is designed as a liver-targeted, in vivo CRISPR-based epigenetic silencing therapy that represses PCSK9, a genetically and clinically validated target for LDL-C lowering, without permanently altering the underlying DNA sequence.
+The Phase 1 study, initiated in mid-2026, will evaluate the safety, tolerability, and efficacy of STX-1150 in adults with elevated low-density lipoprotein cholesterol (LDL-C) and increased risk of atherosclerotic cardiovascular disease (ASCVD).
+Presented late-breaking data at the European Atherosclerosis Society (EAS) Congress supporting STX-1150 for persistent LDL-C lowering after a single dose.
+In non-human primates (NHPs), a single administration of an STX-1150 ELXR prototype demonstrated PCSK9 silencing of up to 90%, leading to LDL-C reductions of up to 68%.
+A therapeutically relevant dose of 0.75 mg/kg produced durable LDL-C reductions of greater than 50%, sustained for two years, with liver enzyme profiles comparable to saline controls.
+A toxicology study in NHPs showed no adverse clinical observations.
+Epigenetic silencing with STX-1150 is designed to address a major limitation of current LDL-C lowering approaches and is positioned to recapitulate the cardioprotective effects of human genetics.
+Current LDL-C therapies remain limited by adherence and durability: recent studies show 50 to 70% of patients discontinue LDL-C-lowering medicine within one year, increasing heart attack risk, while evidence indicates lifelong and earlier LDL-C lowering can deliver substantially greater ASCVD risk reduction than late or inadequate treatment.
+STX-1150 is designed to overcome this gap by using ELXR, Scribe’s highly engineered epigenetic silencing technology, to down-regulate PCSK9 transcription and deliver persistent, potent LDL-C reductions for years without permanently altering DNA.
+STX-1150 aims to mimic the protective cardiovascular profile seen in people with naturally occurring PCSK9 loss-of-function variants, who can have a 28% lower mean LDL-C, with up to 88% lower coronary heart disease risk. By doing so, STX-1150 should help shift LDL-C management from burdensome chronic treatment toward durable, long-term prevention.
+Clinical data expected in the first half of 2027.
+Scribe anticipates reporting initial clinical data, including safety, tolerability, and LDL-C lowering activity, from the single ascending dose (SAD) portion of the STX-1150 Phase 1 trial in the first half of 2027.
+STX-1200 and STX-1400: Advancing cardiometabolic gene editing programs targeting genetically driven, severely elevated Lp(a) and triglycerides, respectively.
+Awarded approximately $25.7 million in combined non-dilutive CIRM grants.
+Awarded $12.7 million for advancing STX-1200 toward clinical entry as early as 2027
+.
+STX-1200 targets LPA utilizing X-Editor (XE), Scribe’s highly engineered genetic editing technology. STX-1200 is designed to lower lipoprotein(a) (Lp(a)) in patients with genetically elevated Lp(a) and associated ASCVD risk. In preclinical studies, STX-1200 surrogates achieved greater than 95% Lp(a) reduction in NHPs.
+Awarded $13.0 million for advancing STX-1400 toward clinical entry as early as 2027.
+STX-1400 targets APOC3 utilizing XE. STX-1400 is designed to lower triglyceride-rich lipoproteins and address the risk of acute pancreatitis in severe hypertriglyceridemia, including familial chylomicronemia syndrome and multifactorial chylomicronemia syndrome. In preclinical studies, STX-1400 surrogates achieved greater than 75% on-target APOC3 editing in NHPs.
+Platform and Scientific Leadership
+Published
+updated findings in bioRxiv
+, highlighting the ELXR platform's novel enhancements in potency and safety enabling the durable repression of target genes without permanent DNA modification.
+The publication illustrates a novel framework for engineering context-aware epigenetic therapies.
+Further demonstrated that these engineering approaches developed molecules that decrease off-targets by up to 10x and increase on-target activity across loci as much as 4x.
+To the Company's knowledge, this is the first example of an epigenetic therapy with an allosterically gated sequential proofreading mechanism that meaningfully widens the therapeutic window of CRISPR approaches.
+Corporate Highlights
+Nasdaq listing.
+Common stock began trading on the Nasdaq Global Market on July 24, 2026, under the ticker symbol “SCTX.” Scribe upsized its initial public offering and priced at the high end of the range at $15.00 per share. The Company also completed a concurrent private placement to Sanofi at the IPO price.
+Approximately $155.5 million in aggregate gross proceeds.
+Capital raised from the IPO, the full exercise of the underwriters’ option, and the concurrent private placement totaled $155.5 million before underwriting discounts, commissions, and offering expenses.
+Funding into the first half of 2029.
+Based on Scribe’s current operating plan, the Company believes its existing cash, cash equivalents, and investments, together with net proceeds from the IPO and the concurrent private placement, will be sufficient to fund its operating expenses and capital expenditure requirements into the first half of 2029.
+Second Quarter 2026 Financial Results
+Cash position:
+Cash, cash equivalents, and marketable securities were $43.0 million as of June 30, 2026, compared with $58.0 million as of December 31, 2025. Cash, cash equivalents, and marketable securities of $43.0 million as of June 30, 2026, plus approximately $140.6 million of net proceeds raised from the July 2026 IPO and concurrent private placement, provides funding into the first half of 2029.
+Collaboration revenue:
+Collaboration revenue was $1.9 million for the three months ended June 30, 2026, compared with $4.9 million for the prior year period in 2025. The decrease was primarily attributable to lower reimbursable research and development activities and reduced revenue recognition under the Company's collaboration arrangements.
+Research and development expenses:
+Research and development expenses were $8.8 million for the three months ended June 30, 2026, compared with $13.9 million for the prior year period in 2025. The decrease was primarily attributable to lower personnel-related costs and reduced spending on preclinical research programs, partially offset by increased expenditures supporting the advancement of the STX-1150 Phase 1 clinical trial, including clinical and manufacturing activities.
+General and administrative expenses:
+General and administrative expenses were $2.5 million for the second quarter of 2026, compared with $2.6 million for the second quarter of 2025. The decrease was primarily attributable to lower administrative costs.
+Net loss:
+Net loss was $6.5 million, or $2.62 per basic and diluted share, for the three months ended June 30, 2026, compared with a net loss of $9.9 million, or $4.08 per basic and diluted share, for the same period in 2025.
+About Scribe Therapeutics Inc.
+Scribe Therapeutics is a clinical-stage biotechnology company engineering CRISPR-based technologies into purpose-built in vivo genetic medicines designed to become standard of care treatments for patients suffering from highly prevalent diseases, starting with cardiometabolic disease. Leveraging its CRISPR by Design™ approach and nature’s blueprint for improved cardiovascular health, Scribe’s initial programs focus on addressing the key drivers of ASCVD such as elevated LDL-C, lipoprotein(a), and triglycerides. The company’s lead candidate, STX-1150, is a novel liver-targeted therapy designed to epigenetically silence the PCSK9 gene and reduce LDL-C levels without inducing permanent DNA changes. To broaden and accelerate the impact of its engineered CRISPR technologies for patients, Scribe has formed strategic collaborations with world-leading pharmaceutical companies including Sanofi and Eli Lilly. Co-founded by Nobel Prize winner Jennifer Doudna and backed by leading life sciences investors, Scribe is advancing scalable, transformative, and preventative genetic medicines with the goal of improving outcomes and democratizing access to the protective effects of beneficial human genetics. To learn more, visit
+www.scribetx.com
+.
+Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact contained in this press release, including statements regarding Scribe’s strategy, business plans and objectives; the therapeutic potential, safety, efficacy, durability, scalability and clinical or commercial prospects of Scribe’s product candidates and technologies; the design, initiation, enrollment, conduct, timing and results of preclinical studies and clinical trials; the timing of clinical data and other anticipated milestones; the advancement of STX-1150, STX-1200, STX-1400 and other programs; the expected use and benefits of CIRM funding; and Scribe’s expected cash runway and financial position are forward-looking statements. The words “aim,” “anticipate,” “believe,” “continue,” “could,” “design,” “estimate,” “expect,” “goal,” “intend,” “may,” “plan,” “potential,” “seek,” “should,” “target,” “will” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+Forward-looking statements are based on management’s current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. These risks and uncertainties include those described under the heading “Risk Factors” in Scribe’s filings with the U.S. Securities and Exchange Commission, including its final prospectus filed pursuant to Rule 424(b)(4) under the Securities Act of 1933, as amended, and future reports that Scribe may file with the SEC. Except as required by law, Scribe undertakes no obligation to update any forward-looking statements contained herein to reflect events or circumstances after the date hereof or to reflect new information or the occurrence of unanticipated events.
+|
+September 2, 2026
+Share on Social
+share on Twitter or X
+share on Linkedin
+share onFacebook
+share on Bluesky
+More like this
+Media
+Another proof point from CIRM-supported research
+October 7, 2026
+California Institute for Regenerative Medicine
+Read Now
+Press
+Another proof point from CIRM-supported research
+October 7, 2026
+California Institute for Regenerative Medicine
+Read Now
+Media
+Can Geneticists Fight Disease by Targeting ‘Nurture’ Instead of ‘Nature’?
+September 8, 2026
+The New York Times
+Read Now
+Press
+Can Geneticists Fight Disease by Targeting ‘Nurture’ Instead of ‘Nature’?
+September 8, 2026
+The New York Times
+Read Now
+Media
+Scribe Therapeutics to Participate in Upcoming Investor Conferences
+September 1, 2026
+Read Now
+Press
+Scribe Therapeutics to Participate in Upcoming Investor Conferences
+September 1, 2026
+Read Now
+See More

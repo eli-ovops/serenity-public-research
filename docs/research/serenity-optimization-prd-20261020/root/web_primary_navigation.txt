@@ -1,0 +1,153 @@
+Serenity reads a Lumentum CEO interview as proof the photonics demand wall is still standing (2026-10-19) · Serenity Tracker (https://serenitytrades.com/commentary/2026-10-19)
+citeturn452view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn450view3","lineno":35}); Total lines: 23
+--------------------------------------------------------------------------------
+Sivers Semiconductors — a deep dive on his #1 conviction laser pick · Serenity Tracker (https://serenitytrades.com/deep-dive/sive)
+citeturn452view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn450view4","lineno":30}); Total lines: 170
+L30: He repeatedly defended the name against critics he viewed as technically shallow and against pump-and-dump labels, ranked it first in his CPO supply-chain portfolio, and by May was calling it his most compelling photonics exposure with a $10B-80B+ ceiling.
+--------------------------------------------------------------------------------
+Tesla Investor Relations (https://ir.tesla.com/)
+citeturn452view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://ir.tesla.com/","lineno":null}); Total lines: 85
+--------------------------------------------------------------------------------
+nVent Electric plc - nVent Electric plc Second Quarter 2026 Financial Results Available on Company’s Website (https://investors.nvent.com/press-releases/press-release-details/2026/nVent-Electric-plc-Second-Quarter-2026-Financial-Results-Available-on-Companys-Website/default.aspx)
+citeturn452view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn445search3","lineno":null}); Total lines: 352
+L320: ### nVent Electric plc Second Quarter 2026 Financial Results Available on Company’s Website
+L321: 
+L322: July 31, 2026
+L323: LONDON, July 31, 2026 (GLOBE NEWSWIRE) -- nVent Electric plc (NYSE:NVT) (“nVent”), a global leader in electrical connection and protection solutions, reported second quarter 2026 financial results today through an earnings release posted on the company’s Investor Relations website at cite102†http://investors.nvent.com†www.globenewswire.com . The earnings release will be furnished with the Securities and Exchange Commission on a Form 8-K and is available cite103†here†www.globenewswire.com .
+L325: Conference Call and Webcast Details
+L326: 
+L327: The call can be accessed via webcast at cite104†http://investors.nvent.com†www.globenewswire.com or by dialing 1-833-630-1071 or 1-412-317-1832. Once available, a replay of the conference call will be accessible through August 14, 2026, by dialing 1-855-669-9658 or 1-412-317-0088, along with the access code 3803194.
+--------------------------------------------------------------------------------
+TSMC 2026 Q3 Quarterly Results - Taiwan Semiconductor Manufacturing Company Limited (https://investor.tsmc.com/english/quarterly-results/2026/q3)
+citeturn452view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn450view0","pattern":"Financial Statements"}); Total lines: 363
+L320:   * cite129†Q1 L321:   * cite130†Q2 L322:   * cite131†Q3 L323:   * Q4
+L324: 
+L325: cite132†Financial Statements L326: 
+L327: cite133†Presentation Material L328: 
+L329: cite134†Management Report L330: 
+L331: cite135†Earnings Release L332: 
+L333: cite136†Earnings Conference Transcript L334: 
+L335: cite137†Audio Webcast Replay†ottlive.hinet.net --------------------------------------------------------------------------------
+Innodata - Innodata Reports Record Second Quarter 2026 Results (https://investor.innodata.com/news/news-details/2026/Innodata-Reports-Record-Second-Quarter-2026-Results/default.aspx)
+citeturn452view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn450view1","pattern":"CONSOLIDATED"}); Total lines: 312
+L134: INNODATA INC. AND SUBSIDIARIES
+L135: CONDENSED CONSOLIDATED BALANCE SHEETS
+L136: (Unaudited)
+L137: (In thousands)
+L138:  |  | June 30, 2026  |  |  | December 31, 2025  |
+L139:  |  |  |  |  |  |
+L140: ASSETS  |  |  |  |  |  |
+L141: Current assets:  |  |  |  |  |  |
+L142: Cash and cash equivalents  |  | $  | 240,278  |  |  | $  | 82,216  |
+L143: Short term investments  |  |  | 10,093  |  |  |  | 14  |
+L144: Accounts receivable, net  |  |  | 47,560  |  |  |  | 46,510  |
+L145: Prepaid expenses and other current assets  |  |  | 22,833  |  |  |  | 6,654  |
+L146: Total current assets  |  |  | 320,764  |  |  |  | 135,394  |
+L147: Property and equipment, net  |  |  | 8,392  |  |  |  | 7,966  |
+L148: Right-of-use asset, net  |  |  | 3,571  |  |  |  | 4,094  |
+L149: Other assets  |  |  | 3,206  |  |  |  | 1,648  |
+L150: Deferred income taxes, net  |  |  | 4,515  |  |  |  | 3,429  |
+L151: Intangibles, net  |  |  | 14,189  |  |  |  | 13,983  |
+L152: Goodwill  |  |  | 2,036  |  |  |  | 2,079  |
+L153: Total assets  |  | $  | 356,673  |  |  | $  | 168,593  |
+L154:  |  |  |  |  |  |  |  |
+L155: LIABILITIES AND STOCKHOLDERS' EQUITY  |  |  |  |  |  |  |  |
+L156:  |  |  |  |  |  |  |  |
+L157: Current liabilities:  |  |  |  |  |  |  |  |
+L164: Long-term obligations - current portion  |  |  | 2,255  |  |  |  | 1,659  |
+L165: Operating lease liability - current portion  |  |  | 1,287  |  |  |  | 1,202  |
+L166: Total current liabilities  |  |  | 185,603  |  |  |  | 50,532  |
+L167: Deferred income taxes, net  |  |  | 47  |  |  |  | 146  |
+L168: Long-term obligations, net of current portion  |  |  | 8,944  |  |  |  | 7,625  |
+L169: Operating lease liability, net of current portion  |  |  | 2,545  |  |  |  | 3,228  |
+L170: Total liabilities  |  |  | 197,139  |  |  |  | 61,531  |
+L171: STOCKHOLDERS' EQUITY  |  |  | 159,534  |  |  |  | 107,062  |
+L172: Total liabilities and stockholders' equity  |  | $  | 356,673  |  |  | $  | 168,593  |
+L173:  |  |  |  |  |  |  |  |
+L174: INNODATA INC. AND SUBSIDIARIES
+L175: CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+L176: (Unaudited)
+L177: (In thousands)
+L178:  |  | Six Months Ended  |
+L179:  |  | June 30,  |
+L180:  |  | 2026  |  |  | 2025  |
+L181:  |  |  |  |  |  |
+L182: Cash flows from operating activities:  |  |  |  |  |  |
+L183: Consolidated net income  |  | $  | 29,310  |  |  | $  | 15,006  |
+L184: Adjustments to reconcile consolidated net income to net cash  |  |  |  |  |  |  |  |
+L185: provided by operating activities:  |  |  |  |  |  |  |  |
+L186: Stock-based compensation  |  |  | 13,104  |  |  |  | 5,602  |
+L187: Depreciation and amortization  |  |  | 4,475  |  |  |  | 3,164  |
+L188: Deferred income taxes, net  |  |  | (1,175)  |  |  |  | 1,355  |
+L189: Pension cost  |  |  | 818  |  |  |  | 672  |
+L190: Changes in operating assets and liabilities:  |  |  |  |  |  |  |  |
+L191: Accounts receivable  |  |  | (1,228)  |  |  |  | (5,716  | )
+L192: Prepaid expenses and other current assets  |  |  | (15,384)  |  |  |  | (387  | )
+L193: Other assets  |  |  | 236  |  |  |  | (76  | )
+L194: Accounts payable, accrued expenses and other  |  |  | 135,827  |  |  |  | (1,499  | )
+--------------------------------------------------------------------------------
+Innodata - Innodata Reports Record Second Quarter 2026 Results (https://investor.innodata.com/news/news-details/2026/Innodata-Reports-Record-Second-Quarter-2026-Results/default.aspx)
+citeturn452view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn450view1","pattern":"Cash Flows"}); Total lines: 312
+L174: INNODATA INC. AND SUBSIDIARIES
+L175: CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+L176: (Unaudited)
+L177: (In thousands)
+L178:  |  | Six Months Ended  |
+L179:  |  | June 30,  |
+L180:  |  | 2026  |  |  | 2025  |
+L181:  |  |  |  |  |  |
+L182: Cash flows from operating activities:  |  |  |  |  |  |
+L183: Consolidated net income  |  | $  | 29,310  |  |  | $  | 15,006  |
+L184: Adjustments to reconcile consolidated net income to net cash  |  |  |  |  |  |  |  |
+L185: provided by operating activities:  |  |  |  |  |  |  |  |
+L186: Stock-based compensation  |  |  | 13,104  |  |  |  | 5,602  |
+L187: Depreciation and amortization  |  |  | 4,475  |  |  |  | 3,164  |
+L188: Deferred income taxes, net  |  |  | (1,175)  |  |  |  | 1,355  |
+L189: Pension cost  |  |  | 818  |  |  |  | 672  |
+L190: Changes in operating assets and liabilities:  |  |  |  |  |  |  |  |
+L191: Accounts receivable  |  |  | (1,228)  |  |  |  | (5,716  | )
+L192: Prepaid expenses and other current assets  |  |  | (15,384)  |  |  |  | (387  | )
+L193: Other assets  |  |  | 236  |  |  |  | (76  | )
+L194: Accounts payable, accrued expenses and other  |  |  | 135,827  |  |  |  | (1,499  | )
+L195: Accrued salaries, wages and related benefits  |  |  | (894)  |  |  |  | (1,490  | )
+L196: Income and other taxes  |  |  | (532)  |  |  |  | (1,529  | )
+L197: Pension benefit payments  |  |  | (116)  |  |  |  | (112)  |
+L198: Net cash provided by operating activities  |  |  | 164,441  |  |  |  | 14,990  |
+L199:  |  |  |  |  |  |  |  |
+L200: Cash flows from investing activities:  |  |  |  |  |  |  |  |
+L201: Capital expenditures  |  |  | (5,309)  |  |  |  | (4,058  | )
+L202: Purchase of short term investments  |  |  | (10,079)  |  |  |  | -  |
+L203: Net cash used in investing activities  |  |  | (15,388)  |  |  |  | (4,058  | )
+L204:  |  |  |  |  |  |  |  |
+L205: Cash flows from financing activities:  |  |  |  |  |  |  |  |
+L206: Proceeds from exercise of stock options  |  |  | 10,904  |  |  |  | 1,468  |
+L207: Withholding taxes on net settlement of restricted stock units  |  |  | (62)  |  |  |  | -  |
+L208: Payment of long-term obligations  |  |  | (877)  |  |  |  | (117  | )
+L209: Net cash provided by financing activities  |  |  | 9,965  |  |  |  | 1,351  |
+L210:  |  |  |  |  |  |  |  |
+L211: Effect of exchange rate changes on cash and cash equivalents  |  |  | (956)  |  |  |  | 612  |
+L212:  |  |  |  |  |  |  |  |
+L213: Net increase in cash and cash equivalents  |  |  | 158,062  |  |  |  | 12,895  |
+L214:  |  |  |  |  |  |  |  |
+L215: Cash and cash equivalents, beginning of period  |  |  | 82,216  |  |  |  | 46,897  |
+L216:  |  |  |  |  |  |  |  |
+L217: Cash and cash equivalents, end of period  |  | $  | 240,278  |  |  | $  | 59,792  |
+L218:  |  |  |  |  |  |  |  |
+--------------------------------------------------------------------------------
+Serenity Tracker — reconstructed portfolio for @aleabitoreddit (https://serenitytrades.com/)
+citeturn452view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn449view1","pattern":"Source"}); Total lines: 74
+L23: ## What he invests in
+L24: 
+L25: AI photonics / optical interconnect (CPO)
+L26: 
+L27: His dominant theme by a wide margin: the light-source and substrate chokepoints for co-packaged optics and silicon photonics. Span…
+L28: 
+L29: Memory / NAND-DRAM supercycle
+L30: 
+L31: Structural AI-driven memory shortage thesis: DRAM/HBM/NAND price hikes and multi-year prepayments. MU and SNDK are the core longs,…
+L32: 
+L33: Advanced packaging & semicap chokepoints
+--------------------------------------------------------------------------------
+Serenity reads a Lumentum CEO interview as proof the photonics demand wall is still standing (2026-10-19) · Serenity Tracker (https://serenitytrades.com/commentary/2026-10-19)
+citeturn452view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn450view3","pattern":"x.com"}); Total lines: 23
+No matching text found for "x.com"

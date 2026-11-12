@@ -1,0 +1,474 @@
+Soitec (EPA:SOI) Stock Price & Overview (https://stockanalysis.com/quote/epa/SOI/)
+citeturn371view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/epa/SOI/","lineno":62}); Total lines: 335
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†Comparison Tool L15:   * cite8†Earnings Calendar L16:   * cite9†By Industry L17:   * cite10†Stock Lists L18:   * cite11†Top Stocks L19:   * cite12†Corporate Actions L20: 
+L21: cite13†IPOs L22: 
+L23:   * cite13†Recent IPOs L24:   * cite14†IPO Calendar L25:   * cite15†IPO Lockups L26:   * cite16†IPO Statistics L27:   * cite17†IPO News L28:   * cite18†IPO Screener L29: 
+L30: cite19†ETFs L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: # Soitec SA (EPA:SOI)
+L63: 
+L64: cite39†Image: France flag cite40†France · Delayed Price · Currency is EUR
+L65: 
+L66: 152.95
+L67: 
+L68: -6.95 (-4.35%)
+L69: 
+L70: Oct 8, 2026, 3:42 PM CET
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†History L77:   * cite46†Profile L78:   * cite47†Chart L79: 
+L80:   * 1D
+L81:   * 5D
+L82:   * 1M
+L83:   * YTD
+L84:   * 3M
+L85:   * 6M
+L86:   * 1Y
+L87:   * 5Y
+L88:   * Max
+L89: 
+L90: Full Chart Watchlist Alerts Compare
+L91: cite48†Market Cap | 5.46B +242.8%
+L92: cite49†Revenue (ttm) | 592.32M -33.5%
+L93: Net Income  | -220.02M
+L94: EPS  | -6.17
+L95: Shares Out  | 35.69M
+L96: PE Ratio  | n/a
+L97: Forward PE  | 201.97
+L98: Dividend  | n/a
+L99: Ex-Dividend Date  | n/a
+L100: Volume  | 170,066
+L101: Open  | 157.90
+L102: Previous Close  | 159.90
+L103: Day's Range  | 150.20 - 158.00
+L104: 52-Week Range  | 22.62 - 200.50
+L105: Beta  | 1.73
+L106: cite50†Analysts | Hold
+L107: cite43†Price Target | 157.00 (+2.65%)
+L108: Earnings Date  | Nov 18, 2026
+L109: ## About Soitec
+L110: Soitec SA develops and manufactures semiconductor materials in Asia, Europe, and the United States.
+L111: The company offers CONNECT Radio Frequency Silicon-on-Insulator for smartphone front-end modules; CONNECT FD SOI for AI applications; CONNECT Piezoelectric-on-Insulator RF filters for smartphones; photonics and optical sensing solution for the integration of silicon optical components in data centers; and CONNECT RF gallium nitride which increases the frequency system efficiency and power density of next generation sub 6GHz and mmWave-band cellul... cite46†[Read more] L112: Industry cite51†Semiconductor Equipment & Materials L113: 
+L114: Sector cite52†Technology L115: 
+L116: Founded 1992
+L117: 
+L118: Employees cite53†1,961 L119: 
+L120: Stock Exchange Euronext Paris
+L121: 
+L122: Ticker Symbol SOI
+L123: 
+L124: cite46†Full Company Profile L125: ## Financial Performance
+L126: 
+L127: cite42†Financial Statements L128: 
+L129: ## Analyst Summary
+L130: 
+L131: According to 19 analysts, the average rating for SOI stock is "Hold." The 12-month stock price target is €157.00, which is an increase of 2.65% from the latest price.
+L132: 
+L133: Price Target
+L134: 
+L135: €157.00
+L136: 
+L137: (2.65% upside)
+L138: 
+L139: Analyst Consensus: Hold
+L140: 
+L141: cite43†Stock Forecasts L142: 
+L143: ## News
+L144: 
+L145:   * [Button: All]
+L146:   * [Button: Transcripts]
+L147:   * [Button: Filings]
+--------------------------------------------------------------------------------
+IQE plc (AIM:IQE) Stock Price & Overview (https://stockanalysis.com/quote/aim/IQE/)
+citeturn371view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/aim/IQE/","lineno":62}); Total lines: 341
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†Comparison Tool L15:   * cite8†Earnings Calendar L16:   * cite9†By Industry L17:   * cite10†Stock Lists L18:   * cite11†Top Stocks L19:   * cite12†Corporate Actions L20: 
+L21: cite13†IPOs L22: 
+L23:   * cite13†Recent IPOs L24:   * cite14†IPO Calendar L25:   * cite15†IPO Lockups L26:   * cite16†IPO Statistics L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: # IQE plc (AIM:IQE)
+L63: 
+L64: cite39†Image: London flag cite40†London · Delayed Price · Currency is GBP · Price in GBX
+L65: 
+L66: 50.50
+L67: 
+L68: -3.70 (-6.83%)
+L69: 
+L70: Oct 8, 2026, 3:48 PM GMT
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†History L77:   * cite46†Profile L78:   * cite47†Chart L79: 
+L80:   * 1D
+L81:   * 5D
+L82:   * 1M
+L83:   * YTD
+L84:   * 3M
+L85:   * 6M
+L86:   * 1Y
+L87:   * 5Y
+L88:   * Max
+L89: 
+L90: Full Chart Watchlist Alerts Compare
+L91: cite48†Market Cap | 672.17M +859.0%
+L92: cite49†Revenue (ttm) | 116.60M +19.9%
+L93: Net Income  | -31.74M
+L94: EPS  | -0.03
+L95: Shares Out  | 1.33B
+L96: PE Ratio  | n/a
+L97: Forward PE  | n/a
+L98: Dividend  | n/a
+L99: Ex-Dividend Date  | n/a
+L100: Volume  | 7,764,043
+L101: Open  | 53.80
+L102: Previous Close  | 54.20
+L103: Day's Range  | 49.70 - 54.20
+L104: 52-Week Range  | 4.66 - 72.90
+L105: Beta  | 2.19
+L106: Analysts  | Strong Buy
+L107: cite43†Price Target | 59.67 (+18.16%)
+L108: Est. Earnings  | Dec 8, 2026
+L109: ## About IQE plc
+L110: IQE plc, together with its subsidiaries, develops, manufactures, and sells advanced semiconductor materials. It operates through three segments: Wireless, Photonics, and CMOS++. The company manufactures and sells compound semiconductor materials for the wireless market which includes radio frequency devices for wireless communications, as well as for photonics market, that includes applications that transmit and sense visible and infrared lights.
+L111: It also provides advanced semiconductor materials related to silicon. The company operates in the U... cite46†[Read more] L112: Industry cite50†Semiconductors L113: 
+L114: Sector cite51†Technology L115: 
+L116: Founded 1988
+L117: 
+L118: Employees cite52†460 L119: 
+L120: Stock Exchange London Stock Exchange AIM
+L121: 
+L122: Ticker Symbol IQE
+L123: 
+L124: cite46†Full Company Profile L125: ## Financial Performance
+L126: 
+L127: In 2025, IQE plc's revenue was 97.30 million, a decrease of -17.57% compared to the previous year's 118.03 million. Losses were -36.70 million, -3.88% less than in 2024.
+L128: 
+L129: cite42†Financial Statements L130: 
+L131: ## Analyst Summary
+L132: 
+L133: According to 3 analysts, the average rating for IQE stock is "Strong Buy." The 12-month stock price target is 60p, which is an increase of 18.16% from the latest price.
+L134: 
+L135: Price Target
+L136: 
+L137: 60p
+L138: 
+L139: (18.16% upside)
+L140: 
+L141: Analyst Consensus: Strong Buy
+L142: 
+L143: cite43†Stock Forecasts --------------------------------------------------------------------------------
+Sivers Semiconductors AB (STO:SIVE) Stock Price & Overview (https://stockanalysis.com/quote/sto/SIVE/)
+citeturn371view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/sto/SIVE/","lineno":62}); Total lines: 318
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to main content L3: 
+L4: [Input: Company or stock symbol...]
+L5: 
+L6: cite2†Home L7: 
+L8: cite3†Watchlist L9: 
+L10: cite4†Stocks L11: 
+L12:   * cite5†Stock Screener L13:   * cite6†Stock Exchanges L14:   * cite7†Comparison Tool L15:   * cite8†Earnings Calendar L16:   * cite9†By Industry L17:   * cite10†Stock Lists L18:   * cite11†Top Stocks L19:   * cite12†Corporate Actions L20: 
+L21: cite13†IPOs L22: 
+L23:   * cite13†Recent IPOs L24:   * cite14†IPO Calendar L25:   * cite15†IPO Lockups L26:   * cite16†IPO Statistics L27:   * cite17†IPO News L28:   * cite18†IPO Screener L29: 
+L30: cite19†ETFs L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: # Sivers Semiconductors AB (publ) (STO:SIVE)
+L63: 
+L64: cite39†Image: Sweden flag cite40†Sweden · Delayed Price · Currency is SEK
+L65: 
+L66: 31.22
+L67: 
+L68: -3.06 (-8.93%)
+L69: 
+L70: Oct 8, 2026, 4:34 PM CET
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Statistics L75:   * cite44†History L76:   * cite45†Profile L77:   * cite46†Chart L78: 
+L79:   * 1D
+L80:   * 5D
+L81:   * 1M
+L82:   * YTD
+L83:   * 3M
+L84:   * 6M
+L85:   * 1Y
+L86:   * 5Y
+L87:   * Max
+L88: 
+L89: Full Chart Watchlist Alerts Compare
+L90: cite47†Market Cap | 10.60B +827.8%
+L91: cite48†Revenue (ttm) | 277.86M +8.9%
+L92: Net Income  | -294.07M
+L93: EPS  | -1.00
+L94: Shares Out  | 339.39M
+L95: PE Ratio  | n/a
+L96: Forward PE  | n/a
+L97: Dividend  | n/a
+L98: Ex-Dividend Date  | n/a
+L99: Volume  | 4,419,928
+L100: Open  | 33.62
+L101: Previous Close  | 34.28
+L102: Day's Range  | 30.58 - 34.00
+L103: 52-Week Range  | 2.85 - 110.00
+L104: Beta  | -0.66
+L105: Analysts  | n/a
+L106: Price Target  | n/a
+L107: Earnings Date  | Nov 26, 2026
+L108: ## About Sivers Semiconductors AB
+L109: Sivers Semiconductors AB (publ), through its subsidiaries, develops, manufactures, and sells chips, components, modules, and subsystems in North America, Europe, and Asia. The company operates through Wireless and Photonics segments. It provides products based on semiconductor technology for 5G millimeter-wave networks, as well as optical semiconductors for fiber networks, wireless optical networks, and sensors.
+L110: The company’s products include radio-frequency integrated circuits, BFICs, radio frequency modules, and evaluation kits; and InP-based... cite45†[Read more] L111: Industry cite49†Semiconductors L112: 
+L113: Sector cite50†Technology L114: 
+L115: Founded 1951
+L116: 
+L117: Employees cite51†130 L118: 
+L119: Stock Exchange Nasdaq Stockholm
+L120: 
+L121: Ticker Symbol SIVE
+L122: 
+L123: cite45†Full Company Profile L124: ## Financial Performance
+L125: 
+L126: In 2025, Sivers Semiconductors AB's revenue was 306.56 million, an increase of 39.85% compared to the previous year's 219.21 million. Losses were -222.57 million, 21.0% more than in 2024.
+L127: 
+L128: cite42†Financial Statements L129: 
+L130: ## News
+L131: 
+L132:   * [Button: All]
+L133:   * [Button: Transcripts]
+L134:   * [Button: Filings]
+--------------------------------------------------------------------------------
+Elite Semiconductor Microelectronics Technology (TPE:3006) Stock Price & Overview (https://stockanalysis.com/quote/tpe/3006/)
+citeturn371view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/tpe/3006/","lineno":62}); Total lines: 185
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: # Elite Semiconductor Microelectronics Technology Inc. (TPE:3006)
+L63: 
+L64: cite39†Image: Taiwan flag cite40†Taiwan · Delayed Price · Currency is TWD
+L65: 
+L66: 267.00
+L67: 
+L68: -3.50 (-1.29%)
+L69: 
+L70: Oct 8, 2026, 1:30 PM CST
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Statistics L75:   * cite44†Dividends L76:   * cite45†History L77:   * cite46†Profile L78:   * cite47†Chart L79: 
+L80:   * 1D
+L81:   * 5D
+L82:   * 1M
+L83:   * YTD
+L84:   * 3M
+L85:   * 6M
+L86:   * 1Y
+L87:   * 5Y
+L88:   * Max
+L89: 
+L90: Full Chart Watchlist Alerts Compare
+L91: cite48†Market Cap | 75.96B +221.3%
+L92: cite49†Revenue (ttm) | 29.60B +132.0%
+L93: Net Income  | 9.02B
+L94: EPS  | 31.48
+L95: Shares Out  | 284.48M
+L96: PE Ratio  | 8.59
+L97: Forward PE  | n/a
+L98: cite44†Dividend | 1.00 (0.37%)
+L99: Ex-Dividend Date  | Jul 2, 2026
+L100: Volume  | 6,887,450
+L101: Open  | 273.00
+L102: Previous Close  | 270.50
+L103: Day's Range  | 266.00 - 275.50
+L104: 52-Week Range  | 76.10 - 319.00
+L105: Beta  | 1.72
+L106: Analysts  | n/a
+L107: Price Target  | n/a
+L108: Est. Earnings  | Oct 30, 2026
+L109: ## About TPE:3006
+L110: Elite Semiconductor Microelectronics Technology Inc. engages in the research, development, production, manufacturing, and sales of dynamic and static random-access memory, flash memory, analog integrated circuit, analog, and digital mixed integrated circuit in Taiwan, Asia, and internationally.
+L111: It also offers memory IC, mixed signal IC, applications notes, DRAM, flash, MCP, industrial grade, automotive grade, known good die, eMMC, PSRAM, audio, power management, signal conditioner, motor control, RC servo PCBA, voltage regulator, high side swit... cite46†[Read more] L112: Industry cite50†Semiconductors L113: 
+L114: Sector cite51†Technology L115: 
+L116: Founded 1998
+L117: 
+L118: Country Taiwan
+L119: 
+L120: Stock Exchange Taiwan Stock Exchange
+L121: 
+L122: Ticker Symbol 3006
+L123: 
+L124: cite46†Full Company Profile --------------------------------------------------------------------------------
+ASMPT (HKG:0522) Stock Price & Overview (https://stockanalysis.com/quote/hkg/0522/)
+citeturn371view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/hkg/0522/","lineno":62}); Total lines: 289
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: # ASMPT Limited (HKG:0522)
+L63: 
+L64: cite39†Image: Hong Kong flag cite40†Hong Kong · Delayed Price · Currency is HKD
+L65: 
+L66: 163.80
+L67: 
+L68: -10.70 (-6.13%)
+L69: 
+L70: Oct 8, 2026, 4:08 PM HKT
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†Dividends L77:   * cite46†History L78:   * cite47†Profile L79:   * cite48†Chart L80: 
+L81:   * 1D
+L82:   * 5D
+L83:   * 1M
+L84:   * YTD
+L85:   * 3M
+L86:   * 6M
+L87:   * 1Y
+L88:   * 5Y
+L89:   * Max
+L90: 
+L91: Full Chart Watchlist Alerts Compare
+L92: cite49†Market Cap | 68.70B +84.7%
+L93: cite50†Revenue (ttm) | 16.39B +33.8%
+L94: Net Income  | 1.28B +420.6%
+L95: EPS  | 3.05 +418.4%
+L96: Shares Out  | 419.41M
+L97: PE Ratio  | 43.60
+L98: Forward PE  | 29.13
+L99: cite45†Dividend | 2.73 (1.67%)
+L100: Ex-Dividend Date  | Aug 11, 2026
+L101: Volume  | 3,188,242
+L102: Open  | 170.60
+L103: Previous Close  | 174.50
+L104: Day's Range  | 163.00 - 174.60
+L105: 52-Week Range  | 68.90 - 244.40
+L106: Beta  | 1.38
+L107: cite51†Analysts | Buy
+L108: cite43†Price Target | 196.99 (+20.26%)
+L109: Earnings Date  | Oct 28, 2026
+L110: ## About ASMPT
+L111: ASMPT Limited, an investment holding company, engages in the design, manufacture, and marketing of machines, tools, and materials used in the semiconductor and electronics assembly industries internationally. The company operates in two segments: Semiconductor Solutions and Surface Mount Technology Solutions.
+L112: The company offers ASMPT semiconductor solutions includes advanced packing, such as laser dicing & grooving, fan out, hybrid bonding, thermos compress bonding, and die bonding; IC and discrete, including silver sintering, wire bonding, met... cite47†[Read more] L113: Industry cite52†Semiconductor Equipment & Materials L114: 
+L115: Sector cite53†Technology L116: 
+L117: Founded 1975
+L118: 
+L119: Employees cite54†9,000 L120: 
+L121: Stock Exchange Hong Kong Stock Exchange
+L122: 
+L123: Ticker Symbol 0522
+L124: 
+L125: cite47†Full Company Profile --------------------------------------------------------------------------------
+Lenovo Group (HKG:0992) Stock Price & Overview (https://stockanalysis.com/quote/hkg/0992/)
+citeturn371view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stockanalysis.com/quote/hkg/0992/","lineno":62}); Total lines: 339
+L31:   * cite20†ETF Screener L32:   * cite21†Comparison Tool L33:   * cite22†New Launches L34:   * cite23†ETF Providers L35: 
+L36: cite24†Analysts L37: 
+L38: cite25†News L39: 
+L40: cite26†Trending L41: 
+L42: cite27†Private Companies L43: 
+L44: cite28†Technical Chart L45: 
+L46: cite29†Fundamental Chart L47: 
+L48: cite30†Market Movers L49: 
+L50:   * cite30†Top Gainers L51:   * cite31†Top Losers L52:   * cite32†Most Active L53:   * cite33†Premarket L54:   * cite34†After Hours L55:   * cite35†Market Heatmap L56: 
+L57: cite36†Market Newsletter L58: 
+L59: cite37†Stock Analysis Pro L60: 
+L61: cite38†Tools L62: # Lenovo Group Limited (HKG:0992)
+L63: 
+L64: cite39†Image: Hong Kong flag cite40†Hong Kong · Delayed Price · Currency is HKD
+L65: 
+L66: 32.32
+L67: 
+L68: -2.84 (-8.08%)
+L69: 
+L70: Oct 8, 2026, 4:08 PM HKT
+L71: 
+L72:   * cite41†Overview L73:   * cite42†Financials L74:   * cite43†Forecast L75:   * cite44†Statistics L76:   * cite45†Dividends L77:   * cite46†History L78:   * cite47†Profile L79:   * cite48†Chart L80: 
+L81:   * 1D
+L82:   * 5D
+L83:   * 1M
+L84:   * YTD
+L85:   * 3M
+L86:   * 6M
+L87:   * 1Y
+L88:   * 5Y
+L89:   * Max
+L90: 
+L91: Full Chart Watchlist Alerts Compare
+L92: cite49†Market Cap | 400.92B +180.8%
+L93: cite50†Revenue (ttm) | 715.10B +25.8%
+L94: Net Income  | 6.26B -51.5%
+L95: EPS  | 0.50 -48.2%
+L96: Shares Out  | 12.40B
+L97: PE Ratio  | 69.97
+L98: Forward PE  | 11.58
+L99: cite45†Dividend | 0.42 (1.31%)
+L100: Ex-Dividend Date  | Aug 5, 2026
+L101: Volume  | 92,766,352
+L102: Open  | 35.16
+L103: Previous Close  | 35.16
+L104: Day's Range  | 32.18 - 35.22
+L105: 52-Week Range  | 8.52 - 37.88
+L106: Beta  | 1.07
+L107: cite51†Analysts | Strong Buy
+L108: cite43†Price Target | 44.18 (+36.7%)
+L109: Est. Earnings  | Nov 5, 2026
+L110: ## About Lenovo Group
+L111: Lenovo Group Limited, an investment holding company, develops, manufactures, and markets technology products and services. It operates through Intelligent Devices Group, Infrastructure Solutions Group, and Solutions and Services Group segments. The company offers commercial and consumer personal computers, servers and workstations, and smartphones, as well as laptops, desktops, tablets, monitors, and accessories and software. It also provides consulting, deployment, managed, support, and security services.
+L112: In addition, the company manufactures ... cite47†[Read more] L113: Industry cite52†Computer Hardware L114: 
+L115: Sector cite53†Technology L116: 
+L117: Founded 1984
+L118: 
+L119: Employees cite54†73,500 L120: 
+L121: Stock Exchange Hong Kong Stock Exchange
+L122: 
+L123: Ticker Symbol 0992
+L124: 
+L125: cite47†Full Company Profile --------------------------------------------------------------------------------
+FormFactor, Inc. Reports 2026 Second Quarter Results | FormFactor, Inc. (https://investors.formfactor.com/news-releases/news-release-details/formfactor-inc-reports-2026-second-quarter-results)
+citeturn371view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investors.formfactor.com/news-releases/news-release-details/formfactor-inc-reports-2026-second-quarter-results","lineno":null}); Total lines: 288
+--------------------------------------------------------------------------------
+Modine Manufacturing Company_October 1, 2026 (https://www.sec.gov/Archives/edgar/data/67347/000110465926114220/mod-20261001x8ka.htm)
+citeturn371view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/67347/000110465926114220/mod-20261001x8ka.htm","lineno":null}); Total lines: 138
+

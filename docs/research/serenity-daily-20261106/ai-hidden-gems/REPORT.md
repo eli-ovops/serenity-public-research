@@ -1,0 +1,16 @@
+# AI真实应用与具身智能：补充候选，2026-11-06
+
+检索及核验截点：2026-11-06 12:36 北京时间左右，公开资料；Owner 本会话。目的：补充此前15家公司名单中可能被忽略的美股公司，不声称市场定价错误已被证实。冻结本轮7家公司：CGNX、IRTC、SOPH、TRMB、MSAI、BDSX、STXS。业务事实初查7/7；估值/股本、完整走势及行业、SEC与IR未来24小时事件、经济失效与组合适配未全面闭合，投资研究状态：通过0、条件观察0、排除0、未完成7；不代表市场没有机会。现时总资产/现金未重新确认，11/6用户曾主动给2526/1307美元仅作历史背景。只做公开研究，无账户访问或交易。
+
+1. CGNX Cognex：机器视觉、工厂质量检验/物流，机器人视觉方向。Q3收入3.13387亿美元、同比13%，利润和自由现金流为正；拟以约5亿美元收购RealSense增强3D感知，该交易2026年Q4预计完成、须满足条件，目标营业额是管理层预测而非已并表。通用工厂/物流收入不能全算机器人或人形收入。价格、周期客户集中、并购完成/整合、估值需重核。11/5收47.50美元仅历史。来源：https://investor.cognex.com/news/news-details/2026/Cognex-to-Acquire-RealSense-Expanding-Machine-Vision-Leadership-into-High-Growth-Robotic-Perception-Market/default.aspx ; 公司原始业绩稿转载 https://www.stocktitan.net/news/CGNX/cognex-reports-third-quarter-2026-cjip8s5gfhxx.html 。
+2. IRTC iRhythm：可穿戴Zio心电和算法辅助心律诊断，付费医疗业务而非纯人形。Q3总收入2.216亿美元、同比14.9%；医疗报销、竞争、诉讼/和解及收购风险；AI单独增量未量化。11/5收130.19美元、19:59 ET盘后113.22美元为不同时间的数据，不是现价。来源 https://investors.irhythmtech.com/overview/default.aspx ; https://www.marketscreener.com/news/irhythm-holdings-announces-third-quarter-2026-financial-results-ce785fdddb81f622 ; https://stockanalysis.com/stocks/irtc/history/ 。
+3. SOPH SOPHiA GENETICS：基因组数据分析，Q3 11.8万次分析、551个核心基因组客户、收入2430万美元增25%、净亏2030万；非所有收入均能归因新增AI。融资及稀释、商业化和医保为风险，财报现金包括融资；自动工具外国发行人股本/ADS口径未核且财务包可能停留旧季度，不引用其自动市值。11/5收6.62美元为历史。https://ir.sophiagenetics.com/2026-11-03-SOPHiA-GENETICS-Reports-Third-Quarter-2026-Results 。
+4. TRMB Trimble：真实建筑三维建模SketchUp连接Claude；具体新功能自身收入与采用率未知，整体业务并非纯AI。公司的付费订阅、竞争及宏观资本支出需核。https://investor.trimble.com/news/news-details/2026/Trimble-Links-SketchUp-with-Anthropics-Claude-Bringing-New-Conversational-AI-powered-Capabilities-to-3D-Modeling/default.aspx 。
+5. MSAI MultiSensor AI：工业热成像和预测性维护，Q2营收170万美元，仍亏损，现金受融资影响；2026/11/12盘后财报，季度后再核。一股价格低不证明便宜，数据包股本/市值与现金关系异常，须核可转债、认股权和拆股，不引用自动市值。https://investors.multisensorai.com/news-events/press-releases/detail/134/multisensor-ai-announces-second-quarter-2026-results ; https://investors.multisensorai.com/news-events/press-releases/detail/138/multisensor-ai-to-announce-third-quarter-2026-results 。
+6. BDSX Biodesix：肺病血液检测已有业务，Q3收入2400万美元、检测量增24%；AI/影像未来方向不等于现有收入全部为AI，执行问题导致下修指引，融资稀释和现金风险。2025年1并20反向拆股，不据历史图误判跌幅。https://investors.biodesix.com/news-releases/news-release-details/biodesix-announces-third-quarter-2026-results-and-highlights ; https://investors.biodesix.com/news-releases/news-release-details/biodesix-announces-one-twenty-reverse-stock-split/ 。
+7. STXS Stereotaxis：医生操作磁导航心脏介入机器人，不等于自主AI或人形；Q2收入767万美元，装机和一次性用品/服务共同构成收入，亏损、融资、客户落地风险高。https://www.sec.gov/Archives/edgar/data/1289340/000149315226037113/ex99-1.htm 。
+
+实质方法：对“industrial machine vision/robot perception Cognex RealSense results”“AI genomic clinical SOPHiA Q3”“wearable ECG algorithm iRhythm Q3”“predictive maintenance thermal MSAI Q2 Q3 date”“lung diagnostics Biodesix Q3”“magnetic cardiac robot STXS Q2”“Trimble SketchUp Claude”等方向查公司IR、SEC、公开行情；核对七家主营、公司披露和主要反证。CGNX/SOPH/MSAI/BDSX/IRTC/STXS分别运行公开数据包，输出同目录。公司宣传不是独立效果检验，不能据此声称被低估。初步优先研究 CGNX、IRTC、SOPH；分别需按风险/估值和公司事件补齐。下一次已授权研究 2026-11-06 23:10 北京时间后复核，不代表持续盯盘或通知保证。
+
+## 更正此前 SERV
+此前15股报告用了旧Q2数据，11/5公司已披露2026 Q3：营收283.5万美元（Q2 323.8万），日均活跃机器人917（Q2 792），全年营收指引升至1200万美元；销量改善并不自动证明盈利，仍需看亏损、稀释及单位经济。报告对Q2的数字为历史、不是最新。https://serverobotics.gcs-web.com/news-releases/news-release-details/serve-robotics-announces-third-quarter-2026-results 。
